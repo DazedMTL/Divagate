@@ -391,7 +391,7 @@
       } else { // for Chrome, Safari, Opera, and so on.
         _elem = window.getComputedStyle(_elem, null);
       }
-      this.defaultFontSize = parseInt(_elem['font-size']) || 24;
+      this.defaultFontSize = parseInt(_elem['font-size']) || 20;
     }
     // set width by scale
     var scale = Graphics._realScale;

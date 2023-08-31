@@ -16250,7 +16250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]？？？\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「おまたせ、じゃあ行こうか」"
+                                "\\n<\\C[1]？？？\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F] Sorry to keep you waiting,\nshall we go then?"
                             ]
                         },
                         {
@@ -16267,7 +16267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「ん……あぁ」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Mmm... Ahh"
                             ]
                         },
                         {
@@ -16284,7 +16284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF](彼は私達のマネージャの…)"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] (He is our manager...)"
                             ]
                         },
                         {
@@ -16320,21 +16320,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マネージャーの苗字を入力して下さい。"
+                                "Please enter the manager's last name. Default:\nSonoda"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デフォルト：\\C[1]園田\\C[0]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "InputForm n=5;max=5;"
+                                "InputForm n=5;max=10;"
                             ]
                         },
                         {
@@ -16351,21 +16351,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マネージャーの名前を入力して下さい。"
+                                "Please enter the manager's name. Default: Sonoda\nKohei"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "デフォルト：\\C[1]浩平\\C[0]"
+                                ""
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "InputForm n=6;max=5;"
+                                "InputForm n=6;max=10;"
                             ]
                         },
                         {
@@ -16382,7 +16382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『\\C[1]\\N[5] \\N[6]\\C[0]』で、よろしいですか？"
+                                "Is '\\C[1]Sonoda Kohei\\C[0]' okay?"
                             ]
                         },
                         {
@@ -16390,8 +16390,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16480,7 +16480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF](\\C[1]\\N[5]\\C[0]さんだ)"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] (It's Sonoda \\C[0]-san)"
                             ]
                         },
                         {
@@ -16497,7 +16497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「大丈夫か？ 疲れていないか？」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] Are you okay? Are you\ntired?"
                             ]
                         },
                         {
@@ -16514,7 +16514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF](車に乗らず、私がバイクで来た事を気にしてるのだろうか？)"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] (I wonder if they're\nconcerned because I didn't ride in the car and\ncame on a bike?)"
                             ]
                         },
                         {
@@ -16531,7 +16531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「ふふっ、\\N[5]さんよりは体力はあるつもりだぞ？」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Hehe, I believe I have\nmore stamina than Sonoda-san, you know?"
                             ]
                         },
                         {
@@ -16548,7 +16548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「そりゃまぁ……確かにそうなんだけど…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] Well... that's certainly\ntrue, but..."
                             ]
                         },
                         {
@@ -16572,7 +16572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「そんな事より……こんな所まで付き合わせてしまって悪かったな」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] More importantly... I'm\nsorry for dragging you along to a place like\nthis."
                             ]
                         },
                         {
@@ -16589,14 +16589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「君が気にする必要はない。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] You don't need to worry\nabout it. It's all part of the manager's job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これもマネージャーの仕事の内さ」"
+                                ""
                             ]
                         },
                         {
@@ -16613,7 +16613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「それに……少し気になる事があってね」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] And... there's something\nthat's been bothering me a little."
                             ]
                         },
                         {
@@ -16637,7 +16637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「気になる事？」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Is there something\nbothering you?"
                             ]
                         },
                         {
@@ -16654,7 +16654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[\\V[2]]\\F[62]\\AA[FF]いつもは冷静な\\N[5]さんが、珍しく表情を曇らせ俯く。"
+                                "Sonoda-san, who is usually calm, is rare to see\nwith a cloudy expression, looking down."
                             ]
                         },
                         {
@@ -16671,7 +16671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「……いや、何でもない。 忘れてくれ」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] ......No, it's nothing.\nForget about it."
                             ]
                         },
                         {
@@ -16695,7 +16695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「そんな言い方をされると気になるんだが…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] I can't help but worry\nwhen you say it like that..."
                             ]
                         },
                         {
@@ -16712,7 +16712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「………\\!いつ見ても君がバイクに跨る姿は惚れ惚れするよ」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] .........No matter when I\nsee you straddling a bike, I can't help but be\ncaptivated."
                             ]
                         },
                         {
@@ -16729,7 +16729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「あからさまに話を逸らすなっ！」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Don't blatantly change\nthe subject!"
                             ]
                         },
                         {
@@ -16746,7 +16746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\F[62]\\FF[\\V[2]]\\AA[F]「ほら、駄々をこねてないで行くぞ」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] Come on, stop throwing a\ntantrum and let's go."
                             ]
                         },
                         {
@@ -16770,7 +16770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「またそうやって子供扱いして…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Stop treating me like a\nchild again..."
                             ]
                         },
                         {
@@ -17984,7 +17984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ゴク……雰囲気あるな」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -18001,7 +18001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -18018,7 +18018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]目の前にそびえる洋館が放つ異様な\\r[佇,たたず]まいに思わず息を飲む。"
+                                "I couldn't help but hold my breath at the eerie\nappearance of the Western-style mansion towering\nbefore me."
                             ]
                         },
                         {
@@ -18059,7 +18059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ん……雨か？ さっきまで晴れていたのに…」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... Rain? It was sunny\njust a moment ago..."
                             ]
                         },
                         {
@@ -18076,7 +18076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「山の天候は変わりやすいというからな」"
+                                "\\n<Minato Neon>They say the weather in the mountains changes\neasily."
                             ]
                         },
                         {
@@ -19312,7 +19312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あの男の車だろうか？ 見るからに高そうだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is that guy's car? It looks expensive.)"
                             ]
                         },
                         {
@@ -19396,7 +19396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あの男の車だろうか？ 見るからに高そうだ)"
+                                "\\n<Minato Neon>Is that \\F[\\V[2]]'s car? It looks expensive."
                             ]
                         },
                         {
@@ -19480,7 +19480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あの男の車だろうか？ 見るからに高そうだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is that guy's car? It looks expensive.)"
                             ]
                         },
                         {
@@ -19564,7 +19564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私が所属するプロダクション『\\C[2]\\r[尾道,おのみち]プロ\\C[0]』の社用車だ)"
+                                "\\n<Minato Neon>This is the company car of the production I belong\nto, Onomichi Pro."
                             ]
                         },
                         {
@@ -19648,14 +19648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私の愛車だ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This is my beloved car. It's been a\nwhile since I went on a long trip, so I got\nexcited and ended up speeding.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "久しぶりの遠出だったからテンション上がって飛ばしてしまったな)"
+                                ""
                             ]
                         },
                         {
@@ -19739,7 +19739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私が所属するプロダクション『\\C[2]\\r[尾道,おのみち]プロ\\C[0]』の社用車だ)"
+                                "\\n<Minato Neon>This is the company car of the production I belong\nto, Onomichi Pro."
                             ]
                         },
                         {
@@ -19823,14 +19823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私の愛車だ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This is my beloved car. It's been a\nwhile since I went on a long trip, so I got\nexcited and ended up speeding.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "久しぶりの遠出だったからテンション上がって飛ばしてしまったな)"
+                                ""
                             ]
                         },
                         {
@@ -19914,14 +19914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](けっこう\\r[上,のぼ]って来たよな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (You've climbed quite high, haven't you?\nIt must be inconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうも人里から離れていては住むには不便だろう)"
+                                ""
                             ]
                         },
                         {
@@ -20036,14 +20036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](けっこう\\r[上,のぼ]って来たよな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (You've climbed quite high, haven't you?\nIt must be inconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうも人里から離れていては住むには不便だろう)"
+                                ""
                             ]
                         },
                         {
@@ -20158,14 +20158,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](けっこう\\r[上,のぼ]って来たよな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (You've really climbed up quite high,\nhaven't you? It must be inconvenient to live so\nfar away from civilization.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうも人里から離れていては住むには不便だろう)"
+                                ""
                             ]
                         },
                         {
@@ -20280,14 +20280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](けっこう\\r[上,のぼ]って来たよな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (You've really come up in the world,\nhaven't you? It must be inconvenient to live so\nfar away from civilization.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうも人里から離れていては住むには不便だろう)"
+                                ""
                             ]
                         },
                         {
@@ -20402,14 +20402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](けっこう\\r[上,のぼ]って来たよな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (You've really come up in the world,\nhaven't you? It must be inconvenient to live so\nfar away from civilization.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうも人里から離れていては住むには不便だろう)"
+                                ""
                             ]
                         },
                         {
@@ -21064,7 +21064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「まだ九月だというのに山の上は流石に冷えるね」"
+                                "\\n<Sonoda Kohei>Even though it's still September, it's really\ncold up in the mountains, as expected."
                             ]
                         },
                         {
@@ -21081,7 +21081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「確かに……ジャンバーでも羽織ってくるんだったな」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Indeed... I remember I was\nsupposed to bring a jacket."
                             ]
                         },
                         {
@@ -21303,7 +21303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私が所属するプロダクション『\\C[2]\\r[尾道,おのみち]プロ\\C[0]』の社用車だ)"
+                                "\\n<Minato Neon>This is the company car of the production I belong\nto, Onomichi Pro."
                             ]
                         },
                         {
@@ -22194,7 +22194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ゴク……雰囲気あるな」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -22211,7 +22211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -22228,7 +22228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]目の前にそびえる洋館が放つ異様な\\r[佇,たたず]まいに思わず息を飲む。"
+                                "I couldn't help but hold my breath at the eerie\nappearance of the Western-style mansion towering\nbefore me."
                             ]
                         },
                         {
@@ -22269,7 +22269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ん……雨か？ さっきまで晴れていたのに…」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
                             ]
                         },
                         {
@@ -22286,7 +22286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「山の天候は変わりやすいというからな」"
+                                "\\n<Minato Neon>They say the weather in the mountains changes\neasily."
                             ]
                         },
                         {
@@ -22649,7 +22649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ゴク……雰囲気あるな」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -22666,7 +22666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -22683,7 +22683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]目の前にそびえる洋館が放つ異様な\\r[佇,たたず]まいに思わず息を飲む。"
+                                "I couldn't help but hold my breath at the eerie\nappearance of the Western-style mansion towering\nbefore me."
                             ]
                         },
                         {
@@ -22724,7 +22724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ん……雨か？ さっきまで晴れていたのに…」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
                             ]
                         },
                         {
@@ -22741,7 +22741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「山の天候は変わりやすいというからな」"
+                                "\\n<Minato Neon>They say the weather in the mountains changes\neasily."
                             ]
                         },
                         {
@@ -23044,7 +23044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ゴク……雰囲気あるな」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -23061,7 +23061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -23078,7 +23078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]目の前にそびえる洋館が放つ異様な\\r[佇,たたず]まいに思わず息を飲む。"
+                                "I couldn't help but hold my breath at the eerie\nappearance of the Western-style mansion towering\nbefore me."
                             ]
                         },
                         {
@@ -23119,7 +23119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ん……雨か？ さっきまで晴れていたのに…」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
                             ]
                         },
                         {
@@ -23136,7 +23136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「山の天候は変わりやすいというからな」"
+                                "\\n<Minato Neon>They say the weather in the mountains changes\neasily."
                             ]
                         },
                         {
@@ -23439,7 +23439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ゴク……雰囲気あるな」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -23456,7 +23456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -23473,7 +23473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]目の前にそびえる洋館が放つ異様な\\r[佇,たたず]まいに思わず息を飲む。"
+                                "I couldn't help but hold my breath at the strange\natmosphere emitted by the towering Western-style\nmansion in front of me."
                             ]
                         },
                         {
@@ -23514,7 +23514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]\\N[5]\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ん……雨か？ さっきまで晴れていたのに…」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Hmm... Rain? It was sunny\njust a moment ago..."
                             ]
                         },
                         {
@@ -23531,7 +23531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「山の天候は変わりやすいというからな」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] They say the weather in\nthe mountains changes easily."
                             ]
                         },
                         {
