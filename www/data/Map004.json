@@ -16320,7 +16320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the manager's last name. Default:\nSonoda"
+                                "Please enter the manager's last name. Default: \\N[5]"
                             ]
                         },
                         {
@@ -16351,7 +16351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please enter the manager's name. Default: Sonoda\nKohei"
+                                "Please enter the manager's First name. Default: Kohei"
                             ]
                         },
                         {
@@ -16382,7 +16382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is '\\C[1]Sonoda Kohei\\C[0]' okay?"
+                                "Is '\\C[1]\\N[5]\\C[0]' okay?"
                             ]
                         },
                         {
@@ -16480,7 +16480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] (It's Sonoda \\C[0]-san)"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] (It's \\N[5]-san)"
                             ]
                         },
                         {
@@ -16497,7 +16497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] Are you okay? Are you\ntired?"
+                                "\\n<\\N[5]>\\F[62]\\FF[\\V[2]]\\AA[F] Are you okay? Are you\ntired?"
                             ]
                         },
                         {
@@ -16531,7 +16531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Hehe, I believe I have\nmore stamina than Sonoda-san, you know?"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Hehe, I believe I have\nmore stamina than \\N[5]-san, you know?"
                             ]
                         },
                         {
@@ -16548,7 +16548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] Well... that's certainly\ntrue, but..."
+                                "\\n<\\N[5]>\\F[62]\\FF[\\V[2]]\\AA[F] Well... that's certainly\ntrue, but..."
                             ]
                         },
                         {
@@ -16589,7 +16589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] You don't need to worry\nabout it. It's all part of the manager's job."
+                                "\\n<\\N[5]>\\F[62]\\FF[\\V[2]]\\AA[F] You don't need to worry\nabout it. It's all part of the manager's job."
                             ]
                         },
                         {
@@ -16613,7 +16613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] And... there's something\nthat's been bothering me a little."
+                                "\\n<\\N[5]>\\F[62]\\FF[\\V[2]]\\AA[F] And... there's something\nthat's been bothering me a little."
                             ]
                         },
                         {
@@ -16654,7 +16654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sonoda-san, who is usually calm, is rare to see\nwith a cloudy expression, looking down."
+                                "\\N[5]-san, who is usually calm, is rare to see\nwith a cloudy expression, looking down."
                             ]
                         },
                         {
@@ -16671,7 +16671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] ......No, it's nothing.\nForget about it."
+                                "\\n<\\N[5]>\\F[62]\\FF[\\V[2]]\\AA[F] ......No, it's nothing.\nForget about it."
                             ]
                         },
                         {
@@ -16712,7 +16712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] .........No matter when I\nsee you straddling a bike, I can't help but be\ncaptivated."
+                                "\\n<\\N[5]>\\F[62]\\FF[\\V[2]]\\AA[F] .........No matter when I\nsee you straddling a bike, I can't help but be\ncaptivated."
                             ]
                         },
                         {
@@ -16746,7 +16746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[2]]\\AA[F] Come on, stop throwing a\ntantrum and let's go."
+                                "\\n<\\N[5]>\\F[62]\\FF[\\V[2]]\\AA[F] Come on, stop throwing a\ntantrum and let's go."
                             ]
                         },
                         {
@@ -17984,7 +17984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -18059,7 +18059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... Rain? It was sunny\njust a moment ago..."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... Rain? It was sunny\njust a moment ago..."
                             ]
                         },
                         {
@@ -21064,7 +21064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>Even though it's still September, it's really cold\nup in the mountains, as expected."
+                                "\\n<\\N[5]>Even though it's still September, it's really cold\nup in the mountains, as expected."
                             ]
                         },
                         {
@@ -22194,7 +22194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -22269,7 +22269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
                             ]
                         },
                         {
@@ -22649,7 +22649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -22724,7 +22724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
                             ]
                         },
                         {
@@ -23044,7 +23044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -23119,7 +23119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Huh... it's raining? It\nwas sunny just a moment ago..."
                             ]
                         },
                         {
@@ -23439,7 +23439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Gulp... There's a nice\natmosphere here."
                             ]
                         },
                         {
@@ -23514,7 +23514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Hmm... Rain? It was sunny\njust a moment ago..."
+                                "\\n<\\N[5]>\\FF[61]\\F[\\V[2]]\\AA[FF] Hmm... Rain? It was sunny\njust a moment ago..."
                             ]
                         },
                         {
