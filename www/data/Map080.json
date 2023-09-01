@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下書庫",
+    "displayName": "Underground Library",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -6955,14 +6955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick them up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -7041,14 +7041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clues are in a more obvious place than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -7144,7 +7144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...I guess I'll try looking for someone\nelse)"
                             ]
                         },
                         {
@@ -8209,7 +8209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ここは……書庫？ まさかこの中から手掛かりを探すのか…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Is this... the library?\nAre we really going to search for clues in here?"
                             ]
                         },
                         {
@@ -8226,38 +8226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「流石にそこまでガチな感じじゃないよォ。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Well, it's not that\nserious. Let's try searching by narrowing down the\npromising areas."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "目ぼしいところに当たりを付けて探索してみよう～」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](目ぼしいところか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あからさまに積まれた本とか見るからに怪しいが…)"
+                                ""
                             ]
                         },
                         {
@@ -8274,14 +8250,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](でもまぁそれは宇堂監督の言葉を信じるならという話しで、"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Are these the promising\nareas...? The books piled up so conspicuously look\nsuspicious...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逆に面倒ではあるが本棚を探すという手もあるが、さて…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Well, if we believe in\nDirector Udo's words, there is also the option of\nsearching the bookshelves, although it might be\ntroublesome. Now then...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8612,14 +8612,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick one up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -8698,14 +8698,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clue is somewhere more obvious than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -8801,7 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Should I try looking for someone\nelse?)"
                             ]
                         },
                         {
@@ -8980,14 +8980,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick one up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -9066,14 +9066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clue is somewhere more obvious than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -9169,7 +9169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Maybe I should try looking for\nsomeone else)"
                             ]
                         },
                         {
@@ -9969,14 +9969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick one up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -10055,14 +10055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clues are in a more obvious place than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -10158,7 +10158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Should I try looking for someone\nelse?)"
                             ]
                         },
                         {
@@ -10409,14 +10409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick them up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -10495,14 +10495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clue is somewhere more obvious than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -10598,7 +10598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Should I try looking for someone\nelse?)"
                             ]
                         },
                         {
@@ -10777,14 +10777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick them up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -10863,14 +10863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clues are in a more obvious place than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -10966,7 +10966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Should I try looking for someone\nelse?)"
                             ]
                         },
                         {
@@ -11418,14 +11418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick one up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -11504,14 +11504,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clues are in a more obvious place than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -11668,7 +11668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「んんっ……届きそうで…」"
+                                "\\n<Minato Neon>Mmm... It feels like it's within reach..."
                             ]
                         },
                         {
@@ -11685,7 +11685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(さっきは思わず触っちまったが……やっぱ良い尻してやがるぜ♪)"
+                                "\\n<Udo Takeru>(I couldn't help but touch it earlier... but damn,\nyou've got a nice butt♪)"
                             ]
                         },
                         {
@@ -11702,7 +11702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「………」"
+                                "\\n<Udo Takeru>「.........」"
                             ]
                         },
                         {
@@ -11719,31 +11719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(スパーンと引っ叩いたら怒るかな……。"
+                                "\\n<Udo Takeru>(I wonder if they'll get mad if I give it a good\nsmack... Nah, if I make them suspicious, it'll be\na lose-lose situation. I'll just hold back\nhere...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それで警戒されたら元も子もないしここは我慢だ…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「やはり駄目か……上の方は流石に届かないか…」"
+                                ""
                             ]
                         },
                         {
@@ -11760,14 +11743,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(んふふ……\\I[12] それが“許される状況”になったら、"
+                                "\\n<Minato Neon>I guess it's no use... I can't reach the higher\nparts after all..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱいいっぱい叩いてあげるからねぇ♪)"
+                                "\\n<Udo Takeru>(Nfufu... When the situation allows it, I'll give\n\\I[12] a good smack over and over again♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11796,21 +11796,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I imagine Minato Neon squirming and moaning as her\nbutt is spanked, and I, Udo Takeru, smirk to\nmyself alone----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#尻を叩かれ身悶える音々を想像し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#オイラは一人ほくそ笑むのだった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -11926,7 +11926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Maybe I should try looking for\nsomeone else)"
                             ]
                         },
                         {
@@ -12129,7 +12129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「んんっ……届きそうで…」"
+                                "\\n<Minato Neon>Mmm... It feels like it's within reach..."
                             ]
                         },
                         {
@@ -12146,7 +12146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(さっきは思わず触っちまったが……やっぱ良い尻してやがるぜ♪)"
+                                "\\n<Udo Takeru>(I couldn't help but touch it earlier... but damn,\nyou've got a nice butt♪)"
                             ]
                         },
                         {
@@ -12163,7 +12163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「………」"
+                                "\\n<Udo Takeru>「.........」"
                             ]
                         },
                         {
@@ -12180,31 +12180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(スパーンと引っ叩いたら怒るかな……。"
+                                "\\n<Udo Takeru>(I wonder if they'll get mad if I give it a good\nsmack... Nah, if I make them suspicious, it'll be\na lost cause. I'll just hold back here...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それで警戒されたら元も子もないしここは我慢だ…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「やはり駄目か……上の方は流石に届かないか…」"
+                                ""
                             ]
                         },
                         {
@@ -12221,14 +12204,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(んふふ……\\I[12] それが“許される状況”になったら、"
+                                "\\n<Minato Neon>I guess it's no good after all... I can't reach\nthe higher parts, huh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっぱいいっぱい叩いてあげるからねぇ♪)"
+                                "\\n<Udo Takeru>(Nfufu... When the situation allows it, I'll give\n\\I[12] a good smack over and over again♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12257,21 +12257,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I imagine Minato Neon squirming as her butt is\nspanked, and I, Udo Takeru, smirk to myself\nalone----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#尻を叩かれ身悶える音々を想像し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#オイラは一人ほくそ笑むのだった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -12410,14 +12410,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick one up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -12496,14 +12496,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clue is somewhere more obvious than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -12599,7 +12599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Maybe I should try looking for\nsomeone else)"
                             ]
                         },
                         {
@@ -13330,14 +13330,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick one up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -13416,14 +13416,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clue is somewhere more obvious than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -13519,7 +13519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Maybe I should try looking for\nsomeone else)"
                             ]
                         },
                         {
@@ -13698,14 +13698,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…どれも難しそうな本ばかりで、"
+                                "\\n<Minato Neon>(Hmm... all of these books seem difficult, so I\nhesitate to pick one up...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手に取るのを\\r[躊躇,ためら]ってしまうな…)"
+                                ""
                             ]
                         },
                         {
@@ -13784,14 +13784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督が言った事を信じるなら本棚ではなく、"
+                                "\\n<Minato Neon>If we believe what Director Udo said, I feel like\nthe clues are in a more obvious place than the\nbookshelf..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手掛かりはもっと分り易いところにある気がする…)"
+                                ""
                             ]
                         },
                         {
@@ -13887,7 +13887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……他を探してみるか)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Maybe I should try looking for\nsomeone else)"
                             ]
                         },
                         {
@@ -14418,7 +14418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…埃を被ってるし手掛かりは無さそうだな)"
+                                "\\n<Minato Neon>Hmm... It's covered in dust and doesn't seem to\nhave any clues."
                             ]
                         },
                         {
@@ -14604,7 +14604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…埃を被ってるし手掛かりは無さそうだな)"
+                                "\\n<Minato Neon>Hmm... It's covered in dust and doesn't seem to\nhave any clues."
                             ]
                         },
                         {
@@ -14790,7 +14790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…埃を被ってるし手掛かりは無さそうだな)"
+                                "\\n<Minato Neon>Hmm... It's covered in dust and doesn't seem to\nhave any clues."
                             ]
                         },
                         {
@@ -14976,7 +14976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…埃を被ってるし手掛かりは無さそうだな)"
+                                "\\n<Minato Neon>Hmm... It's covered in dust and doesn't seem to\nhave any clues."
                             ]
                         },
                         {
@@ -15162,7 +15162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん～…埃を被ってるし手掛かりは無さそうだな)"
+                                "\\n<Minato Neon>Hmm... It's covered in dust and doesn't seem to\nhave any clues."
                             ]
                         },
                         {
@@ -15360,7 +15360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……んん？ 本の形に埃がくっきりと……動かされた形跡があるな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (... Huh? There's dust clearly in the\nshape of a book... It looks like it was moved.)"
                             ]
                         },
                         {
@@ -15368,8 +15368,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…積まれた本を調べる。",
-                                    "…他を探す。"
+                                    "I'll investigate the stacked books",
+                                    "I'll search elsewhere"
                                 ],
                                 1,
                                 0,
@@ -15399,7 +15399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……お？ 本と本の隙間に何か細長い紙が挟まって…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (... Huh? There's something long and\nnarrow stuck between the pages of the book...)"
                             ]
                         },
                         {
@@ -15438,7 +15438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]レシート用紙\\C[0]を手に入れた。"
+                                "Minato Neon obtained \\C[2]receipt paper\\C[0]."
                             ]
                         },
                         {
@@ -15545,7 +15545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](他には……特に何も無さそうだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It doesn't seem like there's anything\nelse... in particular)"
                             ]
                         },
                         {

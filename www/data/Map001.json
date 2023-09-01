@@ -16,7 +16,7 @@
         "volume": 100
     },
     "disableDashing": false,
-    "displayName": "ライブ会場",
+    "displayName": "Live venue",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3723,45 +3723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し大げさかもしれないが、彼女との出会いは今でも奇跡なんだと"
+                                "I may be exaggerating a bit, but I still think\nthat meeting her was a miracle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "思っている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当時の彼女はいわゆる“路上ミュージシャン”というやつで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出張先の駅前で偶々見つけ、僕が一年をかけて口説き落とした…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\r[基,もとい]、尾道プロに招き入れたのだ。"
+                                ""
                             ]
                         },
                         {
@@ -3778,14 +3747,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "原石でしかなかった彼女も今では\\r[尾道プロ,うち]の看板アーティストであり"
+                                "At that time, she was what you would call a\n'street musician'. I happened to find her in front\nof a station during a business trip, and I spent a\nyear trying to woo her... or rather, I invited her\nto join Odawara Pro."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "世間も彼女を認知し始めていた。"
+                                "She, who was just a raw talent, is now a prominent\nartist of Odawara Pro, our flagship artist, and\nthe public has started to recognize her."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3820,21 +3820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "様々な曲調に対応できる圧倒的な歌唱力。"
+                                "She possessed an overwhelming singing ability that\ncould adapt to various musical styles. And her\nbeauty, which shone even more on stage, captivated\nthe eyes of the people multiple times over.\nHowever... fate had bestowed upon her three\nthings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして、ステージ上で何倍にも映え人々の目を引き付けるその美貌。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが……天は彼女に三物を与えていた。"
+                                ""
                             ]
                         },
                         {
@@ -3851,38 +3851,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<観客達>「音々様ーっ！！」「うぉぉぉっ！！」「音々様ぁぁっ！！」"
+                                "\\n<Audience members>Neon-sama!!, Whoaaa!!, Neon-samaaa!!, Kyaaa, Neon-\nsamaa\\I[12], Neon-samaaa~!!, Uaaaahhh!! Neon-\nsamaaa~!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「きゃあぁぁっ、音々様ぁっ\\I[12]」「音々様ぁ～～っ！！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うあ\"ぁぁぁっ！！ 音々様ぁァ～～～～っ！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生まれ持ってのカリスマ性……彼女にはそれが在った。"
+                                ""
                             ]
                         },
                         {
@@ -3899,14 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……だから僕は時々思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女は僕が見つけなくても\\r[何,いづ]れこうなっていたであろう。"
+                                "She had a natural charisma... It was something she\nwas born with."
                             ]
                         },
                         {
@@ -3923,14 +3899,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それも、もっと大きなプロダクションによって彼女に相応しい"
+                                "That's why sometimes I think... Even if I hadn't\nfound her, she would have become something\namazing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大きな舞台で……。"
+                                ""
                             ]
                         },
                         {
@@ -3947,21 +3923,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……彼女のライブを観る度に思わされる。"
+                                "And that, on an even bigger stage befitting her,\nby a larger production..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "日々、輝きを増していく彼女に振り落とされぬよう、凡人である"
+                                "......Every time I watch her live, I am reminded.\nI, as an ordinary person, must work even harder\nthan her so that I won't be left behind by her\never-increasing radiance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕は彼女以上に頑張らねばいけないのだ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3997,21 +3997,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I... felt a definite sense of fulfillment, but at\nthe same time, I also felt a sense of unease and\nimpatience due to that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#僕は……確かなやり甲斐を感じると共に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そんな後ろめたさから焦りも感じていた――――…。"
+                                ""
                             ]
                         },
                         {
@@ -4042,14 +4042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "After \\.\\SE[ typed the \\SE[ typewriter, \\. typed\nthe \\SE[ typewriter..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　\\SE[タイプライター]同\\.\\SE[タイプライター]日\\. \\SE[タイプライター]ラ\\.\\SE[タイプライター]イ\\.\\SE[タイプライター]ブ\\.\\SE[タイプライター]後\\.\\SE[タイプライター]…"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～牢獄の間～",
+    "displayName": "East Hall ~Between the Prison Cells~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2757,14 +2757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いや、触れるのは止めておこう……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (No, let's not touch... If I get locked\nup again, it'll be a problem...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また閉じ込められでもしたら事だし…)"
+                                ""
                             ]
                         },
                         {
@@ -2848,14 +2848,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](押された状態が維持されている。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The pressed state is being maintained.\nCould it be linked to the switch in the hidden\nroom?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隠し部屋のスイッチと連動していたのだろうか？)"
+                                ""
                             ]
                         },
                         {
@@ -3088,7 +3088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…この洋館には不釣り合いなノートパソコンが置かれている。"
+                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
                             ]
                         },
                         {
@@ -3180,7 +3180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ネットに繋がっているなら直ぐに調べられるんだが…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If we're connected to the internet, we\ncan look it up right away...)"
                             ]
                         },
                         {
@@ -3216,7 +3216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](やはり繋がっていないか……だったら何故…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (So we're still not connected... then\nwhy is that?)"
                             ]
                         },
                         {
@@ -3233,7 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ なんだこのテキストファイルは…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Huh? What is this text file...)"
                             ]
                         },
                         {
@@ -3250,14 +3250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]デスクトップ上に“宇堂”という名前のテキストファイルを見つけ、"
+                                "I found a text file named Udo on the desktop, so I\ndecided to open it for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はとりあえずそれを開いてみた。"
+                                ""
                             ]
                         },
                         {
@@ -3293,7 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]そこには宇堂監督のプロフィールが書き\\r[綴,つづ]られていた。"
+                                "There, Udo's director profile was written."
                             ]
                         },
                         {
@@ -3310,14 +3310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](生年月日はっと……\\C[2]１９７７\\C[0]年生まれか。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Let's see... \\C[2]Born in 1977\\C[0].\nSo, the password must be \\C[2]1977\\C[0], right?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]１９７７\\C[0]がパスワードって事だな)"
+                                ""
                             ]
                         },
                         {
@@ -3365,7 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]パスワードの記憶：三日目\\C[0]を手に入れた。"
+                                "Obtained the password memory: Day 3."
                             ]
                         },
                         {
@@ -3389,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](しかし、こうして見ると…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (However, looking at it like this...)"
                             ]
                         },
                         {
@@ -3406,52 +3406,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]……経歴にあたる部分をザッと読んでみる。"
+                                "\\F[\\V[2]]... Let's quickly read through the\nsection about his career. I looked it up once when\nI received the offer, but Udo's directorial\nbackground now seems unbelievably questionable\nwhen I look back at it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オファーを受けた際に一度調べたのだが、宇堂監督の経歴は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今見返すと信じ難い内容に見えた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[\\V[2]]そこには……偏った生き方をしている私ですら知っている賞などの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受賞記録が書かれており、これを見た限りでは凄い監督なのだと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わされる。"
+                                ""
                             ]
                         },
                         {
@@ -3468,14 +3437,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](だが実際は……。"
+                                "\\F[\\V[2]]There, it was written about award records\nthat even someone like me, who leads a biased\nlifestyle, knows about. From what I saw, it made\nme think that he is an amazing director."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人として素直に尊敬できないというか何と言うか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (But in reality... I can't honestly\nrespect him as a person, or rather, what should I\nsay...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3563,7 +3563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……\\C[2]レッスンルーム\\C[0]へ向かうか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Should I head to the lesson room\n\\C[2]\\C[0]...)"
                             ]
                         },
                         {
@@ -3590,7 +3590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](パスワードは手に入れた……後はカードキーだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I obtained the password... now I just\nneed the keycard.)"
                             ]
                         },
                         {
@@ -3616,7 +3616,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](今までと同じなら、カードキーは\\C[2]隠し通路\\C[0]にあるはずだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If it's the same as before, the keycard\nshould be hidden in \\C[2] secret passage \\C[0])."
                             ]
                         },
                         {
@@ -3643,14 +3643,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](手掛かりは\\C[2]東館１F\\C[0]にあると言っていたよな？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I remember \\C[2] saying that the clue\nis on the 1st floor of the East Building. Let's go\nback and check to make sure we didn't miss\nanything.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "見落としが無いか戻って調べてみよう)"
+                                ""
                             ]
                         },
                         {
@@ -3755,7 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…この洋館には不釣り合いなノートパソコンが置かれている。"
+                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
                             ]
                         },
                         {
@@ -3842,7 +3842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](昨晩は私もサワみたいに…)"
+                                "\\n<Minato Neon>Last night, I also wanted to be like Sawa..."
                             ]
                         },
                         {
@@ -3850,8 +3850,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…USBを回収する。",
-                                    "…何もしない。"
+                                    "collecting the USB",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -3893,7 +3893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[\\V[2]]\\C[2]USB(クンニ動画)\\C[0]を回収した。"
+                                "I collected the USB (cunnilingus video)."
                             ]
                         },
                         {
@@ -4020,7 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…例のUSBは回収済みだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...The USB in question has already been\ncollected)"
                             ]
                         },
                         {
@@ -4147,31 +4147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おぉ～無事出られたようで良かったよぉ♪"
+                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく一時はどうなる事かと…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい奴だ……お前が施した仕掛けだろうが…)"
+                                ""
                             ]
                         },
                         {
@@ -4188,14 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んじゃ、気を取り直して次行ってみよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]東側のドア\\C[0]も開いたようだしねぇ～」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must have been your scheme...)"
                             ]
                         },
                         {
@@ -4212,14 +4188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](隠し部屋内で起きた事まで把握しているのだろうか……。"
+                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それは無いか……ただ離れた位置で待っていた様子だし…)"
+                                ""
                             ]
                         },
                         {
@@ -4236,14 +4212,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](確証は無いが……中での様子を聞いてこないのは好都合だ。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監督が気変わりする前に先に進んでしまおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no proof, but...\nIt's convenient that they haven't heard about what\nhappened inside. Let's move forward before the\ndirector changes their mind.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4265,14 +4265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……再び宇堂監督が同行者として加わった。"
+                                ""
                             ]
                         },
                         {
@@ -4645,31 +4645,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おぉ～無事出られたようで良かったよぉ♪"
+                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく一時はどうなる事かと…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい奴だ……お前が施した仕掛けだろうが…)"
+                                ""
                             ]
                         },
                         {
@@ -4686,14 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んじゃ、気を取り直して次行ってみよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]東側のドア\\C[0]も開いたようだしねぇ～」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must be your scheme...)"
                             ]
                         },
                         {
@@ -4710,14 +4686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](隠し部屋内で起きた事まで把握しているのだろうか……。"
+                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それは無いか……ただ離れた位置で待っていた様子だし…)"
+                                ""
                             ]
                         },
                         {
@@ -4734,14 +4710,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](確証は無いが……中での様子を聞いてこないのは好都合だ。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監督が気変わりする前に先に進んでしまおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no proof, but...\nIt's convenient that they haven't heard what\nhappened inside. Let's move forward before the\ndirector changes their mind.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4763,14 +4763,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……再び宇堂監督が同行者として加わった。"
+                                ""
                             ]
                         },
                         {
@@ -5032,31 +5032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おぉ～無事出られたようで良かったよぉ♪"
+                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく一時はどうなる事かと…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい奴だ……お前が施した仕掛けだろうが…)"
+                                ""
                             ]
                         },
                         {
@@ -5073,14 +5056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んじゃ、気を取り直して次行ってみよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]東側のドア\\C[0]も開いたようだしねぇ～」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must be your scheme...)"
                             ]
                         },
                         {
@@ -5097,14 +5073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](隠し部屋内で起きた事まで把握しているのだろうか……。"
+                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それは無いか……ただ離れた位置で待っていた様子だし…)"
+                                ""
                             ]
                         },
                         {
@@ -5121,14 +5097,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](確証は無いが……中での様子を聞いてこないのは好都合だ。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監督が気変わりする前に先に進んでしまおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no confirmation,\nbut... It's convenient that they haven't heard\nwhat happened inside. Let's move forward before\nthe director changes their mind.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5150,14 +5150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……再び宇堂監督が同行者として加わった。"
+                                ""
                             ]
                         },
                         {
@@ -5419,31 +5419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おぉ～無事出られたようで良かったよぉ♪"
+                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく一時はどうなる事かと…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい奴だ……お前が施した仕掛けだろうが…)"
+                                ""
                             ]
                         },
                         {
@@ -5460,14 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んじゃ、気を取り直して次行ってみよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]東側のドア\\C[0]も開いたようだしねぇ～」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must be your scheme...)"
                             ]
                         },
                         {
@@ -5484,14 +5460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](隠し部屋内で起きた事まで把握しているのだろうか……。"
+                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それは無いか……ただ離れた位置で待っていた様子だし…)"
+                                ""
                             ]
                         },
                         {
@@ -5508,14 +5484,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](確証は無いが……中での様子を聞いてこないのは好都合だ。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監督が気変わりする前に先に進んでしまおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no confirmation,\nbut... It's convenient that they haven't heard\nwhat happened inside. Let's move forward before\nthe director changes their mind.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5537,14 +5537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……再び宇堂監督が同行者として加わった。"
+                                ""
                             ]
                         },
                         {
@@ -5806,31 +5806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おぉ～無事出られたようで良かったよぉ♪"
+                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まったく一時はどうなる事かと…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい奴だ……お前が施した仕掛けだろうが…)"
+                                ""
                             ]
                         },
                         {
@@ -5847,14 +5830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んじゃ、気を取り直して次行ってみよ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[2]東側のドア\\C[0]も開いたようだしねぇ～」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must have been your scheme...)"
                             ]
                         },
                         {
@@ -5871,14 +5847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](隠し部屋内で起きた事まで把握しているのだろうか……。"
+                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それは無いか……ただ離れた位置で待っていた様子だし…)"
+                                ""
                             ]
                         },
                         {
@@ -5895,14 +5871,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](確証は無いが……中での様子を聞いてこないのは好都合だ。"
+                                "\\n<Minato Neon>I wonder if \\F[\\V[2]]\\FF[\\V[4]]\\AA[F] knows about\nwhat happened in the hidden room... No, that's\nunlikely... They seemed to be waiting from a\ndistance..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "監督が気変わりする前に先に進んでしまおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no proof, but...\nIt's convenient that they haven't heard about what\nhappened inside. Let's move forward before the\ndirector changes their mind.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5924,14 +5924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……再び宇堂監督が同行者として加わった。"
+                                ""
                             ]
                         },
                         {

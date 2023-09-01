@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "回想ルーム",
+    "displayName": "Recollection Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 28,
@@ -4497,7 +4497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -4505,12 +4505,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "シャワー：自宅",
-                                    "シャワー：洋館内一回目",
-                                    "シャワー：洋館内二回目",
-                                    "シャワー：洋館内三回目",
-                                    "シャワー：洋館内四回目",
-                                    "シャワー：洋館内五回目"
+                                    "Shower: At home",
+                                    "Shower: First time in the Western-style mansion",
+                                    "Shower: Second time inside the Western-style mansion",
+                                    "Shower: Third time inside the mansion",
+                                    "Shower: Fourth time inside the Western-style mansion",
+                                    "Shower: Fifth time inside the mansion"
                                 ],
                                 -1,
                                 0,
@@ -5243,7 +5243,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…視聴しない。"
+                                    "I won't watch it"
                                 ],
                                 0,
                                 -1,
@@ -5552,7 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『全裸の逃走劇』を回想しますか？"
+                                "Do you want to reminisce about Naked Escape?"
                             ]
                         },
                         {
@@ -5560,8 +5560,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5821,7 +5821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『個人レッスン：一日目』を回想しますか？"
+                                "Do you want to reminisce about Private Lesson: Day\nOne?"
                             ]
                         },
                         {
@@ -5829,8 +5829,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6051,7 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『個人レッスン：二日目』を回想しますか？"
+                                "Do you want to reminisce about Private Lesson: Day\n2?"
                             ]
                         },
                         {
@@ -6059,8 +6059,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6378,7 +6378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『個人レッスン：三日目』を回想しますか？"
+                                "Do you want to reminisce about Private Lesson: Day\nThree?"
                             ]
                         },
                         {
@@ -6386,9 +6386,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…前編を視聴する。",
-                                    "…後編を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch the first part",
+                                    "I will watch the sequel",
+                                    "I won't watch it"
                                 ],
                                 2,
                                 0,
@@ -6718,7 +6718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『個人レッスン：四日目』を回想しますか？"
+                                "Do you want to reminisce about Private Lesson: Day\nFour?"
                             ]
                         },
                         {
@@ -6726,8 +6726,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7237,7 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『個人レッスン：五日目』を回想しますか？"
+                                "Do you want to reminisce about Private Lesson: Day\nFive?"
                             ]
                         },
                         {
@@ -7245,12 +7245,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…chapter1前編を視聴する。",
-                                    "…chapter1後編を視聴する。",
-                                    "en(s[520])…chapter2前編を視聴する。",
-                                    "en(s[521])…chapter2中編を視聴する。",
-                                    "en(s[522])…chapter2後編を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch the first part of Chapter 1",
+                                    "Watch the second part of Chapter 1",
+                                    "en(s[520])Watch the first part of Chapter 2",
+                                    "en(s[521])Watch Chapter 2, Part 2",
+                                    "en(s[522])Watch the second part of chapter 2",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -8554,7 +8554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『個人レッスン：五日目』を回想しますか？"
+                                "Do you want to reminisce about Private Lesson: Day\nFive?"
                             ]
                         },
                         {
@@ -8562,12 +8562,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…chapter1前編を視聴する。",
-                                    "…chapter1後編を視聴する。",
-                                    "…chapter2前編を視聴する。",
-                                    "…chapter2中編を視聴する。",
-                                    "…chapter2後編を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch the first part of Chapter 1",
+                                    "Watch the second part of Chapter 1",
+                                    "Watch the first part of Chapter 2",
+                                    "Watch Chapter 2, Part 2",
+                                    "Watch the second part of chapter 2",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -9739,7 +9739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『宇堂の妄想』を回想しますか？"
+                                "Do you want to reminisce about Udo's Delusion?"
                             ]
                         },
                         {
@@ -9747,10 +9747,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "東館２F客室：一回目",
-                                    "東館２F客室：二回目",
-                                    "東館２F客室：三回目",
-                                    "…視聴しない。"
+                                    "East Building 2nd Floor Guest Room: First Time",
+                                    "East Building 2nd Floor Guest Room: Second Time",
+                                    "East Building 2nd Floor Guest Room: Third Time",
+                                    "I won't watch it"
                                 ],
                                 3,
                                 0,
@@ -10334,7 +10334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『宇堂の妄想』を回想しますか？"
+                                "Do you want to reminisce about Udo's Delusion?"
                             ]
                         },
                         {
@@ -10342,11 +10342,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "東館２F客室：一回目",
-                                    "東館２F客室：二回目",
-                                    "東館２F客室：三回目",
-                                    "地下書庫：四回目",
-                                    "…視聴しない。"
+                                    "East Building 2nd Floor Guest Room: First Time",
+                                    "East Building 2nd Floor Guest Room: Second Time",
+                                    "East Building 2nd Floor Guest Room: Third Time",
+                                    "Underground Library: Fourth Time",
+                                    "I won't watch it"
                                 ],
                                 4,
                                 0,
@@ -11058,7 +11058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『地下教会 ～泉の間～：屈辱のお漏らし』を回想しますか？"
+                                "Do you want to reminisce about Underground Church\n~The Fountain of Shameful Peeing~?"
                             ]
                         },
                         {
@@ -11066,8 +11066,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11317,7 +11317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『浴場施設：宇堂監督ご満悦♡』を回想しますか？"
+                                "Do you want to reminisce about Bathing Facility:\nDirector Udo's Delight♡?"
                             ]
                         },
                         {
@@ -11325,8 +11325,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11533,7 +11533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『浴場施設：宇堂監督ご満悦♡』を回想しますか？"
+                                "Do you want to reminisce about Bathing Facility:\nDirector Udo's Delight♡?"
                             ]
                         },
                         {
@@ -11541,8 +11541,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11758,7 +11758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『浴場施設：仕込まれたおしゃぶり』を回想しますか？"
+                                "Do you want to reminisce about the Bathhouse\nFacility: Prepared Blowjob scene?"
                             ]
                         },
                         {
@@ -11766,8 +11766,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11997,7 +11997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『浴場施設：仕込まれたおしゃぶり』を回想しますか？"
+                                "Do you want to reminisce about the Bathhouse\nFacility: Prepared Blowjob scene?"
                             ]
                         },
                         {
@@ -12005,8 +12005,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12454,7 +12454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -12462,10 +12462,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "過去回想：一回目",
-                                    "en(s[567])過去回想：二回目",
-                                    "en(s[568])過去回想：三回目",
-                                    "…視聴しない。"
+                                    "Flashback: First Time",
+                                    "en(s[567])Flashback: Second Time",
+                                    "en(s[568])Flashback: Third Time",
+                                    "I won't watch it"
                                 ],
                                 3,
                                 0,
@@ -12899,7 +12899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -12907,10 +12907,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "過去回想：一回目",
-                                    "過去回想：二回目",
-                                    "過去回想：三回目",
-                                    "…視聴しない。"
+                                    "Flashback: First Time",
+                                    "Flashback: Second Time",
+                                    "Flashback: Third Time",
+                                    "I won't watch it"
                                 ],
                                 3,
                                 0,
@@ -13279,14 +13279,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「あァん？ 各種エンディングのヒントだぁ？"
+                                "\\n<Udo Takeru>Huh? Hints for various endings? Don't be stupid!\nDon't get all clingy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ボケがっ！ 甘えてンじゃねぇぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -13310,7 +13310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「………」"
+                                "\\n<Udo Takeru>\\FF[\\V[4]]「.........」"
                             ]
                         },
                         {
@@ -13334,14 +13334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「フッ……だが、その欲望に忠実なトコはワルかねぇぜ♪"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] Heh... But I can't deny that I have a\ncertain loyalty to those desires, you know♪\nAlright, I'll make an exception and personally\nteach you, how about that♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいだろう、特別にオイラ自らご教授してやろうじゃねぇか♪」"
+                                ""
                             ]
                         },
                         {
@@ -13384,7 +13384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「おう兄弟、さっさと選びな」"
+                                "\\n<Hintman Udo Takeru>\\FF[\\V[4]] Hey, bros, hurry up and choose."
                             ]
                         },
                         {
@@ -13392,12 +13392,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "【TRUE END】のヒントをプリーズ！",
-                                    "【END 01】のヒントをプリーズ！",
-                                    "【END 02 Aルート】のヒントをプリーズ！",
-                                    "【END 02 Bルート】のヒントをプリーズ！",
-                                    "【END 03】のヒントをプリーズ！",
-                                    "…いや結構、お前は用済み。"
+                                    "Please give me a hint for the True End!",
+                                    "Please give me a hint for END 01!",
+                                    "Please give me a hint for END 02 A Route!",
+                                    "Please give me a hint for the B route of END 02",
+                                    "Please give me a hint for END 03!",
+                                    "No, I'm good I'm done with you"
                                 ],
                                 -2,
                                 0,
@@ -13434,14 +13434,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]END 01\\C[0]に辿り着けたなら自ずと分かンだろ…。"
+                                "\\n<Hintman Udo Takeru>If you've reached \\C[2]END 01\\C[0], you should\nunderstand it naturally... Seriously, this route\nis so unbelievable, so just stop it, okay?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "つーかマジでありえねぇルートだから止めとけって、なぁオイ！」"
+                                ""
                             ]
                         },
                         {
@@ -13478,14 +13478,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]END 02 Bルート\\C[0]到達後に\\C[2]chapter3\\C[0]内で解放される"
+                                "\\n<Hintman Udo Takeru>If you choose the \\C[2]option\\C[0] that is\nunlocked \\C[2]chapter3\\C[0]after reaching \\C[2]END\n02 B Route\\C[0], you'll easily reach it, you know♪\nIt's a piece of cake, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]選択肢\\C[0]を選ぶ事で辿り着けンぜぇ♪ 楽勝だろォ？」"
+                                ""
                             ]
                         },
                         {
@@ -13522,14 +13522,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]chapter2\\C[0]で\\C[2]審査率\\C[0]を\\C[2]90\\C[0]以上で最終日を迎えると"
+                                "\\n<Hintman Udo Takeru>If you reach the final day with a \\C[2]review\nrate\\C[0] of \\C[2]90\\C[0]% or higher in\n\\C[2]chapter 2\\C[0], can you make it there?\nNihhihi~\\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "辿り着けンぜぇ？ んひひひっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -13566,14 +13566,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]chapter3\\C[0]を進めりゃ勝手に辿り着くぜぇ。"
+                                "\\n<Hintman Udo Takeru>If you just keep progressing \\FF[\\V[4]], you'll\nnaturally reach your destination. Well, this is a\nstraight path after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ま、ここは一本道だなァ」"
+                                ""
                             ]
                         },
                         {
@@ -13610,14 +13610,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]chapter2\\C[0]で\\C[2]審査率\\C[0]を\\C[2]89\\C[0]以下で最終日を迎えると"
+                                "\\n<Hintman Udo Takeru>If you reach the final day with a review rate of\n\\C[2]89\\C[0]% or lower in \\C[2]chapter2\\C[0], can\nyou make it there? Well, that's just impossible,\nyou know♪ \\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "辿り着けンぜぇ？ ま、そんなのありえねぇがなァ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -13661,7 +13661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「あンだとゴルァっ！！」"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] What the hell is that?!"
                             ]
                         },
                         {
@@ -13698,7 +13698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「あァん？ そうか……フンっ、いつでも聞きにきなァ」"
+                                "\\n<Hintman Udo Takeru>\\FF[\\V[4]] Huh? I see... Hmph, feel free to ask me\nanytime."
                             ]
                         },
                         {
@@ -13817,7 +13817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「おう兄弟、さっさと選びな」"
+                                "\\n<Hintman Udo Takeru>Udo Takeru, the hintman, says \\FF[\\V[4]], hurry up\nand choose."
                             ]
                         },
                         {
@@ -13825,12 +13825,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "【TRUE END】のヒントをプリーズ！",
-                                    "【END 01】のヒントをプリーズ！",
-                                    "【END 02 Aルート】のヒントをプリーズ！",
-                                    "【END 02 Bルート】のヒントをプリーズ！",
-                                    "【END 03】のヒントをプリーズ！",
-                                    "…いや結構、お前は用済み。"
+                                    "Please give me a hint for the True End!",
+                                    "Please give me a hint for END 01!",
+                                    "Please give me a hint for END 02 A Route!",
+                                    "Please give me a hint for the END 02 B Route!",
+                                    "Please give me a hint for END 03!",
+                                    "No, I'm done with you"
                                 ],
                                 -2,
                                 0,
@@ -13867,14 +13867,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]END 01\\C[0]に辿り着けたなら自ずと分かンだろ…。"
+                                "\\n<Hintman \\C[27] Udo \\C[0]>\\FF[\\V[4]]If you've reached \\C[2]END 01\\C[0], you\nshould understand it naturally... Seriously, this\nroute is impossible, so stop it, hey!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "つーかマジでありえねぇルートだから止めとけって、なぁオイ！」"
+                                ""
                             ]
                         },
                         {
@@ -13911,14 +13911,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]END 02 Bルート\\C[0]到達後に\\C[2]chapter3\\C[0]内で解放される"
+                                "\\n<Hintman Udo Takeru>\\FF[\\V[4]] By choosing the \\C[2]option\\C[0] that\nis unlocked \\C[2]chapter3\\C[0]after reaching\n\\C[2]END 02 B Route\\C[0], you can easily reach it,\nyou know? It's a piece of cake, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]選択肢\\C[0]を選ぶ事で辿り着けンぜぇ♪ 楽勝だろォ？」"
+                                ""
                             ]
                         },
                         {
@@ -13955,14 +13955,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]chapter2\\C[0]で\\C[2]審査率\\C[0]を\\C[2]90\\C[0]以上で最終日を迎えると"
+                                "\\n<Hintman Udo Takeru>\\FF[\\V[4]]If you reach the final day with a\n\\C[2]review rate\\C[0] of \\C[2]90\\C[0]% or higher\nin \\C[2]chapter 2\\C[0], you'll be able to make it,\nhehehe\\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "辿り着けンぜぇ？ んひひひっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -13999,14 +13999,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]chapter3\\C[0]を進めりゃ勝手に辿り着くぜぇ。"
+                                "\\n<Hintman Udo Takeru>\\FF[\\V[4]] If you just keep progressing\n\\C[2]chapter3\\C[0], you'll naturally reach your\ndestination. Well, this is a straight path after\nall."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ま、ここは一本道だなァ」"
+                                ""
                             ]
                         },
                         {
@@ -14043,14 +14043,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「\\C[2]chapter2\\C[0]で\\C[2]審査率\\C[0]を\\C[2]89\\C[0]以下で最終日を迎えると"
+                                "\\n<Hintman Udo Takeru>\\FF[\\V[4]]If you reach the final day with a\n\\C[2]review rate\\C[0] of \\C[2]89\\C[0]% or lower in\n\\C[2]chapter 2\\C[0], you'll be able to make it,\nyou know? Well, that's impossible, though\\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "辿り着けンぜぇ？ ま、そんなのありえねぇがなァ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -14094,7 +14094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「あンだとゴルァっ！！」"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] What the hell is that?!"
                             ]
                         },
                         {
@@ -14131,7 +14131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ヒントマン\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「あァん？ そうか……フンっ、いつでも聞きにきなァ」"
+                                "\\n<Hintman Udo Takeru>\\FF[\\V[4]] Huh? I see... Hmph, feel free to come\nand ask me anytime."
                             ]
                         },
                         {
@@ -14428,7 +14428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -14437,11 +14437,11 @@
                             "parameters": [
                                 [
                                     "if(s[539])TRUE END：You'll Always Be",
-                                    "if(s[569])End01：衆恥肉輪",
+                                    "if(s[569])End01: Shameful Flesh Ring",
                                     "if(s[534])End02：それぞれの未来へ…(音々視点)",
                                     "if(s[533])End02：それぞれの未来へ…(マネ視点)",
-                                    "End03：再デビュー",
-                                    "…視聴しない。"
+                                    "End03: Re-Debut",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -15167,7 +15167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -15176,11 +15176,11 @@
                             "parameters": [
                                 [
                                     "TRUE END：You'll Always Be",
-                                    "End01：衆恥肉輪",
-                                    "End02：それぞれの未来へ…(音々視点)",
-                                    "End02：それぞれの未来へ…(マネ視点)",
-                                    "End03：再デビュー",
-                                    "…視聴しない。"
+                                    "End01: Group Shame Flesh Ring",
+                                    "End02: Towards Each Future (Neon's Perspective)",
+                                    "End02: Towards Each Future (Mana's Perspective)",
+                                    "End03: Re-Debut",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -15824,7 +15824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サワと…』を回想しますか？"
+                                "Do you want to reminisce about Sawa and...?"
                             ]
                         },
                         {
@@ -15832,8 +15832,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16043,7 +16043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『サワと…』を回想しますか？"
+                                "Do you want to reminisce about Sawa and...?"
                             ]
                         },
                         {
@@ -16051,8 +16051,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16272,7 +16272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『４P』を回想しますか？"
+                                "Do you want to reminisce about the 4P?"
                             ]
                         },
                         {
@@ -16280,8 +16280,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16528,7 +16528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『４P』を回想しますか？"
+                                "Do you want to reminisce about the 4P?"
                             ]
                         },
                         {
@@ -16536,8 +16536,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16793,7 +16793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『モモと…』を回想しますか？"
+                                "Do you want to reminisce about Momo and...?"
                             ]
                         },
                         {
@@ -16801,8 +16801,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17007,7 +17007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『モモと…』を回想しますか？"
+                                "Do you want to reminisce about Momo and...?"
                             ]
                         },
                         {
@@ -17015,8 +17015,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17286,7 +17286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -17294,9 +17294,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "『僕の知らない彼女』を視聴する。",
-                                    "en(s[570])『彼女も知らない彼女』を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch The Girl I Don't Know",
+                                    "en(s[570])Watch A Girlfriend She Doesn't Know",
+                                    "I won't watch it"
                                 ],
                                 2,
                                 0,
@@ -17664,7 +17664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -17672,9 +17672,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "『僕の知らない彼女』を視聴する。",
-                                    "『彼女も知らない彼女』を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch The Girl I Don't Know",
+                                    "Watch A Girlfriend She Doesn't Know",
+                                    "I won't watch it"
                                 ],
                                 2,
                                 0,
@@ -18014,7 +18014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『仕組まれた初夜』を回想しますか？"
+                                "Do you want to reminisce about Arranged First\nNight?"
                             ]
                         },
                         {
@@ -18022,8 +18022,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18242,7 +18242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『仕組まれた初夜』を回想しますか？"
+                                "Do you want to reminisce about Arranged First\nNight?"
                             ]
                         },
                         {
@@ -18250,8 +18250,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -18465,7 +18465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<現在の状態：\\C[1]OFF\\C[0]>回想ルーム内のイベントを\\C[2]全開放\\C[0]しますか？"
+                                "\\n<Current Status: \\C[1]OFF\\C[0]>\\C[1]OFF\\C[0]: \\C[1]OFF\\C[0]: \\C[1]OFF\\C[0]:\n\\C[1]OFF\\C[0]: Do you want to fully unlock the\nevents in the flashback room?"
                             ]
                         },
                         {
@@ -18473,8 +18473,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…全開放スイッチをオンにする。",
-                                    "…何もしない。"
+                                    "Turn on the full unlock switch",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -18756,7 +18756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<現在の状態：\\C[27]ON\\C[0]>\\C[2]全開放\\C[0]した状態を元に戻しますか？"
+                                "\\n<Current state: \\C[27]ON\\C[0]>\\C[27]ON\\C[0]: \\C[27]ON\\C[0]: \\C[27]ON\\C[0]:\n\\C[27]ON\\C[0]: Do you want to revert back to the\nstate where \\C[2] is fully open \\C[0]?"
                             ]
                         },
                         {
@@ -18764,8 +18764,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…全開放スイッチをオフにする。",
-                                    "…何もしない。"
+                                    "Turn off the fully open switch",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -19039,8 +19039,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…タイトルへ戻る。",
-                                    "…回想ルームへ戻る。"
+                                    "Return to the title",
+                                    "Return to the flashback room"
                                 ],
                                 1,
                                 0,
@@ -19197,8 +19197,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…タイトルへ戻る。",
-                                    "…回想ルームへ戻る。"
+                                    "Return to the title",
+                                    "Return to the flashback room"
                                 ],
                                 1,
                                 0,
@@ -19441,7 +19441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『東館１F：ストリップ』を回想しますか？"
+                                "Do you want to reminisce about East Building 1F:\nStrip?"
                             ]
                         },
                         {
@@ -19449,8 +19449,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -20057,7 +20057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -20065,11 +20065,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "USBメモリー：一つ目",
-                                    "USBメモリー：二つ目",
-                                    "USBメモリー：三つ目",
-                                    "USBメモリー：四つ目",
-                                    "…視聴しない。"
+                                    "USB Memory: First One",
+                                    "USB Memory: Second One",
+                                    "USB Memory: Third Eye",
+                                    "USB Memory: Fourth Scene",
+                                    "I won't watch it"
                                 ],
                                 4,
                                 0,
@@ -20111,7 +20111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この時の音々は\\C[2]時限式カードキー\\C[0]を…"
+                                "At that time, Neon had a time-limited card key\n\\C[0]..."
                             ]
                         },
                         {
@@ -20119,9 +20119,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "…持っている。",
-                                    "…持っていない。",
-                                    "…一つ前へ戻る。"
+                                    "has it",
+                                    "don't have it",
+                                    "Go back one step"
                                 ],
                                 2,
                                 0,
@@ -20803,7 +20803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -20811,9 +20811,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…『データ整理』を視聴する。",
-                                    "en(s[581])…『秘蔵コレクション』を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch Data Organization",
+                                    "en(s[581])Watch the Secret Collection",
+                                    "I won't watch it"
                                 ],
                                 2,
                                 0,
@@ -21188,7 +21188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -21196,9 +21196,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…『データ整理』を視聴する。",
-                                    "…『秘蔵コレクション』を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch Data Organization",
+                                    "Watch the Secret Collection",
+                                    "I won't watch it"
                                 ],
                                 2,
                                 0,
@@ -21673,7 +21673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『chapter2監視イベント』シーンを選択して下さい。"
+                                "Please select the Chapter 2 Surveillance Event\nscene."
                             ]
                         },
                         {
@@ -21681,10 +21681,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…『三日目個人レッスン』を視聴する。",
-                                    "en(s[528])…『四日目役作りのレッスン』を視聴する。",
-                                    "en(s[529])…『四日目個人レッスン』を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch Day 3 Private Lesson",
+                                    "en(s[528])Watch the Day 4 Role Preparation Lesson",
+                                    "en(s[529])Watch Day 4 Private Lesson",
+                                    "I won't watch it"
                                 ],
                                 3,
                                 0,
@@ -22264,7 +22264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『chapter2監視イベント』シーンを選択して下さい。"
+                                "Please select the Chapter 2 Surveillance Event\nscene."
                             ]
                         },
                         {
@@ -22272,10 +22272,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…『三日目個人レッスン』を視聴する。",
-                                    "…『四日目役作りのレッスン』を視聴する。",
-                                    "…『四日目個人レッスン』を視聴する。",
-                                    "…視聴しない。"
+                                    "Watch Day 3 Private Lesson",
+                                    "Watch the Day 4 Role Preparation Lesson",
+                                    "Watch Day 4 Private Lesson",
+                                    "I won't watch it"
                                 ],
                                 3,
                                 0,
@@ -22841,7 +22841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -22849,10 +22849,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…エンドロール後のCGを鑑賞する。",
-                                    "…以前のタイトル画面を観賞。",
-                                    "…次回作の構想等々。",
-                                    "…何もしない。"
+                                    "Watch the CG after the end credits",
+                                    "Previously Translated Text: I watched the previous title screen",
+                                    "plans for the next work, and so on",
+                                    "I won't do anything"
                                 ],
                                 3,
                                 0,
@@ -22923,21 +22923,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "Right-click: Delete text. Enter key: Exit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#右クリック：文字消去"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#決定キー：終了"
+                                ""
                             ]
                         },
                         {
@@ -23040,21 +23040,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "Right-click: Delete text. Enter key: Exit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#右クリック：文字消去"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#決定キー：終了"
+                                ""
                             ]
                         },
                         {
@@ -23157,45 +23157,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "次回作のヒロインはウチのゲーム初となるロングヘアーではない"
+                                "The next game's heroine is planned to be a girl\nwho is not our game's first long-haired character."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "娘っ子になる予定です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだまだ妄想の段階ですが、ヒロインは主人公の一つ上の幼馴染な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お姉さんで、悪友(童貞)と共に三人で南の島へと訪れた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "という物語を妄想しております。"
+                                ""
                             ]
                         },
                         {
@@ -23212,59 +23181,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "次回作についての発表は、ある程度シナリオが纏まり、"
+                                "I'm still in the stage of imagination, but I'm\nfantasizing about a story where the heroine is the\nprotagonist's older childhood friend, and they,\nalong with their mischievous friend (a virgin),\nvisit a southern island together..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "且つヒロインのキャラデザが出来次第、ci-enにて発表しようかと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "思います。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……そして、最後に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最後までプレイして頂き、ありがとうございました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "完成まで紆余曲折ありましたが、無事皆様の元へとお届けする事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出来、ホっと胸を撫で下ろしております。"
+                                ""
                             ]
                         },
                         {
@@ -23281,7 +23212,76 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ではでは短い挨拶ではありますが……それでは、また！"
+                                "The announcement regarding the next work will be\nmade on ci-en once the scenario is somewhat\nfinalized and the character design for the heroine\nis completed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "......And finally, thank you very much for playing\nuntil the end! There were many twists and turns\nuntil completion, but we are relieved to be able\nto deliver it safely to everyone."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Well then, it's a short greeting but... see you\nlater!"
                             ]
                         },
                         {
@@ -24165,7 +24165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『セックス合宿：深夜』を回想しますか？"
+                                "Do you want to reminisce about Sex Camp: Midnight?"
                             ]
                         },
                         {
@@ -24173,10 +24173,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…七日目を視聴する。",
-                                    "en(s[564])…八日目を視聴する。",
-                                    "en(s[565])…九日目を視聴する。",
-                                    "…視聴しない。"
+                                    "I will watch the seventh day",
+                                    "en(s[564])I will watch the eighth day",
+                                    "en(s[565])Watching the ninth day",
+                                    "I won't watch it"
                                 ],
                                 3,
                                 0,
@@ -24727,7 +24727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『セックス合宿：深夜』を回想しますか？"
+                                "Do you want to reminisce about Sex Camp: Midnight?"
                             ]
                         },
                         {
@@ -24735,10 +24735,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…七日目を視聴する。",
-                                    "…八日目を視聴する。",
-                                    "…九日目を視聴する。",
-                                    "…視聴しない。"
+                                    "I will watch the seventh day",
+                                    "I will watch the eighth day",
+                                    "Watch the ninth day",
+                                    "I won't watch it"
                                 ],
                                 3,
                                 0,

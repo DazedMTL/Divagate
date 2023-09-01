@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "控室",
+    "displayName": "Control Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2154,7 +2154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「じゃあ、おっ先～♪」"
+                                "\\n<Kino>Well then, lead the way~♪"
                             ]
                         },
                         {
@@ -2264,7 +2264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「あれ？ キノっち打ち上げいかないのぉ？」"
+                                "\\n<Momo>Huh? Kino-chan, aren't you going to the after-\nparty?"
                             ]
                         },
                         {
@@ -2281,7 +2281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ふふふ……私はこれからＣＭ撮影なのだ☆」"
+                                "\\n<Kino>Hehehe... I have a commercial shoot after this☆"
                             ]
                         },
                         {
@@ -2298,7 +2298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「こんな遅くに大変ね…」"
+                                "\\n<Sawa>It's tough to be out this late..."
                             ]
                         },
                         {
@@ -2315,7 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ビジュアル担当の辛いトコだよ～…」"
+                                "\\n<Kino>Being in charge of visuals is tough~..."
                             ]
                         },
                         {
@@ -2332,14 +2332,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「ぷふっ、ビジュアルて(笑"
+                                "\\n<Momo>Pfft, even though I'm just leftovers in terms of\nlooks and body compared to Nene-chan (Neon),\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "顔も体もネネっち(音々)に残飯してるのにぃ？」"
+                                ""
                             ]
                         },
                         {
@@ -2365,7 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「モモてめぇ……後で頭をスリッパで引っ叩くからな」"
+                                "\\n<Kino>Momo, you... I'm going to smack you on the head\nwith a slipper later."
                             ]
                         },
                         {
@@ -2382,14 +2382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「素が出てるわよ……気を付けなさい。"
+                                "\\n<Sawa>Your true colors are showing... Be careful. And\nMomo... It's not leftovers, it's a crushing\ndefeat..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それとモモ……残飯じゃなくて惨敗ね…」"
+                                ""
                             ]
                         },
                         {
@@ -2406,7 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「プクク……流石、お笑い担当♪」"
+                                "\\n<Kino>Pfft... As expected, I'm in charge of comedy♪"
                             ]
                         },
                         {
@@ -2432,7 +2432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「……んへへ♪」"
+                                "\\n<Momo>...hehe♪"
                             ]
                         },
                         {
@@ -2449,14 +2449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「褒めてねぇからな……。"
+                                "\\n<Kino>Since you didn't compliment me... Cough, well\nthen, I'm off~☆"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コホンっ、では行って来るよ～☆」"
+                                ""
                             ]
                         },
                         {
@@ -2532,14 +2532,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「音々！ 今日も最高だったぜ！"
+                                "\\n<Kino>Neon! Today was amazing too! Well then, see you\nlater~☆"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んじゃ、おつかれちゃ～ん☆」"
+                                ""
                             ]
                         },
                         {
@@ -2563,7 +2563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「お疲れ様、気を付けてな」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Good work, take care."
                             ]
                         },
                         {
@@ -2580,7 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ&モモ>\\F[\\V[2]]\\AA[F]「お疲れ様～」「おつかれぇ～」"
+                                "\\n<Sawa & Momo>Good work~"
                             ]
                         },
                         {
@@ -2723,14 +2723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「私も明日は午前中に雑誌のインタビューが"
+                                "\\n<Sawa>I also have a magazine interview tomorrow morning,\nso I'll pass on the after-party."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あるから打ち上げはパスするわね」"
+                                ""
                             ]
                         },
                         {
@@ -2778,7 +2778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「はぇ～……みんな忙しいねぇ」"
+                                "\\n<Momo>Huh... everyone seems busy, huh?"
                             ]
                         },
                         {
@@ -2826,7 +2826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「あなたも一緒にでしょうが……」"
+                                "\\n<Sawa>You should come along too..."
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「ごめんなさい……私、そんなつもりじゃ…」"
+                                "\\n<Sawa>I'm sorry... I didn't mean it like that..."
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「分かってる、サワは気にし過ぎだ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] I know, Sawa worries too much."
                             ]
                         },
                         {
@@ -2926,7 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[\\V[2]]\\AA[F]「うん……じゃあ、私達も先に失礼するわね」"
+                                "\\n<Sawa>\\F[\\V[2]]\\AA[F] Okay... then, we'll excuse\nourselves first."
                             ]
                         },
                         {
@@ -2943,7 +2943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[\\V[2]]\\AA[F]「えぇぇっ……打ち上げ…」"
+                                "\\n<Momo>\\F[\\V[2]]\\AA[F] Ehh... an after-party..."
                             ]
                         },
                         {
@@ -3020,7 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「ふぅ……駄目だな、気を遣わせてしまってるな…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Phew... I'm sorry, I'm causing you\nto worry..."
                             ]
                         },
                         {
@@ -3037,31 +3037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\AA[F]彼女達はバンド活動の他にも精力的に多方面で活動していた。"
+                                "They were actively involved in various activities\nbesides their band activities. As for me... I only\ntake on jobs related to music."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はというと……音楽に関わる仕事のみ請け負っている。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F](いや、違うな……私の\\r[我儘,わがまま]で全て断っているのだ)"
+                                ""
                             ]
                         },
                         {
@@ -3078,21 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\AA[F](本来なら柔軟に対応すべきなのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが私には歌う事しか出来ないし、それ以外を上手くこなせる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気がしない)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] (No, that's not it... It's because\nof my \\r[, being selfish, that I'm turning down\neverything.)"
                             ]
                         },
                         {
@@ -3109,14 +3078,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F](そもそも……グラビア撮影とか、水着着用のＣＭ撮影とか"
+                                "Minato Neon: (I suppose I should be more flexible.\nBut all I can do is sing, and I don't feel\nconfident in handling anything else.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうして私にはそんな感じの仕事ばかりが来るんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] (Why do I always get jobs like\ngravure shoots or swimsuit CM shoots...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3140,7 +3140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -3157,14 +3157,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F](……私は悪くない。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] (...It's not my fault. It's\nSonoda-san who keeps bringing me these kinds of\njobs, yeah, yeah...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんな仕事ばかり取って来る園田さんが悪い、うんうん…)"
+                                ""
                             ]
                         },
                         {
@@ -3188,14 +3188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「ふふっ……。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Hehe... How about I keep you\ncompany until morning and vent my frustrations to\nyou..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日は朝まで付き合わせて、そこら辺を愚痴ってやるか…」"
+                                ""
                             ]
                         },
                         {
@@ -3224,21 +3224,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "With a mischievous spirit bubbling up ever so\nslightly, \\# briskly left the dressing room..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#僅かに沸いた悪戯心を携え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#その足取りは軽快に私は控室を後にした――――…。"
+                                ""
                             ]
                         },
                         {
@@ -3341,14 +3341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "The next day, Sonoda Kohei brought a typewriter to\nthe band practice room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 　　　　　　　　　　　　　\\SE[タイプライター]…\\.\\SE[タイプライター]翌\\. \\SE[タイプライター]日"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～１F～",
+    "displayName": "East Building ~1F~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7260,7 +7260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「えぇ～っ！？ オイラを裸のまま放置する気かい？！」"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] Whaaat?! Are you planning to leave me\nnaked and abandoned?!"
                             ]
                         },
                         {
@@ -7284,7 +7284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](っ……それでどうにかなるなら、そうしてやりたい…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...If that's what it takes to make\nthings work, then I want to do it...)"
                             ]
                         },
                         {
@@ -7519,14 +7519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「ささ、音々ちゃんも早く～♪"
+                                "\\n<Udo Takeru>Come on, Neon-chan, hurry up~♪ It's embarrassing\nfor me to be the only one naked, you know~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラだけ裸とか恥ずかしいだろぉ～♪」"
+                                ""
                             ]
                         },
                         {
@@ -7601,14 +7601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「ささ、音々ちゃんも早く～♪"
+                                "\\n<Udo Takeru>Come on, Neon-chan, hurry up~♪ It's embarrassing\nfor me to be the only one naked, you know~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラだけ裸とか恥ずかしいだろぉ～♪」"
+                                ""
                             ]
                         },
                         {
@@ -7685,7 +7685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems like the door is locked."
                             ]
                         },
                         {
@@ -7889,7 +7889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ッ……ホント悪趣味な人形だ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...This is such a tasteless doll...)"
                             ]
                         },
                         {
@@ -7973,14 +7973,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こんなモノをいつの間に……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (When did this kind of thing... I have\nto make sure to dispose of it...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "必ず処分するよう言っておかないと…)"
+                                ""
                             ]
                         },
                         {
@@ -8875,7 +8875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](む……何も入ってない…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...There's nothing inside...)"
                             ]
                         },
                         {
@@ -8959,7 +8959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…何も入っていなかった)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...there was nothing inside)"
                             ]
                         },
                         {
@@ -9043,14 +9043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ 開かないな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Huh? It won't open. I don't see a\nkeyhole either, so how do I open it?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "鍵穴とかも見当たらないしどうやって開けるんだ？)"
+                                ""
                             ]
                         },
                         {
@@ -9125,7 +9125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ぁ……コレ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ah... this...)"
                             ]
                         },
                         {
@@ -9164,7 +9164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]小さな鍵\\C[0]を手に入れた。"
+                                "\\C[2] obtained a small key\\C[0]."
                             ]
                         },
                         {
@@ -9197,7 +9197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、キリの良いところで\\C[2]隠し通路\\C[0]に向かおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, let's head towards the \\C[2]\nhidden passage \\C[0] at a good stopping point)"
                             ]
                         },
                         {
@@ -9272,7 +9272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…なるほど。 隣の宝箱と連動していたんだな)"
+                                "\\n<Minato Neon>So that's how it is. It was connected to the\ntreasure chest next to it."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "♪ 恐怖の夜の樹海",
+    "displayName": "♪ Forest of Fearful Night",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1910,7 +1910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こんな所にも……視界に入れないようにしよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I should make sure it doesn't come into\nmy field of vision here...)"
                             ]
                         },
                         {
@@ -1994,7 +1994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こんな所にも……視界に入れないようにしよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Let's make sure it doesn't come into\nview in a place like this...)"
                             ]
                         },
                         {
@@ -2165,31 +2165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(よく聞いたら声が似ていなくも……。"
+                                "\\n<Minato Neon>(If I listen closely, our voices don't sound\nalike... No, even before that, our hairstyles...\nWhy is that...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それ以前に髪型が……そんな……どうして…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(どうして……気付かなかったんだ…)"
+                                ""
                             ]
                         },
                         {
@@ -2206,21 +2189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火照り始めた体からは急速に熱が引き背筋に悪寒が走る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いであって欲しいと私は食い入るように画面を見つめ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女達との相違点を探す。"
+                                "\\n<Minato Neon>(Why... didn't I notice...)"
                             ]
                         },
                         {
@@ -2237,7 +2206,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(そんな訳ない……そんな……あるはずがない…)"
+                                "The heat rapidly subsides from my flushed body,\nand a shiver runs down my spine. I stare intently\nat the screen, desperately hoping it's a mistake,\nsearching for any differences between them and me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2254,7 +2237,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、見れば見るほど私の期待が打ち砕かれていく。"
+                                "\\n<Minato Neon>(There's no way... There's no... it can't be\ntrue...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "However, the more I look, the more my expectations\nare shattered."
                             ]
                         },
                         {
@@ -2376,7 +2376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……モモ…)"
+                                "\\n<Minato Neon>(Momo...)"
                             ]
                         },
                         {
@@ -2498,7 +2498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(サ……ワ…)"
+                                "\\n<Minato Neon>(Sa... wa...)"
                             ]
                         },
                         {
@@ -2620,7 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(……キノ…)"
+                                "\\n<Minato Neon>(......Kino...)"
                             ]
                         },
                         {
@@ -2742,7 +2742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……もう私の知る彼女達にしか見えなかった。"
+                                "They already looked like the girls I knew."
                             ]
                         },
                         {
@@ -2759,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(どうして気付かなかった……どうして直ぐに気付けなかった…)"
+                                "\\n<Minato Neon>(Why didn't I notice... Why couldn't I realize it\nright away...)"
                             ]
                         },
                         {
@@ -2776,28 +2776,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…顔の一部が隠されていたから？\\!"
+                                "...Because a part of their faces was\nhidden?...Because it was a seductive voice that\nI've never heard before?...Because I assumed there\nwas no connection with Director Udo?...Only\nexcuses kept floating in my mind and then\ndisappearing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…普段聞いたことのない艶声だったから？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…宇堂監督との接点が無いものだと決めつけていたから？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭の中で言い訳だけが浮かんでは消えていく……。"
+                                ""
                             ]
                         },
                         {
@@ -2821,14 +2821,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[18]サワ\\C[0]>\\{「ッッ\\I[12] いいっ\\I[12] このチンポすごいのぉ\\I[12]"
+                                "\\n<Sawa>\\I[12], this dick feels so good! Ah, ah, yaaan,\nUdo-sama!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んあっ\\I[12] あっ\\I[12] やぁんっ\\I[12] うどうさまぁっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2852,38 +2852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「お前のアナル……ずいぶんと綺麗な色してンなぁ？"
+                                "\\n<Udo Takeru>Your asshole... it's such a beautiful color, huh?\nHave you never used it before?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしかして使った事ないのか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[23]モモ\\C[0]>「んふふっ、サ…その子は一途だから\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇堂様で経験人数が二人目だと思いますよぉ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2900,14 +2876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「マジかよ！？ "
+                                "\\n<Momo>Hehe, Sawa... that girl is loyal, so I think Udo-\nsama is her second experience, you know~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "するってぇとアナルは未開発な可能性大って事かっ♪」"
+                                ""
                             ]
                         },
                         {
@@ -2924,14 +2900,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ンっ\\I[12] 良かったじゃん♪"
+                                "\\n<Udo Takeru>Seriously!? So you're saying there's a high\npossibility that your asshole is still untouched,\nhuh?♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇堂様が初めての相手なんて羨ましい\\I[12]」"
+                                "\\n<Kino>Mmm, \\I[12], that's great♪ I'm jealous that Udo-\nsama is your first partner, \\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2955,14 +2955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[18]サワ\\C[0]>\\{「かってなこと……んンっ\\I[12] あうっ\\I[12] だ、だめ……"
+                                "\\n<Sawa>\\{I've never... ah, ah, no, no... I can't... I'm\nalready... ah, ah} Udo-samaaa\\I[12]\\I[12]\\"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わたしもう……んン\"っ\\I[12] うどうさまぁぁっ\\I[12]\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2986,21 +2986,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「俄然ヤル気が出て来たわ！"
+                                "\\n<Udo Takeru>I suddenly feel motivated! I'm going to fuck Sawa-\nchan's innocent asshole all night long! Ah... I\nsaid her name (laughs)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サワちゃんのウブなアナルを朝までハメ倒してやるわっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ……名前言っちゃった(笑」"
+                                ""
                             ]
                         },
                         {
@@ -3105,7 +3105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ッ……」"
+                                "\\n<Minato Neon>\\F[\\V[2]] ..."
                             ]
                         },
                         {
@@ -3122,38 +3122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]……とても見ていられなかった。"
+                                "I couldn't bear to watch \\F[\\V[2]] anymore. I\nslumped alone in front of my heartless,\ncontinuously playing laptop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は無情に再生を続けるノートパソコンの前で一人\\r[項垂,うなだ]れる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](どうして三人が宇堂監督と……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元々そういう関係だったのか？ 私が知らなかっただけで…)"
+                                ""
                             ]
                         },
                         {
@@ -3170,31 +3146,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]いくら考えたところで疑問が晴れる事はない。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Why are the three of them with Director\nUdo... Was it always like that? Was it just that I\ndidn't know...) Was it always like that? Was it\njust that I didn't know...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして、今の私には何もできない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](出来る事といったら直接会って問いただす事だが……でも何て？)"
+                                ""
                             ]
                         },
                         {
@@ -3211,7 +3170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "No matter how much I think about it, my doubts\nwon't be cleared. And right now, there's nothing I\ncan do."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3228,7 +3194,41 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……それ以前に、先ずは宇堂監督に会わなければいけない)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If there's anything I can do, it's\ndirectly meeting and asking them... but what\nshould I do?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>\\F[\\V[2]](...But before that, I have to meet\nDirector Udo first.)"
                             ]
                         },
                         {
@@ -3250,21 +3250,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は三度、動画へと向き直る。"
+                                "I turn my attention back to the video for the\nthird time. Reluctantly, I have to watch it until\nthe end. This is the only thing I can do right\nnow, so I motivate myself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嫌々ながらも最後まで観なければいけない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今の私に出来る事はこれだけなのだと自らを奮い立たせる。"
+                                ""
                             ]
                         },
                         {
@@ -3281,21 +3281,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "And as I apologized in my heart over and over\nagain, I continued to peek at their secrets until\nthe end..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そして私は心の中で何度も謝りながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#彼女たちの秘め事を最後まで覗き見たのだった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -3436,31 +3436,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(よく聞いたら声が似ていなくも……。"
+                                "\\n<Minato Neon>(If I listen closely, our voices don't sound\nalike... No, even before that, our hairstyles...\nWhy is that...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、それ以前に髪型が……そんな……どうして…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(どうして……気付かなかったんだ…)"
+                                ""
                             ]
                         },
                         {
@@ -3477,21 +3460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火照り始めた体からは急速に熱が引き背筋に悪寒が走る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いであって欲しいと私は食い入るように画面を見つめ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女達との相違点を探す。"
+                                "\\n<Minato Neon>(Why... didn't I notice...)"
                             ]
                         },
                         {
@@ -3508,7 +3477,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(そんな訳ない……そんな……あるはずがない…)"
+                                "The heat rapidly subsides from my flushed body,\nand a chill runs down my spine. I stare intently\nat the screen, desperately hoping it's a mistake,\nsearching for any differences between them and me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3525,7 +3508,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、見れば見るほど私の期待が打ち砕かれていく。"
+                                "\\n<Minato Neon>(There's no way... There's no... it can't be\ntrue...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "However, the more I look, the more my expectations\nare shattered."
                             ]
                         },
                         {
@@ -3647,7 +3647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……モモ…)"
+                                "\\n<Minato Neon>(Momo...)"
                             ]
                         },
                         {
@@ -3769,7 +3769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(サ……ワ…)"
+                                "\\n<Minato Neon>(Sa... wa...)"
                             ]
                         },
                         {
@@ -3891,7 +3891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(……キノ…)"
+                                "\\n<Minato Neon>(......Kino...)"
                             ]
                         },
                         {
@@ -4013,7 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……もう私の知る彼女達にしか見えなかった。"
+                                "They already looked like the only ones I knew."
                             ]
                         },
                         {
@@ -4030,7 +4030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(どうして気付かなかった……どうして直ぐに気付けなかった…)"
+                                "\\n<Minato Neon>(Why didn't I notice... Why couldn't I realize it\nright away...)"
                             ]
                         },
                         {
@@ -4047,28 +4047,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…顔の一部が隠されていたから？\\!"
+                                "...Because a part of their face was\nhidden?...Because it was a seductive voice that\nI've never heard before?...Because I assumed there\nwas no connection with Director Udo?...Only\nexcuses kept floating in my mind and then\ndisappearing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…普段聞いたことのない艶声だったから？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "…宇堂監督との接点が無いものだと決めつけていたから？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭の中で言い訳だけが浮かんでは消えていく……。"
+                                ""
                             ]
                         },
                         {
@@ -4092,14 +4092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[18]サワ\\C[0]>\\{「ッッ\\I[12] いいっ\\I[12] このチンポすごいのぉ\\I[12]"
+                                "\\n<Sawa>\\I[12], this dick feels so good! Ah, ah, yaaan!\nMaster Udo!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んあっ\\I[12] あっ\\I[12] やぁんっ\\I[12] うどうさまぁっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4123,38 +4123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「お前のアナル……ずいぶんと綺麗な色してンなぁ？"
+                                "\\n<Udo Takeru>Your asshole... it's such a beautiful color, isn't\nit? Have you never used it before?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしかして使った事ないのか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[23]モモ\\C[0]>「んふふっ、サ…その子は一途だから\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇堂様で経験人数が二人目だと思いますよぉ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4171,14 +4147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「マジかよ！？ "
+                                "\\n<Momo>Hehe, Sa... That child is loyal, so I think Udo-\nsama is their second experience, you know~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "するってぇとアナルは未開発な可能性大って事かっ♪」"
+                                ""
                             ]
                         },
                         {
@@ -4195,14 +4171,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ンっ\\I[12] 良かったじゃん♪"
+                                "\\n<Udo Takeru>Seriously!? So you're saying there's a high\npossibility that your asshole is still untouched,\nhuh?♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇堂様が初めての相手なんて羨ましい\\I[12]」"
+                                "\\n<Kino>Mmm, \\I[12], that's great♪ I'm envious that Udo-\nsama is your first partner, \\I[12]. I'm envious\nthat Udo-sama is your first partner, \\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4226,14 +4226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[18]サワ\\C[0]>\\{「かってなこと……んンっ\\I[12] あうっ\\I[12] だ、だめ……"
+                                "\\n<Sawa>\\{I've never... ah, ah, no... I can't... I'm\nalready... ah, ah} Master Udo-ahhh\\I[12]\\I[12]\\"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わたしもう……んン\"っ\\I[12] うどうさまぁぁっ\\I[12]\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4257,21 +4257,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「俄然ヤル気が出て来たわ！"
+                                "\\n<Udo Takeru>I suddenly got motivated! I'm gonna pound Sawa-\nchan's innocent asshole all night long! Ah... I\nsaid her name (laughs)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サワちゃんのウブなアナルを朝までハメ倒してやるわっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ……名前言っちゃった(笑」"
+                                ""
                             ]
                         },
                         {
@@ -4376,7 +4376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ッ……」"
+                                "\\n<Minato Neon>\\F[\\V[2]] ..."
                             ]
                         },
                         {
@@ -4393,38 +4393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]……とても見ていられなかった。"
+                                "\\F[\\V[2]]... I couldn't bear to watch. I was alone\nin front of my heartless, continuously playing\nlaptop, feeling \\r[ and dejected."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は無情に再生を続けるノートパソコンの前で一人\\r[項垂,うなだ]れる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](どうして三人が宇堂監督と……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元々そういう関係だったのか？ 私が知らなかっただけで…)"
+                                ""
                             ]
                         },
                         {
@@ -4441,31 +4417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]いくら考えたところで疑問が晴れる事はない。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Why are the three of them with Director\nUdo... Was it always that kind of relationship?\nWas it just that I didn't know...) Was it always\nthat kind of relationship? Was it just that I\ndidn't know...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして、今の私には何もできない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](出来る事といったら直接会って問いただす事だが……でも何て？)"
+                                ""
                             ]
                         },
                         {
@@ -4482,7 +4441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "No matter how much I think about it, my doubts\nwon't be cleared. And right now, I can't do\nanything."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4499,7 +4465,41 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……それ以前に、先ずは宇堂監督に会わなければいけない)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If there's anything I can do, it would\nbe to meet them directly and ask... but what\nshould I do?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>\\F[\\V[2]](...But before that, I have to meet\nDirector Udo first.)"
                             ]
                         },
                         {
@@ -4521,21 +4521,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は三度、動画へと向き直る。"
+                                "I turn my attention back to the video for the\nthird time. Reluctantly, I have to watch it until\nthe end. This is the only thing I can do right\nnow, so I motivate myself."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嫌々ながらも最後まで観なければいけない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今の私に出来る事はこれだけなのだと自らを奮い立たせる。"
+                                ""
                             ]
                         },
                         {
@@ -4552,21 +4552,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "And as I apologized in my heart over and over\nagain, I continued to peek at their secrets until\nthe end..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そして私は心の中で何度も謝りながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#彼女たちの秘め事を最後まで覗き見たのだった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -4712,7 +4712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こんな所にも……視界に入れないようにしよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Let's make sure it doesn't come into\nview in a place like this...)"
                             ]
                         },
                         {
@@ -4870,7 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こんな所にも……視界に入れないようにしよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I should make sure it doesn't come into\nmy field of vision here...)"
                             ]
                         },
                         {

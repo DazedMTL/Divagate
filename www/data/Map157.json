@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館 ～１F～",
+    "displayName": "West Building ~1F~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7354,14 +7354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](こんなよー分からん絵画は外して、どエロいポスターにでも"
+                                "\\n<Udo Takeru>I thought about taking down\n\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] this incomprehensible\npainting and replacing it with a super erotic\nposter, but I stopped because I thought the old\nman might appear and transform."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変えようかと思ったが、爺さんが化けて出てきそうだし止めたわ)"
+                                ""
                             ]
                         },
                         {
@@ -7452,14 +7452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](こんなよー分からん絵画は外して、どエロいポスターにでも"
+                                "\\n<Udo Takeru>I thought about replacing\n\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] with a super erotic\nposter since I don't understand this weird\npainting, but I stopped because it feels like an\nold man might appear and stop me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変えようかと思ったが、爺さんが化けて出てきそうだし止めたわ)"
+                                ""
                             ]
                         },
                         {

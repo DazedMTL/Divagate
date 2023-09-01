@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下教会 ～泉の間～",
+    "displayName": "Underground Church ~Spring Chamber~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4468,7 +4468,21 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4478,21 +4492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#“汚れた男の象徴を乙女の聖水にて清めよ”"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……と書物のページに書かれている。"
+                                "......and it's written on the pages of a book."
                             ]
                         },
                         {
@@ -5153,7 +5153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んひひっ♪ あ～……ココに来ると何やら思い出すねぇ\\I[12]」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hehe~ Ahh... When I\ncome here, it reminds me of something, \\I[12]."
                             ]
                         },
                         {
@@ -5170,7 +5170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ぐっ……忘れろバカ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ugh... Forget it,\nidiot..."
                             ]
                         },
                         {

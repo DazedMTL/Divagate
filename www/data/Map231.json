@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館３F ～宇堂の部屋～",
+    "displayName": "West Building 3F ~Udo's Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4190,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](\\C[2]モニタールーム\\C[0]へは、逆側のドアを進んだ先だ)"
+                                "\\n<Sonoda Kohei>\\F[62](\\C[2]The monitor room\\C[0] is located just\npast the door on the opposite side.)"
                             ]
                         },
                         {
@@ -4585,7 +4585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[4]]「え～…実に残念な事に、この中に盗人がいます」"
+                                "\\n<Udo Takeru>Well... unfortunately, there is a thief among us."
                             ]
                         },
                         {
@@ -4647,31 +4647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[4]]「その盗人はオイラのコレクションルームへと忍び込み、"
+                                "\\n<Udo Takeru>That thief sneaked into my collection room and,\nbelieve it or not, stole Neon-chan's (wax figure)\nbra."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あろうことか、音々ちゃん(蝋人形)のブラを盗んでいきました」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\FF[93]\\F[\\V[4]]\\AA[FF]「ッ！？」"
+                                ""
                             ]
                         },
                         {
@@ -4688,14 +4671,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[4]]「オイラ、言ったよねぇ……裏切りは即AVデビューってさァ？"
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] Huh!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三人の中にデビューしたい子がいるみたいだねぇ…」"
+                                "\\n<Udo Takeru>\\F[\\V[4]] Hey, didn't I say... that betrayal means\nan immediate AV debut? It seems like there's a\ngirl among the three who wants to make her\ndebut..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4743,7 +4743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[91]\\F[\\V[4]]\\AA[F]「犯人はキノちゃんかなァ？」"
+                                "\\n<Udo Takeru>I wonder if Kino-chan is the culprit?"
                             ]
                         },
                         {
@@ -4760,7 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\FF[91]\\F[\\V[4]]\\AA[FF]「……違います」"
+                                "\\n<Kino>\\FF[91]\\F[\\V[4]]\\AA[FF] ......No, that's not true."
                             ]
                         },
                         {
@@ -4777,7 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[91]\\F[\\V[4]]\\AA[F]「ふぅ～ん？」"
+                                "\\n<Udo Takeru>Hmmm?"
                             ]
                         },
                         {
@@ -4853,7 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[92]\\F[\\V[4]]\\AA[F]「だったらモモちゃんかなァ？」"
+                                "\\n<Udo Takeru>If that's the case, maybe it's Momo-chan?"
                             ]
                         },
                         {
@@ -4870,7 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\FF[92]\\F[\\V[4]]\\AA[FF]「違うよ～」"
+                                "\\n<Momo>\\FF[92]\\F[\\V[4]]\\AA[FF] No, that's not true~"
                             ]
                         },
                         {
@@ -4887,7 +4887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[92]\\F[\\V[4]]\\AA[F]「ふむふむ」"
+                                "\\n<Udo Takeru>\\FF[92]\\F[\\V[4]]\\AA[F] Hmm, hmm."
                             ]
                         },
                         {
@@ -4949,14 +4949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「ならサワちゃんかァ？ あ～…ちなみに、"
+                                "\\n<Udo Takeru>If that's the case, maybe it's Sawa-chan? Ah... by\nthe way, if the culprit doesn't come forward, all\nthree of you will debut together, getting along\nnicely."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "犯人が名乗り出ない場合は三人まとめて仲良くデビューだァ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4973,7 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\FF[93]\\F[\\V[4]]\\AA[FF]「………\\!私が盗みました」"
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] ...I stole it."
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「ふむ……一応、理由を聞いとこうか？」"
+                                "\\n<Udo Takeru>Hmmm... For now, should I ask for the reason?"
                             ]
                         },
                         {
@@ -5025,7 +5025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\FF[93]\\F[\\V[4]]\\AA[FF]「……こ、好みのデザインだったので付けてみたくて…」"
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] ...I-I just wanted to try\nit on because it was a design I liked..."
                             ]
                         },
                         {
@@ -5042,7 +5042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「なるほど！ はい注目！ 犯人はサワちゃんでした～」"
+                                "\\n<Udo Takeru>I see! Alright, everyone pay attention! The\nculprit was Sawa-chan~"
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\FF[91]\\F[\\V[4]]\\AA[FF]「いや、待ってくれ……サワがそんな事する訳…」"
+                                "\\n<Kino>No, wait... There's no way Sawa would do something\nlike that..."
                             ]
                         },
                         {
@@ -5076,7 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\FF[92]\\F[\\V[4]]\\AA[FF]「そうだよ～！ うちのサワに限ってあるはずないよ～！」"
+                                "\\n<Momo>\\FF[92]\\F[\\V[4]]\\AA[FF] Yeah~! There's no way Sawa\nwould do something like that~!"
                             ]
                         },
                         {
@@ -5093,14 +5093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\FF[93]\\F[\\V[4]]\\AA[FF]「いいの、二人とも……。"
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] It's okay, both of you...\nI'm sorry... You can punish me however you want..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "申し訳ありませんでした……処分はいかようにも…」"
+                                ""
                             ]
                         },
                         {
@@ -5117,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「残念だよ……キミはもっと賢い人間だと思ってたんだけどねぇ？」"
+                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] That's disappointing... I\nthought you were a smarter person, you know?"
                             ]
                         },
                         {
@@ -5141,14 +5141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「じゃあ、公言通り……キミにはAVデビューしてもらいまぁす\\I[12]"
+                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] Well then, as promised...\nI'll have you make your AV debut, \\I[12]! Alright,\napplause~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はい拍手～」"
+                                ""
                             ]
                         },
                         {
@@ -5165,7 +5165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ＆モモ>\\FF[93]\\F[\\V[4]]\\AA[F]「くっ…」「ぶぅ…」"
+                                "\\n<Kino & Momo>\\FF[93]\\F[\\V[4]]\\AA[F] Ku... Bu..."
                             ]
                         },
                         {
@@ -5213,7 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「\\{うるせぇ！\\}」"
+                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] Shut up!"
                             ]
                         },
                         {
@@ -5230,7 +5230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ＆モモ>\\FF[93]\\F[\\V[4]]\\AA[F]「「えぇぇぇぇ…」」"
+                                "\\n<Kino & Momo>Eeeee..."
                             ]
                         },
                         {
@@ -5254,31 +5254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「……サワちゃん、君は運が良いよ。"
+                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] ...Sawa-chan, you're lucky.\nYou've been saved~... thanks to my genius\ninspiration♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "助けられたねぇ～……オイラの天才的ひらめきにさァ♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\FF[93]\\F[\\V[4]]\\AA[FF]「それはどういう…」"
+                                ""
                             ]
                         },
                         {
@@ -5295,14 +5278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「ブラが無くなった事で天から降って来たというか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々ちゃんとのムフフなイベントを思い付いたのさァ\\I[12]」"
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] What do you mean..."
                             ]
                         },
                         {
@@ -5319,14 +5295,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[93]\\F[\\V[4]]\\AA[F]「だから今回に限り、一つ罰を与える事で"
+                                "\\n<Udo Takeru>It's not so much that it fell from the sky because\nmy bra disappeared, but rather, I came up with a\nnaughty event with Neon-chan, you know~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サワちゃんのAVデビューは回避となりま～す！」"
+                                "\\n<Udo Takeru>So, for this time only, by giving a punishment, we\ncan avoid Sawa-chan's AV debut~!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5362,21 +5362,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Amidst the various conflicting emotions, the night\nof the fourth day of the training camp grew late."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……こうして、様々な思いが交錯する中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#合宿四日目の夜は更けていった。"
+                                ""
                             ]
                         },
                         {
@@ -5405,14 +5405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\.\\SE[Typewriter]N\\.\\SE[Typewriter]E\\.\\SE[Typewrit\ner]X\\.\\SE[Typewriter]T\\. \\SE[Typewriter]D\\.\\SE[Typ\newriter]A\\.\\SE[Typewriter]Y\\.\\SE[Typewriter]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　　　　　　　\\.\\SE[タイプライター]Ｎ\\.\\SE[タイプライター]Ｅ\\.\\SE[タイプライター]Ｘ\\.\\SE[タイプライター]Ｔ\\. \\SE[タイプライター]Ｄ\\.\\SE[タイプライター]Ａ\\.\\SE[タイプライター]Ｙ\\.\\SE[タイプライター]…"
+                                ""
                             ]
                         },
                         {
@@ -5695,7 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……気分が悪くなる。 此処は止めておこう)"
+                                "\\n<Sonoda Kohei>\\F[62] (...I'm starting to feel sick. Let's stop\nhere.)"
                             ]
                         },
                         {
@@ -5863,7 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](中は……これといって目ぼしい物は無いか)"
+                                "\\n<Sonoda Kohei>\\F[62] (Is there anything noteworthy inside?)"
                             ]
                         },
                         {
@@ -6684,7 +6684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](何だコレは……怪しい液体の詰まったボトルが置かれている)"
+                                "\\n<Sonoda Kohei>What is this... a bottle filled with suspicious\nliquid is placed here."
                             ]
                         },
                         {
@@ -6761,7 +6761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……ずぼらそうに見えて、思いのほか綺麗に整頓されているな)"
+                                "\\n<Sonoda Kohei>(......Despite looking sloppy, it's surprisingly\nwell organized.)"
                             ]
                         },
                         {
@@ -6838,7 +6838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……ずぼらそうに見えて、思いのほか綺麗に整頓されているな)"
+                                "\\n<Sonoda Kohei>(......Despite looking lazy, it's surprisingly\nwell organized.)"
                             ]
                         },
                         {
@@ -6915,14 +6915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](高そうなソファだ……。"
+                                "\\n<Sonoda Kohei>This sofa looks expensive... But more importantly,\nthis place is completely different from the room\nthat was assigned to me \\r[."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それよりも此処は……僕に\\r[宛,あて]がわれた部屋とは大違いだな)"
+                                ""
                             ]
                         },
                         {

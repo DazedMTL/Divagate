@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "♪ 恐怖の夜の樹海",
+    "displayName": "♪ Forest of Fearful Night",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1735,14 +1735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「…―――だから、私のバッグをどこにやったと聞いている！"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] ...So, I'm asking where\nyou put my bag! Hey, listen...what are you doing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おい聞いて――――……何をしている？」"
+                                ""
                             ]
                         },
                         {
@@ -1759,7 +1759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「何って……このままじゃレッスンにならんからなァ…」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] What...this won't be a\nproper lesson like this..."
                             ]
                         },
                         {
@@ -1923,7 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「な、なぜ服を脱ぐんだっ！ 真面目に話してるんだぞ！」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] W-Why are you taking\noff your clothes?! I'm trying to have a serious\nconversation here!"
                             ]
                         },
                         {
@@ -1940,21 +1940,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「オイラだって真面目も真面目、大真面目だよォ？"
+                                "\\n<Udo Takeru>Even I am serious, very serious, super serious,\nyou know? Today's lesson is for Neon-chan to\ncarefully observe a man's body, so yeah♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日のレッスンは音々ちゃんに男の体をじっくりと観察してもらう"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レッスンだからねぇ♪」"
+                                ""
                             ]
                         },
                         {
@@ -1971,7 +1971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「はぁ？ か、観察って…――――ッ！？」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] Huh? Observe...----\nhuh!?"
                             ]
                         },
                         {
@@ -2128,14 +2128,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "背後に不穏な気配を察し、私は思わず逃げてしまった。"
+                                "I sensed an unsettling presence behind me, and\ninstinctively ran away. However... I was blocked\nby a closed door and stood there frozen in place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが……閉ざされた扉に阻まれ、その場で立ち尽くす。"
+                                ""
                             ]
                         },
                         {
@@ -2152,14 +2152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「おいおい、まさか音々ちゃんって男の体も直視できないぐらいの"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Hey hey, could it be\nthat Neon-chan is such an innocent and pure-\nhearted girl that she can't even look directly at\na man's body? That's quite something... hehehe."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "純情可憐ちゃんなのかいィ？ そいつぁロックだねぇ……ククッ」"
+                                ""
                             ]
                         },
                         {
@@ -2183,7 +2183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「……ッ！」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] ...!"
                             ]
                         },
                         {
@@ -2200,21 +2200,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]カチンときてしまった……自分でも単純だと思う。"
+                                "\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] It really got on my\nnerves... I think I'm pretty simple-minded myself.\nBut since we're promoting ourselves as a rock\nband, I felt like Director Udo's words were\nmocking even my fellow band members."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だがロックバンドとして売り出している以上、宇堂監督の言葉は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私の仲間まで馬鹿にされた気がしたのだ。"
+                                ""
                             ]
                         },
                         {
@@ -2262,14 +2262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「おっ？ いいねぇその目♪"
+                                "\\n<Udo Takeru>Oh? Nice eyes there♪ Neon-chan, you gotta be like\nthat too, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "音々ちゃんはそうでなくっちゃ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2304,38 +2304,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "視界が宇堂監督の全身を捉える。"
+                                "The sight captured Director Udo's entire body. At\nfirst glance... it appeared to be a flabby and\nslack body, but surprisingly, certain areas were\ntoned and it unexpectedly had a man's body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一見……腹のたるんだダラしのない体に見えたが、意外と所々が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "引き締まっていて思いのほか“男”の体をしていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「それで……私のバッグはどこに…」"
+                                ""
                             ]
                         },
                         {
@@ -2352,14 +2335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「いきなり犯人扱いとか酷いなァ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石のオイラも傷ついちゃうよォ～…」"
+                                "\\n<Minato Neon>So... where is my bag..."
                             ]
                         },
                         {
@@ -2376,45 +2352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「宇堂監督しかいないだろ！"
+                                "\\n<Udo Takeru>Treating me as the culprit all of a sudden...\nthat's really harsh. Even someone like me would\nget hurt by that~..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "返してくれ……今なら問題にせず、ここだけの話にするから…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…視界の隅で宇堂監督のアレが禍々しい存在感を放つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見まいとすればするほどそれは逆効果となり、否応なしにアレを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識してしまう結果となった。"
+                                ""
                             ]
                         },
                         {
@@ -2431,7 +2376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……ど、どうして既にあんな状態に…)"
+                                "\\n<Minato Neon>There's no one else but Director Udo! Give it\nback... If you do it now, I won't make it a\nproblem. Let's keep this between us..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2448,38 +2400,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あろうことか宇堂監督のアレはビクビクと脈付き反り勃っていた。"
+                                "...In the corner of my vision, Director Udo's\nthing emits a sinister presence. The more I try\nnot to look at it, the more it has the opposite\neffect, and I end up unconsciously becoming aware\nof it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この時……私は初めて宇堂という男に対し、恐れの感情を抱いた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「マネージャーの彼という可能性もあるでしょ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼だって男なんだから、つい出来心でって感じでさぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -2496,14 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(……あの動画の彼女はあんなモノを口にしたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信じられない……アレを……あんな嬉しそうに…)"
+                                "\\n<Minato Neon>(Huh... why is it already in that state...)"
                             ]
                         },
                         {
@@ -2520,7 +2448,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ちょっと、音々ちゃん聞いてるゥ？」"
+                                "Udo Director's thing was throbbing and erect,\ntrembling. At that moment... I felt a sense of\nfear towards this man named Udo for the first\ntime."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>There's also the possibility of him being the\nmanager, you know~? Since he's a guy too, maybe he\njust acted on impulse, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>(......Did she really put that thing in her mouth\nin that video? Unbelievable......That...she looked\nso happy doing it...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>Hey, Neon-chan, are you listening?"
                             ]
                         },
                         {
@@ -2595,21 +2595,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりと宇堂監督が私へと近づく。"
+                                "Udo Director slowly approaches me. Startled, I try\nto jump back, but I can only feel the despair of\nthe wall against my back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ハッとなった私は後方へと飛び退くも、背中に伝わる壁の感触に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "絶望するしかなかった。"
+                                ""
                             ]
                         },
                         {
@@ -2640,7 +2640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「そ、それ以上近づくなっ…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] D-Don't come any\ncloser..."
                             ]
                         },
                         {
@@ -2657,14 +2657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「いやいや……お互いの為にさぁ？"
+                                "\\n<Udo Takeru>No, no... for the sake of both of us, right? We\ncan't just leave any doubts unresolved, can we?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここはキッチリ疑いを晴らさんとイカンだろうォ？」"
+                                ""
                             ]
                         },
                         {
@@ -2712,7 +2712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「ぁ……だめ……むり…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] Ah... no...\nimpossible..."
                             ]
                         },
                         {
@@ -2759,38 +2759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突如として襲った恐怖によって私を支える足腰から力が抜け落ち、"
+                                "I lost all strength in my legs that were\nsupporting me due to the sudden fear that attacked\nme, and embarrassingly... I ended up collapsing\nright there on the spot."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "情けない事に……私はその場へとへたり込んでしまった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「きっと犯人はマネージャーの彼だよォ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々ちゃんもそう思うだろう？」"
+                                ""
                             ]
                         },
                         {
@@ -2807,7 +2783,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「分かった……もう分かったから一旦離れて…」"
+                                "\\n<Udo Takeru>I'm sure the culprit is the manager. Don't you\nthink so too, Neon-chan? I'm sure Neon-chan thinks\nthe same, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2824,14 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「なら、謝罪しないといけないよねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "証拠も無しに善良さで定評のあるオイラを疑ったんだからねぇ？」"
+                                "\\n<Minato Neon>I understand... I understand now, so please just\nstep back for a moment..."
                             ]
                         },
                         {
@@ -2848,7 +2824,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……わ、悪かった……ごめんなさい…」"
+                                "\\n<Udo Takeru>Then, I guess I have to apologize, right? You\ndoubted someone like me, who is known for being\nvirtuous, without any evidence, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2865,14 +2848,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「それじゃあ伝わらないなァ？"
+                                "\\n<Minato Neon>Ah... I'm sorry... I'm really sorry..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、ちゃんとオイラの目を見て…」"
+                                "\\n<Udo Takeru>If that's the case, won't it not get through? Come\non, look into my eyes properly..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2925,52 +2925,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…――――見上げた瞬間、私の全身が硬直した。"
+                                "...----The moment I looked up, my whole body\nstiffened. To my surprise, right in front of my\neyes and nose, there was the very source of this\nsituation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あろうことか目と鼻の先に、この状況を生み出したとも言える"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "事の元凶が在ったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「おいおい……どこを見てるんだい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、さっきからチラチラと見てるよねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々ちゃんはそんなにオイラのチンポが気になるのかなァ～？」"
+                                ""
                             ]
                         },
                         {
@@ -2987,7 +2956,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「なっ……！？ ち、違――…」"
+                                "\\n<Udo Takeru>Hey hey... where are you looking♪ By the way,\nyou've been glancing at it from time to time,\nhaven't you? Is my dick that intriguing to you,\nNeon-chan~?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3004,7 +2987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「目を逸らすな！ それじゃあレッスンにならんだろうが！」"
+                                "\\n<Minato Neon>Ngh...!? Th-this is wro--..."
                             ]
                         },
                         {
@@ -3021,7 +3004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……ご、ごめん……なさい…」"
+                                "\\n<Udo Takeru>Don't look away! That won't be a proper lesson!"
                             ]
                         },
                         {
@@ -3038,21 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いきなり怒鳴られ、反射的に思わず謝罪の言葉が口をつく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐさま後悔したが……反抗的だと思われる事に恐怖した私は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔を背ける事が出来なくなっていた。"
+                                "\\n<Minato Neon>Ugh... S-sorry..."
                             ]
                         },
                         {
@@ -3069,31 +3038,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ンフフっ、素直でよろしい♪"
+                                "Suddenly being yelled at, I reflexively blurted\nout an apology without thinking. Immediately\nregretting it, but... I was unable to turn my face\naway, fearing that I would be seen as defiant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでどうかなァ？ 立派なモンだろう♪」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「な……なんの事だ…」"
+                                ""
                             ]
                         },
                         {
@@ -3110,21 +3069,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…自分で言っておいて、それは無いと思う。"
+                                "\\n<Udo Takeru>Nfufu, you're quite obedient♪ So, what do you\nthink? Isn't it a splendid thing♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私の視線はその対象と思わしきモノにしっかりと固定され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その全貌を捉えていたのだから…。"
+                                ""
                             ]
                         },
                         {
@@ -3141,21 +3093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ククッ、とぼけちゃってまァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらほらレッスンなんだから、しっかりと観察しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の中でもかなりの上モノに位置するチンポだぞォ♪」"
+                                "\\n<Minato Neon>W-What are you talking about..."
                             ]
                         },
                         {
@@ -3172,7 +3110,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「くっ……ッ…」"
+                                "...To say it myself, I don't think that's right.\nMy gaze was firmly fixed on what I believed to be\nthe subject, capturing its entirety..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3189,38 +3141,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囲うように浮き出た血管や若々しささえ感じる艶と張り。"
+                                "\\n<Udo Takeru>Hehe, don't play dumb♪ Come on, it's a lesson, so\nobserve carefully. This dick is one of the top-\nnotch ones among men, you know♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画を観ただけでは知り得なかった知りたくもない情報が、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次々に私の脳内へと流れ込んでいく…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ン……あぁ……だめぇ…」"
+                                ""
                             ]
                         },
                         {
@@ -3237,14 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…初めて嗅がされた強烈な雄の\\r[臭,にお]い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼吸をする度に鼻孔を通り抜け、私の中に溶けていく。"
+                                "\\n<Minato Neon>Ugh...!"
                             ]
                         },
                         {
@@ -3261,38 +3189,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(頭がボーっとして変になる……だめ……この臭いはだめ……。"
+                                "The gloss and firmness that can be felt even in\nthe veins that stand out as if surrounding it.\nUnwanted information that I couldn't have known\njust by watching the video keeps flowing into my\nmind one after another..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "臭いだけなのに……それだけのはずなのに……他になにがあるの？)"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分に起こっている事なのに何一つ理解できていない状況に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ストレスを覚え、考える事を放棄してしまいそうになる。"
+                                ""
                             ]
                         },
                         {
@@ -3309,14 +3220,103 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……気をしっかりと持たないと駄目だ。"
+                                "\\n<Minato Neon>Mmm... Ahh... Nooo..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはレッスン……ただのレッスン…)"
+                                "...The intense \\r[ scent of a male that I was made\nto smell for the first time. It passes through my\nnostrils every time I breathe, melting into me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>(My head feels fuzzy... No... This smell is no\ngood... Just the smell... It should only be the\nsmell... What else is there?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I feel stressed by the situation where I can't\nunderstand anything that is happening to me, and I\nfeel like giving up on thinking."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>(Ugh... I need to stay focused. This is a\nlesson... just a lesson...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3345,14 +3345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "And I continue to observe----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そして私は、観察を続ける――――…。"
+                                ""
                             ]
                         },
                         {
@@ -3383,7 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……ちゃん？ お～い、音々ちゃ～ん？」"
+                                "\\n<Udo Takeru>...Chan? Hey, Neon-chan~?"
                             ]
                         },
                         {
@@ -3577,14 +3577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「…―――だから、私のバッグをどこにやったと聞いている！"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] ...So, I'm asking where\nyou put my bag! Hey, listen... What are you doing?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おい聞いて――――……何をしている？」"
+                                ""
                             ]
                         },
                         {
@@ -3601,7 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「何って……このままじゃレッスンにならんからなァ…」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] What... this won't be a\nlesson like this..."
                             ]
                         },
                         {
@@ -3765,7 +3765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「な、なぜ服を脱ぐんだっ！ 真面目に話してるんだぞ！」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] W-Why are you taking\noff your clothes?! I'm trying to have a serious\nconversation here!"
                             ]
                         },
                         {
@@ -3782,21 +3782,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「オイラだって真面目も真面目、大真面目だよォ？"
+                                "\\n<Udo Takeru>Even I am serious, very serious, super serious,\nyou know? Today's lesson is for Neon-chan to\ncarefully observe a man's body, so yeah♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日のレッスンは音々ちゃんに男の体をじっくりと観察してもらう"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レッスンだからねぇ♪」"
+                                ""
                             ]
                         },
                         {
@@ -3813,7 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「はぁ？ か、観察って…――――ッ！？」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] Huh? Observe... huh?!?"
                             ]
                         },
                         {
@@ -3970,14 +3970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "背後に不穏な気配を察し、私は思わず逃げてしまった。"
+                                "I sensed an unsettling presence behind me and\ninstinctively ran away. However... I was blocked\nby a closed door and stood there frozen in place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが……閉ざされた扉に阻まれ、その場で立ち尽くす。"
+                                ""
                             ]
                         },
                         {
@@ -3994,14 +3994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「おいおい、まさか音々ちゃんって男の体も直視できないぐらいの"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Hey hey, don't tell me\nNeon-chan is so innocent and pure that she can't\neven look at a man's body directly? That's quite\nsomething... Kukuku."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "純情可憐ちゃんなのかいィ？ そいつぁロックだねぇ……ククッ」"
+                                ""
                             ]
                         },
                         {
@@ -4025,7 +4025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「……ッ！」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] ...!"
                             ]
                         },
                         {
@@ -4042,21 +4042,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]カチンときてしまった……自分でも単純だと思う。"
+                                "\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] I got irritated... I\nthink I'm simple-minded myself. But since we're\npromoting ourselves as a rock band, I felt like\nDirector Udo's words were mocking even my\ncomrades."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だがロックバンドとして売り出している以上、宇堂監督の言葉は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私の仲間まで馬鹿にされた気がしたのだ。"
+                                ""
                             ]
                         },
                         {
@@ -4104,14 +4104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「おっ？ いいねぇその目♪"
+                                "\\n<Udo Takeru>Oh? Nice eyes there♪ Neon-chan, you gotta be like\nthat, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "音々ちゃんはそうでなくっちゃ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -4146,38 +4146,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "視界が宇堂監督の全身を捉える。"
+                                "The sight captured Director Udo's entire body. At\nfirst glance... it appeared to be a flabby and\nuntoned stomach, but surprisingly, certain areas\nwere firm and it unexpectedly had a man's body."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一見……腹のたるんだダラしのない体に見えたが、意外と所々が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "引き締まっていて思いのほか“男”の体をしていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「それで……私のバッグはどこに…」"
+                                ""
                             ]
                         },
                         {
@@ -4194,14 +4177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「いきなり犯人扱いとか酷いなァ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石のオイラも傷ついちゃうよォ～…」"
+                                "\\n<Minato Neon>So... where is my bag..."
                             ]
                         },
                         {
@@ -4218,45 +4194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「宇堂監督しかいないだろ！"
+                                "\\n<Udo Takeru>Treating me as the culprit all of a sudden...\nthat's really harsh, you know? Even someone like\nme would get hurt by that~..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "返してくれ……今なら問題にせず、ここだけの話にするから…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…視界の隅で宇堂監督のアレが禍々しい存在感を放つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見まいとすればするほどそれは逆効果となり、否応なしにアレを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意識してしまう結果となった。"
+                                ""
                             ]
                         },
                         {
@@ -4273,7 +4218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……ど、どうして既にあんな状態に…)"
+                                "\\n<Minato Neon>There's no one else but Director Udo! Give it\nback... If you do it now, we won't make it a\nproblem and keep it just between us..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4290,38 +4242,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あろうことか宇堂監督のアレはビクビクと脈付き反り勃っていた。"
+                                "...In the corner of my vision, Director Udo's\nthing emits a sinister presence. The more I try\nnot to look, the more it becomes\ncounterproductive, and I ended up unconsciously\nbecoming aware of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この時……私は初めて宇堂という男に対し、恐れの感情を抱いた。"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「マネージャーの彼という可能性もあるでしょ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼だって男なんだから、つい出来心でって感じでさぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -4338,14 +4273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(……あの動画の彼女はあんなモノを口にしたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信じられない……アレを……あんな嬉しそうに…)"
+                                "\\n<Minato Neon>(Huh... why is it already in that state...)"
                             ]
                         },
                         {
@@ -4362,7 +4290,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ちょっと、音々ちゃん聞いてるゥ？」"
+                                "Udo Director's thing was throbbing and erect,\ntrembling. At that moment... I felt a sense of\nfear towards Udo, a man, for the first time."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>There's also the possibility of him being the\nmanager, right? Since he's a guy too, maybe he\njust acted on impulse, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>(......Did she really put that thing in her mouth\nin that video? I can't believe it......That...she\nlooked so happy doing it...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>Hey, Neon-chan, are you listening?"
                             ]
                         },
                         {
@@ -4437,21 +4437,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりと宇堂監督が私へと近づく。"
+                                "Udo Director slowly approaches me. Startled, I try\nto jump back, but I can only feel the despair of\nthe wall against my back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ハッとなった私は後方へと飛び退くも、背中に伝わる壁の感触に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "絶望するしかなかった。"
+                                ""
                             ]
                         },
                         {
@@ -4491,7 +4491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「そ、それ以上近づくなっ…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] D-Don't come any\ncloser..."
                             ]
                         },
                         {
@@ -4508,14 +4508,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「いやいや……お互いの為にさぁ？"
+                                "\\n<Udo Takeru>No, no... for the sake of both of us, right? We\ncan't just leave any doubts unresolved, can we?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここはキッチリ疑いを晴らさんとイカンだろうォ？」"
+                                ""
                             ]
                         },
                         {
@@ -4563,7 +4563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「ぁ……だめ……むり…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] Ah... no...\nimpossible..."
                             ]
                         },
                         {
@@ -4610,38 +4610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突如として襲った恐怖によって私を支える足腰から力が抜け落ち、"
+                                "I was suddenly struck by fear, causing the\nstrength to drain from my legs that were\nsupporting me, and embarrassingly... I ended up\ncollapsing right there on the spot."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "情けない事に……私はその場へとへたり込んでしまった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「きっと犯人はマネージャーの彼だよォ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々ちゃんもそう思うだろう？」"
+                                ""
                             ]
                         },
                         {
@@ -4658,7 +4634,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「分かった……もう分かったから一旦離れて…」"
+                                "\\n<Udo Takeru>I'm sure the culprit is the manager. Don't you\nthink so too, Neon-chan?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4675,14 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「なら、謝罪しないといけないよねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "証拠も無しに善良さで定評のあるオイラを疑ったんだからねぇ？」"
+                                "\\n<Minato Neon>I understand... I understand now, so please step\nback for a moment..."
                             ]
                         },
                         {
@@ -4699,7 +4675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……わ、悪かった……ごめんなさい…」"
+                                "\\n<Udo Takeru>Then, you have to apologize, right? You doubted\nsomeone like me, who is known for their goodness,\nwithout any evidence, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4716,14 +4699,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「それじゃあ伝わらないなァ？"
+                                "\\n<Minato Neon>Ah... I'm sorry... I'm really sorry..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、ちゃんとオイラの目を見て…」"
+                                "\\n<Udo Takeru>If that's the case, won't it not get through? Come\non, look into my eyes properly..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4776,52 +4776,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…――――見上げた瞬間、私の全身が硬直した。"
+                                "...----The moment I looked up, my whole body\nstiffened. To my surprise, right in front of my\neyes and nose, there was the very source of this\nsituation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あろうことか目と鼻の先に、この状況を生み出したとも言える"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "事の元凶が在ったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「おいおい……どこを見てるんだい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、さっきからチラチラと見てるよねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々ちゃんはそんなにオイラのチンポが気になるのかなァ～？」"
+                                ""
                             ]
                         },
                         {
@@ -4838,7 +4807,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「なっ……！？ ち、違――…」"
+                                "\\n<Udo Takeru>Hey hey... where are you looking♪ By the way,\nyou've been glancing at it since earlier, haven't\nyou? Is Neon-chan so interested in my dick~?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4855,7 +4838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「目を逸らすな！ それじゃあレッスンにならんだろうが！」"
+                                "\\n<Minato Neon>Ngh...! Th-this is wro--..."
                             ]
                         },
                         {
@@ -4872,7 +4855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……ご、ごめん……なさい…」"
+                                "\\n<Udo Takeru>Don't look away! That won't be a lesson!"
                             ]
                         },
                         {
@@ -4889,21 +4872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いきなり怒鳴られ、反射的に思わず謝罪の言葉が口をつく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐさま後悔したが……反抗的だと思われる事に恐怖した私は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔を背ける事が出来なくなっていた。"
+                                "\\n<Minato Neon>Ugh... I-I'm sorry..."
                             ]
                         },
                         {
@@ -4920,31 +4889,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ンフフっ、素直でよろしい♪"
+                                "Suddenly being yelled at, I reflexively blurted\nout an apology without thinking. Immediately\nregretting it... I became unable to turn my face\naway, fearing that I would be seen as defiant."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それでどうかなァ？ 立派なモンだろう♪」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「な……なんの事だ…」"
+                                ""
                             ]
                         },
                         {
@@ -4961,21 +4920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…自分で言っておいて、それは無いと思う。"
+                                "\\n<Udo Takeru>Nfufu, you're obedient, aren't you♪ So, what do\nyou think? It's quite impressive, isn't it♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私の視線はその対象と思わしきモノにしっかりと固定され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その全貌を捉えていたのだから…。"
+                                ""
                             ]
                         },
                         {
@@ -4992,21 +4944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ククッ、とぼけちゃってまァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらほらレッスンなんだから、しっかりと観察しなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の中でもかなりの上モノに位置するチンポだぞォ♪」"
+                                "\\n<Minato Neon>W-What are you talking about..."
                             ]
                         },
                         {
@@ -5023,7 +4961,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「くっ……ッ…」"
+                                "...To say it myself, I don't think that's right.\nMy gaze was firmly fixed on what I believed to be\nthe subject, capturing its entirety..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5040,38 +4992,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囲うように浮き出た血管や若々しささえ感じる艶と張り。"
+                                "\\n<Udo Takeru>Hehe, don't play dumb♪ Come on, since it's a\nlesson, observe it closely. This dick is one of\nthe top-tier ones among men, you know♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画を観ただけでは知り得なかった知りたくもない情報が、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次々に私の脳内へと流れ込んでいく…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ン……あぁ……だめぇ…」"
+                                ""
                             ]
                         },
                         {
@@ -5088,14 +5023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…初めて嗅がされた強烈な雄の\\r[臭,にお]い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼吸をする度に鼻孔を通り抜け、私の中に溶けていく。"
+                                "\\n<Minato Neon>Kuh...!"
                             ]
                         },
                         {
@@ -5112,38 +5040,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(頭がボーっとして変になる……だめ……この臭いはだめ……。"
+                                "The gloss and firmness that can be felt even in\nthe veins that stand out as if surrounding it.\nUnwanted information that I couldn't have known\njust by watching the video, flows into my mind one\nafter another..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "臭いだけなのに……それだけのはずなのに……他になにがあるの？)"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分に起こっている事なのに何一つ理解できていない状況に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ストレスを覚え、考える事を放棄してしまいそうになる。"
+                                ""
                             ]
                         },
                         {
@@ -5160,14 +5071,103 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……気をしっかりと持たないと駄目だ。"
+                                "\\n<Minato Neon>Mmm... Ahh... No..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはレッスン……ただのレッスン…)"
+                                "...The intense \\r[ scent of a male that I was made\nto smell for the first time. It passes through my\nnostrils every time I breathe, melting into me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>(My head feels fuzzy... No... This smell is no\ngood... Just the smell... It should only be the\nsmell... What else is there?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I feel stressed in a situation where I can't\nunderstand anything that is happening to me, and I\nfeel like giving up on thinking."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>(Ugh... I need to stay focused. This is a\nlesson... just a lesson...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5196,14 +5196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "And I continue to observe..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そして私は、観察を続ける――――…。"
+                                ""
                             ]
                         },
                         {
@@ -5234,7 +5234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……ちゃん？ お～い、音々ちゃ～ん？」"
+                                "\\n<Udo Takeru>...Chan? Hey, Neon-chan?"
                             ]
                         },
                         {
@@ -5451,14 +5451,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](くっ……やはり駄目か、ビクともしない。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ku... as I thought, it's no use. It\nseems that we need the device that Director Udo\nhas to open this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ココを開けるには宇堂監督が持つ装置が必要なようだ…)"
+                                ""
                             ]
                         },
                         {
@@ -5542,14 +5542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……これは何だ？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...What is this? There's a small\nhemispherical metal pole with bumps and\ndepressions scattered on it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小さな半球状の凹凸が散りばめられた金属製のポールが立っている)"
+                                ""
                             ]
                         },
                         {
@@ -5633,14 +5633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](撮影用のカメラだな……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a camera for shooting... Could it\nbe that we're using this to film that certain\nvideo?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……まさかこれを使って例の動画の撮影を？)"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "隠し部屋",
+    "displayName": "Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1706,14 +1706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[4]]\\AA[F]「んふふゥ♪ おつかれさま音々ちゃん♪"
+                                "\\n<Udo Takeru>Nfufu~ Good work, Neon-chan♪ Well then, shall we\nproceed with today's private lesson, \\I[12]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んじゃ早速、本日の個人レッスンと参りますかァ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -1730,7 +1730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「その前に言う事があるだろう…」"
+                                "\\n<Minato Neon>Before that, there's something I want to say..."
                             ]
                         },
                         {
@@ -1754,7 +1754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「んン？ あぁ、やる事はあったねぇ……ポチっとな♪」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Hmm? Ah, there was\nsomething I needed to do... Let me just click on\nit♪"
                             ]
                         },
                         {
@@ -1833,14 +1833,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督が手にした何らかの装置を私に向け操作した途端、"
+                                "As soon as Director Udo aimed some kind of device\nhe had in his hand at me and operated it, the\nhidden door behind me closed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "後方の隠し扉は閉じられた。"
+                                ""
                             ]
                         },
                         {
@@ -1864,7 +1864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「音々ちゃんが逃げ出さない様にねぇ～？」"
+                                "\\n<Udo Takeru>So that Neon-chan won't run away, you know~?"
                             ]
                         },
                         {
@@ -1994,7 +1994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「な、何をする気だ…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] W-What are you planning\nto do..."
                             ]
                         },
                         {
@@ -2011,14 +2011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「何もしないよォ？ 今回は何もねぇ♪"
+                                "\\n<Udo Takeru>I won't do anything, you know? This time, there's\nnothing~♪ So come over here and let's have a\nconversation while we continue the lesson, \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さぁさぁ、話ならレッスンしながら聞くからコッチおいでぇ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2042,14 +2042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\AA[FF](ッ……閉じ込められてしまった…。"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\AA[FF](I've been... trapped... I-I'll\ntake this opportunity to say it clearly, including\nthat matter.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "な、なら……その事も含め、この機会にハッキリ言ってやるぞ)"
+                                ""
                             ]
                         },
                         {
@@ -2277,14 +2277,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[4]]\\AA[F]「んふふゥ♪ おつかれさま音々ちゃん♪"
+                                "\\n<Udo Takeru>\\F[\\V[4]]\\AA[F] Nfufu~ Good work, Neon-chan♪ Well\nthen, shall we proceed with today's private\nlesson, \\I[12]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んじゃ早速、本日の個人レッスンと参りますかァ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2301,7 +2301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「その前に言う事があるだろう…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] There's something I\nwant to say before that..."
                             ]
                         },
                         {
@@ -2325,7 +2325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「んン？ あぁ、やる事はあったねぇ……ポチっとな♪」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Hmm? Ah, there was\nsomething I needed to do... *click*♪"
                             ]
                         },
                         {
@@ -2404,14 +2404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督が手にした何らかの装置を私に向け操作した途端、"
+                                "When Director Udo aimed some kind of device he had\nin his hand at me and operated it, the hidden door\nbehind me closed instantly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "後方の隠し扉は閉じられた。"
+                                ""
                             ]
                         },
                         {
@@ -2435,7 +2435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「音々ちゃんが逃げ出さない様にねぇ～？」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] So that Neon-chan\ndoesn't run away, hmm~?"
                             ]
                         },
                         {
@@ -2565,7 +2565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「な、何をする気だ…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] W-What are you planning\nto do..."
                             ]
                         },
                         {
@@ -2582,14 +2582,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「何もしないよォ？ 今回は何もねぇ♪"
+                                "\\n<Udo Takeru>I won't do anything, you know? There's nothing\nthis time♪ So come over here while we have a\nlesson and tell me \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さぁさぁ、話ならレッスンしながら聞くからコッチおいでぇ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2613,14 +2613,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\AA[FF](ッ……閉じ込められてしまった…。"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\AA[FF](Tch... I've been trapped...\nI-I'll take this opportunity to say it clearly,\nincluding that matter.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "な、なら……その事も含め、この機会にハッキリ言ってやるぞ)"
+                                ""
                             ]
                         },
                         {
@@ -2980,14 +2980,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](くっ……やはり駄目か、ビクともしない。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ku... as I thought, it's no use. It\nseems that we need the device that Director Udo\nhas to open this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ココを開けるには宇堂監督が持つ装置が必要なようだ…)"
+                                ""
                             ]
                         },
                         {
@@ -3071,14 +3071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……これは何だ？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...What is this? There's a small\nhemispherical metal pole with bumps and\ndepressions scattered on it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小さな半球状の凹凸が散りばめられた金属製のポールが立っている)"
+                                ""
                             ]
                         },
                         {
@@ -3162,14 +3162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](撮影用のカメラだな……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a camera for shooting... Could it\nbe that we're using this to film that certain\nvideo?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……まさかこれを使って例の動画の撮影を？)"
+                                ""
                             ]
                         },
                         {
@@ -3262,14 +3262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「ほらほら始めようじゃないかァ♪"
+                                "\\n<Udo Takeru>Hey hey, let's get started, shall we?♪ How about a\nsecret lesson with me and Neon-chan?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラと音々ちゃんの秘密のレッスンをよォ？」"
+                                ""
                             ]
                         },
                         {
@@ -3289,8 +3289,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…個人レッスンを始める。",
-                                    "まだ心の準備が…。"
+                                    "Let's start the private lesson",
+                                    "I'm not mentally prepared yet"
                                 ],
                                 1,
                                 0,
@@ -3450,14 +3450,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「ほらほら始めようじゃないかァ♪"
+                                "\\n<Udo Takeru>Hey hey, let's get started, shall we?♪ How about a\nsecret lesson with me and Neon-chan?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラと音々ちゃんの秘密のレッスンをよォ？」"
+                                ""
                             ]
                         },
                         {

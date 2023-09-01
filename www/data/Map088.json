@@ -16,7 +16,7 @@
         "volume": 30
     },
     "disableDashing": false,
-    "displayName": "隠し部屋",
+    "displayName": "Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1810,14 +1810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……これは何だ？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...What is this? There's a small\nhemispherical metal pole with bumps and\ndepressions scattered on it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小さな半球状の凹凸が散りばめられた金属製のポールが立っている)"
+                                ""
                             ]
                         },
                         {
@@ -1901,14 +1901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](撮影用のカメラだな……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is this a camera for shooting...? Could\nit be that we're using this to film that video?)\nCould it be that we're using this to film that\nvideo?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……まさかこれを使って例の動画の撮影を？)"
+                                ""
                             ]
                         },
                         {
@@ -2008,7 +2008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ほらぁ、おいで……すぐ“楽”にしてあげるからねぇ♪」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Come here... I'll make\nyou feel good right away♪"
                             ]
                         },
                         {
@@ -2037,14 +2037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](私……この男が裸でいる事に対し疑問をもてなくなってる…。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I... I can't help but\nquestion why this man is naked... This is\ndefinitely strange...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなこと絶対におかしいのに…)"
+                                ""
                             ]
                         },
                         {
@@ -2052,8 +2052,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…宇堂へと歩み寄る。",
-                                    "…思い止まる。"
+                                    "approaches Udo",
+                                    "I hesitate"
                                 ],
                                 1,
                                 0,
@@ -2095,14 +2095,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……それでも私は歩を進めた。"
+                                "......Still, I continued walking. Was it to\ncomplete the lesson? Or was it to ease my heated\nbody?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "レッスンをやり遂げる為？ それとも火照った体を“楽”にさせる為？"
+                                ""
                             ]
                         },
                         {
@@ -2119,14 +2119,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自分の事なのによく分からない…。"
+                                "I don't really understand myself... I can't deny\nthat I'm feeling apathetic with a clouded mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "霞がかった思考で投げやりになっている感も否めない。"
+                                ""
                             ]
                         },
                         {
@@ -2155,28 +2155,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#男の目の前に立つ……いつものポジションだ。\\!"
+                                "In front of \\#, I stand... in my usual position.\nAnd... as hands are placed on both shoulders,\nsignaling \\#, the slight doubt that was there\ndissipates, and I surrender myself-----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#そして……両の肩に手が添えられるのを合図に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#僅かに在った疑問は霧散し、私は身を委ねるのだった―――――…。"
+                                ""
                             ]
                         },
                         {
@@ -2335,7 +2335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ほらぁ、おいで……すぐ“楽”にしてあげるからねぇ♪」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Come here... I'll make\nyou feel good right away♪"
                             ]
                         },
                         {
@@ -2352,14 +2352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](私……この男が裸でいる事に対し疑問をもてなくなってる…。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I... I can't help but\nquestion why this man is naked... This is\ndefinitely strange...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんなこと絶対におかしいのに…)"
+                                ""
                             ]
                         },
                         {
@@ -2388,14 +2388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……それでも私は歩を進めた。"
+                                "......Still, I continued walking. Was it to\ncomplete the lesson? Or was it to ease my heated\nbody?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "レッスンをやり遂げる為？ それとも火照った体を“楽”にさせる為？"
+                                ""
                             ]
                         },
                         {
@@ -2412,14 +2412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の事なのによく分からない…。"
+                                "I don't really understand myself... I can't deny\nthat I'm feeling apathetic with a clouded mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "霞がかった思考で投げやりになっている感も否めない。"
+                                ""
                             ]
                         },
                         {
@@ -2448,28 +2448,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#男の目の前に立つ……いつものポジションだ。\\!"
+                                "\\# stands in front of the man's eyes... It's the\nusual position.\\!\\# And... as hands are placed on\nboth shoulders, signaling \\#, the slight doubt\nthat was there dissipates, and I surrender\nmyself-----...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そして……両の肩に手が添えられるのを合図に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#僅かに在った疑問は霧散し、私は身を委ねるのだった―――――…。"
+                                ""
                             ]
                         },
                         {

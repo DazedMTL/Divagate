@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "客室 ～テラス～",
+    "displayName": "Guest Room ~Terrace~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4799,7 +4799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27]Ｈイベント\\C[0]発見！"
+                                "\\C[27]H event\\C[0] discovered!"
                             ]
                         },
                         {
@@ -5094,7 +5094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ｈイベント『\\C[27]星空の下で…\\C[0]』を開始しますか？"
+                                "Would you like to start the H event \\C[27] Under\nthe Starry Sky...\\C[0]?"
                             ]
                         },
                         {
@@ -5103,7 +5103,7 @@
                             "parameters": [
                                 [
                                     "en(s[20])はい(発生条件：夜)",
-                                    "いいえ"
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5237,7 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](そうそう、此処にも隠しカメラがあったけな)"
+                                "\\n<Udo Takeru>Oh yeah, there was a hidden camera here too."
                             ]
                         },
                         {
@@ -5254,7 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........？」"
                             ]
                         },
                         {

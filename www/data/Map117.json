@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館 ～３F～",
+    "displayName": "West Building ~3F~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -5382,14 +5382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](此処には食いモンはねぇぞ……。"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] (There's no food here... I'm going to\nraid my \\C[2] own room's refrigerator\\C[0])."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自室の\\C[2]冷蔵庫\\C[0]を漁りいくぞ)"
+                                ""
                             ]
                         },
                         {
@@ -5500,7 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モニタールームの扉を開錠した。"
+                                "Opened the door to the monitor room."
                             ]
                         },
                         {
@@ -8244,7 +8244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「よぉ、音々♪ 寝る前に一杯やりながら映画でも…」"
+                                "\\n<Udo Takeru>Hey, Neon♪ How about having a drink and watching a\nmovie before going to bed..."
                             ]
                         },
                         {
@@ -8691,7 +8691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「………」"
+                                "\\n<Udo Takeru>\\FF[\\V[4]]「.........」"
                             ]
                         },
                         {
@@ -8715,14 +8715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](む、無視しやがったぞ……。"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] (H-He ignored me... This is the first\ntime someone has ignored me, a man like myself...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "初めての男である、このオイラを…)"
+                                ""
                             ]
                         },
                         {
@@ -8746,7 +8746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](い、いや……この程度の事で腹を立てていては器が知れる)"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] (N-No... Getting angry over something\nlike this would reveal my true character.)"
                             ]
                         },
                         {
@@ -8770,7 +8770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](フッ……照れているんだろう、ヤレヤレだぜぇ♪)"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] (Hmph... You must be embarrassed, how\namusing♪)"
                             ]
                         },
                         {
@@ -9306,14 +9306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おはよう、音々♪"
+                                "\\n<Udo Takeru>Good morning, Neon♪ Did you rest well and recover\nyour energy?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しっかりと休んで体力回復させただろうねぇ？」"
+                                ""
                             ]
                         },
                         {
@@ -9330,7 +9330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……おはよう」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ......Good morning."
                             ]
                         },
                         {
@@ -9359,7 +9359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「そこは問題なさそうか♪ じゃあ、さっそく…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Seems like there's no\nproblem there♪ Well then, let's get started..."
                             ]
                         },
                         {
@@ -9367,9 +9367,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…セックス合宿についての説明を始める。",
-                                    "…説明を飛ばしてセックス合宿を始める。",
-                                    "…一旦、離れる。"
+                                    "I will begin explaining about the sex training camp",
+                                    "Skipping the explanation, we start the sex training camp",
+                                    "Let's take a break for now"
                                 ],
                                 2,
                                 0,
@@ -9406,14 +9406,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「……と、まぁこんなトコか。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] ...Well, that's about\nit. Alright then, let's work together for the next\nthree days, \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "じゃあ、三日間よろしくねぇ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -9430,7 +9430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -9589,28 +9589,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…音々が同行者として加わった。\\!"
+                                "Neon joined as a companion. In my memory, I\nobtained information about a sex training camp. In\nmy memory, I obtained a list of plays. A new scene\nwas added to the flashback room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]記憶：セックス合宿について\\C[0]を手に入れた。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]記憶：プレイ一覧\\C[0]を手に入れた。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]回想ルーム\\C[0]に\\C[2]NPC\\C[0]が追加されました。"
+                                ""
                             ]
                         },
                         {
@@ -9698,7 +9698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「じゃあ、三日間よろしくねぇ\\I[12]」"
+                                "\\n<Udo Takeru>Well then, \\F[\\V[2]]\\FF[\\V[4]]\\AA[FF], let's work\ntogether for the next three days, okay \\I[12]?"
                             ]
                         },
                         {
@@ -9715,7 +9715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -9874,28 +9874,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…音々が同行者として加わった。\\!"
+                                "Neon joined as a companion. In my memory, I\nobtained information about a sex training camp. In\nmy memory, I obtained a list of plays. A new scene\nwas added to the flashback room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]記憶：セックス合宿について\\C[0]を手に入れた。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]記憶：プレイ一覧\\C[0]を手に入れた。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]回想ルーム\\C[0]に\\C[2]NPC\\C[0]が追加されました。"
+                                ""
                             ]
                         },
                         {
@@ -10356,7 +10356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](わざわざ食堂に行かんでも、自室に\\C[2]冷蔵庫\\C[0]があンだろうが…)"
+                                "\\n<Udo Takeru>(You don't have to go all the way to the\ncafeteria, I'm sure you have a refrigerator in\nyour own room...)"
                             ]
                         },
                         {
@@ -10462,7 +10462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](音々を追ってみるか…)"
+                                "\\n<Udo Takeru>Should I go after Neon..."
                             ]
                         },
                         {
@@ -10568,7 +10568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](……音々に説明するのが先だなァ)"
+                                "\\n<Udo Takeru>(......I should explain it to Neon first.)"
                             ]
                         },
                         {

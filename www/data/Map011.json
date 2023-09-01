@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "自室",
+    "displayName": "My Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1412,14 +1412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](テレビは……余り見なくなったな。"
+                                "\\n<Minato Neon>I don't watch TV much anymore. It's more fun to\nplay with musical instruments..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽器に触れている方が楽しいし…)"
+                                ""
                             ]
                         },
                         {
@@ -1717,7 +1717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](学生時代に、お金を貯めて購入した私の相棒だ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (My partner that I saved up money to buy\nduring my student days)"
                             ]
                         },
                         {
@@ -1801,7 +1801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「はぁ……可愛い…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Haa... cute..."
                             ]
                         },
                         {
@@ -1885,7 +1885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](料理は……苦手だ)"
+                                "\\n<Minato Neon>I'm not good at cooking..."
                             ]
                         },
                         {
@@ -1969,7 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](止めておこう……触れると時間を忘れ、夢中になってしまうからな)"
+                                "\\n<Minato Neon>Let's stop \\F[\\V[2]]... Because when we touch, we\nforget about time and get completely absorbed in\nit."
                             ]
                         },
                         {
@@ -2156,7 +2156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -2164,10 +2164,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…部屋着。",
-                                    "…下着姿。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "my pajamas",
+                                    "in my underwear",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -2784,7 +2784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -2792,10 +2792,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…下着姿。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "a leather suit",
+                                    "in my underwear",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -3412,7 +3412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -3420,10 +3420,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…部屋着。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "a leather suit",
+                                    "my pajamas",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -4040,7 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should \\F[\\V[2]] change clothes..."
                             ]
                         },
                         {
@@ -4048,10 +4048,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…部屋着。",
-                                    "…下着姿。",
-                                    "…着替えない。"
+                                    "rider suit",
+                                    "pajamas",
+                                    "in underwear",
+                                    "won't change clothes"
                                 ],
                                 3,
                                 0,
@@ -4665,7 +4665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](何も入ってないぞ。 マメに片してるからな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's nothing inside. I keep it tidy\nregularly.)"
                             ]
                         },
                         {
@@ -5281,7 +5281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「んぅ……あれ？ あさぁ……？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Mmm... Huh? Morning...?"
                             ]
                         },
                         {
@@ -5298,7 +5298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「お、おはよう……」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] G-Good morning..."
                             ]
                         },
                         {
@@ -5322,7 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「あ……園田さん？ おはよう…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Ah... Sonoda-san? Good\nmorning..."
                             ]
                         },
                         {
@@ -5339,7 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「…………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「............」"
                             ]
                         },
                         {
@@ -5375,14 +5375,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「どうして園田さんが私の部屋にいるんだっ！"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Why is Sonoda-san in my\nroom?! Huh----!? C-Could it be..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はっ――――！？ ま、まさか…」"
+                                ""
                             ]
                         },
                         {
@@ -5399,21 +5399,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「待ってくれっ、誓って何もしていないっ！"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Wait, I swear I didn't do\nanything! While I was bringing you here and\nputting you to sleep because you got drunk at the\nafterparty, I also dozed off. I just woke up too!\n(3 seconds)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "三次会で酔い潰れた君を此処まで運んで寝かしつけている内に僕も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ウトウトしてしまってそうっ僕も今起きたトコなんだっ！」(三秒)"
+                                ""
                             ]
                         },
                         {
@@ -5437,7 +5437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「早口になってるのが\\r[却,かえ]って怪しい…」"
+                                "\\n<Minato Neon>It's suspicious that \\r[ is speaking so quickly..."
                             ]
                         },
                         {
@@ -5454,31 +5454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「うぐっ……いや、本当なんだ……。"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Ugh... No, it's true...\nWhy would I even make a move on you in the first\nplace..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そもそも僕が君に手を出す訳…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」ﾋﾟｸｯ"
+                                ""
                             ]
                         },
                         {
@@ -5495,7 +5478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「じゃ、じゃあ僕は駐車場で待ってるから…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」ﾋﾟｸｯ"
                             ]
                         },
                         {
@@ -5512,14 +5495,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「おい……私を寝かしつけたと言ったな？"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] W-Well then, I'll be\nwaiting at the parking lot..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "という事は……園田さんがコレに着替えさせたのか？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Hey... You said you put me\nto sleep, right? So... Did Sonoda-san change me\ninto this?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5548,7 +5548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「アレ○サっ、いちいち効果音を付けんでいいっ！」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Hey, don't add sound\neffects to everything!"
                             ]
                         },
                         {
@@ -5577,7 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アレ○サ>\\FF[61]\\F[\\V[2]]\\AA[FF]「脈拍が上昇しています。 そいつ怪しいです」"
+                                "\\n<Alex>\\FF[61]\\F[\\V[2]]\\AA[FF] The pulse is rising.\nThat's suspicious."
                             ]
                         },
                         {
@@ -5594,7 +5594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「園田さん……」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Sonoda-san..."
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「……目を瞑って 着替えさせた 僕 何もしていない」"
+                                "\\n<Sonoda Kohei>......I closed my eyes and helped you change\nclothes. I didn't do anything."
                             ]
                         },
                         {
@@ -5640,7 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アレ○サ>\\FF[61]\\F[\\V[2]]\\AA[FF]「片言(笑 そいつ完全に黒です」"
+                                "\\n<Alex>\\FF[61]\\F[\\V[2]]\\AA[FF] Broken speech (laughs),\nthat person is definitely suspicious."
                             ]
                         },
                         {
@@ -5664,7 +5664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「ふぅん……手は出さないくせに、しっかり見たんだな」"
+                                "\\n<Minato Neon>Hmmm... You say you won't lay a hand on me, but\nyou sure took a good look, huh?"
                             ]
                         },
                         {
@@ -5681,7 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「もう勘弁してくれ……それとクソアプリお前は黙ってろ」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Please spare me... And\nyou, shitty app, stay quiet."
                             ]
                         },
                         {
@@ -5739,14 +5739,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](駐車場で園田さんを待たせている。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm making Sonoda-san wait at the\nparking lot. Let's change clothes and go out.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "着替えて出かけよう)"
+                                ""
                             ]
                         },
                         {
@@ -5807,28 +5807,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<◆マップ上のマークについて◆>白色……マップ移動が発生するマス"
+                                "\\n<About the marks on the map> About the marks on the map:  White... indicates a\nsquare where map movement occurs \\C[14]. Yellow...\nindicates a square where events progress \\C[0].\nPink... indicates a square where H events occur\n\\C[0]. Square... indicates a square where you can\nchange clothes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]黄色\\C[0]……イベントが進行するマス"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27]桃色\\C[0]……Ｈイベントが発生するマス"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "四角……着替えを行えるマス"
+                                ""
                             ]
                         },
                         {

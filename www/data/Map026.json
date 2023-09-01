@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館 ～客室～",
+    "displayName": "West Wing ~Guest Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1778,7 +1778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん……あれ？ 開かないぞ？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Huh... it won't open?)"
                             ]
                         },
                         {
@@ -1865,14 +1865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん……よく見たら正面に、パスワード\\C[2]０７２１\\C[0]と"
+                                "\\n<Minato Neon>(Hmm... Upon closer inspection, there are letters\nand numbers engraved on the front, it says\nPassword 0721.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "文字と数字が彫られているぞ)"
+                                ""
                             ]
                         },
                         {
@@ -1920,7 +1920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]パスワードの記憶：一日目\\C[0]を手に入れた。"
+                                "Obtained the memory of \\C[2] password: Day 1\\C[0]."
                             ]
                         },
                         {
@@ -1995,7 +1995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](正面に、パスワード\\C[2]０７２１\\C[0]と彫られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (In front of us, there's a password\n\\C[2]0721\\C[0] engraved.)"
                             ]
                         },
                         {
@@ -2130,7 +2130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん……あれ？ 開かないぞ？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Huh... it won't open?)"
                             ]
                         },
                         {
@@ -2316,7 +2316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](扉が開きっぱなしになってる……こういうの気になるんだよな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The door is left open... I can't help\nbut be concerned about things like this.)"
                             ]
                         },
                         {
@@ -2345,7 +2345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]締めますか？"
+                                "Should I close \\F[\\V[2]]?"
                             ]
                         },
                         {
@@ -2353,8 +2353,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2514,7 +2514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん？ 今、隣の部屋から微かに音が聞こえたような…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Hm? Did I just hear a faint sound\ncoming from the next room?)"
                             ]
                         },
                         {
@@ -2723,7 +2723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](扉が開きっぱなしになってる……こういうの気になるんだよな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The door is left open... I can't help\nbut be concerned about things like this.)"
                             ]
                         },
                         {
@@ -2752,7 +2752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]締めますか？"
+                                "Should I close \\F[\\V[2]]?"
                             ]
                         },
                         {
@@ -2760,8 +2760,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2921,7 +2921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん？ 今、隣の部屋から微かに音が聞こえたような…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Huh? Did I just faintly hear a sound\ncoming from the next room?)"
                             ]
                         },
                         {
@@ -3228,7 +3228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……解錠した。"
+                                "......Unlocked."
                             ]
                         },
                         {
@@ -3561,7 +3561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](高そうな香水やらと……使い道の分からない化粧品が並んでいる)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There are expensive perfumes and...\ncosmetics that I don't know how to use.)"
                             ]
                         },
                         {
@@ -3645,7 +3645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](風景画だな。 これが良い物なのかは分からんが…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a landscape painting. I'm not sure\nif this is a good thing...)"
                             ]
                         },
                         {
@@ -3729,14 +3729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](人物画か……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (A portrait of a person... It's the kind\nof thing that's a little creepy and I don't want\nto keep it in my room.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと不気味で部屋には置きたくない類の物だな)"
+                                ""
                             ]
                         },
                         {
@@ -3820,14 +3820,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](アンティークなテーブルライトだ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's an antique table lamp. It probably\ndoesn't match the current room, but I like this\nkind of thing too.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今の部屋には合わないだろうが、こういうのも良いな)"
+                                ""
                             ]
                         },
                         {
@@ -3929,7 +3929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](これは……血だまり？ ま、まさかな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is this... a pool of blood? No way...)"
                             ]
                         },
                         {
@@ -3953,14 +3953,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いや、でも何かコレ……不自然だな。 壁は綺麗なままだし、"
+                                "\\n<Minato Neon>\\F[\\V[2]] (No, but this... it's unnatural. The\nwalls are still clean, it's almost like... it's\nseeping through from the other side of the\nwall...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "これではまるで……壁の向こうからにじみ出た様な…)"
+                                ""
                             ]
                         },
                         {
@@ -4081,7 +4081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……壁の奥からにじみ出た様な血だまりがある。"
+                                "There is a puddle of blood that seems to have\nseeped out from behind the wall."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F隠し通路～",
+    "displayName": "Main Building ~3rd Floor Hidden Passage~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1927,7 +1927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](鍵が閉まっているな……あ、でもコチラ側から開錠出来そうだ)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (The door is locked... Ah, but\nit seems like I can unlock it from this side.)"
                             ]
                         },
                         {
@@ -1944,38 +1944,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「あ、あの……その先は園田さんが使っていた部屋の前の廊下へと"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Um, um... That path leads to\nthe hallway in front of the room Sonoda-san was\nusing, so there's a possibility of running into\neach other..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "繋がってますので鉢合わせする可能性が…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「僕が使っていた部屋の前？ "
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、あの廊下の先に繋がっている訳か…」"
+                                ""
                             ]
                         },
                         {
@@ -1992,7 +1968,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「…あれ？ でも、宇堂監督の部屋だと聞いた覚えが…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] In front of the room I was\nusing? Ah, so it leads to that hallway..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2009,14 +1992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「こっちのフロア全体が監督の部屋の様なものですし、あえて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "細かな説明は避けたのかと……面倒くさがりな所がありますから…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] ...Huh? But I remember hearing\nthat it's Udo's room..."
                             ]
                         },
                         {
@@ -2033,7 +2009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「……なるほどな」"
+                                "\\n<Sawa>This entire floor is like the director's room, so\nI intentionally avoided giving detailed\nexplanations... I have a tendency to be lazy and\navoid trouble."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2050,21 +2033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](さてと……どうするか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元の部屋に戻ったところで何も出来る事は無さそうだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かといって先に進もうにも階段があって僕は下れない…)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] I see, I understand."
                             ]
                         },
                         {
@@ -2081,7 +2050,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「……どうします？ 進みますか？」"
+                                "\\n<Sonoda Kohei>Well then... what should I do? It doesn't seem\nlike there's anything I can do by going back to my\noriginal room, but on the other hand, I can't go\nforward because there are stairs and I can't go\ndown..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2098,7 +2081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](明確な目的も無しに鉢合わせのリスクを負う事もないか…)"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] ......What should we do?\nShould we move forward?"
                             ]
                         },
                         {
@@ -2115,7 +2098,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「いや……今は止めておこう」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (There's no need to take the\nrisk of running into each other without a clear\npurpose...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] No... Let's stop for now."
                             ]
                         },
                         {
@@ -2295,7 +2295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](……この先に進むのは止めておこう)"
+                                "\\n<Sonoda Kohei>(......Let's not proceed any further.)"
                             ]
                         },
                         {
@@ -2363,14 +2363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](特に目的も無いが、今なら向こうに出ても問題は無いだろう。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (I don't have any particular\npurpose, but it shouldn't be a problem if I go out\nnow. I should make sure not to forget to lock the\ndoor when I come back...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戻って来たら鍵を掛け忘れない様にしないとな…)"
+                                ""
                             ]
                         },
                         {
@@ -2631,14 +2631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](特に目的も無いが、今なら向こうに出ても問題は無いだろう。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (I don't have any particular\npurpose, but it shouldn't be a problem if I go out\nnow. I should make sure not to forget to lock the\ndoor when I come back...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戻って来たら鍵を掛け忘れない様にしないとな…)"
+                                ""
                             ]
                         },
                         {
@@ -3116,14 +3116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](…もう既に音々が宇堂と接触している。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F](...Minato Neon has already\nmade contact with Udo. Let's hurry and head to the\nmonitoring room \\C[2]\\C[0])."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "急いで\\C[2]モニタールーム\\C[0]へ向かおう)"
+                                ""
                             ]
                         },
                         {
@@ -3843,7 +3843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……\\C[2]例の場所\\C[0]の位置は監視カメラで確認している)"
+                                "\\n<Sonoda Kohei>\\F[62] (...I'm confirming the location of \\C[2]'s\nusual spot with the surveillance camera)"
                             ]
                         },
                         {
@@ -3907,7 +3907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](位置関係的に、この壁の先に二人が…)"
+                                "\\n<Sonoda Kohei>\\F[62] (Based on the position, the two of them are\nbeyond this wall...)"
                             ]
                         },
                         {
@@ -4021,14 +4021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……昨日サワ達に\\C[2]音々達がいる部屋\\C[0]の位置は、監視カメラで"
+                                "\\n<Sonoda Kohei>(......Yesterday, Sawa and the others confirmed\nthe location of the room where Minato Neon and the\nothers are using surveillance cameras)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確認してもらっている)"
+                                ""
                             ]
                         },
                         {
@@ -4092,7 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](位置関係的に、この壁の先に二人が…)"
+                                "\\n<Sonoda Kohei>\\F[62] (Based on the position, the two of them are\nbeyond this wall...)"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～倉庫～",
+    "displayName": "Main Building ~Warehouse~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2980,7 +2980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](……空っぽだな)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]...... It feels empty."
                             ]
                         },
                         {
@@ -3071,14 +3071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](……これらの館にある仕掛けは爺さんが作ったモンだったな。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (...These traps in\nthese mansions were made by the old man. I used to\nplay with them a lot when I was a kid.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ガキの頃によく遊んでたわ)"
+                                ""
                             ]
                         },
                         {
@@ -3402,7 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開かないな……ん？ これは……鍵穴か？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Hm? Is this... a\nkeyhole?)"
                             ]
                         },
                         {
@@ -3485,14 +3485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](小さな鍵穴がある。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやら開けるには鍵が必要なようだ)"
+                                ""
                             ]
                         },
                         {
@@ -3680,7 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]時限式カードキー\\C[0]を手に入れた。"
+                                "I obtained the \\C[2] time-limited card key \\C[0]."
                             ]
                         },
                         {
@@ -4541,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開かないな……ん？ これは……鍵穴か？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Huh? Is this... a\nkeyhole?)"
                             ]
                         },
                         {
@@ -4624,14 +4624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](小さな鍵穴がある。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやら開けるには鍵が必要なようだ)"
+                                ""
                             ]
                         },
                         {
@@ -4819,7 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]時限式カードキー\\C[0]を手に入れた。"
+                                "I obtained the \\C[2] time-limited card key \\C[0]."
                             ]
                         },
                         {
@@ -4852,14 +4852,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](カードキー？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Card key? Ah... come to think of it, I\nsaw something like a device on the third floor.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あ……そういえば、三階でデバイスらしき物を見かけたな)"
+                                ""
                             ]
                         },
                         {
@@ -4886,7 +4886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](カードキー？ これを通すデバイス的な物が何処かにあるのか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Card key? I wonder if there's a device\nsomewhere that this can be used on?)"
                             ]
                         },
                         {
@@ -5082,7 +5082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開かないな……ん？ これは……鍵穴か？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Hm? Is this... a\nkeyhole?)"
                             ]
                         },
                         {
@@ -5165,14 +5165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](小さな鍵穴がある。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやら開けるには鍵が必要なようだ)"
+                                ""
                             ]
                         },
                         {
@@ -5360,7 +5360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]時限式カードキー\\C[0]を手に入れた。"
+                                "I obtained the \\C[2] time-limited card key \\C[0]."
                             ]
                         },
                         {
@@ -5392,14 +5392,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](カードキーとパスワードが揃ったか…。"
+                                "\\n<Minato Neon>Have you gathered the card key and password... I'm\nnot really looking forward to it, but should we\nhead to the lesson room \\C[0]...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あまり気は進まないが\\C[2]レッスンルーム\\C[0]へ向かうか……)"
+                                ""
                             ]
                         },
                         {
@@ -5433,7 +5433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あとは\\C[2]パスワード\\C[0]か……)"
+                                "\\n<Minato Neon>Now, we just need the \\C[2] password \\C[0]..."
                             ]
                         },
                         {
@@ -5629,7 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開かないな……ん？ これは……鍵穴か？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Hm? Is this... a\nkeyhole?)"
                             ]
                         },
                         {
@@ -5712,14 +5712,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](小さな鍵穴がある。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうやら開けるには鍵が必要なようだ)"
+                                ""
                             ]
                         },
                         {
@@ -5907,7 +5907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]時限式カードキー\\C[0]を手に入れた。"
+                                "I obtained the \\C[2] time-limited card key \\C[0]."
                             ]
                         },
                         {
@@ -5939,14 +5939,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](揃ってしまったか……行かないとマズイよな…。"
+                                "\\n<Minato Neon>So we all gathered... If we don't go, it'll be\nbad... For now, should we head to the lesson room\n\\C[2]\\C[0]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "とりあえず\\C[2]レッスンルーム\\C[0]へ向かうか…)"
+                                ""
                             ]
                         },
                         {
@@ -5980,14 +5980,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あとは\\C[2]パスワード\\C[0]か……\\C[2]地下通路\\C[0]のどこかで分かるはずだ。"
+                                "\\n<Minato Neon>\\F[\\V[2]](And the \\C[2]password\\C[0]... We should\nbe able to figure it out somewhere in the\n\\C[2]underground passage\\C[0]. Did we miss any\nplaces we haven't been to?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "行っていない場所は無かったか？)"
+                                ""
                             ]
                         },
                         {

@@ -10523,14 +10523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\.\\SE[ Typewriter]c\\.\\SE[ Typewriter]h\\.\\SE[\nTypewriter]a\\.\\SE[ Typewriter]p\\.\\SE[\nTypewriter]t\\.\\SE[ Typewriter]e\\.\\SE[\nTypewriter]r\\.\\SE[ Typewriter]1\\.\\SE[\nTypewriter]...\\.\\SE[ Typewriter]...\\.\\SE[\nTypewriter]...\\.\\SE[ Typewriter]Finished"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　　　　　　　\\.\\SE[タイプライター]c\\.\\SE[タイプライター]h\\.\\SE[タイプライター]a\\.\\SE[タイプライター]p\\.\\SE[タイプライター]t\\.\\SE[タイプライター]e\\.\\SE[タイプライター]r\\.\\SE[タイプライター]1\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]了"
+                                ""
                             ]
                         },
                         {
@@ -10572,28 +10572,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[Chime]\\C[2]chapter2\\C[0]が開放されました！(※)\\!"
+                                "\\SE[Chime]\\C[2]chapter2\\C[0] has been unlocked!\n(※) The \\SE[Chime]\\C[2] flashback room has been\nunlocked! (※) Please select from the choices after\nthe Start from the beginning option on the title\nscreen."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\SE[Chime]\\C[2]回想ルーム\\C[0]が開放されました！(※)"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "※タイトル画面より『はじめから』後の選択肢より選択"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12924,28 +12924,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#I... have some confidence in my appearance. I\nthink my style is decent, and even if you subtract\nmy twisted personality, I pride myself on being in\nthe good category as a woman."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は……多少なりとも自分の容姿には自信があった。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　スタイルだってそれなりだと思うし、\\r[拗,こじ]らせてしまった性格を差し引いても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#女としては良い部類だと自負している。"
+                                ""
                             ]
                         },
                         {
@@ -12962,28 +12962,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#だからだろうか……私はこれまでの人生で、ぞんざいな扱いをされた事は無い。"
+                                "It's probably because of that... I have never been\ntreated roughly in my life. Of course, the biggest\nfactor is that I have been blessed with good\nfriendships. I understand that. But still...\nsomewhere deep down, maybe I was a bit conceited\nbecause of who I am."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#勿論、それは交友関係に恵まれたのが一番の要因だろう。 それは分かっている。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　だが、それでも……私はどこかで“私だから”と\\r[自惚,うぬぼ]れていたのかもしれない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15111,21 +15111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]"
+                                "\\n<Minato Neon>\\F[\\V[2]] (For now, I'll head to the room where\n\\C[2] notebook computer is... It's frustrating how\nthings are going exactly as that guy wants...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(私は……とりあえず\\C[2]ノートパソコンがある部屋\\C[0]へ向かうか…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの男の思い通りに事が運んでいる様でモヤモヤするが…)"
+                                ""
                             ]
                         },
                         {
@@ -15200,12 +15200,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[481])『とりあえずセックス』/場所：西館３Fベッドルーム/条件：無し",
-                                    "if(s[482])『ポールオナニー』/場所：本館３F隠し部屋/条件：無し",
-                                    "if(s[483])『四咥』/場所：本館２Fテラス/条件：無し",
-                                    "if(s[484])『開拓』/場所：地下書庫/条件：審査率10以上",
-                                    "if(s[485])『外からも内からも…』/場所：西館２F大浴場/条件：審査率20以上",
-                                    "if(s[486])『初めての…』/場所：西館３F浴場施設/条件：審査率30以上"
+                                    "if(s[481])For now, let's have sex / Location: West Wing 3rd floor bedroom / Conditions: None",
+                                    "if(s[482])Paul Masturbation / Location: Hidden Room on the 3rd floor of the main building / Requirements: None",
+                                    "if(s[483])Yotsuhami / Location: Main Building 2F Terrace / Requirements: None",
+                                    "if(s[484])Expansion / Location: Underground Library / Condition: Approval rate of 10 or higher",
+                                    "if(s[485])From the outside and the inside / Location: West Building 2F Large Bath / Requirement: Approval rate of 20 or higher",
+                                    "if(s[486])First time / Location: West Building 3rd floor bathing facility / Condition: Approval rate of 30 or higher"
                                 ],
                                 -1,
                                 0,
@@ -15301,12 +15301,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[487])『好きな体位』/場所：東館２F客室/条件：審査率40以上",
-                                    "if(s[488])『二人の様に…』/場所：西館３Fベッドルーム/条件：審査率50以上",
-                                    "if(s[489])『青姦日和』/場所：本館１F/条件：審査率60以上",
-                                    "if(s[490])『誓いと冒涜』/場所：地下教会/条件：審査率70以上",
-                                    "if(s[491])『グラビア撮影会』/場所：西館１F食堂/条件：えっちな水着(上下)を持っている",
-                                    "if(s[492])『星空の下で…』/場所：本館３F客室テラス/条件：時間帯が夜"
+                                    "if(s[487])Favorite Position / Location: East Building 2nd Floor Guest Room / Requirement: Approval Rate of 40 or higher",
+                                    "if(s[488])Like the two of us / Location: West Wing 3rd Floor Bedroom / Condition: Approval rate of 50% or higher",
+                                    "if(s[489])Aokan Biyori / Location: Main Building 1F / Requirement: Approval rate of 60% or higher",
+                                    "if(s[490])Oath and Blasphemy / Location: Underground Church / Requirement: Approval rate of 70 or higher",
+                                    "if(s[491])『グラビア撮影会』/場所：西館１F食堂/条件：えっちな水着(上下)has it",
+                                    "if(s[492])Under the Starry Sky / Location: Main Building 3rd Floor Guest Room Terrace / Condition: Nighttime"
                                 ],
                                 -1,
                                 0,
@@ -15402,9 +15402,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[493])『救い』/場所：西館３Fコレクションルーム/条件：八日目限定",
-                                    "if(s[494])『トラウマ』/場所：西館３Fコレクションルーム/条件：九日目限定",
-                                    "閉じる。"
+                                    "if(s[493])Rescue / Location: West Building 3F Collection Room / Condition: Limited to the eighth day",
+                                    "if(s[494])Trauma / Location: West Building 3F Collection Room / Condition: Limited to the ninth day",
+                                    "Close it"
                                 ],
                                 2,
                                 0,
@@ -15621,14 +15621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "[Minato Neon] Type-Writer] Meeting [Minato Neon]\nType-Writer] Lodging [Minato Neon] Type-Writer]\nDay [Minato Neon] Type-Writer] Eye [Minato Neon]\nType-Writer] 1 [Minato Neon] Type-Writer] 0\n[Sonoda Kohei] Type-Writer: 40"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 　 　　　　　　　\\.\\SE[タイプライター]合\\.\\SE[タイプライター]宿\\.\\SE[タイプライター]\\C[27]１\\.\\SE[タイプライター]\\C[27]０\\C[0]\\.\\SE[タイプライター]日\\.\\SE[タイプライター]目\\.\\SE[タイプライター]　\\.\\SE[タイプライター]１\\.\\SE[タイプライター]２\\.\\SE[タイプライター]：\\.\\SE[タイプライター]４\\.\\SE[タイプライター]０"
+                                ""
                             ]
                         },
                         {
@@ -16378,14 +16378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "[Eroge Title] P[Eroge Title] r[Eroge Title]\no[Eroge Title] l[Eroge Title] o[Eroge Title]\ng[Eroge Title] u[Eroge Title] e[Eroge Title]:\n[Eroge Title] Song Princess...[Eroge\nTitle]...[Eroge Title]...[Eroge Title] Finished"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　 　　　　　　　\\.\\SE[タイプライター]P\\.\\SE[タイプライター]r\\.\\SE[タイプライター]o\\.\\SE[タイプライター]l\\.\\SE[タイプライター]o\\.\\SE[タイプライター]g\\.\\SE[タイプライター]u\\.\\SE[タイプライター]e\\.\\SE[タイプライター]：\\.\\SE[タイプライター]歌\\.\\SE[タイプライター]姫\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]了"
+                                ""
                             ]
                         },
                         {
@@ -16462,21 +16462,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#... If even one person was missing, it wouldn't\nhave turned out like this. And this is not a\nmiracle... It is the result of the \\r[ created by\nme and them, the work of people."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……誰か一人でも欠けていたら、こうはならなかっただろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　そして、これは奇跡などではない……僕と彼女達が紡いだ、人が成した\\r[業,わざ]なのだ。"
+                                ""
                             ]
                         },
                         {
@@ -16795,14 +16795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "[Minato Neon] Eroge Title: Uta Hime...  Note: The\ntext is cut off and the title of the eroge is not\nfully visible."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　 　　　　　　　\\.\\SE[タイプライター]P\\.\\SE[タイプライター]r\\.\\SE[タイプライター]o\\.\\SE[タイプライター]l\\.\\SE[タイプライター]o\\.\\SE[タイプライター]g\\.\\SE[タイプライター]u\\.\\SE[タイプライター]e\\.\\SE[タイプライター]：\\.\\SE[タイプライター]歌\\.\\SE[タイプライター]姫\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]了"
+                                ""
                             ]
                         },
                         {

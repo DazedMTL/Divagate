@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F客室～",
+    "displayName": "Main Building ~ 3rd Floor Guest Rooms ~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2073,7 +2073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ッ……ウチじゃないんだ。 こんな恰好では出歩けないぞ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](Tch... It's not me. I can't go out\ndressed like this.)"
                             ]
                         },
                         {
@@ -2198,7 +2198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](明日に備えて……今日はもうシャワーを浴びて、休むとしよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (To prepare for tomorrow... I'll take a\nshower and rest for today.)"
                             ]
                         },
                         {
@@ -2263,7 +2263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](明日に備えて……今日はもうシャワーを浴びて、休むとしよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (To prepare for tomorrow... I'll take a\nshower and rest for today.)"
                             ]
                         },
                         {
@@ -2287,7 +2287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そ、そもそも私は何て恰好で…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (W-What kind of outfit should I wear...)"
                             ]
                         },
                         {
@@ -3802,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should \\F[\\V[2]] change clothes..."
                             ]
                         },
                         {
@@ -3810,10 +3810,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…部屋着。",
-                                    "…下着姿。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "pajamas",
+                                    "in underwear",
+                                    "naked",
+                                    "won't change clothes"
                                 ],
                                 3,
                                 0,
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -4438,10 +4438,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…下着姿。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "a leather suit",
+                                    "in my underwear",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -5058,7 +5058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -5066,10 +5066,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…部屋着。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "rider suit",
+                                    "my pajamas",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -5686,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -5694,10 +5694,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…部屋着。",
-                                    "…下着姿。",
-                                    "…着替えない。"
+                                    "a rider suit",
+                                    "my pajamas",
+                                    "in my underwear",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -6983,7 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]懐中電灯\\C[0]を手に入れた。"
+                                "\\C[2] got a flashlight \\C[0] in hand."
                             ]
                         },
                         {
@@ -7676,7 +7676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](眩い……まさか純金製とかじゃあるまいな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's dazzling... It can't possibly be\nmade of pure gold, right?)"
                             ]
                         },
                         {
@@ -7780,7 +7780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](良い香りがする……これは今夜が楽しみだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It smells nice... I'm looking forward\nto tonight.)"
                             ]
                         },
                         {
@@ -7864,7 +7864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]……ロウで作られた置物だ。 私の歯形が付いている。"
+                                "\\F[\\V[2]]... It's a figurine made of wax. My teeth\nmarks are on it."
                             ]
                         },
                         {
@@ -7948,14 +7948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ふかふかのベッドだ。"
+                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer...\nbut saying that would be selfish of me, wouldn't\nit, Kohei?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "硬めの方が好みなのだが……それを言うのは\\r[我儘,わがまま]だろう)"
+                                ""
                             ]
                         },
                         {
@@ -8039,14 +8039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ふかふかのベッドだ。"
+                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer\nthough... but saying that would be selfish of me,\nwouldn't it, Kohei?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "硬めの方が好みなのだが……それを言うのは\\r[我儘,わがまま]だろう)"
+                                ""
                             ]
                         },
                         {
@@ -8130,14 +8130,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](アンティーク調のチェストだ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's an antique-style chest. But...\nthere's nothing in particular to put in it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが……特に入れる物は無い)"
+                                ""
                             ]
                         },
                         {
@@ -8235,7 +8235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "静寂な部屋の中、古時計が時を刻んでいる。"
+                                "In the quiet room, an old clock is ticking away\nthe time."
                             ]
                         },
                         {
@@ -8353,7 +8353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "静寂な部屋の中、古時計が時を刻んでいる。"
+                                "In the quiet room, an old clock is ticking away\nthe time."
                             ]
                         },
                         {
@@ -8702,7 +8702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]小さな鍵\\C[0]を手に入れた。"
+                                "I obtained a small key \\C[0] in my hand."
                             ]
                         },
                         {
@@ -8726,14 +8726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ これはいつもの鍵だよな？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Hm? Is this the usual key? I somehow\nobtained it so easily...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かあっさりと入手してしまったぞ…)"
+                                ""
                             ]
                         },
                         {
@@ -8808,7 +8808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……もう空っぽだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
                             ]
                         },
                         {
@@ -8985,7 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(結局……お互いに三度もシてしまった……)"
+                                "\\n<Minato Neon>(In the end... we ended up doing it three times to\neach other...)"
                             ]
                         },
                         {
@@ -9002,7 +9002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………ぁ…」"
+                                "\\n<Minato Neon>...ah..."
                             ]
                         },
                         {
@@ -9019,7 +9019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふと……内股を伝う愛液の存在に気付く。"
+                                "Suddenly... I notice the presence of love juice\nflowing down my crotch."
                             ]
                         },
                         {
@@ -9036,7 +9036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(はは……あんなにシたのに……)"
+                                "\\n<Minato Neon>(Haha... even though we did it so much...)"
                             ]
                         },
                         {
@@ -9079,21 +9079,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#, even after being released by the man, I\ncouldn't help but feel a throbbing sensation in my\nbody. However... I no longer hesitated."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#男に解放されてなお、疼き始めた体に我ながら飽きれてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが……もう躊躇はしなかった。"
+                                ""
                             ]
                         },
                         {
@@ -9110,21 +9110,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#I approached the wax figure and leaned my back\nagainst the wall, spreading my legs. \\#And as I\nfocused my gaze on it, I reached out my hand\ntowards the heated center..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は蝋人形へと歩み寄り対面の壁へと背中を預け脚を広げる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そして視界にアレを収めると、火照った中心部へと手を伸ばすのだった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -9297,7 +9297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(結局……お互いに三度もシてしまった……)"
+                                "\\n<Minato Neon>(In the end... we ended up doing it three times to\neach other...)"
                             ]
                         },
                         {
@@ -9314,7 +9314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………ぁ…」"
+                                "\\n<Minato Neon>...ah..."
                             ]
                         },
                         {
@@ -9331,7 +9331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふと……内股を伝う愛液の存在に気付く。"
+                                "Suddenly... I notice the presence of love juices\nflowing down my crotch."
                             ]
                         },
                         {
@@ -9348,7 +9348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(はは……あんなにシたのに……)"
+                                "\\n<Minato Neon>(Haha... even though we did it so much...)"
                             ]
                         },
                         {
@@ -9391,21 +9391,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#, even after being released by the man, I\ncouldn't help but feel a throbbing sensation in my\nbody. However... I no longer hesitated."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#男に解放されてなお、疼き始めた体に我ながら飽きれてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが……もう躊躇はしなかった。"
+                                ""
                             ]
                         },
                         {
@@ -9422,21 +9422,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#I approached the wax figure and leaned my back\nagainst the wall, spreading my legs. \\#And as I\nfocused my gaze on it, I reached out my hand\ntowards the heated center..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は蝋人形へと歩み寄り対面の壁へと背中を預け脚を広げる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そして視界にアレを収めると、火照った中心部へと手を伸ばすのだった――――…。"
+                                ""
                             ]
                         },
                         {

@@ -1651,7 +1651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごちそうさまでした！ いってきます！」"
+                                "Thank you for the meal! I'm off!"
                             ]
                         },
                         {
@@ -1668,7 +1668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ……コラ、宿題はやったのか？！」"
+                                "Ah... Hey, did you do your homework?!"
                             ]
                         },
                         {
@@ -1685,7 +1685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「戻ったらやるよ～！ んじゃ、友達待たせてるから！」"
+                                "I'll do it when I come back~! Well then, I'm\nkeeping my friends waiting!"
                             ]
                         },
                         {
@@ -1702,7 +1702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おいっ！ 車には気を付けるんだぞっ！」"
+                                "Oh, hey! Be careful with the car!"
                             ]
                         },
                         {
@@ -1719,7 +1719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かってるって～！」"
+                                "I know, okay~!"
                             ]
                         },
                         {
@@ -1765,7 +1765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "玄関を飛び出していった小さな背中を見送る。"
+                                "I watch the small back that flew out of the\nentrance."
                             ]
                         },
                         {
@@ -1800,7 +1800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「はぁ……まったく…」"
+                                "\\n<Minato Neon>Sigh... Seriously..."
                             ]
                         },
                         {
@@ -1817,31 +1817,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ちょっと甘やかし過ぎたか……。"
+                                "\\n<Minato Neon>(Maybe I spoiled them a little too much... They're\njust playing all the time because it's summer\nvacation...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "夏休みだからって遊んでばかりじゃないか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………」"
+                                ""
                             ]
                         },
                         {
@@ -1858,7 +1841,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「今日は私と買い物に行く約束だったのに…」"
+                                "\\n<Minato Neon>「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>We had a promise to go shopping today..."
                             ]
                         },
                         {
@@ -1893,28 +1893,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供の成長は嬉しいものだが、かといって親離れをされるのも"
+                                "It's a joy to see children grow, but at the same\ntime, it's also sad to see them become\nindependent. With such conflicting emotions, as I\ntried to return inside the house, a voice called\nout to me from behind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また寂しい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!そんな矛盾した気持ちを抱え、家の中へ戻ろうとした私の背中に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声が掛けられる。"
+                                ""
                             ]
                         },
                         {
@@ -1931,7 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>「よぉ、元気そうだな。 二か月ぶりぐらいか」"
+                                "\\n<？？？>Hey, you look energetic. It's been about two\nmonths, right?"
                             ]
                         },
                         {
@@ -1966,7 +1966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……いや、三か月だ。 あなたも元気そうで…」"
+                                "\\n<Minato Neon>...No, it's been three months. You seem energetic\ntoo..."
                             ]
                         },
                         {
@@ -2001,7 +2001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「猛さん」"
+                                "\\n<Minato Neon>Takeru-san"
                             ]
                         },
                         {
@@ -2018,7 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そんな経ったか？ ワリぃな、最近ホント忙しくてよォ」"
+                                "\\n<Udo Takeru>Has it been that long? Sorry, I've been really\nbusy lately."
                             ]
                         },
                         {
@@ -2035,14 +2035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……だろうな。"
+                                "\\n<Minato Neon>...I guess so. After all, you're a famous director\nwho now has several programs under your belt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今やお抱え番組をいくつも持つ有名監督様だものな」"
+                                ""
                             ]
                         },
                         {
@@ -2095,31 +2095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「おいおい……なァんか棘があるねぇ。"
+                                "\\n<Udo Takeru>Hey hey... There's something prickly about you.\nWell, more importantly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ま、ンな事よりも…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子が走って行った方向へと猛さんが視線を送る。"
+                                ""
                             ]
                         },
                         {
@@ -2136,7 +2119,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「でかくなったなァ。 今年、小学校に入ったんだったか」"
+                                "Takeru-san sends his gaze in the direction where\nthat child ran off."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>You've grown so big. Did you enter elementary\nschool this year?"
                             ]
                         },
                         {
@@ -2189,14 +2189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「あぁ、おかげさまでな。"
+                                "\\n<Minato Neon>Ah, thanks to you... I wish we could meet\nproperly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう……ちゃんと会っていけばいいのに…」"
+                                ""
                             ]
                         },
                         {
@@ -2213,14 +2213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……まぁ、その内な。"
+                                "\\n<Udo Takeru>...Well, eventually. Since we're just standing\nhere talking, why don't you come inside?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほれ立ち話もなんだし、アチィから中へいれてくれよォ」"
+                                ""
                             ]
                         },
                         {
@@ -2267,14 +2267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの演技合宿を終えた後、私は身の回りの物を全て整理し"
+                                "After finishing that acting training camp, I\nsorted out all my belongings and ended up staying\nat his house for a while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼の家でお世話になる事となった。"
+                                ""
                             ]
                         },
                         {
@@ -2291,14 +2291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこには私と同様に彼の犬として住まう娘達が十数名いたが"
+                                "There were about a dozen girls living there as his\ndogs, just like me, but I was warmly accepted as a\nnew resident without any particular rejection."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特に拒絶される事も無く新たなる住人として快く受け入れて貰えた。"
+                                ""
                             ]
                         },
                         {
@@ -2315,28 +2315,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼を悲しませる事はしたくはない……という、共通の認識が"
+                                "The common understanding seemed to be that we\ndidn't want to do anything to make him sad... Was\nit because of that? No one tried to monopolize\nhim, and I quickly blended into that harmony as\nwell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あったからだろうか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰も彼を独占しよう等とはせず、私も直ぐにその“和”の中へと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "溶け込んでいった。"
+                                ""
                             ]
                         },
                         {
@@ -2350,59 +2350,21 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし……そこにはサワ達三人の姿は無かった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私を手に入れる事で満足した彼は、あの日の時点で解放したらしい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメ元で彼女達に関するデータの処分を頼んでみたところ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意外にも彼は快く了承してくれた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆を巻き込んでしまった事は本当にすまなく思っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女達には彼と共に、どうか明るい未来を歩んでいって欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2412,7 +2374,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!……今はただただ、そう願うばかりだ。"
+                                "Surprisingly, he readily agreed."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I truly feel sorry for involving everyone. I hope\nthat they can walk towards a bright future\ntogether with him. Right now, all I can do is wish\nfor that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2441,7 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「それで……今日はどれくらい居られるんだ？」"
+                                "\\n<Minato Neon>So... how long can you stay today?"
                             ]
                         },
                         {
@@ -2458,31 +2458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「夜に打合せがあるからなァ……夕方ぐらいまでか？"
+                                "\\n<Udo Takeru>I have a meeting at night... so until around\nevening, I guess? Well, it's troublesome to run\ninto each other, so I'll leave before the kid\ncomes back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つーか鉢合わせするのも面倒だし、ガキが帰って来る前には帰るぞ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「そうか……なら割と時間はあるな…」"
+                                ""
                             ]
                         },
                         {
@@ -2499,7 +2482,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「………」"
+                                "\\n<Minato Neon>I see... In that case, we have quite a bit of\ntime..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>「.........」"
                             ]
                         },
                         {
@@ -2552,7 +2552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……だ、だったら先にシャワーでも浴びてきたらどうだ？」"
+                                "\\n<Minato Neon>Umm... In that case, how about you take a shower\nfirst?"
                             ]
                         },
                         {
@@ -2623,7 +2623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「この炎天下の中、汗だくだろ\\SE[bofu]…――――ひゃあっ！？」"
+                                "\\n<Minato Neon>In this scorching heat, you must be drenched in\nsweat...---- Ahh!"
                             ]
                         },
                         {
@@ -2640,7 +2640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洗い物をしていた私が猛さんの太い腕によって抱き寄せられる。"
+                                "I, who was doing the dishes, was pulled into a\ntight embrace by Takeru's strong arms."
                             ]
                         },
                         {
@@ -2657,7 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「どうせまた汗だくになるんだ、意味ねぇだろォ？」"
+                                "\\n<Udo Takeru>What's the point? I'll just end up drenched in\nsweat again, right?"
                             ]
                         },
                         {
@@ -2674,7 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「それに……お前だって一秒たりとも無駄にしたくないよなァ？」"
+                                "\\n<Udo Takeru>Besides... you don't want to waste even a single\nsecond, right?"
                             ]
                         },
                         {
@@ -2691,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……ッ…」"
+                                "\\n<Minato Neon>...huh..."
                             ]
                         },
                         {
@@ -2708,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……うん、欲しい……すぐに欲しい…」"
+                                "\\n<Minato Neon>...Yeah, I want it... I want it right now..."
                             ]
                         },
                         {
@@ -2725,14 +2725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「前回は一時間も居られなかったからなァ……。"
+                                "\\n<Udo Takeru>Last time, I couldn't stay for even an hour... so\ntoday, I'll make up for three months and shower\nyou with plenty of love, \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日は三か月分、たっぷりと可愛がってやンぜぇ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2785,14 +2785,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「いいよ……いっぱい可愛がってぇ\\I[12]"
+                                "\\n<Minato Neon>It's okay... I'll love you a lot... I think about\nyou every day and it makes me wet... \\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "毎日、猛さんの事を想って濡らしてるんだからぁ……\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2832,7 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…彼の犬として過ごした時間はかけがえのない時間だった。"
+                                "The time I spent as his dog was irreplaceable."
                             ]
                         },
                         {
@@ -2849,21 +2849,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "“躾け”と称された時間で尽くす喜びというものを教え込まれた。"
+                                "I was taught the joy of devoting myself in the\ntime called 'training'. Every day, I felt joy as\nmy body and mind became dyed in his colors... It\nwas truly... a very fulfilling time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "日々、体と精神が彼色に染まっていく事に喜びを感じられ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に……とても満ち足りた時間だった。"
+                                ""
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……ふガっ、んっ……あら？ オイラ寝てたのか…」"
+                                "\\n<Udo Takeru>...Huh, huh... Oh? Was I sleeping...?"
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「一時間くらいな……本当に疲れていたみたいだな」"
+                                "\\n<Minato Neon>About an hour... I really seemed tired."
                             ]
                         },
                         {
@@ -2926,7 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「いや、セックスは別体力だろ……クソッ、オイラとした事が…」"
+                                "\\n<Udo Takeru>No, sex requires a different kind of stamina...\nDamn it, I should have known..."
                             ]
                         },
                         {
@@ -2943,7 +2943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ふふっ……何だそれ？ デザートは別腹みたいな言い方をするな」"
+                                "\\n<Minato Neon>Hehe... What's that? Don't use the phrase 'dessert\nis for a separate stomach'."
                             ]
                         },
                         {
@@ -2975,45 +2975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、そんな満ち足りた時間も長くは続かなかった。"
+                                "However, such a fulfilling time did not last long.\nI was faced with the choice of either carrying and\ngiving birth to that child or having an abortion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの子を身籠り、生むか下ろすかの選択肢を突きつけられたのだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、ほぼ即決だったと思う……私は生み、育てる道を選択した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犬としての生活を失う事にはなるが、彼との明確な繋がりを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はどうしても捨てられなかった。"
+                                ""
                             ]
                         },
                         {
@@ -3030,7 +2999,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……私は彼の元を離れ、間もなくして芸能界を引退した。"
+                                "But, I think it was almost an immediate\ndecision... I chose the path of giving birth and\nraising the child. Although I would lose my life\nas a dog, I couldn't bring myself to abandon the\nclear connection I had with him."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And... I left his side and soon after retired from\nthe entertainment industry."
                             ]
                         },
                         {
@@ -3062,31 +3062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……そういえば、あの時もお前は笑ったな。"
+                                "\\n<Udo Takeru>...Come to think of it, you were smiling back then\ntoo. Do you remember? It was the night I first\nheld you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "覚えてるか？ オイラが初めてお前を抱いた夜だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……そんな事あったか？ よく覚えてないな…」"
+                                ""
                             ]
                         },
                         {
@@ -3103,14 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「いいや、確かに笑ってたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時は性欲がヤバくてうやむやにしちまったが…」"
+                                "\\n<Minato Neon>...Did that really happen? I don't remember it\nwell..."
                             ]
                         },
                         {
@@ -3127,7 +3103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「なぜ笑った？ あんな状況で、なぜお前は笑えた？」"
+                                "\\n<Udo Takeru>No, you were definitely smiling. At that time, my\nsexual desire was overwhelming and we ended up\ndoing it in a hush-hush manner..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3144,7 +3127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「そんな事を突然問われても……う～ん…」"
+                                "\\n<Udo Takeru>Why did you laugh? In that situation, why were you\nable to smile?"
                             ]
                         },
                         {
@@ -3161,21 +3144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当時の状況を思い返すも、まったく身に覚えが無かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ何となく……過去の自分が何を想い、そうしたのかは分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから私は素直にその結論を口にした。"
+                                "\\n<Minato Neon>Even if you suddenly ask me something like that...\num..."
                             ]
                         },
                         {
@@ -3192,38 +3161,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「この未来を予見したから……。"
+                                "When I think back to that time, I have no\nrecollection of it at all. But somehow... I\nunderstand what my past self was thinking and why\nI did that. So I honestly voiced that conclusion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当は猛さんが優しい人だと見抜いていたから……かも？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「オイラが優しいだァ？ 気持ち悪い事を言うな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気に入った女を囲い、好きに使ってるだけの性獣監督だぞォ」"
+                                ""
                             ]
                         },
                         {
@@ -3240,21 +3192,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かにそうだな……ただ優しいというには語弊がある。"
+                                "\\n<Minato Neon>Because I foresaw this future... Maybe it's\nbecause I saw through that Udo-san is a kind\nperson...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この人は“犬に堕ちた女”にだけは優しいのだ。"
+                                "\\n<Udo Takeru>Am I kind? Don't say disgusting things... I'm just\na perverted director who surrounds himself with\nwomen he likes and uses them as he pleases."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに……いつだったか彼は言っていた。"
+                                "That's true... but it's misleading to say he's\nkind. He's only kind to women who have fallen into\nthe role of a dog. And... he said it at some\npoint."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3278,28 +3278,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#『人生投げうって犬になったんだァ。"
+                                "Udo Takeru: I threw away my life and became a dog.\nIf I make women like that unhappy, then it's my\nloss. Well... it could also be seen as a way to\nget back at the women who rejected me..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そんな女を不幸にしちまったらオイラの負けなんだよォ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\!いや……まぁ単に、オイラを拒絶しやがった女達への当て付けともいえるが…』"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3323,7 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ふふっ…」"
+                                "\\n<Minato Neon>Hehe..."
                             ]
                         },
                         {
@@ -3340,7 +3340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「おい、そこで笑うな…」"
+                                "\\n<Udo Takeru>Hey, don't laugh over there..."
                             ]
                         },
                         {
@@ -3357,31 +3357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「あなたの元を離れた私に住まいの世話をしてくれた上、"
+                                "\\n<Minato Neon>You took care of me after I left your side and\neven now you come to see me... That's enough to\nclassify you as kind, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今もこうして会いに来てくれるんだ……十分、優しい部類だろう？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あーもーうるせぇな……萎えンだろうが…」"
+                                ""
                             ]
                         },
                         {
@@ -3398,14 +3381,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「む……それは駄目だ。"
+                                "\\n<Udo Takeru>Ugh, shut up already... It's so annoying..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は三か月分可愛がってくれるんだろう？」"
+                                "\\n<Minato Neon>Um... that's not good. Today, will you spoil me\nfor three months' worth?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3447,14 +3447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は起き上がり彼の股間へと顔を埋める。"
+                                "I got up and buried my face in their crotch.\nWithout any hesitation, I took their drooping \\r[\ncock into my mouth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして垂れてしまっていた彼のチンポを\\r[躊躇,ちゅうちょ]なく口に咥えた。"
+                                ""
                             ]
                         },
                         {
@@ -3483,7 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「うほっ\\I[12] 相変わらず良いテクしてンなァ♪」"
+                                "\\n<Udo Takeru>Oh, \\I[12], you still have such good techniques♪"
                             ]
                         },
                         {
@@ -3507,7 +3507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見る見る内に彼のチンポが私の咥内で肥大していく。"
+                                "His cock swelled up inside my mouth in no time."
                             ]
                         },
                         {
@@ -3524,14 +3524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「なんつーか……いつもガキを避けてヤってるからか、"
+                                "\\n<Udo Takeru>I don't know how to put it... Maybe because I\nalways avoid dealing with kids, but lately I've\nbeen getting excited by being with married women\n\\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最近は人妻を相手してるみてぇで興奮するわ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -3548,14 +3548,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何でもいい……彼が私を求めてくれるなら何だっていい。"
+                                "Anything is fine... As long as he desires me,\nanything is fine. I hope this newly acquired\nfulfilling time continues for even a second\nlonger."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この新たに手にした満ち足りた時間が一秒でも長く続けばいい。"
+                                ""
                             ]
                         },
                         {
@@ -3579,28 +3579,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#, but... this time, eventually, we will lose it.\nTo shake off that slight unease, I... threw myself\ninto the pleasure in front of me----..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが……この時間も、いつかは失う事になるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\!そんな一抹の不安を振り払う様に、私は……目の前の快楽へと身を投じた――――…。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3754,7 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[Chime]\\C[2]chapter3\\C[0]が開放されました！"
+                                "\\SE[Chime]\\C[2]chapter3\\C[0] has been unlocked!"
                             ]
                         },
                         {

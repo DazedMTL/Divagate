@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３Ｆ客室～",
+    "displayName": "Main Building ~3rd Floor Guest Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2073,7 +2073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ッ……ウチじゃないんだ。 こんな恰好では出歩けないぞ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](Tch... It's not me. I can't go out\ndressed like this.)"
                             ]
                         },
                         {
@@ -2543,7 +2543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](シャワーはもういいだろ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm done with the shower already...)"
                             ]
                         },
                         {
@@ -3252,7 +3252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](眩い……まさか純金製とかじゃあるまいな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's dazzling... It can't possibly be\nmade of pure gold, right?)"
                             ]
                         },
                         {
@@ -3356,7 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](良い香りがする……これは今夜が楽しみだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It smells nice... I'm looking forward\nto tonight.)"
                             ]
                         },
                         {
@@ -3431,14 +3431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](昨日はシャワーで済ませてしまったが、"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Yesterday I just took a shower, but\ntonight I'll let myself soak slowly)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今夜はゆっくりと浸からせてもらおう)"
+                                ""
                             ]
                         },
                         {
@@ -3513,7 +3513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](何かを理由にシャワーで済ませてしまうのは悪い癖だな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a bad habit to always try to\nfinish things in the shower for some reason...)"
                             ]
                         },
                         {
@@ -3597,7 +3597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]……ロウで作られた置物だ。 私の歯形が付いている。"
+                                "\\F[\\V[2]]... It's a figurine made of wax. My teeth\nmarks are on it."
                             ]
                         },
                         {
@@ -3681,14 +3681,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ふかふかのベッドだ。"
+                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer...\nbut saying that would be selfish of me, wouldn't\nit, Kohei?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "硬めの方が好みなのだが……それを言うのは\\r[我儘,わがまま]だろう)"
+                                ""
                             ]
                         },
                         {
@@ -3772,14 +3772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ふかふかのベッドだ。"
+                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer...\nbut saying that would be selfish of me, wouldn't\nit, Kohei?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "硬めの方が好みなのだが……それを言うのは\\r[我儘,わがまま]だろう)"
+                                ""
                             ]
                         },
                         {
@@ -3863,14 +3863,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](アンティーク調のチェストだ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's an antique-style chest. But...\nthere's nothing in particular to put in it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが……特に入れる物は無い)"
+                                ""
                             ]
                         },
                         {
@@ -3968,7 +3968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "静寂な部屋の中、古時計が時を刻んでいる。"
+                                "In the quiet room, an old clock is ticking away\nthe time."
                             ]
                         },
                         {
@@ -4368,7 +4368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](冷静に見たらおぞましいだけなのに、どうして私は…)"
+                                "\\n<Minato Neon>(Even though it's just disgusting when I look at\nit calmly, why am I...)"
                             ]
                         },
                         {
@@ -4489,7 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さっきまで……私は本物のおちんちんを…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Until just now... I had a real\npenis...)"
                             ]
                         },
                         {
@@ -4617,7 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](本物はもっと硬くて……何と言うか凄かった…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The real one was much harder... I mean,\nit was amazing...)"
                             ]
                         },
                         {
@@ -4717,7 +4717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -4734,14 +4734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ッ……私なにしてんだろ…。"
+                                "\\n<Minato Neon>\\F[\\V[2]](Ugh... What am I doing... I was supposed\nto go meet Sonoda-san...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "園田さんに会いに行こうとしてたのに…)"
+                                ""
                             ]
                         },
                         {
@@ -4758,14 +4758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](でも……それでも、一言二言でいい……。"
+                                "\\n<Minato Neon>\\F[\\V[2]](But... even so, just a few words... I\nwant to exchange words with Sonoda-san...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "園田さんと言葉を交わしたい…)"
+                                ""
                             ]
                         },
                         {

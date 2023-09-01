@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館３F ～宇堂の部屋～",
+    "displayName": "West Building 3F ~Udo's Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4469,7 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ッ……宇堂監督…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Udo Coach..."
                             ]
                         },
                         {
@@ -4486,14 +4486,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んふふぅ♪ 待ったよ音々ちゃぁん♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Nfufu~♪ Finally,\nMinato-chan, you've arrived! First of all,\ncongratulations on reaching this room~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先ずは、この部屋への到達おめでとうと言っておこうかねぇ～」"
+                                ""
                             ]
                         },
                         {
@@ -4510,14 +4510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「御託はいい……アレはどういうつもりだ？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Enough with the\nexcuses... What do you intend to do? What have you\ndone to the three of them?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前は三人に何をした…」"
+                                ""
                             ]
                         },
                         {
@@ -4541,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「三人～ン？ 何の事を言ってるんだァ？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Three people? What are\nyou talking about?"
                             ]
                         },
                         {
@@ -4659,7 +4659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「とぼけるなっ！ キノ、サワ、モモの三人だ！」"
+                                "\\n<Minato Neon>Don't play dumb! It's Kino, Sawa, and Momo, the\nthree of them!"
                             ]
                         },
                         {
@@ -4676,7 +4676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]私は宇堂監督へと詰め寄り、その胸ぐらを掴む。"
+                                "I confront Coach Udo and grab him by the collar."
                             ]
                         },
                         {
@@ -4700,14 +4700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…なるほど、動画の事だねぇ。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Ah... I see, you're\ntalking about the video. Come to think of it, I\ndid mention their names in the 4P video, so it's\nno wonder you noticed (laughs)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そういや4P動画では名前言っちゃってたし、そりゃ気付くかァ(笑」"
+                                ""
                             ]
                         },
                         {
@@ -4724,7 +4724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「…――――貴様っ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...You bastard!"
                             ]
                         },
                         {
@@ -4748,7 +4748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「なァ、音々ちゃん……君は何か勘違いをしてないかい？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hey, Neon-chan... Are\nyou misunderstanding something?"
                             ]
                         },
                         {
@@ -4765,7 +4765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………は？ 勘違いだと？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Huh? You think I'm\nmistaken?"
                             ]
                         },
                         {
@@ -4782,31 +4782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「オイラを悪者みたいに扱ってるけどさァ……。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] You're treating me like\nthe bad guy, but... let me ask you this... did any\nof them show any signs of discomfort?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、聞くけど……彼女達は嫌な素振りを一つでもしてたかい？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「それはっ……で、でも、あんな酷い扱いをして…」"
+                                ""
                             ]
                         },
                         {
@@ -4823,14 +4806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「音々ちゃんの尺度で測られてもねぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女達は望みオイラはそれに応えた……それだけの話さァ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] That's... but, to treat\nthem so cruelly..."
                             ]
                         },
                         {
@@ -4847,14 +4823,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「それに……仲間といえど、三人の交友関係にまで口を出すのは"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Even if it's measured\nby Neon-chan's standards... those girls had their\ndesires and I simply fulfilled them... That's all\nthere is to it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "横暴なんじゃないかい？ 彼女達だって子供じゃないんだよォ？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Besides... even if\nthey're friends, isn't it presumptuous to meddle\nin their relationship with each other? They're not\nchildren, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4878,7 +4878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ..."
                             ]
                         },
                         {
@@ -4895,14 +4895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]……言葉に詰まる。"
+                                "I... I'm at a loss for words. My anger fades away\nin the face of Coach Udo's unexpected\ncounterattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督の思わぬ反撃に怒気が薄れていく。"
+                                ""
                             ]
                         },
                         {
@@ -4926,14 +4926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「でもまぁ……音々ちゃんの言い分も分からないでもないよォ？"
+                                "\\n<Udo Takeru>But well... I can't say I don't understand Neon-\nchan's point of view. In society, it's considered\nan impure act, and above all, they are important\nfriends."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "世間一般では不純な行為だと思うし、何より大切な仲間だもんねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -4950,21 +4950,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「だから“理解”が必要だと思うんだ。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] That's why I think\n'understanding' is necessary. If you truly care\nabout and value them, I think you should first\nunderstand how they came to accept me, don't you\nthink?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に彼女達の事を心配し大事に思うのなら、彼女達が如何にして"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラを受け入れたのかを先ずは知るべきだと思うけどねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -4988,7 +4988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………？ それはどうやって…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Huh? How would\nyou...?"
                             ]
                         },
                         {
@@ -5005,38 +5005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「なぁに、簡単な話さ……。"
+                                "\\n<Udo Takeru>Well, it's a simple matter... You just have to\ntest whether you yourself can accept me or not."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君自身がオイラを受け入れるか否かを試せばいい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「もし……オイラを拒絶する事が出来るなら君が正しい事になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時は三人との関係を解消するし、それ相応の責任を負おう」"
+                                ""
                             ]
                         },
                         {
@@ -5053,14 +5029,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「逆に音々ちゃんがオイラを受け入れる様な事になったら"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] If... you are able to\nreject me, then you will be in the right. At that\ntime, I will end my relationship with the three of\nthem and take on the appropriate responsibility."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その疑念は晴れるだろうし音々ちゃんも安心だろう？」"
+                                "\\n<Udo Takeru>On the contrary, if Neon-chan were to accept me,\nwouldn't that dispel your doubts and bring peace\nof mind to Neon-chan as well?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5084,7 +5084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](受け入れるかを試す？ 何を言っているんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Test whether I can\naccept him? What are you talking about...)"
                             ]
                         },
                         {
@@ -5101,14 +5101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あれれ？ ピンときてない？ じゃあ言い方を変えよう。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Huh? Don't you get it?\nWell then, let me put it in a way that suits us\nbetter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラ達にとって、おあつらえ向きな言い方でねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -5125,21 +5125,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「最後のレッスンだ音々ちゃん♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] It's the final lesson,\nNeon-chan♪ The stakes are your 'first and only\nchance to prove your righteousness♪ Will you\naccept it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "チップは君の“初めて”という一回きりの大勝負♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "己の正しさを証明する為に……受けて立つかい？」"
+                                ""
                             ]
                         },
                         {
@@ -5163,7 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -5180,7 +5180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んふふふふっ♪」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Nfufufufu♪"
                             ]
                         },
                         {
@@ -5204,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](そういう事か……私が最後の一線を越えるか否かという…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (So that's what it is...\nWhether I will cross the final line or not...)"
                             ]
                         },
                         {
@@ -5221,45 +5221,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]その提案を受け、不思議と拒絶しようとは思わなかった。"
+                                "I didn't feel inclined to reject that proposal.\nMaybe it's because the situation was already\nunfavorable... but I thought it would be much\neasier to understand than continuing to argue back\nand forth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "旗色が悪かった……というのもあるが、ウダウダと口論を続けるより"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっと分り易いと思ったからかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](三人にとっては大きなお世話なのかもしれない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも……どうしても、あんな関係が正常だと私には思えない…)"
+                                ""
                             ]
                         },
                         {
@@ -5276,21 +5252,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「勿論……我が身可愛さに勝負から逃げたって構わないよォ？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (It might be a big\nconcern for the three of them... but... I just\ncan't see that kind of relationship as normal...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰にも文句は言われないし、仲間を理解する為だけにするような"
+                                "\\n<Udo Takeru>Of course... it's fine if you run away from the\ncompetition because you can't bear to lose to my\ncuteness, you know? No one will complain, and it's\nnot a competition that is only done to understand\nour comrades, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "勝負じゃあないからねぇ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5314,14 +5314,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……受けるさ、私を見くびるな。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...I'll accept it, don't\nunderestimate me. The words of withdrawing from\nthe three of you... never forget them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "三人から手を引くという言葉……絶対に忘れるなよ」"
+                                ""
                             ]
                         },
                         {
@@ -5338,14 +5338,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んふふっ、そうこなくっちゃ♪ さすが音々ちゃんだ♪"
+                                "\\n<Udo Takeru>Nfufufu, that's right, Neon-chan♪ Well then, I'll\ngo ahead to the bedroom first, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ先に\\C[2]ベッドルーム\\C[0]へ行ってるねぇ♪」"
+                                ""
                             ]
                         },
                         {
@@ -5634,7 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ッ……宇堂監督…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Udo Coach..."
                             ]
                         },
                         {
@@ -5651,14 +5651,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んふふぅ♪ 待ったよ音々ちゃぁん♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Nfufu~♪ Finally, Neon-\nchan, you've arrived! First of all,\ncongratulations on reaching this room~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先ずは、この部屋への到達おめでとうと言っておこうかねぇ～」"
+                                ""
                             ]
                         },
                         {
@@ -5675,14 +5675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「御託はいい……アレはどういうつもりだ？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Enough with the\nexcuses... What was that all about? What did you\ndo to the three of them?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お前は三人に何をした…」"
+                                ""
                             ]
                         },
                         {
@@ -5706,7 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「三人～ン？ 何の事を言ってるんだァ？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Three people? What are\nyou talking about?"
                             ]
                         },
                         {
@@ -5824,7 +5824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「とぼけるなっ！ キノ、サワ、モモの三人だ！」"
+                                "\\n<Minato Neon>Don't play dumb! It's Kino, Sawa, and Momo, the\nthree of them!"
                             ]
                         },
                         {
@@ -5841,7 +5841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]私は宇堂監督へと詰め寄り、その胸ぐらを掴む。"
+                                "I confront Coach Udo and grab him by the collar."
                             ]
                         },
                         {
@@ -5865,14 +5865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…なるほど、動画の事だねぇ。"
+                                "\\n<Udo Takeru>Ah... I see, you're talking about the video. Come\nto think of it, I did mention their names in the\n4P video, so it's no wonder you noticed (laughs)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そういや4P動画では名前言っちゃってたし、そりゃ気付くかァ(笑」"
+                                ""
                             ]
                         },
                         {
@@ -5889,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「…――――貴様っ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...You bastard!"
                             ]
                         },
                         {
@@ -5913,7 +5913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「なァ、音々ちゃん……君は何か勘違いをしてないかい？」"
+                                "\\n<Udo Takeru>Hey, Neon-chan... Are you misunderstanding\nsomething?"
                             ]
                         },
                         {
@@ -5930,7 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………は？ 勘違いだと？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Huh? Are you saying\nit's a misunderstanding?"
                             ]
                         },
                         {
@@ -5947,31 +5947,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「オイラを悪者みたいに扱ってるけどさァ……。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] You're treating me like\nthe bad guy, but... let me ask you this... did any\nof them show any signs of discomfort?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、聞くけど……彼女達は嫌な素振りを一つでもしてたかい？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「それはっ……で、でも、あんな酷い扱いをして…」"
+                                ""
                             ]
                         },
                         {
@@ -5988,14 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「音々ちゃんの尺度で測られてもねぇ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女達は望みオイラはそれに応えた……それだけの話さァ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] That's... but, still, to\ntreat them so cruelly..."
                             ]
                         },
                         {
@@ -6012,14 +5988,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「それに……仲間といえど、三人の交友関係にまで口を出すのは"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Even if it's measured\nby Neon-chan's standards... those girls had\ndesires, and I simply fulfilled them... That's all\nthere is to it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "横暴なんじゃないかい？ 彼女達だって子供じゃないんだよォ？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] And besides... even if\nthey're friends, isn't it presumptuous to meddle\nin their relationship with each other? They're not\nchildren, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6043,7 +6043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ..."
                             ]
                         },
                         {
@@ -6060,14 +6060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]……言葉に詰まる。"
+                                "I... I'm at a loss for words. My anger fades away\nin the face of Coach Udo's unexpected\ncounterattack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督の思わぬ反撃に怒気が薄れていく。"
+                                ""
                             ]
                         },
                         {
@@ -6091,14 +6091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「でもまぁ……音々ちゃんの言い分も分からないでもないよォ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Well... I can't say I\ndon't understand Neon-chan's point of view. It's\nconsidered impure in society, and above all,\nthey're important friends, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "世間一般では不純な行為だと思うし、何より大切な仲間だもんねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -6115,21 +6115,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「だから“理解”が必要だと思うんだ。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] That's why I think\n'understanding' is necessary. If you truly care\nand value them, I think you should first\nunderstand how they accepted me, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当に彼女達の事を心配し大事に思うのなら、彼女達が如何にして"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラを受け入れたのかを先ずは知るべきだと思うけどねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -6153,7 +6153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………？ それはどうやって…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Huh? How...?"
                             ]
                         },
                         {
@@ -6170,38 +6170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「なぁに、簡単な話さ……。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Well, it's simple...\nJust try accepting me or not."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "君自身がオイラを受け入れるか否かを試せばいい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「もし……オイラを拒絶する事が出来るなら君が正しい事になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時は三人との関係を解消するし、それ相応の責任を負おう」"
+                                ""
                             ]
                         },
                         {
@@ -6218,14 +6194,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「逆に音々ちゃんがオイラを受け入れる様な事になったら"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] If... you're able to\nreject me, then you'll be in the right. At that\ntime, I will end my relationship with the three of\nthem and take on the appropriate responsibility."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その疑念は晴れるだろうし音々ちゃんも安心だろう？」"
+                                "\\n<Udo Takeru>On the contrary, if Neon-chan were to accept me,\nwouldn't that dispel those doubts and bring peace\nof mind to Neon-chan as well?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6249,7 +6249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](受け入れるかを試す？ 何を言っているんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Are you asking me to\ntry accepting you? What are you saying...)"
                             ]
                         },
                         {
@@ -6266,14 +6266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あれれ？ ピンときてない？ じゃあ言い方を変えよう。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Huh? Don't you get it?\nWell then, let me put it in a way that suits us\nbetter."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラ達にとって、おあつらえ向きな言い方でねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -6290,21 +6290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「最後のレッスンだ音々ちゃん♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] It's the final lesson,\nNeon-chan♪ This is your one-time-only 'first time'\nchallenge♪ Will you accept it to prove your\nrighteousness...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "チップは君の“初めて”という一回きりの大勝負♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "己の正しさを証明する為に……受けて立つかい？」"
+                                ""
                             ]
                         },
                         {
@@ -6328,7 +6328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -6345,7 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んふふふふっ♪」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hehehe♪"
                             ]
                         },
                         {
@@ -6369,7 +6369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](そういう事か……私が最後の一線を越えるか否かという…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (So that's what you\nmean... Whether I cross the final line or not...)"
                             ]
                         },
                         {
@@ -6386,45 +6386,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]その提案を受け、不思議と拒絶しようとは思わなかった。"
+                                "I didn't think about rejecting that proposal\nstrangely. Maybe it's because it was much easier\nto understand than continuing to argue back and\nforth, even though the situation looked bad..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "旗色が悪かった……というのもあるが、ウダウダと口論を続けるより"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ずっと分り易いと思ったからかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](三人にとっては大きなお世話なのかもしれない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも……どうしても、あんな関係が正常だと私には思えない…)"
+                                ""
                             ]
                         },
                         {
@@ -6441,21 +6417,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「勿論……我が身可愛さに勝負から逃げたって構わないよォ？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (It might be a big\nconcern for the three of them... but... no matter\nwhat, I just can't see that kind of relationship\nas normal...) But... no matter what, I just can't\nsee that kind of relationship as normal...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰にも文句は言われないし、仲間を理解する為だけにするような"
+                                "\\n<Udo Takeru>Of course... it's fine if you run away from the\ncompetition because you can't resist my cuteness,\nright? No one will complain, and it's not a\ncompetition that is done just to understand our\ncomrades, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "勝負じゃあないからねぇ？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6479,14 +6479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……受けるさ、私を見くびるな。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...I'll accept it, don't\nunderestimate me. Don't ever forget the words of\nwithdrawing from the three of us..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "三人から手を引くという言葉……絶対に忘れるなよ」"
+                                ""
                             ]
                         },
                         {
@@ -6503,14 +6503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んふふっ、そうこなくっちゃ♪ さすが音々ちゃんだ♪"
+                                "\\n<Udo Takeru>Nfufu, that's right, just like I expected from\nyou, Neon-chan♪ Well then, why don't you go ahead\nto the bedroom \\C[2]\\C[0]?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ先に\\C[2]ベッドルーム\\C[0]へ行ってるねぇ♪」"
+                                ""
                             ]
                         },
                         {
@@ -6779,7 +6779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems like the door is locked."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～館内守衛所～",
+    "displayName": "Main Building ~Guard Station~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1905,14 +1905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](館内のパソコンはイントラネットで繋がっている。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (The computers inside\nthe building are connected to the intranet. If you\nenter the ID and password, you can watch the\nexclusive collection.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "IDとパスを通せば秘蔵コレクションが視聴可能だ)"
+                                ""
                             ]
                         },
                         {
@@ -1929,14 +1929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](そういえば……ノートパソコンを使った一連の演出は、"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (By the way... the\nwhole performance using the laptop was an idea\nsuggested by a girl named Momo.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "モモとかいう女が出した案だったな)"
+                                ""
                             ]
                         },
                         {
@@ -2087,14 +2087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](発注書が散らかっている……最後に此処を掃除した犬は誰だァ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (The purchase order is\na mess... Who was the last dog to clean up here?\nThey're going to be punished... Did someone do\nthis on purpose?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こりゃお仕置きが必……もしかしてワザとかァ？)"
+                                ""
                             ]
                         },
                         {
@@ -2581,14 +2581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](……ん？ 鍵が掛かってるな。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (...Huh? It's locked.\nHmm... I don't remember closing it, and there\nprobably isn't anything important inside anyway.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ん～…閉めた記憶はねぇし、どうせ大したモンは入ってねぇだろう)"
+                                ""
                             ]
                         },
                         {
@@ -2679,7 +2679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](カビ臭っ……このベッドは使ってねぇし処分させるか…)"
+                                "\\n<Udo Takeru>(It smells musty... I haven't used this bed,\nshould I get rid of it...)"
                             ]
                         },
                         {
@@ -2830,7 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](カビ臭っ……このベッドは使ってねぇし処分させるか…)"
+                                "\\n<Udo Takeru>(It smells musty... I haven't used this bed,\nshould I get rid of it...)"
                             ]
                         },
                         {

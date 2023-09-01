@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館３F ～宇堂の部屋～",
+    "displayName": "West Building 3F ~ Udo's Room ~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3896,7 +3896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](逃げる訳にはいかない……\\C[2]ベッドルーム\\C[0]へ向かうぞ)"
+                                "\\n<Minato Neon>I can't run away... I'm heading towards \\C[2]'s\nbedroom."
                             ]
                         },
                         {
@@ -4011,14 +4011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この先は……いや、今はいいか。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (For now... no, it's fine. Let's head to\nthe bedroom \\C[2]\\C[0]...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ベッドルーム\\C[0]へ向かうぞ…)"
+                                ""
                             ]
                         },
                         {
@@ -4404,7 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -4421,14 +4421,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]不安に圧し潰されそうになる。"
+                                "\\F[\\V[2]]I feel overwhelmed by anxiety. Looking\nback at the content of the lessons so far, it's\nonly natural."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これまでのレッスン内容を\\r[鑑,かんが]みるとそれも当然であった。"
+                                ""
                             ]
                         },
                         {
@@ -4445,14 +4445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……大丈夫、一時の快楽なんかに流されるな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...It's okay, don't be swayed by\ntemporary pleasure. Besides... it's not just my\nproblem anymore.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに……もう私一人の問題じゃないんだ)"
+                                ""
                             ]
                         },
                         {
@@ -4507,7 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ッ……よし、行くか…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Hm... Alright, let's go..."
                             ]
                         },
                         {
@@ -4541,21 +4541,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I muttered a word to encourage myself, and headed\ntowards the bedroom where that man was\nwaiting----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は自分を鼓舞するかの様に一言呟き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　あの男が待つ\\C[2]ベッドルーム\\C[0]へと向かった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -4753,7 +4753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -4770,14 +4770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]不安に圧し潰されそうになる。"
+                                "\\F[\\V[2]]I feel overwhelmed by anxiety. Looking\nback at the content of the lessons so far, it's\nonly natural."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これまでのレッスン内容を\\r[鑑,かんが]みるとそれも当然であった。"
+                                ""
                             ]
                         },
                         {
@@ -4794,14 +4794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……大丈夫、一時の快楽なんかに流されるな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...It's okay, don't be swayed by\ntemporary pleasure. Besides... it's not just my\nproblem anymore.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに……もう私一人の問題じゃないんだ)"
+                                ""
                             ]
                         },
                         {
@@ -4856,7 +4856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ッ……よし、行くか…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]Hm... Alright, let's go..."
                             ]
                         },
                         {
@@ -4890,21 +4890,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I muttered a word to encourage myself, and headed\ntowards the bedroom where that man was\nwaiting----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は自分を鼓舞するかの様に一言呟き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　あの男が待つ\\C[2]ベッドルーム\\C[0]へと向かった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -5084,7 +5084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems like the door is locked."
                             ]
                         },
                         {
@@ -5256,17 +5256,17 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「んひひっ、じゃあ始めようか音々ちゃん……。"
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正真正銘、これが最後の個人レッスンだァ♪」"
+                                "This is truly the last private lesson, ya♪"
                             ]
                         },
                         {
@@ -5295,7 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「………」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -5303,8 +5303,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…始める。",
-                                    "…一度、離れる。"
+                                    "Let's begin",
+                                    "Let's separate for a while"
                                 ],
                                 1,
                                 0,
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「あらら……ビビッてんのかぁい？」"
+                                "\\n<Udo Takeru>Oh my... Are you scared?"
                             ]
                         },
                         {
@@ -5511,14 +5511,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「んひひっ、じゃあ始めようか音々ちゃん……。"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Hehe, well then, let's\nbegin, Neon-chan... This will truly be our last\nprivate lesson♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "正真正銘、これが最後の個人レッスンだァ♪」"
+                                ""
                             ]
                         },
                         {
@@ -5535,7 +5535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「………」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -5907,7 +5907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「んじゃ、再開といきますかァ♪」"
+                                "\\n<Udo Takeru>Well then, let's resume, shall we?♪"
                             ]
                         },
                         {
@@ -5915,8 +5915,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…再開する。",
-                                    "…まだ時間じゃない。"
+                                    "Let's resume",
+                                    "It's not time yet"
                                 ],
                                 1,
                                 0,
@@ -6907,7 +6907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「んふふっ……勿体ぶるねぇ♪」"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] Hehe... You're being so modest♪"
                             ]
                         },
                         {
@@ -7004,7 +7004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「んじゃ、再開といきますかァ♪」"
+                                "\\n<Udo Takeru>Well then, let's resume, shall we?♪"
                             ]
                         },
                         {

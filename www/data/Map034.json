@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "♪ 隠し事",
+    "displayName": "Hidden Secrets",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -2240,7 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……だから、当ててるの。 んふふ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...That's why I'm\nguessing. Hehe..."
                             ]
                         },
                         {
@@ -2257,14 +2257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「まだ表情が硬いねぇ……。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Your expression is\nstill stiff... and your lines are seductive... You\nunderstand what kind of scene it is, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに台詞は色っぽく……どういったシーンかは分かるだろうォ？」"
+                                ""
                             ]
                         },
                         {
@@ -2288,7 +2288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -2312,7 +2312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「だから当ててるの。 んふふ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]... That's why I'm\nguessing. Hehe..."
                             ]
                         },
                         {
@@ -2329,14 +2329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「表情は良くなったよォ♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Your expression has\nimproved♪ But unfortunately! Your lines lack\nemotion, don't they..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも残念っ！ 台詞に気持ちがこもってないねぇ…」"
+                                ""
                             ]
                         },
                         {
@@ -2360,7 +2360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「うぅ……スマン…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ugh... I'm sorry..."
                             ]
                         },
                         {
@@ -2377,7 +2377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]先程から、どうしても『お茶目な悪戯』のシーンで\\r[躓,つまづ]いてしまう。"
+                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] has been stumbling in\nthe mischievous prank scene since earlier."
                             ]
                         },
                         {
@@ -2394,14 +2394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ん～…礼子は性に開放的な人物だから、"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hmm... Since Reiko is a\nsexually liberated person, you need to act based\non that, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それを踏まえた演技をしてくれないとねぇ～？」"
+                                ""
                             ]
                         },
                         {
@@ -2425,7 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「わ、分かってはいるんだが…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] I-I do understand,\nbut..."
                             ]
                         },
                         {
@@ -2442,7 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]畑違いの事とはいえ、仕事として受けた以上、半端は許されない。"
+                                "Regardless of being out of my field, since I\naccepted it as a job, I can't afford to do it\nhalf-heartedly."
                             ]
                         },
                         {
@@ -2459,31 +2459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]…だが、真剣に取り組もうとすればするほど正解が分からない私は"
+                                "However, the more I try to seriously tackle it,\nthe more I get stuck in a quagmire without knowing\nthe right answer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "泥沼にハマっていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ……」"
+                                ""
                             ]
                         },
                         {
@@ -2500,14 +2483,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「大丈夫……焦ることはないよォ？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...  Note: The variable\n\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] is not provided in the\ncontext, so it cannot be translated."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その為の個人レッスンなんだからねぇ～？ んひひっ♪」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Don't worry... there's\nno need to rush, you know? This is a personal\nlesson just for that purpose, you see~? Nhehehe♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2555,21 +2555,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Udo Takeru, who said that, stood up and approached\nthe clumsy actress in front of him, placing his\nhand on her shoulder."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そう言った宇堂監督は立ち上がり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#目の前の無様な女優へと歩み寄ると、その肩に手を置いた。"
+                                ""
                             ]
                         },
                         {
@@ -2586,7 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「音々ちゃんは男に慣れる事から始めた方が良さそうだねぇ？」"
+                                "\\n<Udo Takeru>Neon-chan, it seems like starting with getting\nused to men would be a good idea, don't you think?"
                             ]
                         },
                         {
@@ -2603,7 +2603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「え…？ な、何を…――――ッッ！？」"
+                                "\\n<Minato Neon>Eh...? W-What are you...----Ah!"
                             ]
                         },
                         {

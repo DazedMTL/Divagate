@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館３F ～ベッドルーム～",
+    "displayName": "West Building 3F ~Bedroom~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4439,14 +4439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](ベッドの横が鏡張りの壁か…。"
+                                "\\n<Sonoda Kohei>\\F[62] (The wall next to the bed is covered in\nmirrors... Knowing that guy... I guess the purpose\nis, well... probably that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの男の事だ……用途は、まぁ……そうなんだろう…)"
+                                ""
                             ]
                         },
                         {
@@ -4590,7 +4590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](ん……鍵が掛かっている。 ここは何の部屋だ…)"
+                                "\\n<Sonoda Kohei>Huh... the door is locked. What kind of room is\nthis?"
                             ]
                         },
                         {
@@ -4619,7 +4619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[62]マスターキーを使い開錠した。"
+                                "Used the master key to unlock \\F[62]."
                             ]
                         },
                         {

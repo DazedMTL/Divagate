@@ -16,7 +16,7 @@
         "volume": 30
     },
     "disableDashing": false,
-    "displayName": "隠し部屋",
+    "displayName": "Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1810,14 +1810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……これは何だ？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...What is this? There's a small\nhemispherical metal pole with bumps and\nindentations scattered on it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小さな半球状の凹凸が散りばめられた金属製のポールが立っている)"
+                                ""
                             ]
                         },
                         {
@@ -1901,14 +1901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](撮影用のカメラだな……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a camera for shooting... Could it\nbe that we're using this to film that video?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……まさかこれを使って例の動画の撮影を？)"
+                                ""
                             ]
                         },
                         {
@@ -2013,7 +2013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「ンふふふっ\\I[12] ほら、コッチは準備オッケーだよぉ♪」"
+                                "\\n<Udo Takeru>Nfufufu, hey, over here, everything is ready~♪"
                             ]
                         },
                         {
@@ -2021,8 +2021,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…始める。",
-                                    "…思い止まる。"
+                                    "let's begin",
+                                    "I hesitate"
                                 ],
                                 1,
                                 0,
@@ -2064,14 +2064,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……納得はしていない。"
+                                "......I'm not convinced. The doubts haven't\ncleared either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "疑問だって晴れてはいない。"
+                                ""
                             ]
                         },
                         {
@@ -2088,14 +2088,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "仕事の為……役を演じる為、皆の期待を裏切らない為。"
+                                "For the sake of work... for the sake of playing a\nrole, and to not disappoint everyone's\nexpectations. Convenient reasons to affirm oneself\n\\r[ intertwine in my mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "己を肯定する“都合の良い理由”が頭の中で\\r[錯綜,さくそう]する。"
+                                ""
                             ]
                         },
                         {
@@ -2112,21 +2112,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
+                                "\\#......I knelt down like last night. \\# And then,\nprovocatively, I reached out towards the throbbing\nmanhood----...."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#……私は昨夜の様に膝をつく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\#そして、煽るように脈づく男のアレへと手を伸ばした――――…。"
+                                ""
                             ]
                         },
                         {
@@ -2259,7 +2259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「ンふふふっ\\I[12] ほら、コッチは準備オッケーだよぉ♪」"
+                                "\\n<Udo Takeru>Nfufufu, look, everything is ready over here~♪"
                             ]
                         },
                         {
@@ -2288,14 +2288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……納得はしていない。"
+                                "......I'm not convinced. The doubts haven't\ncleared either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "疑問だって晴れてはいない。"
+                                ""
                             ]
                         },
                         {
@@ -2312,14 +2312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕事の為……役を演じる為、皆の期待を裏切らない為。"
+                                "For the sake of work... for the sake of playing a\nrole, and to not disappoint everyone's\nexpectations. Convenient reasons to affirm oneself\n\\r[ are swirling around in my head."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "己を肯定する“都合の良い理由”が頭の中で\\r[錯綜,さくそう]する。"
+                                ""
                             ]
                         },
                         {
@@ -2336,21 +2336,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#......I fell to my knees like last night. \\# And\nthen, as if teasing, I reached out towards the\nthrobbing manhood----...."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……私は昨夜の様に膝をつく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そして、煽るように脈づく男のアレへと手を伸ばした――――…。"
+                                ""
                             ]
                         },
                         {

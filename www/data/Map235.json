@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浴場施設",
+    "displayName": "Bathing facility",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1666,14 +1666,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](入っていってもサワなら許してくれそうだが……。"
+                                "\\n<Sonoda Kohei>\\F[62] (If it was Sawa, she might forgive me even\nif I entered... but that would definitely be\nconsidered inappropriate...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "流石にそれは常識的にアウトだろう…)"
+                                ""
                             ]
                         },
                         {
@@ -2738,14 +2738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](入っていってもサワなら許してくれそうだが……。"
+                                "\\n<Sonoda Kohei>\\F[62] (If it was Sawa, she might forgive me even\nif I entered, but... that would definitely be\nconsidered inappropriate in terms of common\nsense...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "流石にそれは常識的にアウトだろう…)"
+                                ""
                             ]
                         },
                         {
@@ -3043,14 +3043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](薬品……？ いや、酒の類だろうか？"
+                                "\\n<Sonoda Kohei>\\F[62] (Medicine...? No, it's probably alcohol.\nSince there's no label, I'm not sure.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ラベルが貼られていないので、よく分からない)"
+                                ""
                             ]
                         },
                         {
@@ -3127,7 +3127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](高い段差がある……車椅子のままでは上がれなそうだ)"
+                                "\\n<Sonoda Kohei>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](高い段差がある……車椅子のままでは上がれなそうだ)"
+                                "\\n<Sonoda Kohei>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
                             ]
                         },
                         {
@@ -3281,7 +3281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](高い段差がある……車椅子のままでは上がれなそうだ)"
+                                "\\n<Sonoda Kohei>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](高い段差がある……車椅子のままでは上がれなそうだ)"
+                                "\\n<Sonoda Kohei>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
                             ]
                         },
                         {
@@ -3435,7 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](高い段差がある……車椅子のままでは上がれなそうだ)"
+                                "\\n<Sonoda Kohei>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
                             ]
                         },
                         {
@@ -3538,14 +3538,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](よし……収穫もあった事だし、"
+                                "\\n<Sonoda Kohei>Alright... Since we've made some progress, let's\ngo back to the monitoring room \\C[2] and check the\nsituation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "様子を見に一度\\C[2]モニタールーム\\C[0]へ戻るか)"
+                                ""
                             ]
                         },
                         {
@@ -3572,14 +3572,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](……特にこれといった収穫も無かったけど、"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (...Although we didn't have\nany significant findings, let's go back to the\nmonitoring room \\C[2]\\C[0] and check the situation\nonce.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "様子を見に一度\\C[2]モニタールーム\\C[0]へ戻るか)"
+                                ""
                             ]
                         },
                         {
@@ -3735,7 +3735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](あれ……棚の下に何か落ちてる…)"
+                                "\\n<Sonoda Kohei>Huh... something fell under the shelf..."
                             ]
                         },
                         {
@@ -3752,7 +3752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](僕には取れないか……サワが戻ったら取ってもらおう)"
+                                "\\n<Sonoda Kohei>\\F[62] (I can't reach it... I'll ask Sawa to get\nit when she comes back)"
                             ]
                         },
                         {
@@ -3880,7 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「これは……\\C[2]空のボトル\\C[0]ですね」"
+                                "\\n<Sawa>This is... an empty bottle,\n\\F[62]\\FF[93]\\AA[FF]\\C[2]\\C[0]."
                             ]
                         },
                         {
@@ -3897,14 +3897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「このラベルの文字は……ヒンディー語でしょうか？"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] These label characters... are\nthey in Hindi? I can't read them... Oh, here you\ngo."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと読めませんね……あ、どうぞ」"
+                                ""
                             ]
                         },
                         {
@@ -3974,7 +3974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[62]\\FF[93]\\AA[FF]\\C[2]空のボトル\\C[0]を手に入れた。"
+                                "\\F[62]\\FF[93]\\AA[FF]\\C[2] obtained an empty\nbottle\\C[0]."
                             ]
                         },
                         {
@@ -3991,7 +3991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「ありがとう。 そうか……ただの空ボトルだったか…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Thank you. I see... it was\njust an empty bottle..."
                             ]
                         },
                         {
@@ -4008,31 +4008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[62]\\FF[93]\\AA[F]元の場所に戻そうかと思ったが、念の為…"
+                                "I thought about putting it back in its original\nplace, but just to be sure... I check the label\nattached to the bottle I received."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕は受け取ったボトルに張られているラベルを確認する。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](……まったく読めないな。 何のボトルだろう？)"
+                                ""
                             ]
                         },
                         {
@@ -4049,7 +4032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「………あれ？ このボトル……僕はどこかで…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F](...I can't read it at all. I\nwonder what kind of bottle it is?)"
                             ]
                         },
                         {
@@ -4066,14 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](…………\\!そうだ、友人宅で見たんだ。 あれは大学生の頃だったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外国産の怪しいボトルだったから印象に残ってる)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] ...Huh? This bottle... I feel\nlike I've seen it somewhere before..."
                             ]
                         },
                         {
@@ -4090,7 +4066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「……ふふっ、そういう事か。 初対面の時から違和感は在ったんだ」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F](............\\!Oh yeah, I\nremember now. I saw it at a friend's place. Was it\nback in college? It was a suspicious foreign\nbottle, so it left an impression on me.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4107,14 +4090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](車椅子に乗って視点が下がっていた事が功を奏するとは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通に歩けていたら見つけられなかったぞ)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] ...Hehe, I see. There has been\na sense of unease since our first meeting."
                             ]
                         },
                         {
@@ -4131,7 +4107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「園田さん？ 何のボトルか分かったんですか？」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (Who would have thought that\nbeing in a wheelchair and having a lower\nperspective would actually work in my favor... If\nI could walk normally, I wouldn't have been able\nto find it.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4148,7 +4131,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「あぁ……このボトルは…」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Sonoda-san? Did you figure\nout what kind of bottle it is?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Ah... this bottle..."
                             ]
                         },
                         {
@@ -4531,14 +4531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](さて、どうしたものか……軽く探索してみようか？"
+                                "\\n<Sonoda Kohei>Well, what should I do... Should I do a quick\nexploration? Or should I just wait patiently\nwithout doing anything unnecessary..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それとも、余計な事はせず、ただジっと待つか…)"
+                                ""
                             ]
                         },
                         {
@@ -4547,9 +4547,9 @@
                             "parameters": [
                                 [
                                     "en(s[569])…探索する。(選択条件：END01クリア)",
-                                    "…ジっと待つ。",
-                                    "…セーブする。",
-                                    "…ロードする。"
+                                    "I'll wait patiently",
+                                    "Save",
+                                    "Load"
                                 ],
                                 -1,
                                 0,
@@ -4579,14 +4579,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……そうだな、ただでさえ時間は限られてるんだ。"
+                                "\\n<Sonoda Kohei>\\F[62] (...Yeah, you're right. Time is already\nlimited. I need to make the most of this precious\ntime.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんな僅かな時間でも有効に使わないとな)"
+                                ""
                             ]
                         },
                         {
@@ -4674,14 +4674,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](う～ん……やっぱ動ける範囲は限られてるし、"
+                                "\\n<Sonoda Kohei>\\F[62] (Hmm... Since my range of movement is\nlimited, should I just patiently wait for Sawa to\ncome back...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ここはサワが戻るのをジっと待つか…)"
+                                ""
                             ]
                         },
                         {
@@ -4752,31 +4752,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>\\F[61]\\FF[98]\\AA[FF]「凄く良かったです……。"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] It was really great... hehe,\nI really want to go to the hot springs with\neveryone♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ふふっ、ホント皆で温泉に行きたくなっちゃいました♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[98]\\AA[F]「そ、そうか……戻ったら本気で計画してみるか…」"
+                                ""
                             ]
                         },
                         {
@@ -4793,7 +4776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[98]\\AA[F](………サワから凄く良い匂いがする…)"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[98]\\AA[F] I-I see... When I come back,\nI'll seriously consider making a plan..."
                             ]
                         },
                         {
@@ -4810,7 +4793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>\\F[61]\\FF[98]\\AA[FF]「……園田さん？ どうかされました？」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[98]\\AA[F] (...Sawa smells really\ngood...)"
                             ]
                         },
                         {
@@ -4827,7 +4810,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[98]\\AA[F]「……なんでもない。 じゃあ、行こうか…」"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] ...Sonoda-san? Is something\nwrong?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[98]\\AA[F] ......It's nothing. Well then,\nshall we go..."
                             ]
                         },
                         {
@@ -5310,31 +5310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[61]\\FF[98]\\AA[FF]「凄く良かったです……。"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] was really great... hehe, it\nmakes me want to go to a hot spring with everyone♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ、ホント皆で温泉に行きたくなっちゃいました♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[98]\\AA[F]「そ、そうか……戻ったら本気で計画してみるか…」"
+                                ""
                             ]
                         },
                         {
@@ -5351,7 +5334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[98]\\AA[F](………サワから凄く良い匂いがする…)"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[98]\\AA[F] I-I see... When we get back,\nmaybe I'll seriously consider making a plan..."
                             ]
                         },
                         {
@@ -5368,7 +5351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[61]\\FF[98]\\AA[FF]「……園田さん？ どうかされました？」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[98]\\AA[F] (...Sawa smells really\ngood...)"
                             ]
                         },
                         {
@@ -5385,7 +5368,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[98]\\AA[F]「……なんでもない。 じゃあ、行こうか…」"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] ...Sonoda-san? Is something\nwrong?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[98]\\AA[F] ...It's nothing. Well then,\nshall we go..."
                             ]
                         },
                         {
@@ -5678,7 +5678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](さて…)"
+                                "\\n<Sonoda Kohei>Well..."
                             ]
                         },
                         {
@@ -5686,8 +5686,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…サワが戻るまで何もせずにジっと待つ。",
-                                    "…探索に戻る。"
+                                    "I'll wait quietly without doing anything until Sawa comes back",
+                                    "I'll go back to exploring"
                                 ],
                                 1,
                                 0,
@@ -5869,7 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……何の変哲もない、ただの\\r[籠,かご]だな)"
+                                "\\n<Sonoda Kohei>(......It's just an ordinary basket, isn't it?)"
                             ]
                         },
                         {

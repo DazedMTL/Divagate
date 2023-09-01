@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～客室～",
+    "displayName": "East Hall ~Guest Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2419,7 +2419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ｈイベント『\\C[27]好きな体位\\C[0]』を開始しますか？"
+                                "Would you like to start the H event Favorite\nPosition with \\C[27] \\C[0]?"
                             ]
                         },
                         {
@@ -2428,7 +2428,7 @@
                             "parameters": [
                                 [
                                     "en(s[408])はい(発生条件：審査率４０以上)",
-                                    "いいえ"
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3031,7 +3031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27]Ｈイベント\\C[0]発見！"
+                                "\\C[27] H event \\C[0] discovered!"
                             ]
                         },
                         {
@@ -3197,7 +3197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27]Ｈイベント\\C[0]発見！"
+                                "\\C[27] H event \\C[0] discovered!"
                             ]
                         },
                         {
@@ -3820,14 +3820,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「もうこんな時間か……。"
+                                "\\n<Udo Takeru>Is it already this late... Tch... I haven't had\nenough fun, but I guess I'll stop here for today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "チッ……ヤリ足りねぇが今日はここまでにしとくか…」"
+                                ""
                             ]
                         },
                         {
@@ -3851,7 +3851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「…今日は終わりでいいんだな？ じゃあ、私は先に休むから…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Is it okay to end it for\ntoday? Well then, I'll go rest first..."
                             ]
                         },
                         {
@@ -3875,14 +3875,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…“足りない”様ならオイラの寝室にくる様に♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Ah~... If you feel like\nyou haven't had enough, then come to my bedroom♪\nI'll leave the door unlocked for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "鍵は開けとくからよォ」"
+                                ""
                             ]
                         },
                         {
@@ -3899,7 +3899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………\\!おやすみ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Goodnight..."
                             ]
                         },
                         {
@@ -4045,7 +4045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ふぅ……じゃあ、もう遅いし今日はここまでにしとくかァ♪」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Phew... Well, it's\nalready late, so let's call it a day♪"
                             ]
                         },
                         {
@@ -4062,7 +4062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -4079,31 +4079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「音々のオマンコも“分かってきた”事だし、初日にしては"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Since I've come to\nunderstand Neon's pussy, it's been a pretty good\nstart for the first day, don't you think?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "上々の滑り出しだろォ♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んふふっ、音々だってコイツの良さが分かってきただろォ？」"
+                                ""
                             ]
                         },
                         {
@@ -4120,7 +4103,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]オイラは腰を振り、左右にチンポを揺らす。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Nfufu, even Neon has\nstarted to understand the charm of this one,\nright?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I sway my hips and shake my cock from side to\nside."
                             ]
                         },
                         {
@@ -4144,14 +4144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ………今日は終わりでいいんだな？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Huh... Is it okay to\ncall it a day today? Well then, I'll go rest\nfirst..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、私は先に休むから…」"
+                                ""
                             ]
                         },
                         {
@@ -4168,7 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あぁ、お休みィ♪ ククッ、照れちゃってまぁ\\I[12]」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Ah, goodnight♪ Hehe, I'm\nfeeling a bit embarrassed, well \\I[12]"
                             ]
                         },
                         {
@@ -4192,7 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「あ～…音々、一つ言い忘れてたわ」"
+                                "\\n<Udo Takeru>\\FF[\\V[4]] Ah~... Neon, I forgot to mention one\nthing."
                             ]
                         },
                         {
@@ -4209,7 +4209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……なんだ？ 私はもう休みたいんだ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ......What is it? I just\nwant to rest already..."
                             ]
                         },
                         {
@@ -4233,14 +4233,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「まだ“足りない”様ならオイラの寝室にくる様に♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] If you still feel like\nsomething is missing, then come to my bedroom♪\nI'll leave the door unlocked for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "鍵は開けとくからよォ」"
+                                ""
                             ]
                         },
                         {
@@ -4257,7 +4257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………\\!おやすみ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Goodnight..."
                             ]
                         },
                         {
@@ -4403,14 +4403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「もうこんな時間か……。"
+                                "\\n<Udo Takeru>Is it already this late... Tch... I haven't had\nenough fun, but I guess I'll stop here for\ntoday..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "チッ……ヤリ足りねぇが今日はここまでにしとくか…」"
+                                ""
                             ]
                         },
                         {
@@ -4434,7 +4434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「…今日は終わりでいいんだな？ じゃあ、私は先に休むから…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Is it okay to end it for\ntoday? Well then, I'll go rest first..."
                             ]
                         },
                         {
@@ -4458,7 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おう、お休みィ♪ ま、大人しく寝られたの話だがな\\I[12]」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh, goodnight~♪ Well,\nit's a story about being able to sleep peacefully,\nyou know\\I[12]"
                             ]
                         },
                         {
@@ -4475,7 +4475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………\\!おやすみ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Goodnight..."
                             ]
                         },
                         {
@@ -4612,7 +4612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ふぅ……今日もヤった♪ ヤったァ♪」"
+                                "\\n<Udo Takeru>Phew... I did it again today♪ Did it♪"
                             ]
                         },
                         {
@@ -4629,7 +4629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -4646,14 +4646,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「もうブチ込んだ時の具合でお前のオマンコだって判別出来るぜ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] I can tell the\ncondition of your pussy just by how tight it feels\nwhen I thrust inside. When I get back, let's\ngather some dogs and play a game of guessing\npussies♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戻ったら犬達集めてオマンコ当てゲームしようなァ♪」"
+                                ""
                             ]
                         },
                         {
@@ -4677,7 +4677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ……最低…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ugh... You're the\nworst..."
                             ]
                         },
                         {
@@ -4694,31 +4694,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「それが当ててやると犬共はケツ振って喜ぶんだぜぇ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] When I guess right, the\ndogs will wag their tails in joy, you know?\nHeheh... Well, you'll definitely end up like that\ntoo. Heheh... Well, you'll definitely end up like\nthat too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ククッ……まぁ、お前も必ずそうなる」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「先に……休むから…」"
+                                ""
                             ]
                         },
                         {
@@ -4735,7 +4718,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おう、お休みィ♪ ま、大人しく寝られたの話だがな\\I[12]」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] I'll rest first..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh, taking a rest, huh?\nWell, let me tell you about the time I was able to\nsleep quietly\\I[12]."
                             ]
                         },
                         {
@@ -4881,7 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「もうこんな時間か……チッ、ここまでにしとくか…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Is it already this\nlate... Tch, I guess I'll stop here..."
                             ]
                         },
                         {
@@ -4905,7 +4905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「…終わりでいいんだな？ じゃあ、私は先に休むから…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Is it okay to end here?\nWell then, I'll go rest first..."
                             ]
                         },
                         {
@@ -4929,14 +4929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おいおい……いいのか？ 最後の夜なんだよォ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hey hey... Is it okay?\nIt's the last night, you know? Since it's the\nfinal day, I'll take good care of you, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最終日なんだし、うんと可愛がってやるぜぇ？」"
+                                ""
                             ]
                         },
                         {
@@ -4953,7 +4953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………\\!おやすみ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Goodnight..."
                             ]
                         },
                         {
@@ -5090,7 +5090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ふぅ……今日もヤった♪ ヤリきったァ♪」"
+                                "\\n<Udo Takeru>Phew... I did it again today. I'm completely\nsatisfied."
                             ]
                         },
                         {
@@ -5107,7 +5107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -5124,14 +5124,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「もう完全に音々のオマンコは理解したわ\\I[12]"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]I've completely\nunderstood Neon's pussy \\I[12]or maybe I know more\nabout it than you do, hehe♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つーか、お前より詳しいかもしれんなァ♪」"
+                                ""
                             ]
                         },
                         {
@@ -5155,7 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「そう……そうかもしれないな…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Yeah... that might be\ntrue..."
                             ]
                         },
                         {
@@ -5172,14 +5172,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「数日前までド新品の子供マンコだったのによォ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Just a few days ago, you\nwere a brand new little pussy, you know? But I\nturned you into a fully grown, respectable adult\npussy. Show some gratitude, okay?\\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一人前の立派な大人マンコにしてやったンだ、感謝しろよォ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -5203,7 +5203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ふふっ、なんだそれは……でも、そうだな…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Hehe, what's that... but\nyeah, you're right..."
                             ]
                         },
                         {
@@ -5220,14 +5220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「セックスの良さを教えてくれた事には感謝している。"
+                                "\\n<Minato Neon>I'm grateful for \\F[\\V[2]]\\FF[\\V[4]]\\AA[F]\nteaching me the pleasures of sex. It's strange,\nbut I feel... like something has changed. Maybe\nI've become a little weird..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "不思議とそんな気分だ……おかしくなってしまったのだろうか…」"
+                                ""
                             ]
                         },
                         {
@@ -5244,14 +5244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「その最後の迷いを断ち切ってやる。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] I will put an end to\nthat last hesitation. Let's go to the collection\nroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コレクションルームへ行くぞ」"
+                                ""
                             ]
                         },
                         {
@@ -5275,7 +5275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ぁ……う、うん…\\I[12]」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Ah...uh, yeah...\\I[12]"
                             ]
                         },
                         {

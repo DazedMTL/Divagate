@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～３F～",
+    "displayName": "East Building ~3F~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -6397,7 +6397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「ん……あれはベッド？ どうしてあんな所に…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Huh... is that a bed? Why is\nit in a place like this..."
                             ]
                         },
                         {
@@ -6414,7 +6414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「えっとアレは……何でも、客人を招いた時とかに……その…」"
+                                "\\n<Sawa>Um, that thing... it's, uh, for when we have\nguests over... like, you know..."
                             ]
                         },
                         {
@@ -6431,31 +6431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「どこでも使える様、寝具がフロア内に沢山配置されていまして……"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] There are lots of beds placed\nthroughout the floor so you can use them\nanywhere... um, well, in other words... I've heard\nthat this place is... an orgy floor..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっと、つまり此処は……ら…\\}乱交フロアだと聞いています…\\{」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「……そうか、疑問に思ってすまなかった」"
+                                ""
                             ]
                         },
                         {
@@ -6472,7 +6455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「い、いえ…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Hmm... I see, I apologize for\nquestioning it."
                             ]
                         },
                         {
@@ -6489,14 +6472,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](噂通りというか……あの監督がしそうな事だ。"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] N-No..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現実にそんな場所が存在するとは…)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (As the rumors say... it seems\nlike something that director would do. I can't\nbelieve such a place actually exists in\nreality...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

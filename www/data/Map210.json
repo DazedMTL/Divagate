@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館３F ～大部屋～",
+    "displayName": "East Building 3F ~Large Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3241,7 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[90]「……おはよう。 あれ……？ 今からごはんなの？」"
+                                "\\n<Sawa>\\F[90] ...Good morning. Huh...? Are we having\nbreakfast now?"
                             ]
                         },
                         {
@@ -3298,38 +3298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「ん？ あぁ……朝方まで監督の相手をしてて、"
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] Huh? Ah... I was with the\ndirector until early morning, so I just ended up\nfalling asleep like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのまま寝ちまったからなァ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F]「ッ……そうだったの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんなさい、二人にばかり負担をかけて…」"
+                                ""
                             ]
                         },
                         {
@@ -3346,31 +3322,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「その代わりにお前が園田ちゃんの世話をしてンだろうが。"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F] Ah... I completely forgot...\nI'm sorry for burdening you two so much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんな献身的に世話するなんてウチらにゃ無理だからなー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F]「――――ッ！？ やだ……見てたの？」"
+                                ""
                             ]
                         },
                         {
@@ -3387,14 +3346,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「うひひっ……まぁ安心しろって、直ぐに退散したからさ。"
+                                "\\n<Kino>In exchange, you'll take care of Sonoda-chan,\nright? We wouldn't be able to take care of him so\ndevotedly like that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "“ココ”には寝るトコだけは無駄にあるからなァ」"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F] ----!? Oh no... Were you\nwatching?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] Hehe... Well, don't worry, I\nleft right away. 'There's only a place to sleep\nhere for no reason'."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3481,38 +3481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「んぐっ、んぐっ、んぐっ……ぷはぁ～っ！"
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] Mmm, mmm, mmm... Ahh~! Beer\nin the morning is the best♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "寝起きにビールとか最高かよ♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F]「ちょっと……肘のトコ擦りむいてるじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか……あの男に何か…」"
+                                ""
                             ]
                         },
                         {
@@ -3529,38 +3505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[90]\\FF[91]\\AA[F]ビールを持つキノの右腕肘部分が赤く腫れ上がっていたので、"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F] Hey... Your elbow is scraped.\nDon't tell me... Did something happen with that\nguy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はあの男にされた跡だと連想してしまう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「あぁ、違う違う……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コレは昨日、蝋人形を運んだ時にぶつけたモンで…」"
+                                ""
                             ]
                         },
                         {
@@ -3577,38 +3529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「いつつ……モモと二人で大変だったんだぜぇ？"
+                                "I couldn't help but associate the red and swollen\nright elbow of Kino, who was holding a beer, with\nthe marks left by that man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "チンコ部分は精密機械ってんで、絶対に触れるな言うしよォ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F]「言ってくれたら手伝ったのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バンドエイドとか置いてあったかしら…」"
+                                ""
                             ]
                         },
                         {
@@ -3625,7 +3553,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「んな事より……園田ちゃんの様子はどうだ？」"
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] Ah, no no... This is\nsomething I bumped into yesterday when I was\ncarrying a wax figure..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3642,7 +3577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F]「………」"
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] It was tough with Momo, you\nknow? They said the penis part is a precision\nmachine, so they strictly forbid touching it..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3659,21 +3601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[90]\\FF[91]\\AA[F]……言葉に詰まる。"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F] If you had told me, I would\nhave helped... I wonder if there are any band-aids\naround..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼は朝から焦燥していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食事もろくに取ってもらえず、余り良いと言える状態ではなかった。"
+                                ""
                             ]
                         },
                         {
@@ -3690,14 +3625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F](……私のせいか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨晩、私があんなコトをしてしまったから…)"
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] But more importantly... how\nis Sonoda-chan doing?"
                             ]
                         },
                         {
@@ -3714,14 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「……まぁ、そっちの事は任せるからよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コッチの事は気にすんなって！」"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -3738,14 +3659,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[90]\\FF[91]\\AA[FF]私が持ち帰った彼への昼食を見て察したのだろう、キノは"
+                                "\\F[90]\\FF[91]\\AA[F]......He was at a loss for\nwords. He had been restless since morning. He\ncouldn't even get a proper meal, so it wasn't in a\nparticularly good state."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつもの調子で私を気遣ってくれた。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3762,14 +3690,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F](……そうよね、嘆いていては駄目よね。"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F] (...Is it my fault? Because of\nwhat I did last night...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は私に出来る事をしないと…)"
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] ...Well, I'll leave that to\nyou. Don't worry about me!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Kino, probably sensing it from seeing the lunch I\nbrought back for him, showed concern for me in his\nusual manner."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F](...That's right, it's no use\nlamenting. I have to do what I can now...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3793,14 +3793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F]「私……もう一度行ってくる。"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F]I... I'll go again. At least\nmake sure to properly \\SE[bofu] have a meal----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "せめて食事ぐらいはキチンと\\SE[bofu]取ってもらわないと――――…」"
+                                ""
                             ]
                         },
                         {
@@ -3817,7 +3817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[90]\\FF[91]\\AA[F]彼が居る部屋から大きな物音が聞こえたので私達は顔を見合わす。"
+                                "We looked at each other when we heard a loud noise\ncoming from his room."
                             ]
                         },
                         {
@@ -3896,7 +3896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[90]\\FF[91]\\AA[FF]「今、何か大きな物が落ちた様な音がしなかったか……？」"
+                                "\\n<Kino>\\F[90]\\FF[91]\\AA[FF] Did you hear a loud noise\nlike something big falling just now...?"
                             ]
                         },
                         {
@@ -3913,7 +3913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[90]\\FF[91]\\AA[F]「……園田さん？！」"
+                                "\\n<Sawa>\\F[90]\\FF[91]\\AA[F] ...Sonoda-san?!"
                             ]
                         },
                         {
@@ -4596,14 +4596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](洋館には不釣り合いな冷蔵庫が置かれている。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (There's an out-of-place\nrefrigerator in the mansion. It's packed with\nvarious drinks and frozen foods.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "様々な飲み物と冷凍食品がギッシリと詰まっているな)"
+                                ""
                             ]
                         },
                         {
@@ -4884,14 +4884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](若者のテレビ離れがどうとか最近よく耳にするけど、"
+                                "\\n<Sonoda Kohei>I often hear about young people drifting away from\nwatching TV, but I wonder how true it is...? I\npersonally still watch it normally..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "実際はどうなんだろう……？ 僕は普通に観ているが…)"
+                                ""
                             ]
                         },
                         {
@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](高級そうな食器がズラリと並んでいる)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (There is a row of what looks\nlike high-end tableware lined up)"
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](高級そうな食器がズラリと並んでいる)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (There is a row of what looks\nlike high-end tableware lined up)"
                             ]
                         },
                         {
@@ -5122,7 +5122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](高級そうな食器がズラリと並んでいる)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (There is a row of what looks\nlike high-end tableware lined up)"
                             ]
                         },
                         {
@@ -5327,7 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「よっ、意外と元気そうじゃん」"
+                                "\\n<Kino>Hey, you seem surprisingly energetic."
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F]「キノ……予想はしていたが、お前まで……そうなると…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F] Kino... I had a feeling, but\neven you... if that's the case..."
                             ]
                         },
                         {
@@ -5361,31 +5361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「あぁ、三人まとめて美味しく頂かれちまったわ。"
+                                "\\n<Kino>\\F[62]\\FF[91]\\AA[FF] Ah, all three of them were\ndevoured deliciously together. So, I'm sorry... I\nam on the director's side."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから悪いな……私は監督側の人間だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F]「すまない……僕が不甲斐ないせいで…」"
+                                ""
                             ]
                         },
                         {
@@ -5402,14 +5385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「それなりのメリットがあるから私はコッチ側に付いただけなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の意思を\\r[貶,おとし]める様な事は言わねぇでくれるかなァ？」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F] I'm sorry... It's because of\nmy incompetence..."
                             ]
                         },
                         {
@@ -5426,7 +5402,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F]「そうか……そうだったのか、すまん…」"
+                                "\\n<Kino>I just sided with them because there are some\nbenefits. Can you please refrain from saying\nthings that belittle my intentions, \\r[?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F] I see... So that's how it was,\nmy apologies..."
                             ]
                         },
                         {
@@ -5474,14 +5474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[62]\\FF[91]\\AA[F]しっかりと目を見て会話をしたかったが、キノもまた裸だったので"
+                                "I wanted to have a conversation while looking\ndirectly into \\F[62]\\FF[91]\\AA[F]'s eyes, but Kino\nwas also naked, so I didn't know where to look."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "目のやり場に困ってしまう。"
+                                ""
                             ]
                         },
                         {
@@ -5587,14 +5587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「おいおい……アタシの裸なんてもう見る機会ないかもだぞォ？"
+                                "\\n<Kino>\\F[62]\\FF[91]\\AA[FF] Hey hey... You might not have\nanother chance to see me naked, you know? Come on,\ntake a look♪ It's a beautiful girl's naked body,\nyou know? Ohh~ there you go♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほれほれ見てみ♪ 美少女の裸だぞォ？ ほぉ～れ♪」"
+                                ""
                             ]
                         },
                         {
@@ -5851,14 +5851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[62]\\FF[91]\\AA[FF]目を逸らしても、それを追う様に付いてきやがる。"
+                                "\\F[62]\\FF[91]\\AA[FF] keeps following me as if not\naverting \\F[62]\\FF[91]\\AA[FF]'s eyes. That's\nright... this person is that kind of person...\nIt's quite \\r[ annoying, irritating."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうだった……コイツはそういう奴だった……何とも\\r[鬱陶,うっとう]しい。"
+                                ""
                             ]
                         },
                         {
@@ -5956,7 +5956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[91]\\AA[FF]「こ、コラっ！ キノ止めなさいっ！」"
+                                "\\n<Sawa>\\F[62]\\FF[91]\\AA[FF] H-Hey! Kino, stop it!"
                             ]
                         },
                         {
@@ -6052,38 +6052,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「はははっ、ゴメンゴメン……露骨に目を逸らしやがったから"
+                                "\\n<Kino>\\F[62]\\FF[91]\\AA[FF] Hahaha, sorry sorry... You\nblatantly looked away, so I couldn't help but want\nto tease you♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "つい虐めたくなっちまって♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「ふふっ……ムラっとしちゃったらさ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また優しいサワたんに抜いて貰ってね～\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -6100,7 +6076,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[91]\\AA[FF]「なっ……\\{キノっ！\\}」"
+                                "\\n<Kino>Hehe... If you're feeling turned on, how about\nletting sweet Sawa-chan take care of you again~?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>\\F[62]\\FF[91]\\AA[FF] Wha... Kino!"
                             ]
                         },
                         {
@@ -6264,7 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「動き回る事を一々\\r[咎,とが]めたりはしねぇが、監督に見つかるなよー」"
+                                "\\n<Kino>I don't really mind \\r[ moving around all the\ntime, but make sure you don't get caught by the\ndirector, okay?"
                             ]
                         },
                         {
@@ -6281,14 +6281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F](…監督側に付いたとはいえ、いつものキノだった。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F](...Even though she's on the\ndirector's side, she's still the same old Kino.\nLet's just leave it at that for now.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今はそれで良しとしよう)"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～１F～",
+    "displayName": "East Building ~1F~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7226,7 +7226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…開かねぇな。 建付け悪くなってンだなこりゃ…」"
+                                "\\n<Udo Takeru>Ah... can't open it. Looks like the lock is\nbroken..."
                             ]
                         },
                         {
@@ -7250,7 +7250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「えっ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Huh..."
                             ]
                         },
                         {
@@ -7267,7 +7267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「フンっ！」"
+                                "\\n<Udo Takeru>Hmph!"
                             ]
                         },
                         {
@@ -7411,7 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -7428,7 +7428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「何だ？ どうした？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] What's wrong? What\nhappened?"
                             ]
                         },
                         {
@@ -7452,7 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「いや……何でもない…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] No... it's nothing..."
                             ]
                         },
                         {
@@ -7799,7 +7799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「………パンツを穿いてるとか生意気だな」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]... It's cheeky to be\nwearing panties."
                             ]
                         },
                         {
@@ -7836,7 +7836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「うりゃっ！」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] 'Urya!'"
                             ]
                         },
                         {
@@ -7853,7 +7853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -7882,7 +7882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]えっちな水着(下)\\C[0]を手に入れた！"
+                                "I got my hands on a sexy swimsuit!"
                             ]
                         },
                         {

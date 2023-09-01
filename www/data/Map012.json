@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "テレビ局２Ｆ ～北エレベータ付近～",
+    "displayName": "TV Station 2F ~Near the North Elevator~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5526,7 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]？？？\\C[0]>\\FF[\\V[4]]「ふぁァ……ねみ……んァ？」"
+                                "\\n<\\C[27]？？？\\C[0]>\\FF[\\V[4]] Faa... sleepy... ngh?"
                             ]
                         },
                         {
@@ -5543,7 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]？？？\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おっ…」"
+                                "\\n<\\C[27]？？？\\C[0]>Oh..."
                             ]
                         },
                         {
@@ -5560,7 +5560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「......？」"
                             ]
                         },
                         {
@@ -5577,7 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]エレベーターから出てきた大柄な男の視線が胸元へと落とされる。"
+                                "The gaze of a tall man who came out of the\nelevator falls on my chest."
                             ]
                         },
                         {
@@ -5594,7 +5594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]？？？\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「へへっ、コイツぁ…」"
+                                "\\n<\\C[27]？？？\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hehe, this one..."
                             ]
                         },
                         {
@@ -5618,7 +5618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]余りに無遠慮なその視線を\\r[諫,いさ]める為、私は男を睨みつけた。"
+                                "To reprimand \\r[ for their overly brazen gaze, I\nglared at the man."
                             ]
                         },
                         {
@@ -5674,7 +5674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<カーディガンを背に羽織った男>「宇堂監督っ！ お待ちしておりました！」"
+                                "\\n<A man wearing a cardigan>Director Udo! We've been waiting for you!"
                             ]
                         },
                         {
@@ -6420,7 +6420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](流石に捨てるのは……もうホントこれ、どうすんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I can't just throw it away...\nSeriously, what should I do about this...)"
                             ]
                         },
                         {
@@ -6497,14 +6497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<清掃業者の男>「あっ、スンマセン！ ワックスかけたばっかで滑って危険なんで"
+                                "\\n<Male Janitor>Ah, sorry! I just waxed the floor and it's\nslippery, so please use the elevator \\C[2] for\nyour own safety!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]エレベーター\\C[0]で頼んます！」"
+                                ""
                             ]
                         },
                         {
@@ -6830,7 +6830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ほら、シソメロン茶……いいかげん機嫌を直してくれ」"
+                                "\\n<Sonoda Kohei>Hey, Minato Neon... could you please cheer up and\nhave some shisomeru tea?"
                             ]
                         },
                         {
@@ -6854,14 +6854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「ナチュラルに新商品を私で試すなっ！"
+                                "\\n<Minato Neon>Hey, don't just naturally make me try out new\nproducts! It's true that I was a little curious\nabout this, but..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "確かにコレはちょっと気になってたが…」"
+                                ""
                             ]
                         },
                         {
@@ -6878,14 +6878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「そんな事より……本当にどうしたんだ？"
+                                "\\n<Sonoda Kohei>More importantly... what's really going on? Even\nthough it's just a meeting, you haven't been able\nto concentrate the whole time, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ただの打ち合わせとはいえ、ずっと集中できてなかったぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -6909,38 +6909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「だから何でもないと言ってるだろ……。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] I'm telling you, it's\nnothing... Nn... Ugh... What is this? It's so\nsweet..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ンっ……うぇ……何だコレ甘ったるい…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]手にしたボトルキャップを締め、目の前で立つ男が着るジャケットの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポケットへとその本体をねじ込む。"
+                                ""
                             ]
                         },
                         {
@@ -6957,7 +6933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「………」"
+                                "The man standing in front of me tightens the\nbottle cap he's holding in his hand and screws the\nmain body into the pocket of his jacket."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6974,14 +6957,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「………今日はもう会社に顔を出すだけだし、気晴らしに軽く"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF]「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツーリングにでも行くか？ 僕は社用車だけど…」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] .........Since today I\nonly have to show up at the office, how about we\ngo on a short tour to take our minds off things? I\nhave a company car, but..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7005,7 +7005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -7029,7 +7029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「……悪くないな」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] ......Not bad."
                             ]
                         },
                         {
@@ -7053,7 +7053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「あっ……いまチョロっとか思ったろ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Ah... I just had a little\nthought."
                             ]
                         },
                         {
@@ -7070,7 +7070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「思ってない。 ほら行くぞ」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF]I didn't think so. Come on,\nlet's go."
                             ]
                         },
                         {
@@ -7181,7 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「おいっ、さりげなくシソメロン茶を突き返すなっ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Hey, don't casually reject\nthe Sisomeron tea!"
                             ]
                         },
                         {
@@ -7415,28 +7415,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<興奮気味の先輩ＡＤ>「さっきガンズの音々様と挨拶しちゃったわ！"
+                                "\\n<Excited Senior AD>I just greeted Minato Neon-sama earlier! She was,\nlike... super sexy and cool! N-not that I'm\nlooking at her like that or anything! I totally\nrespect her as an artist! Oh, by the way, I\nactually went to her concert the other day, you\nknow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かこう……超エロカッコ良かった！ いや、別にそういう目で見て"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んじゃねぇから？ アーティストとしてマジリスペクトしてっし！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、そうそう実はこの前のライブに行って来たんだけどよぉ――…」"
+                                ""
                             ]
                         },
                         {
@@ -7624,14 +7624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<社会的に死ぬ寸前の後輩ＡＤ>(ぐぅぅぅっ……俺はトイレに行きたいのにっ！！"
+                                "\\n<Socially dying junior AD>(Grrr... I really need to go to the bathroom!!\nThis person just talks and talks forever!!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コイツはいちいち話が長いんだよぉぉぉっ！！)"
+                                ""
                             ]
                         },
                         {
@@ -7715,14 +7715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](他には栗ソーダやタルタルジュース等がある。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There are also chestnut soda and tartar\njuice, among others. It's quite a challenging\nlineup.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なかなか挑戦的なラインナップだ)"
+                                ""
                             ]
                         },
                         {
@@ -7806,7 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……何の変哲もない消火器だ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...It's just an ordinary fire\nextinguisher.)"
                             ]
                         },
                         {
@@ -7890,14 +7890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](透明なガラスで出来た案内板だ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's an information board made of\ntransparent glass. It seems that there are several\ndiscussion rooms on this floor, as well as the\nsecond and third studios.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この階には談話室がいくつかと、第二第三スタジオがあるみたいだ)"
+                                ""
                             ]
                         },
                         {
@@ -7981,7 +7981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](手入れの行き届いた観葉植物だ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a well-maintained potted plant)"
                             ]
                         },
                         {
@@ -8065,31 +8065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<熱のこもった男の声>\\F[\\V[2]]「以上の事から……トロトロ小豆ジュースの有用性の証明とする！"
+                                "\\n<A passionate man's voice>\\F[\\V[2]] Based on all of this... I will prove the\nusefulness of the creamy red bean juice! Please\nconsider changing the lineup of vending\nmachines..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "是非、自販機のラインナップ変更の際には…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<バッサリ斬り捨てる男の声>\\F[\\V[2]]「……いや、だからソレおしるこじゃん」"
+                                ""
                             ]
                         },
                         {
@@ -8106,7 +8089,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キレた男の声>\\F[\\V[2]]「なんだァ？ てめェ……」"
+                                "\\n<The voice of a man who cuts ruthlessly>\\F[\\V[2]] ...No, that's red bean soup, right?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Angry man's voice>\\F[\\V[2]] What the hell? Who the hell are you...?"
                             ]
                         },
                         {
@@ -8130,7 +8130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](何やら、しょーもない討論が白熱している…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It seems like a pointless debate is\nheating up...)"
                             ]
                         },
                         {
@@ -8214,7 +8214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さっきまで打ち合わせをしていた談話室だ。 もう用は無い)"
+                                "\\n<Minato Neon>This is the conference room where we were having a\nmeeting until just now. We don't need it anymore."
                             ]
                         },
                         {
@@ -8298,7 +8298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「毎年思ってたんだが……夏場にその恰好は暑くないのか？」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] I've been thinking about\nthis every year... Isn't that outfit hot during\nthe summer?"
                             ]
                         },
                         {
@@ -8315,7 +8315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「夏仕様の特注品だからな。 言うほど暑くはないぞ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] It's a custom-made outfit\nfor summer, so it's not as hot as you think."
                             ]
                         },
                         {

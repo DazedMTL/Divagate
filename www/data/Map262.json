@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F客室～",
+    "displayName": "Main Building ~3rd Floor Guest Rooms~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3326,7 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「………」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -3343,7 +3343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「そう警戒すんなって……ちょっと話があるだけさ」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] Don't be so cautious... I\njust have something to talk about."
                             ]
                         },
                         {
@@ -3360,31 +3360,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「……話？ 何だ改まって……。"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] ......Talk? What, did you\nfinally decide to help me with something?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ようやく手伝う気にでもなったか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「………そうだな、そっち側に付いてもいい。 ただし条件がある」"
+                                ""
                             ]
                         },
                         {
@@ -3401,7 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「条件？ とりあえず聞こうか…」"
+                                "\\n<Kino>.........Yeah, I guess it's fine to side with you.\nHowever, there are conditions."
                             ]
                         },
                         {
@@ -3418,7 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[61]\\FF[95]\\AA[F]キノは姿勢を正し、僕の目を真っ直ぐに見つめる。"
+                                "\\n<Sonoda Kohei>Conditions? Well, let's hear them for now..."
                             ]
                         },
                         {
@@ -3435,14 +3418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「……園田さんが握った重要な秘密って何だ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その情報の提示が条件だ」"
+                                "Kino stood up straight and looked straight into my\neyes."
                             ]
                         },
                         {
@@ -3459,7 +3435,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「……それは一方的過ぎやしないか？ 悪いが易々とは話せない」"
+                                "\\n<Kino>......What is the important secret that Sonoda-\nsan holds? Presenting that information is a\ncondition."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3476,14 +3459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「まぁ、そりゃそうだわな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシが告げ口する可能性だってあるからな」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] ...Isn't that a bit one-\nsided? Sorry, but I can't easily talk about it."
                             ]
                         },
                         {
@@ -3500,31 +3476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「いや、そこは信頼してるよ。"
+                                "\\n<Kino>Well, I guess that's true... There is a\npossibility that I might snitch on you, after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キノがそんな事をする人間じゃないのは分かってる」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「な、なんだよソレ……だったら何で…」"
+                                ""
                             ]
                         },
                         {
@@ -3541,31 +3500,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「一つだけキノに聞きたい事がある。"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] No, I trust you. I know that\nKino is not the kind of person to do something\nlike that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それに正直に答えてくれたら情報を明かすよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「……そんな事でいいのか？ そんぐらいなら…」"
+                                ""
                             ]
                         },
                         {
@@ -3582,7 +3524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[61]\\FF[95]\\AA[FF]今度は僕が姿勢を正し、真っ直ぐとキノの瞳を見据える。"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] W-What's that...? Then why..."
                             ]
                         },
                         {
@@ -3599,38 +3541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「……質問はシンプルだ。"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] There's one thing I want to\nask Kino. If you answer honestly, I'll reveal the\ninformation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キノが宇堂側に付く本当の理由はなんだ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「……そ、それは前に言ったろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツとの行為を撮られたデータを握られてるからだって…」"
+                                ""
                             ]
                         },
                         {
@@ -3647,14 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「確かにそれもあるんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、別な理由があるニュアンスの言い方をしただろう？」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] ...Is that really okay? If\nit's just that much..."
                             ]
                         },
                         {
@@ -3671,7 +3582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「………」"
+                                "This time, I straightened my posture and looked\ndirectly into Kino's eyes."
                             ]
                         },
                         {
@@ -3688,38 +3599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「話す事で何か解決の糸口が見つかるかもしれないし、"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] ...The question is simple.\nWhat is the real reason why Kino is siding with\nUdo?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "キノが望むなら僕は絶対に口外しない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「キノ……僕は今でも君のマネージャーでいるつもりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人で解決出来ない事があるなら……どうか頼って欲しい」"
+                                ""
                             ]
                         },
                         {
@@ -3736,7 +3623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「………絶対に誰にも言わない…？」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] ...D-Didn't I already tell\nyou? It's because I'm being blackmailed with data\nof the act with him..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3753,7 +3647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「絶対に言わない」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] Certainly, that might be one\nreason. But didn't you phrase it in a way that\nimplies there is another reason?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3770,14 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「他人から見たら、本当にしょうもない事なんだけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "笑ったりしない…？」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -3794,7 +3688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「笑わないし、しょうもない何て事あるか…」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] There might be a clue to\nfinding a solution by talking, and if Kino wishes,\nI will absolutely not disclose it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3811,7 +3712,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「そっか……そうだよな。 アンタは、そういう人だ…」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] Kino... I still intend to be\nyour manager. If there's something you can't solve\non your own... please, rely on me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3828,14 +3736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[61]\\FF[95]\\AA[FF]キノは俯き口を\\r[噤,つぐ]む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!そして……暫く考え込んだ後、ようやくその口を開いた。"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] ...Will you absolutely not\ntell anyone...?"
                             ]
                         },
                         {
@@ -3852,7 +3753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「初めて……ったんだ…」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] I absolutely won't tell\nanyone."
                             ]
                         },
                         {
@@ -3869,7 +3770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「初めて……何だって？」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] From someone else's\nperspective, it's really a trivial matter... but\nyou don't laugh...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3886,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「だからっ、初めてイったんだ！ 宇堂とのセックスでっ！」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] I won't laugh, and there's no\nsuch thing as something trivial."
                             ]
                         },
                         {
@@ -3903,7 +3811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「………えっと……それまでに無かったのか？ その…」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] I see... That's right. You're\nthat kind of person..."
                             ]
                         },
                         {
@@ -3920,38 +3828,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「そりゃ……軽くイクことはあったさ。"
+                                "Kino lowered \\F[61]\\FF[95]\\AA[FF]their\\r[ head and\nfell silent. After a moment of deep thought,\n\\F[61]\\FF[95]\\AA[FF]they\\r[ finally spoke up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、あんな絶頂体験は初めてだった…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「一人でシた時も満たされる事なんて今までなくて……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっとアタシの体がおかしいからだって思ってた…」"
+                                ""
                             ]
                         },
                         {
@@ -3968,14 +3852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「なるほど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで宇堂との行為に依存してしまった……という事か？」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] It's the first time... I've\nexperienced it..."
                             ]
                         },
                         {
@@ -3992,7 +3869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「うん……平たく言うと…」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] For the first time... what do\nyou mean?"
                             ]
                         },
                         {
@@ -4009,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F](精神的な問題なんだろうか……体に問題は無いみたいだし…)"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] So, for the first time, I\ncame! With Udo, during sex!"
                             ]
                         },
                         {
@@ -4026,14 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「呆れるだろ？ こんな理由で音々を裏切ったんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホント自分でも情けなくて……それに皆に申し訳なくて…」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] ...Um... Was there nothing\nbefore that? I mean..."
                             ]
                         },
                         {
@@ -4050,31 +3920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「いや、人一人が抱える悩み何てそんなモンさ……。"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] Well... I've had some light\norgasms before. But that kind of climax experience\nwas the first time for me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "他人からすれば軽い事でも当の本人にとっては重い事だってある」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「辛かったな……気付いてやれなくてゴメンな…」"
+                                ""
                             ]
                         },
                         {
@@ -4091,7 +3944,154 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「そんなの園田さんは何も悪く…――――うぐっ、うぅぅ…」"
+                                "\\n<Kino>Until now, I've never felt satisfied even when I\nmasturbated alone... I always thought it was\nbecause there was something wrong with my body..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>I see... So, you became dependent on your actions\nwith Udo..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] Yeah... To put it simply..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] (Is it a mental issue...? It\nseems like there's no problem with your body...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] You must be disgusted, right?\nThat I betrayed Neon for such a reason? Honestly,\nI feel pathetic myself... And I'm sorry to\neveryone..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] 'Well, the troubles that one\nperson carries may seem trivial to others... but\nto the person themselves, even something light can\nfeel heavy.'"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] It must have been tough... I'm\nsorry for not noticing..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] Sonoda-san, you didn't do\nanything wrong... Ugh, ughhh..."
                             ]
                         },
                         {
@@ -4120,21 +4120,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キノは両手を顔に当て泣き崩れる。"
+                                "Kino put both hands on her face and collapsed in\ntears. Unable to find the right words to say, I\ncould only stay silent and wait for her to stop\ncrying..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "掛ける言葉が見つからず、僕はただ黙って彼女が泣き止むのを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "待つ事しか出来なかった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -4175,7 +4175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「はー…泣いた泣いたァ……泣いたのなんて何年ぶりだァ…」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] Haa... I cried, I cried...\nIt's been years since I last cried..."
                             ]
                         },
                         {
@@ -4192,31 +4192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「カメラを所持してなかった事が悔やまれるよ。"
+                                "\\n<Sonoda Kohei>It's regrettable that I didn't have a camera. It\nwas a once-in-a-lifetime chance to hold onto a\nweakness of yours..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一生モンの弱みを握るチャンスだったのに…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「このムッツリスケコマシど外道粗チン野郎が…」"
+                                ""
                             ]
                         },
                         {
@@ -4233,7 +4216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「粗チンはよせ……男の子は傷つくんだぞ…」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] This stubborn, despicable,\nsmall-dicked bastard..."
                             ]
                         },
                         {
@@ -4250,7 +4233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「はははっ……しかし、勿体ない事をしたな」"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] Stop with the small-dick\ncomments... It hurts boys, you know..."
                             ]
                         },
                         {
@@ -4267,14 +4250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「キノちゃんを堕とす最初で最後のチャンスを逃したんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優しく抱き寄せたりなんかしたらコロっと堕ちたのに…」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] Hahaha... However, I did\nsomething regrettable."
                             ]
                         },
                         {
@@ -4291,7 +4267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「マジかよ……キノちゃんチョロいな」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] I missed the first and last\nchance to corrupt Kino-chan, you know? If I had\ngently embraced her or something, she would have\neasily fallen for me..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4308,7 +4291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「チョロくねーしっ！ ま……それはともかくだ」"
+                                "\\n<Sonoda Kohei>Seriously... Kino-chan is easy, huh?"
                             ]
                         },
                         {
@@ -4325,7 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「……何か納得いかねぇ」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] You're such a wimp! Well...\nthat aside."
                             ]
                         },
                         {
@@ -4342,7 +4325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「アタシの秘密を暴かれた上、泣き顔まで晒して…」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] ......I can't understand\nsomething."
                             ]
                         },
                         {
@@ -4359,7 +4342,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F]「おい、人聞きの悪い事を言うな。 別に暴いてはないだろ」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] Not only did you expose my\nsecret, but you also made me show my crying\nface..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] Hey, don't say things that\nsound bad. I didn't really expose anything, right?"
                             ]
                         },
                         {
@@ -4383,7 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[61]\\FF[95]\\AA[FF]「……口止めぐらいしてもいいよな」"
+                                "\\n<Kino>\\F[61]\\FF[95]\\AA[FF] ......It's okay to keep this\na secret, right?"
                             ]
                         },
                         {
@@ -4409,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[61]\\FF[95]\\AA[FF]妖艶な笑みを浮かべ、キノが立ち上がる。"
+                                "Kino stands up with a bewitching smile on\n\\F[61]\\FF[95]\\AA[FF]'s face."
                             ]
                         },
                         {
@@ -4426,7 +4426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[61]\\FF[95]\\AA[F](……何だ？ キノの様子が…)"
+                                "\\n<Sonoda Kohei>\\F[61]\\FF[95]\\AA[F] (...What's wrong? Kino\nseems...)"
                             ]
                         },
                         {
@@ -5072,31 +5072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](\\C[2]小さな鍵\\C[0]が入っている……。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (There's a small key \\C[2]...\nI've been curious about this for a while...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コレ、ずっと気になってたんだよな…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「……鍵ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -5113,14 +5096,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「勝手に持っていくのはマズイと思って放置してたんだが…"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] ...A key, is it?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ……マスターキーも有るし、どちらにせよ要らないか…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] I thought it would be bad to\ntake it without permission, so I left it alone...\nWell... I have a master key too, so either way, I\ndon't need it..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5301,7 +5301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](小さな鍵が入っているが、必要の無い物だろう)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (It has a small key, but it's\nprobably something unnecessary)"
                             ]
                         },
                         {

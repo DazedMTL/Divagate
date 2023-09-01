@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浴室トイレ",
+    "displayName": "Bathroom Toilet",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1864,7 +1864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](少し狭いが……一人で使うには十分だろう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a bit small, but... it should be\nenough for one person to use.)"
                             ]
                         },
                         {
@@ -2273,7 +2273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]…身を乗り出し、鏡に映った自分の顔をジっと見つめる。"
+                                "\\F[\\V[2]]...leaning forward, staring intently at\ntheir own face reflected in the mirror."
                             ]
                         },
                         {
@@ -2290,7 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この前、目つきが怖いと言われたが……普通だよな？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I was told that my gaze is scary... but\nit's normal, right?)"
                             ]
                         },
                         {
@@ -2718,7 +2718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](脱いでこないと……私はまだ寝ぼけてるのか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If you don't take off your clothes...\nam I still half asleep?)"
                             ]
                         },
                         {
@@ -2802,7 +2802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](園田さんを待たせてるし、ササッと浴びてしまおう)"
+                                "\\n<Minato Neon>Since I'm keeping Sonoda-san waiting, I'll quickly\ntake a shower."
                             ]
                         },
                         {
@@ -2903,7 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「んン……」"
+                                "\\n<Minato Neon>Mmm..."
                             ]
                         },
                         {
@@ -2920,7 +2920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱めに設定したお湯が全身を洗い流していく。"
+                                "The hot water set at a high temperature washes\nover my entire body."
                             ]
                         },
                         {
@@ -2937,7 +2937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(酔った流れとはいえ、園田さんと一夜を共にしてしまった…)"
+                                "\\n<Minato Neon>(Even though it was a drunken mistake, I ended up\nspending the night with Sonoda-san...)"
                             ]
                         },
                         {
@@ -2954,7 +2954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに来て胸の鼓動が早くなる。"
+                                "Coming here makes my heart beat faster."
                             ]
                         },
                         {
@@ -2971,38 +2971,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "園田さんと夜を明かした事など今まで幾度もあった。"
+                                "I have spent many nights with Sonoda-san before.\nHowever, those were usually for meetings or casual\ndrinking parties... involving someone from the\nband members."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だがそれは、打ち合わせや軽い飲み会など……バンドメンバーの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かしらを交えてのものだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(彼だって男なんだ……何もなかったとはいえ、少し軽率だった…)"
+                                ""
                             ]
                         },
                         {
@@ -3019,7 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………」"
+                                "\\n<Minato Neon>(He's a guy too... Even though nothing happened, I\nwas a little reckless...)"
                             ]
                         },
                         {
@@ -3036,14 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(でも……園田さんが部屋を出て行った時、言いようのない寂しさを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じたのは何故だろう……)"
+                                "\\n<Minato Neon>「.........」"
                             ]
                         },
                         {
@@ -3060,21 +3036,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落ち着いて考えを巡らせる。"
+                                "\\n<Minato Neon>(But... I wonder why I felt an indescribable\nloneliness when Sonoda-san left the room...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巡らせ……答えに行きつき、それを否定する。"
+                                "I calm down and let my thoughts wander. They\nwander... I arrive at an answer, only to deny it.\nI repeat the same thing over and over again in my\nhead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭の中で何度も何度も同じ事を繰り返す。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3127,7 +3127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……まるで何かされたかったみたいじゃないか……」"
+                                "\\n<Minato Neon>Huh... It's almost like I wanted him to do\nsomething to me..."
                             ]
                         },
                         {
@@ -3144,38 +3144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "否定はするも否定しきれないもどかしさに\\r[苛,さいな]まれる。"
+                                "After denying it, I am tormented by an\noverwhelming frustration that I cannot fully deny.\nAnd before I know it, I find myself thinking about\nwhat will happen after the incident."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして私はいつしか、“事が起こった”後の事に考えを巡らせていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(も……もし、そうなっていたら今は二人で入っていたかも……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か、体とか洗い合ったりして…)"
+                                ""
                             ]
                         },
                         {
@@ -3192,7 +3168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は乳房へと視線を落とす。"
+                                "\\n<Minato Neon>(I-if that had happened... we might have been in\nthere together right now... washing each other's\nbodies...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3209,14 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(駄目だと言っても胸とかも洗われちゃって……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたら、お返しに私は彼の…)"
+                                "I lower my gaze to my breasts."
                             ]
                         },
                         {
@@ -3233,7 +3209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「んンっ…」"
+                                "\\n<Minato Neon>(Even if I say it's no good, my breasts might get\nwashed... And then, in return, I...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3250,14 +3233,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の芯が火照り始めたのを感じる。"
+                                "\\n<Minato Neon>Mmm..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はおもむろにアソコへと手を…"
+                                "I feel the core of my body starting to heat up. I\nslowly bring my hand to my crotch..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3274,14 +3274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「音々、シャワー中にすまない！"
+                                "\\n<Sonoda Kohei>Neon, sorry for interrupting your shower! I have a\ncall from the company! I'm sorry, but I have to go\nahead!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会社からの呼び出しだ！ 悪いが先に行ってる！」"
+                                ""
                             ]
                         },
                         {
@@ -3348,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ひゃいっ！？」"
+                                "\\n<Minato Neon>Hyaii!?"
                             ]
                         },
                         {
@@ -3365,7 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「な、何だ？ どうした？」"
+                                "\\n<Sonoda Kohei>W-What? What's wrong?"
                             ]
                         },
                         {
@@ -3382,7 +3382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドア越しに声をかけられ、思わず素っ頓狂な声を上げてしまった。"
+                                "Startled by a voice from behind the door, I\nunintentionally let out a startled scream."
                             ]
                         },
                         {
@@ -3399,7 +3399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「何でもないっ！ わ、分かったからっ！」"
+                                "\\n<Minato Neon>It's nothing! I-I understand, okay!"
                             ]
                         },
                         {
@@ -3416,14 +3416,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「今日の打ち合わせは局の方で１６時からだ。"
+                                "\\n<Sonoda Kohei>Today's meeting is at the office from 16:00. You\ncan relax until then."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それまで君はゆっくりしていていいぞ」"
+                                ""
                             ]
                         },
                         {
@@ -3452,7 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言い残し……再び園田さんは去って行った。"
+                                "Sonoda-san left, leaving those words behind..."
                             ]
                         },
                         {
@@ -3469,7 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「はぁぁっ……あ、危なかった…」"
+                                "\\n<Minato Neon>Haaah... Ah, that was close..."
                             ]
                         },
                         {
@@ -3486,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安堵したのも束の間、フツフツと怒りの感情が込み上げてくる。"
+                                "The relief was short-lived as a simmering anger\nwelled up inside me."
                             ]
                         },
                         {
@@ -3503,7 +3503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(そんな事はメールとかでいいじゃないかっ！)"
+                                "\\n<Minato Neon>(Can't we just handle that kind of thing through\nemail or something!)"
                             ]
                         },
                         {
@@ -3520,14 +3520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(それに……シャワー中に気軽に声をかけるなよっ！"
+                                "\\n<Minato Neon>(And... don't casually call out to me while I'm in\nthe shower! I am a woman, you know... D-Don't tell\nme you don't see me as a woman?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一応、女だぞ……ま、まさか女として見られてないのか？)"
+                                ""
                             ]
                         },
                         {
@@ -3608,7 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……一度、言ってやらないとな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...I have to say it once...)"
                             ]
                         },
                         {
@@ -3625,7 +3625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「まったく……散々口説き倒したクセに最近扱いが雑過ぎるだろ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Geez... After all the times I've been\nseduced by you, lately you've been treating me so\ncarelessly..."
                             ]
                         },
                         {
@@ -3741,14 +3741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](シャワーはもういいな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm done with the shower. Let's leave\nthe house early and grab something to eat on the\nway.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早めに家を出て、途中で何か食べていこう)"
+                                ""
                             ]
                         },
                         {
@@ -3823,7 +3823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](園田さんを待たせてるし、ササッと浴びてしまおう)"
+                                "\\n<Minato Neon>Since I'm keeping Sonoda-san waiting, I'll quickly\ntake a shower."
                             ]
                         },
                         {
@@ -3924,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「んン……」"
+                                "\\n<Minato Neon>Mmm..."
                             ]
                         },
                         {
@@ -3941,7 +3941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱めに設定したお湯が全身を洗い流していく。"
+                                "The hot water set at a high temperature washes\nover my entire body."
                             ]
                         },
                         {
@@ -3958,7 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(酔った流れとはいえ、園田さんと一夜を共にしてしまった…)"
+                                "\\n<Minato Neon>(Even though it was a drunken flow, I ended up\nspending the night with Sonoda-san...)"
                             ]
                         },
                         {
@@ -3975,7 +3975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに来て胸の鼓動が早くなる。"
+                                "Coming here makes my heart beat faster."
                             ]
                         },
                         {
@@ -3992,38 +3992,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "園田さんと夜を明かした事など今まで幾度もあった。"
+                                "I have spent many nights with Sonoda-san before.\nHowever, those were usually for meetings or casual\ndrinking parties... involving someone from the\nband members."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だがそれは、打ち合わせや軽い飲み会など……バンドメンバーの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かしらを交えてのものだった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(彼だって男なんだ……何もなかったとはいえ、少し軽率だった…)"
+                                ""
                             ]
                         },
                         {
@@ -4040,7 +4023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………」"
+                                "\\n<Minato Neon>(He's a guy too... Even though nothing happened, I\nwas a little reckless...)"
                             ]
                         },
                         {
@@ -4057,14 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(でも……園田さんが部屋を出て行った時、言いようのない寂しさを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感じたのは何故だろう……)"
+                                "\\n<Minato Neon>「.........」"
                             ]
                         },
                         {
@@ -4081,21 +4057,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落ち着いて考えを巡らせる。"
+                                "\\n<Minato Neon>(But... I wonder why I felt an indescribable\nloneliness when Sonoda-san left the room...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巡らせ……答えに行きつき、それを否定する。"
+                                "I calm down and let my thoughts wander. They\nwander... I arrive at an answer, only to deny it.\nI repeat the same thing over and over again in my\nhead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "頭の中で何度も何度も同じ事を繰り返す。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4148,7 +4148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……まるで何かされたかったみたいじゃないか……」"
+                                "\\n<Minato Neon>Huh... It's almost like he wanted me to do\nsomething..."
                             ]
                         },
                         {
@@ -4165,38 +4165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "否定はするも否定しきれないもどかしさに\\r[苛,さいな]まれる。"
+                                "I am tormented by the frustration of being unable\nto fully deny \\r[. And before I know it, I find\nmyself thinking about what will happen after the\nincident."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして私はいつしか、“事が起こった”後の事に考えを巡らせていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(も……もし、そうなっていたら今は二人で入っていたかも……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か、体とか洗い合ったりして…)"
+                                ""
                             ]
                         },
                         {
@@ -4213,7 +4189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は乳房へと視線を落とす。"
+                                "\\n<Minato Neon>(I-if that had happened... we might have been in\nthere together now... washing each other's\nbodies...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4230,14 +4213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(駄目だと言っても胸とかも洗われちゃって……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたら、お返しに私は彼の…)"
+                                "I lower my gaze to the breasts."
                             ]
                         },
                         {
@@ -4254,7 +4230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「んンっ…」"
+                                "\\n<Minato Neon>(Even if I say it's no good, if my breasts were\nbeing washed... then, in return, I would...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4271,14 +4254,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体の芯が火照り始めたのを感じる。"
+                                "\\n<Minato Neon>Mmm..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はおもむろにアソコへと手を…"
+                                "I feel my body's core starting to heat up. I\nslowly move my hand towards my crotch..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4295,14 +4295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「音々、シャワー中にすまない！"
+                                "\\n<Sonoda Kohei>Neon, sorry for interrupting while you're in the\nshower! I got a call from work! Sorry, but I have\nto go ahead!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "会社からの呼び出しだ！ 悪いが先に行ってる！」"
+                                ""
                             ]
                         },
                         {
@@ -4369,7 +4369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ひゃいっ！？」"
+                                "\\n<Minato Neon>Hyaah!?"
                             ]
                         },
                         {
@@ -4386,7 +4386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「な、何だ？ どうした？」"
+                                "\\n<Sonoda Kohei>W-What? What's wrong?"
                             ]
                         },
                         {
@@ -4403,7 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドア越しに声をかけられ、思わず素っ頓狂な声を上げてしまった。"
+                                "I was called out from behind the door and\nunintentionally let out a startled scream."
                             ]
                         },
                         {
@@ -4420,7 +4420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「何でもないっ！ わ、分かったからっ！」"
+                                "\\n<Minato Neon>It's nothing! I-I understand, okay!"
                             ]
                         },
                         {
@@ -4437,14 +4437,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「今日の打ち合わせは局の方で１６時からだ。"
+                                "\\n<Sonoda Kohei>Today's meeting is at the office from 16:00. You\ncan relax until then."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それまで君はゆっくりしていていいぞ」"
+                                ""
                             ]
                         },
                         {
@@ -4473,7 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言い残し……再び園田さんは去って行った。"
+                                "Sonoda-san left, leaving those words behind."
                             ]
                         },
                         {
@@ -4490,7 +4490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「はぁぁっ……あ、危なかった…」"
+                                "\\n<Minato Neon>Haaah... Ah, that was close..."
                             ]
                         },
                         {
@@ -4507,7 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安堵したのも束の間、フツフツと怒りの感情が込み上げてくる。"
+                                "The relief was short-lived as a simmering anger\nwelled up within me."
                             ]
                         },
                         {
@@ -4524,7 +4524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(そんな事はメールとかでいいじゃないかっ！)"
+                                "\\n<Minato Neon>(Can't we just handle that kind of thing through\nemail or something!)"
                             ]
                         },
                         {
@@ -4541,14 +4541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(それに……シャワー中に気軽に声をかけるなよっ！"
+                                "\\n<Minato Neon>(And... don't casually call out to me while I'm in\nthe shower! I am a woman, you know... D-Don't tell\nme you don't see me as a woman?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一応、女だぞ……ま、まさか女として見られてないのか？)"
+                                ""
                             ]
                         },
                         {
@@ -4629,7 +4629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……一度、言ってやらないとな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...I have to say it once...)"
                             ]
                         },
                         {
@@ -4646,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「まったく……散々口説き倒したクセに最近扱いが雑過ぎるだろ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Honestly... After all the times you've\nrelentlessly flirted with me, your treatment of me\nlately has been too careless..."
                             ]
                         },
                         {
@@ -5229,7 +5229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](少し狭いが……一人で使うには十分だろう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a bit small, but... it should be\nenough for one person to use.)"
                             ]
                         },
                         {

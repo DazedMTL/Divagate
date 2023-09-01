@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館 ～２F 脱衣場～",
+    "displayName": "West Building ~2F Changing Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -3663,7 +3663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こ、こんな恰好で出歩けるかっ…)"
+                                "\\n<Minato Neon>(C-Can I really go out dressed like this...)"
                             ]
                         },
                         {
@@ -3756,7 +3756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ぁ……もしかして此処は…)"
+                                "\\n<Minato Neon>(Ah... Could it be that this is...)"
                             ]
                         },
                         {
@@ -3780,7 +3780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -3804,7 +3804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いや……悠長にそんな事してる場合じゃ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (No... This is not the time to be\nleisurely doing such things...)"
                             ]
                         },
                         {
@@ -4031,7 +4031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん……何だろう……今、何か目に留まったが……籠の中にか？)"
+                                "\\n<Minato Neon>Huh... I wonder what it is... Did something catch\nmy eye just now... inside the cage?"
                             ]
                         },
                         {
@@ -4364,7 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…どことなく、落ち着く香りを放つ観葉植物が置かれている。"
+                                "...There is a potted plant emitting a calming\nscent placed somewhere."
                             ]
                         },
                         {
@@ -4441,7 +4441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鏡には……特に変化のない自分の顔が映っている。"
+                                "My face, which hasn't changed much, is reflected\nin the mirror."
                             ]
                         },
                         {
@@ -4509,7 +4509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鏡には……一糸まとわぬ姿の自分が映っている。"
+                                "In the mirror... I see myself completely naked."
                             ]
                         },
                         {
@@ -4773,14 +4773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](タオル等が綺麗に畳まれ置かれている。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The towels and such are neatly folded\nand placed. There doesn't seem to be anything that\ncan be worn in terms of size...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サイズ的に身に着けられそうなものはないな…)"
+                                ""
                             ]
                         },
                         {
@@ -4917,7 +4917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…どことなく、落ち着く香りを放つ観葉植物が置かれている。"
+                                "...There is a potted plant emitting a calming\nscent placed somewhere."
                             ]
                         },
                         {
@@ -5001,7 +5001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](新品のガウンだな……特にこれといった特徴はない)"
+                                "\\n<Minato Neon>This is a new gown... It doesn't have any\nparticular features."
                             ]
                         },
                         {
@@ -5085,14 +5085,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](\\r[籠,かご]が綺麗に積まれている。"
+                                "\\n<Minato Neon>The \\F[\\V[2]] (basket) is neatly stacked. Is that\ndirector organizing it? No, it can't be..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの監督が整理しているのか？ いや、まさかな…)"
+                                ""
                             ]
                         },
                         {
@@ -5176,7 +5176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](でも……す、少しくらいならいいよな？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (But... it's okay if it's just a little\nbit, right?)"
                             ]
                         },
                         {
@@ -5447,7 +5447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ぁ……よく見たら鍵穴らしき穴があるな)"
+                                "\\n<Minato Neon>Ah... now that I look closely, there seems to be a\nkeyhole-like hole here."
                             ]
                         },
                         {
@@ -5471,14 +5471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](これでは閉じ込める為に施錠するみたいじゃないか…。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It seems like this is locked to keep\nsomeone trapped... I can't bear being trapped\nagain... Let's stop for now.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "また閉じ込められたら堪らないからな……今は止めておこう)"
+                                ""
                             ]
                         },
                         {
@@ -5592,7 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](また閉じ込められたら堪らないからな……今は止めておこう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Because I can't stand being trapped\nagain... Let's stop for now.)"
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](パパっと済ませてしまえば……うん、問題ないだろう)"
+                                "\\n<Minato Neon>If \\F[\\V[2]] is taken care of quickly... yeah,\nthere shouldn't be any problems."
                             ]
                         },
                         {
@@ -5727,8 +5727,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…着替える。",
-                                    "…やめる。"
+                                    "I'll change my clothes",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -6006,7 +6006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -6014,8 +6014,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…着替えない。"
+                                    "a leather suit",
+                                    "I won't change my clothes"
                                 ],
                                 1,
                                 0,
@@ -6293,7 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](はぁ……ようやく着替えられるな…)"
+                                "\\n<Minato Neon>(Phew... Finally able to change clothes...)"
                             ]
                         },
                         {
@@ -6301,8 +6301,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…着替えない。"
+                                    "rider suit",
+                                    "I won't change clothes"
                                 ],
                                 1,
                                 0,
@@ -6365,14 +6365,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Minato Neon: Huh... What? The thing I left here...\nit's gone..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#「えっ……あれ？ ここに置いたはずの……が無い…」"
+                                ""
                             ]
                         },
                         {
@@ -6546,31 +6546,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督の仕業だな……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is this Udo's doing...? This is really\ngoing too far, isn't it?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ッ……これは流石に、やり過ぎではないのか？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                ""
                             ]
                         },
                         {
@@ -6587,14 +6570,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](問い詰めたところで惚けるか……"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "レッスンの内だとはぐらかされるだろうな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Even if I confront them, they'll just\nplay dumb... They'll probably brush it off as part\nof the lesson...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6618,7 +6618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](仕方がない……部屋に戻るまでの我慢だ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I guess there's no other choice... I'll\nhave to endure until I can go back to my room...)"
                             ]
                         },
                         {
@@ -6748,7 +6748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……探索に戻ろう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Let's go back to exploring)"
                             ]
                         },
                         {
@@ -7051,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鏡には……特に変化のない自分の顔が映っている。"
+                                "My face, which hasn't changed much, is reflected\nin the mirror."
                             ]
                         },
                         {
@@ -7119,7 +7119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鏡には……一糸まとわぬ姿の自分が映っている。"
+                                "In the mirror... I see myself completely naked."
                             ]
                         },
                         {
@@ -7203,7 +7203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん……これは…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Hmm... this is...)"
                             ]
                         },
                         {
@@ -7354,7 +7354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]USBメモリー\\C[0]を手に入れた。"
+                                "I got my hands on a \\C[2]USB memory\\C[0]."
                             ]
                         },
                         {
@@ -7378,14 +7378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](USBメモリー？ 一応持っておくか。"
+                                "\\n<Minato Neon>(USB memory? I'll keep it just in case. But to\ncheck the contents, I'll need a computer.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、中身を確認するには\\C[2]パソコン\\C[0]が必要だな)"
+                                ""
                             ]
                         },
                         {
@@ -7505,7 +7505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\r[籠,かご]が綺麗に積まれている。"
+                                "The \\r[ baskets are neatly stacked."
                             ]
                         },
                         {

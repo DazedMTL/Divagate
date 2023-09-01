@@ -16,7 +16,7 @@
         "volume": 30
     },
     "disableDashing": false,
-    "displayName": "♪ 恐怖の夜の樹海",
+    "displayName": "♪ Forest of Fearful Night",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1751,14 +1751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……これは何だ？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...What is this? There's a small\nhemispherical metal pole with bumps and\nindentations scattered on it.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小さな半球状の凹凸が散りばめられた金属製のポールが立っている)"
+                                ""
                             ]
                         },
                         {
@@ -1842,14 +1842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](撮影用のカメラだな……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a camera for shooting... Could it\nbe that we're using this to film that certain\nvideo?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……まさかこれを使って例の動画の撮影を？)"
+                                ""
                             ]
                         },
                         {
@@ -2155,7 +2155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「きひひっ……あぁ、いい感じだァ\\I[12] その調子ィ♪ その調子ィ♪」"
+                                "\\n<Udo Takeru>Kihii... Ah, it feels so good, \\I[12]. Keep it up♪\nKeep it up♪"
                             ]
                         },
                         {
@@ -2231,7 +2231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んっ\\I[12] んちゅっ\\I[12] ちゅっ\\I[12] んちゅうぅ\\I[12]」"
+                                "\\n<Minato Neon>Mmm, nchu nchu, chu nchuu~"
                             ]
                         },
                         {
@@ -2255,21 +2255,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コレを咥えた途端、私の中の“スイッチ”が入ったのを感じた。"
+                                "As soon as I put this in my mouth, I felt a switch\nturn on inside me. I could see that I would later\nfall into self-loathing and regret, but I no\nlonger had any intention of stopping."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "後で自己嫌悪に陥り、後悔するだろう事は目に見えていたが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう止めるつもりは無くなっていた。"
+                                ""
                             ]
                         },
                         {
@@ -2293,14 +2293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ちゅるっ……はぁむ\\I[12] んちゅっ\\I[12] んンっ\\I[12] "
+                                "\\n<Minato Neon>Chururu... Haaam \\I[12] nchuu \\I[12] nn~ \\I[12]\nchuu \\I[12] chururu... chuu \\I[12] chururu~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっ\\I[12] ちゅるっ\\I[12] れろぉ……ちゅっ\\I[12] ちゅるっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2324,38 +2324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ぐおっ！？ やっべ……処女がやるフェラじゃねぇだろォ♪"
+                                "\\n<Udo Takeru>Guh!? Damn... This isn't just any blowjob from a\nvirgin, huh?♪ Your talent down here is even\ngreater than your singing, isn't it~?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お歌以上にコッチの才能があるんじゃないのォ～？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事あるごとに私を\\r[貶,おとし]める言葉が降り注ぐ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段の私なら不快感しか感じないはずだった。"
+                                ""
                             ]
                         },
                         {
@@ -2372,14 +2348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが……信じ難い事に、それらの言葉は私をより淫らにさせ"
+                                "Previously Translated Text: Words that constantly\nbelittle and degrade me \\r[ rain down on me.\nNormally, I should only feel discomfort."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この行為を助長させる事となっていた。"
+                                ""
                             ]
                         },
                         {
@@ -2396,14 +2372,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あの湊 音々の濃厚フェラとかヤバ過ぎだろォ♪"
+                                "However... unbelievably, those words made me even\nmore lascivious and encouraged this act."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな音々ちゃんをファンの男共が知ったらどう思うかねぇ？」"
+                                "\\n<Udo Takeru>That intense blowjob from Minato Neon is just too\nmuch, huh?♪ I wonder what the male fans would\nthink if they knew about this naughty side of\nNeon-chan, huh?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2427,7 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んんぅ……ちゅっ\\I[12] ちゅもっ\\I[12] ちゅうぅぅっ\\I[12]」"
+                                "\\n<Minato Neon>Mmm... chu \\I[12] chu mo \\I[12] chuuuu \\I[12]"
                             ]
                         },
                         {
@@ -2451,31 +2451,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「きししししっ、エライぞォ\\I[12]"
+                                "\\n<Udo Takeru>Kishishishi, you're quite impressive, \\I[12], not\nleaving your mouth unattended even though you're\nreluctant. You're truly excellent, huh♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嫌々しながらもお口をお留守にしないとはホント優秀だねぇ♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……そんな事を褒められても嬉しくない……そのはずなのに…)"
+                                ""
                             ]
                         },
                         {
@@ -2492,14 +2475,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "否定する私を嘲笑うかの様に、私の体はすがる様に男の下半身へと"
+                                "\\n<Minato Neon>(Tch... Even though I shouldn't be happy about\nbeing praised like that...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "抱き付き、この屈辱的な行為が更に加速していく……。"
+                                "My body clings to the man's lower half as if\nmocking my denial, and this humiliating act only\naccelerates further..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2523,7 +2523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んちゅっ\\I[12] んもっ\\I[12] ちゅるっ\\I[12] れろれろれろぉ\\I[12]」"
+                                "\\n<Minato Neon>Nchu \\I[12], Nmochu \\I[12], Chururro \\I[12],\nReroreroo \\I[12]"
                             ]
                         },
                         {
@@ -2547,14 +2547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "認めたくはないが……確かに喜びの感情が私の中に在った。"
+                                "I don't want to admit it... but there was\ndefinitely a feeling of joy within me. My own\nbody, which was trying to respond to the man's\nwords, was proving it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "男の言葉に応えようとする私自身の体が、それを証明していた。"
+                                ""
                             ]
                         },
                         {
@@ -2585,14 +2585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ぐぅっ……とりあえず一発出しとくよォ♪"
+                                "\\n<Udo Takeru>Guh... For now, I'll let one out♪ Then I'll lick\nand lick your virgin pussy again, okay~ \\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そしたらまた処女マンコを舐め舐めしてあげるからねぇ～\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2609,7 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(ッ……これで終わりじゃないの……？ また私のアソコを…)"
+                                "\\n<Minato Neon>(Tch... Is this not the end...? Will he touch my\ncrotch again...?)"
                             ]
                         },
                         {
@@ -2692,7 +2692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "激しい行為の最中、アソコから愛液が滴り落ちるのを感じる。"
+                                "I feel my love juices dripping from my crotch in\nthe midst of intense sexual activity."
                             ]
                         },
                         {
@@ -2709,7 +2709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(そんな……触れられてもいないのに凄い事になっちゃってる…)"
+                                "\\n<Minato Neon>(Even though he hasn't touched me... it's becoming\nsomething incredible...)"
                             ]
                         },
                         {
@@ -2726,21 +2726,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この時……私は期待していたと思う。"
+                                "At that moment... I think I was expecting it. Not\nonly that act by Director Udo, but even the words\nthat would degrade me, who would be seen in such a\nstate... would rain down on me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督による“あの行為”は勿論、こんな状態のアソコを見られ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "降り注ぐであろう私を貶める言葉でさえも……。"
+                                ""
                             ]
                         },
                         {
@@ -2757,14 +2757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ぉ……おぉォォ……いくぞっ……！"
+                                "\\n<Udo Takeru>O... Ohhh... I'm... going to... cum! Heheh, I'll\nrelease it again... I'm going to cum in Minato\nNeon's mouth!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひひっ、また出すぞ……湊 音々のお口に出すぞぉォォっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -2845,7 +2845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「…――――んン\"ぉ\\I[12] んぶっ\\I[12] ん\"ンン……っ\\I[12]」"
+                                "\\n<Minato Neon>...Nn, oh \\I[12], nub \\I[12] n... \\I[12]"
                             ]
                         },
                         {
@@ -2888,28 +2888,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#私の意思など関係なしに、さも当然の様に精が口内へと放たれていく。"
+                                "\\#Regardless of my will, the man's essence is\nreleased into my mouth as if it were natural.\nHowever, I didn't feel any anger or sorrow. I\nmyself... had accepted that it was something\ninevitable."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが私には怒りや嘆きといった感情は無かった。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私自身……それが当たり前の事なのだと受け入れてしまっていた。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2926,21 +2926,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "And... even while receiving such rough treatment,\nI still felt a definite sense of joy----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そんなぞんざいな扱いを受けてなお、私は確かな喜びを感じていた――――…。"
+                                ""
                             ]
                         },
                         {

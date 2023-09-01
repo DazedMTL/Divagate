@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～対称の間～",
+    "displayName": "East Hall ~Room of Symmetry~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -1955,7 +1955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems like the door is locked."
                             ]
                         },
                         {
@@ -2871,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あれ？ ドアが開いたみたいだし先に進もうよォ♪」"
+                                "\\n<Udo Takeru>Huh? Looks like the door is open, let's go ahead♪"
                             ]
                         },
                         {
@@ -2888,7 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](……それもそうだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (...That's true.)"
                             ]
                         },
                         {
@@ -3078,14 +3078,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この置物は向こうには無いものだな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This figurine is not something they\nhave over there. Um, this is...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっとコレは…)"
+                                ""
                             ]
                         },
                         {
@@ -3105,8 +3105,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…回収する。",
-                                    "…何もしない。"
+                                    "collect it",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -3166,7 +3166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]フルーツの置物\\C[0]を手に入れた。"
+                                "\\C[2] obtained a fruit figurine\\C[0] in their\nhands."
                             ]
                         },
                         {
@@ -3435,7 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この照明は……あぁ、なるほど)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ah, I see... this lighting...)"
                             ]
                         },
                         {
@@ -3455,8 +3455,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…電源を入れる。",
-                                    "…何もしない。"
+                                    "Turn on the power",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -3507,7 +3507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、これで対称だな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, this is symmetrical now)"
                             ]
                         },
                         {
@@ -3776,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](酷いなこれは…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This is terrible...)"
                             ]
                         },
                         {
@@ -3796,8 +3796,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…本棚へと片づける。",
-                                    "…何もしない。"
+                                    "put it away on the bookshelf",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -3900,7 +3900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ふぅ……よし、配置もバッチリだ。 これで対称だな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Phew... Alright, the arrangement is\nperfect. It's symmetrical now.)"
                             ]
                         },
                         {
@@ -4098,7 +4098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](酷いなこれは…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This is terrible...)"
                             ]
                         },
                         {
@@ -4118,8 +4118,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…本棚へと片づける。",
-                                    "…何もしない。"
+                                    "put it away on the bookshelf",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -4222,7 +4222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ふぅ……よし、配置もバッチリだ。 これで対称だな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Phew... Alright, the arrangement is\nperfect. It's symmetrical now.)"
                             ]
                         },
                         {
@@ -4531,14 +4531,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この観葉植物の配置場所がおかしいな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The placement of this potted plant is\nstrange. Um, what is this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "えっとコレは…)"
+                                ""
                             ]
                         },
                         {
@@ -4558,8 +4558,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…回収する。",
-                                    "…何もしない。"
+                                    "to collect",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]観葉植物\\C[0]を手に入れた。"
+                                "I obtained a \\C[2]potted plant\\C[0]."
                             ]
                         },
                         {
@@ -4889,7 +4889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この椅子……向こうとは向きが違うな)"
+                                "\\n<Minato Neon>This chair... it's facing the opposite direction."
                             ]
                         },
                         {
@@ -4909,8 +4909,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…向きを正す。",
-                                    "…何もしない。"
+                                    "adjust its direction",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、これで対称だな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, now it's symmetrical.)"
                             ]
                         },
                         {
@@ -5314,7 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「此処は…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] This place..."
                             ]
                         },
                         {
@@ -5331,14 +5331,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]まず初めに目に付いたのは巨大なガラス壁。"
+                                "The first thing that caught my eye was a huge\nglass wall. That wall divided the room in the\ncenter, creating two separate rooms."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その壁は部屋の中央を\\r[遮,さえぎ]り、独立した二つの部屋を形成していた。"
+                                ""
                             ]
                         },
                         {
@@ -5362,7 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……しかし、なぜガラス壁？ これじゃ隣が丸見えじゃないか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...But why a glass wall? The neighbors\ncan see everything...)"
                             ]
                         },
                         {
@@ -5379,38 +5379,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「此処は見ての通り、二つの部屋が左右対称になっている。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] As you can see, this\nplace has two rooms that are symmetrical on the\nleft and right. It's called... \\C[2] Symmetry Room\n\\C[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その名も……\\C[2]対称の間\\C[0]という！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](まんまだな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが……左右対称と言った割りには…)"
+                                ""
                             ]
                         },
                         {
@@ -5427,14 +5403,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ククッ、違和感に気づいたようだね。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (It's exactly the\nsame... but... despite being called symmetrical,\nit's not really...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なら音々ちゃんのやる事は分かるよね？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hehe, it seems like\nyou've noticed the discomfort. Then you understand\nwhat Neon-chan has to do, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5458,7 +5458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「あぁ、何となく察したが…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ah, I somehow sensed\nit..."
                             ]
                         },
                         {
@@ -5482,14 +5482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](……私に部屋を片付けさせたいだけなんじゃないか？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](...Are you just trying\nto make me clean the room? Sigh... Well, fine,\nlet's get started...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……まぁいい、早速始めるか…)"
+                                ""
                             ]
                         },
                         {
@@ -5728,7 +5728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](置物の場所はここだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This is where the figurine goes.)"
                             ]
                         },
                         {
@@ -5736,8 +5736,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…設置する。",
-                                    "…何もしない。"
+                                    "to set up",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、これで対称だな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, now it's symmetrical.)"
                             ]
                         },
                         {
@@ -5968,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](観葉植物の配置はここだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This is where the potted plants should\nbe placed.)"
                             ]
                         },
                         {
@@ -5976,8 +5976,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…設置する。",
-                                    "…何もしない。"
+                                    "to be placed",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -6038,7 +6038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、これで対称だな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, now it's symmetrical.)"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よしよし、これであらかた片付いたな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Good job, it's mostly cleaned up now)"
                             ]
                         },
                         {
@@ -6574,7 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]奥のドアから微かな音がした。"
+                                "I heard a faint sound from the door in the back."
                             ]
                         },
                         {
@@ -6622,14 +6622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ごくろうさま音々ちゃん♪"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Good job, Neon-chan♪ It\nseems like we can move forward now~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進めるようになったみたいだよ～♪」"
+                                ""
                             ]
                         },
                         {
@@ -6653,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](この男……まったく手伝わなかったな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (This guy... didn't help\nat all...)"
                             ]
                         },
                         {

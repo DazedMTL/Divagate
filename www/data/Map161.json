@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館 ～客室～",
+    "displayName": "West Wing ~Guest Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2325,14 +2325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](化粧品の類は犬共の私物だろうな。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Cosmetics and such are\nthe dogs' personal belongings, huh? Seriously,\nthey've turned the room into their own... I've\ndecided on a punishment.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ったく、部屋を私物化しやがって……お仕置き決定だな)"
+                                ""
                             ]
                         },
                         {
@@ -2423,7 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](ん～…何が良いのか、さっぱり分からねぇ)"
+                                "\\n<Udo Takeru>(Hmm... I have no idea what would be good.)"
                             ]
                         },
                         {
@@ -2514,7 +2514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](あぁ、この人物画……ガキの頃は怖かったなァ)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Ah, this character\nillustration... I was scared of it when I was a\nkid.)"
                             ]
                         },
                         {
@@ -2605,7 +2605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](こういったインテリアの類は爺さんの趣味だな)"
+                                "\\n<Udo Takeru>This kind of interior is Grandpa's taste."
                             ]
                         },
                         {

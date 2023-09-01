@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "尾道プロダクション",
+    "displayName": "Onomichi Production",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3398,7 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「……私に映画出演の仕事が？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] ......A job for me to\nappear in a movie?"
                             ]
                         },
                         {
@@ -3415,7 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「あぁ……\\C[27]宇堂 猛\\C[0]監督、本人からのご指名だそうだ」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Ah... it seems that Udo\nTakeru \\C[0]the director himself has personally\nrequested \\C[27]me."
                             ]
                         },
                         {
@@ -3432,14 +3432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\FF[61]\\F[\\V[2]]\\AA[FF]「へぇ……凄いじゃない。"
+                                "\\n<Sawa>Wow... That's amazing. Udo Takeru is famous for\nhorror movies, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督ってホラーモノで有名な人よね」"
+                                ""
                             ]
                         },
                         {
@@ -3456,7 +3456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\FF[61]\\F[\\V[2]]\\AA[FF]「うんうん、あのヘアースタイルがイカスよねぇ」"
+                                "\\n<Momo>Yeah, yeah, that hairstyle is cool, isn't it?"
                             ]
                         },
                         {
@@ -3473,7 +3473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\FF[61]\\F[\\V[2]]\\AA[FF]「それは無い……けど、良い話じゃね？」"
+                                "\\n<Kino>That's not... but it's a good story, isn't it?"
                             ]
                         },
                         {
@@ -3497,45 +3497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「指名って……そもそも私には宇堂監督との接点はないんだぞ？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Being specifically\nchosen... But I don't have any connection with\nDirector Udo to begin with, you know? Isn't this a\nmistake, like a request for a theme song or\nsomething?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "劇中歌の依頼とかの間違いじゃないか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「そこはちゃんと確認したさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロックミュージシャンとしてではなく、君には女優として参加して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "欲しいそうだ」"
+                                ""
                             ]
                         },
                         {
@@ -3552,14 +3521,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「それに……まるっきり接点がない訳ではない。"
+                                "\\n<Sonoda Kohei>I made sure to confirm that. It seems that they\nwant you to participate not as a rock musician,\nbut as an actress."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三日前の打ち合わせの後、エレベーターの前で会ったろう？」"
+                                "\\n<Sonoda Kohei>And... it's not like we have absolutely no\nconnection. We met in front of the elevator after\nthe meeting three days ago, remember?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3583,7 +3583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F](あの時の……私にいやらしい視線を送った男が…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] (That man who gave me a\nlewd gaze at that time...)"
                             ]
                         },
                         {
@@ -3607,7 +3607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「……怪しくないか？ 演技の面では、私はド素人なんだぞ？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] ......Isn't it suspicious?\nI'm a complete amateur when it comes to acting,\nyou know?"
                             ]
                         },
                         {
@@ -3624,14 +3624,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「今のスタイルを貫くか……新しい事にチャレンジしてみるか……。"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Should I stick with my\ncurrent style... or should I try something new...\nIt may sound cold, but... it's up to you to decide\nwhat you want to do."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "冷たい様だが……何をどうしたいのか、決めるのは君自身だ」"
+                                ""
                             ]
                         },
                         {
@@ -3648,7 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\FF[61]\\F[\\V[2]]\\AA[FF]「やってみなって！ 音々の演技とか見てみたいし！」"
+                                "\\n<Kino>\\FF[61]\\F[\\V[2]]\\AA[FF] You should give it a try!\nI want to see Neon's acting!"
                             ]
                         },
                         {
@@ -3665,7 +3665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\FF[61]\\F[\\V[2]]\\AA[FF]「ネネっちが女優デビューかぁ……いいなぁ…」"
+                                "\\n<Momo>\\FF[61]\\F[\\V[2]]\\AA[FF] So Neon is making her\nactress debut... that's nice..."
                             ]
                         },
                         {
@@ -3682,7 +3682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\FF[61]\\F[\\V[2]]\\AA[FF]「頑張ってみたら？ 私は良い機会だと思うけど…」"
+                                "\\n<Sawa>\\FF[61]\\F[\\V[2]]\\AA[FF] Why don't you give it a\ntry? I think it's a good opportunity..."
                             ]
                         },
                         {
@@ -3706,7 +3706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -3723,31 +3723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]確かに、何かを始めるには良い機会かもしれない。"
+                                "Certainly, it might be a good opportunity to start\nsomething. However... when I remember that man's\n'those eyes', it inevitably makes me hesitate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが…あの男の“あの目”を思い出すと、どうしても私を\\r[躊躇,ちゅうちょ]させる。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「……一つだけ聞いていいか？」"
+                                ""
                             ]
                         },
                         {
@@ -3764,7 +3747,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]\\FF[61]\\AA[F]……弱気になっている自分を奮い立たせたかったのかもしれない。"
+                                "\\n<Minato Neon>......Can I ask you one thing?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\F[\\V[2]]\\FF[61]\\AA[F]......Maybe you wanted to\nmotivate me when I was feeling down."
                             ]
                         },
                         {
@@ -3788,7 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「……園田さんは“女優”湊 音々を見てみたいか？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] ...Sonoda-san, do you want\nto see actress Minato Neon?"
                             ]
                         },
                         {
@@ -3810,21 +3810,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "After thinking for a moment, \\# nodded firmly.\nThat was enough... because it had always been that\nway."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#少し考えた後、彼は力強く頷いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#それだけで十分だった……だって、ずっとそうだったから。"
+                                ""
                             ]
                         },
                         {
@@ -3841,28 +3841,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#彼と出会う前までの私は情熱だけで音楽活動を続けていた。"
+                                "Before I met him, I was only continuing my music\nactivities with passion. Even now, I don't think\nthat passion has diminished, but I realized the\nexistence of a driving force that surpasses it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#今でもその熱量は損なわれてはいないつもりだが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#それを上回る原動力の存在に私は気付いてしまった。"
+                                ""
                             ]
                         },
                         {
@@ -3879,28 +3879,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#彼の理想であり続けたい……彼の一番であり続けたい。"
+                                "\\#I want to continue being his ideal... I want to\ncontinue being his number one. It's not out of\ngratitude for teaching me about this world. Just\nthinking about it makes my whole body feel itchy,\nbut simply put... it means..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#それは、この世界を教えてくれた恩義からではない。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#思うだけで全身がこそばゆくなってしまうのだが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#単純に……つまりはこういう事――――…"
+                                ""
                             ]
                         },
                         {
@@ -3924,14 +3924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "----...A girl in love is the strongest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#――――…恋する乙女は最強なのだ。"
+                                ""
                             ]
                         },
                         {
@@ -4006,14 +4006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "[Minato Neon]9 [Minato Neon] Month [Minato Neon]1\n[Minato Neon]4"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　\\SE[タイプライター]９\\.\\SE[タイプライター]月\\.\\SE[タイプライター]１\\.\\SE[タイプライター]４\\.\\SE[タイプライター]日"
+                                ""
                             ]
                         },
                         {

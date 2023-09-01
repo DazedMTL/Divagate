@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "洋館前",
+    "displayName": "In front of the mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -11594,7 +11594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はふと立ち止まり振り返ると、彼と共に過ごした洋館を見上げた。"
+                                "I stopped and turned around, looking up at the\nWestern-style mansion we had spent time in\ntogether."
                             ]
                         },
                         {
@@ -11620,31 +11620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……そういえば、あの日もこうして見上げていたな。"
+                                "\\n<Minato Neon>\\F[\\V[2]](...By the way, on that day too, we were\nlooking up like this. I see... It's only been ten\ndays since then...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうか……あれから十日しか経っていないのか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「たった十日で色々と変わってしまったな…」"
+                                ""
                             ]
                         },
                         {
@@ -11661,21 +11644,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "純粋に皆で音楽活動に\\r[邁進,まいしん]していた日々にはもう戻れないだろう。"
+                                "\\n<Minato Neon>\\F[\\V[2]] So many things have changed in just ten\ndays..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……園田さんとのちょっとしたやりとりで、"
+                                "We can no longer return to the days when we were\nall wholeheartedly devoted to our music activities\ntogether. And... thanks to a little exchange with\nSonoda-san, I am no longer constantly disturbed in\nmy heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いちいち心を乱されていた私はもういない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11699,7 +11699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -11716,7 +11716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]……失ったモノを想い一人感傷に浸る。"
+                                "\\n<Minato Neon>\\F[\\V[2]]... I immerse myself in melancholy,\nthinking about what I have lost."
                             ]
                         },
                         {
@@ -11742,7 +11742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……でも私は、それ以上の確かなモノを手に入れたんだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...But I have obtained something even\nmore certain.)"
                             ]
                         },
                         {
@@ -11759,7 +11759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そう……私には猛さんがいればいい…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Yes... As long as Takeru-san is with\nme...)"
                             ]
                         },
                         {
@@ -11814,7 +11814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……だから、過去の自分は全部此処へ置いていこう)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...That's why I'll leave my past self\nbehind here.)"
                             ]
                         },
                         {
@@ -16550,7 +16550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はふと立ち止まり振り返ると、彼と共に過ごした洋館を見上げた。"
+                                "I stopped and turned around, looking up at the\nWestern-style mansion we had spent time in\ntogether."
                             ]
                         },
                         {
@@ -16576,31 +16576,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……そういえば、あの日もこうして見上げていたな。"
+                                "\\n<Minato Neon>\\F[\\V[2]](...By the way, on that day too, we were\nlooking up like this. I see... It's only been ten\ndays since then...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうか……あれから十日しか経っていないのか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「たった十日で色々と変わってしまったな…」"
+                                ""
                             ]
                         },
                         {
@@ -16617,21 +16600,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "純粋に皆で音楽活動に\\r[邁進,まいしん]していた日々にはもう戻れないだろう。"
+                                "\\n<Minato Neon>\\F[\\V[2]] So many things have changed in just ten\ndays..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……園田さんとのちょっとしたやりとりで、"
+                                "We can no longer return to the days when we were\nall wholeheartedly devoted to our music activities\ntogether. And... thanks to a little exchange with\nSonoda-san, I am no longer constantly disturbed in\nmy heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いちいち心を乱されていた私はもういない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16655,7 +16655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -16672,7 +16672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]……失ったモノを想い一人感傷に浸る。"
+                                "\\n<Minato Neon>\\F[\\V[2]]... I immerse myself in melancholy,\nthinking about what I have lost."
                             ]
                         },
                         {
@@ -16698,7 +16698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……でも私は、それ以上の確かなモノを手に入れたんだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...But I have obtained something even\nmore certain.)"
                             ]
                         },
                         {
@@ -16715,7 +16715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そう……私には猛さんがいればいい…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Yes... as long as Takeru-san is with\nme...)"
                             ]
                         },
                         {
@@ -16770,7 +16770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……だから、過去の自分は全部此処へ置いていこう)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...That's why I'll leave my past self\nbehind here.)"
                             ]
                         },
                         {
@@ -17018,7 +17018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](猛さんが待ってる……駐車場へ向かおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Takeru-san is waiting... Let's head to\nthe parking lot)"
                             ]
                         },
                         {
@@ -17253,14 +17253,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……もう此処へ来る事はないだろう。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...I don't think I'll come here\nanymore. Even if Takeru-san orders me to, I don't\nwant to come...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "猛さんに命令されたとしても来たくはないな…)"
+                                ""
                             ]
                         },
                         {
@@ -17344,7 +17344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……車の前で猛さんが待ってる)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Takeru-san is waiting in front of\nthe car)"
                             ]
                         },
                         {
@@ -17567,7 +17567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はふと立ち止まり振り返ると、彼と共に過ごした洋館を見上げた。"
+                                "I stopped and turned around, looking up at the\nWestern-style mansion we had spent time in\ntogether."
                             ]
                         },
                         {
@@ -17593,31 +17593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……そういえば、あの日もこうして見上げていたな。"
+                                "\\n<Minato Neon>\\F[\\V[2]](...By the way, on that day too, we were\nlooking up like this. I see... It's only been ten\ndays since then...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうか……あれから十日しか経っていないのか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「たった十日で色々と変わってしまったな…」"
+                                ""
                             ]
                         },
                         {
@@ -17634,21 +17617,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "純粋に皆で音楽活動に\\r[邁進,まいしん]していた日々にはもう戻れないだろう。"
+                                "\\n<Minato Neon>\\F[\\V[2]] So many things have changed in just ten\ndays..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……園田さんとのちょっとしたやりとりで、"
+                                "We can no longer return to the days when we were\nwholeheartedly devoted to our music activities\ntogether. And... thanks to a little exchange with\nSonoda-san, I am no longer constantly disturbed in\nmy heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いちいち心を乱されていた私はもういない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17672,7 +17672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -17689,7 +17689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]……失ったモノを想い一人感傷に浸る。"
+                                "\\n<Minato Neon>\\F[\\V[2]]... I immerse myself in melancholy,\nthinking about what I have lost."
                             ]
                         },
                         {
@@ -17715,7 +17715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……でも私は、それ以上の確かなモノを手に入れたんだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...But I have obtained something even\nmore certain.)"
                             ]
                         },
                         {
@@ -17732,7 +17732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そう……私には猛さんがいればいい…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Yes... as long as Takeru-san is with\nme...)"
                             ]
                         },
                         {
@@ -17787,7 +17787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……だから、過去の自分は全部此処へ置いていこう)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...That's why I'll leave my past self\nbehind here.)"
                             ]
                         },
                         {
@@ -19223,7 +19223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はふと立ち止まり振り返ると、彼と共に過ごした洋館を見上げた。"
+                                "I stopped and turned around, looking up at the\nWestern-style mansion we had spent time in\ntogether."
                             ]
                         },
                         {
@@ -19249,31 +19249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……そういえば、あの日もこうして見上げていたな。"
+                                "\\n<Minato Neon>\\F[\\V[2]](...By the way, on that day too, we were\nlooking up like this. I see... It's only been ten\ndays since then...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうか……あれから十日しか経っていないのか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「たった十日で色々と変わってしまったな…」"
+                                ""
                             ]
                         },
                         {
@@ -19290,21 +19273,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "純粋に皆で音楽活動に\\r[邁進,まいしん]していた日々にはもう戻れないだろう。"
+                                "\\n<Minato Neon>\\F[\\V[2]] So many things have changed in just ten\ndays..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……園田さんとのちょっとしたやりとりで、"
+                                "We can no longer return to the days when we were\nall wholeheartedly devoted to our music activities\ntogether. And... thanks to a little exchange with\nSonoda-san, I am no longer constantly disturbed in\nmy heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いちいち心を乱されていた私はもういない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19328,7 +19328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -19345,7 +19345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]……失ったモノを想い一人感傷に浸る。"
+                                "\\n<Minato Neon>\\F[\\V[2]]... I immerse myself in melancholy,\nthinking about what I have lost."
                             ]
                         },
                         {
@@ -19371,7 +19371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……でも私は、それ以上の確かなモノを手に入れたんだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...But I have obtained something even\nmore certain.)"
                             ]
                         },
                         {
@@ -19388,7 +19388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そう……私には猛さんがいればいい…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Yes... As long as Takeru-san is with\nme...)"
                             ]
                         },
                         {
@@ -19443,7 +19443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……だから、過去の自分は全部此処へ置いていこう)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...That's why I'll leave my past self\nbehind here.)"
                             ]
                         },
                         {
@@ -19691,7 +19691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](猛さんの車だろうか？ 見るからに高そうだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is that Takeru-san's car? It looks\nexpensive.)"
                             ]
                         },
                         {
@@ -19775,7 +19775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](猛さんの車だろうか？ 見るからに高そうだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is that Takeru-san's car? It looks\nexpensive.)"
                             ]
                         },
                         {
@@ -19907,7 +19907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はふと立ち止まり振り返ると、彼と共に過ごした洋館を見上げた。"
+                                "I stopped and turned around, looking up at the\nWestern-style mansion that I had spent time in\nwith him."
                             ]
                         },
                         {
@@ -19933,31 +19933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……そういえば、あの日もこうして見上げていたな。"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Come to think of it, on that day too,\nI was looking up like this. I see... It's only\nbeen ten days since then...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうか……あれから十日しか経っていないのか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「たった十日で色々と変わってしまったな…」"
+                                ""
                             ]
                         },
                         {
@@ -19974,21 +19957,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "純粋に皆で音楽活動に\\r[邁進,まいしん]していた日々にはもう戻れないだろう。"
+                                "\\n<Minato Neon>\\F[\\V[2]] So many things have changed in just ten\ndays..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……園田さんとのちょっとしたやりとりで、"
+                                "We can no longer return to the days when we were\nall wholeheartedly devoted to our music activities\ntogether. And... thanks to a small exchange with\nSonoda-san, I am no longer constantly disturbed in\nmy heart."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いちいち心を乱されていた私はもういない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20012,7 +20012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -20029,7 +20029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]……失ったモノを想い一人感傷に浸る。"
+                                "\\n<Minato Neon>\\F[\\V[2]]... I immerse myself in melancholy,\nthinking about what I have lost."
                             ]
                         },
                         {
@@ -20055,7 +20055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……でも私は、それ以上の確かなモノを手に入れたんだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...But I have obtained something even\nmore certain.)"
                             ]
                         },
                         {
@@ -20072,7 +20072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そう……私には猛さんがいればいい…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Yes... If only Takeru-san was with\nme...)"
                             ]
                         },
                         {
@@ -20127,7 +20127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……だから、過去の自分は全部此処へ置いていこう)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...That's why I'll leave my past self\nbehind here.)"
                             ]
                         },
                         {
@@ -20375,7 +20375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](今は……これに乗って一人で帰りたくないな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Right now... I don't want to go home\nalone on this...)"
                             ]
                         },
                         {
@@ -20460,7 +20460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](今は……これに乗って一人で帰りたくないな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Right now... I don't want to go home\nalone on this...)"
                             ]
                         },
                         {
@@ -20544,7 +20544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……車の前で猛さんが待ってる)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Takeru-san is waiting in front of\nthe car)"
                             ]
                         },
                         {
@@ -20659,7 +20659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……車の前で猛さんが待ってる)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Takeru-san is waiting in front of\nthe car)"
                             ]
                         },
                         {
@@ -20774,7 +20774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……車の前で猛さんが待ってる)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Takeru-san is waiting in front of\nthe car)"
                             ]
                         },
                         {
@@ -20889,7 +20889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……車の前で猛さんが待ってる)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Takeru-san is waiting in front of\nthe car)"
                             ]
                         },
                         {
@@ -21023,7 +21023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「忘れ物はないかァい？ なけりゃあ出発するぞォ」"
+                                "\\n<Udo Takeru>Do you have anything you forgot? If not, let's\ndepart."
                             ]
                         },
                         {
@@ -21031,8 +21031,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…出発する。",
-                                    "…まだ戻らない。"
+                                    "Let's depart",
+                                    "I'm not coming back yet"
                                 ],
                                 1,
                                 0,
@@ -21062,14 +21062,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あぁ、お前のバイクは後で自宅に送らそう。"
+                                "\\n<Udo Takeru>Ah, I'll send your bike to your house later, just\nin case. Should I hold onto the keys for you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "念の為、キーは預かっておくぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -21086,7 +21086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「はい、よろしくお願いします」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Yes, please take care of\nme."
                             ]
                         },
                         {
@@ -21136,7 +21136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「何だァ？ 忘れ物かァ？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] What is it? Did you\nforget something?"
                             ]
                         },
                         {
@@ -21240,7 +21240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「忘れ物はないかァい？ なけりゃあ出発するぞォ」"
+                                "\\n<Udo Takeru>Do you have any forgotten items? If not, let's\ndepart."
                             ]
                         },
                         {
@@ -21248,8 +21248,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…出発する。",
-                                    "…まだ戻らない。"
+                                    "Let's depart",
+                                    "I haven't returned yet"
                                 ],
                                 1,
                                 0,
@@ -21279,14 +21279,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「あぁ、お前のバイクは後で自宅に送らそう。"
+                                "\\n<Udo Takeru>Ah, I'll send your bike to your house later. Just\nin case, should I hold onto the key?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "念の為、キーは預かっておくぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -21303,7 +21303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「はい、よろしくお願いします」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] Yes, please take care\nof me."
                             ]
                         },
                         {
@@ -21353,7 +21353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「何だァ？ 忘れ物かァ？」"
+                                "\\n<Udo Takeru>What's up? Did you forget something?"
                             ]
                         },
                         {
@@ -21443,14 +21443,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そういや朝から何も食ってなかったなァ…。"
+                                "\\n<Udo Takeru>Come to think of it, I haven't eaten anything\nsince morning... When I get to town, I'll just\ngrab something to eat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "町に降りたら適当に食っていくかァ」"
+                                ""
                             ]
                         },
                         {
@@ -21479,7 +21479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「何か食いたいモンとかあるかァ？」"
+                                "\\n<Udo Takeru>Is there something you want to eat?"
                             ]
                         },
                         {
@@ -21496,7 +21496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「いえ……猛さんに任せます」"
+                                "\\n<Minato Neon>No... I'll leave it to you, Takeru-san."
                             ]
                         },
                         {
@@ -21513,7 +21513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「おーけぇ、んじゃけぇンべぇ♪」"
+                                "\\n<Udo Takeru>Alright then, let's go♪"
                             ]
                         },
                         {
@@ -21554,21 +21554,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "As our car gradually increased its speed, we moved\naway from the mansion. However... I didn't look\nback anymore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私達が乗る車が徐々に速度を増しながら洋館から離れていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが……私はもう振り返る事は無かった。"
+                                ""
                             ]
                         },
                         {
@@ -21585,21 +21585,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#... Because I thought that if I looked back, I\nwould start to hesitate. That's why, this is...\nwhat you might call a declaration of\ndetermination."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#…振り返ってしまったら迷いが生まれると思ったから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だから、これは……いわゆる決意表明みたいなものだ。"
+                                ""
                             ]
                         },
                         {
@@ -21616,21 +21616,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#I will live with this person. In whatever form\nit may be, \\#I wanted to do so... No, I desired to\ndo so."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は、この男と生きていく。 それがどんな形であれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#私はそうすると……いや、そうしたいと望んだのだ。"
+                                ""
                             ]
                         },
                         {
@@ -21647,21 +21647,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "It would be a lie to say that \\# had no worries.\nHowever... I firmly kept my eyes forward and never\nwavered."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#不安が無いと言えば嘘になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが……私の目はしっかりと前を見据え、決して揺るがなかった。"
+                                ""
                             ]
                         },
                         {
@@ -21697,21 +21697,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "And so... my acting training camp, which lasted\nfor about ten days, came to an end----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#こうして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#約十日間に及ぶ、私の演技合宿は幕を閉じたのだった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -21728,14 +21728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#.................."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#………………"
+                                ""
                             ]
                         },
                         {
@@ -21752,14 +21752,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#............"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#…………"
+                                ""
                             ]
                         },
                         {
@@ -21776,14 +21776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……"
+                                ""
                             ]
                         },
                         {
@@ -21800,14 +21800,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "And so, time passed----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#そして、時は流れ――――…"
+                                ""
                             ]
                         },
                         {
@@ -22241,7 +22241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](猛さんの車だろうか？ 見るからに高そうだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is that Takeru-san's car? It looks\nexpensive.)"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 30
     },
     "disableDashing": false,
-    "displayName": "隠し部屋",
+    "displayName": "Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1841,7 +1841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「……あれ？」"
+                                "\\n<Minato Neon>\\F[\\V[2]] ...Huh?"
                             ]
                         },
                         {
@@ -1865,7 +1865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](此処にもいない……まだ来ていないのか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (They're not here either... Have they\nnot arrived yet?)"
                             ]
                         },
                         {
@@ -1882,7 +1882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -1899,7 +1899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](探しに行って入れ違いになるものアレだし、此処で待つか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Since it would be a hassle to go\nsearching and miss each other, should I wait\nhere...)"
                             ]
                         },
                         {
@@ -2048,7 +2048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](壁だった所が通路になってる…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The wall has turned into a passage...)"
                             ]
                         },
                         {
@@ -2072,7 +2072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -2089,7 +2089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……先に進めという事か？ まぁ、恐らくそうなんだろうな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...So, I should proceed forward? Well,\nmost likely that's the case...)"
                             ]
                         },
                         {
@@ -2257,14 +2257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……これは何だ？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...What is this? There's a small\nhemispherical metal pole with scattered\nirregularities.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "小さな半球状の凹凸が散りばめられた金属製のポールが立っている)"
+                                ""
                             ]
                         },
                         {
@@ -2348,14 +2348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](撮影用のカメラだな……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's a camera for shooting... Could it\nbe that we're using this to film that video?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……まさかこれを使って例の動画の撮影を？)"
+                                ""
                             ]
                         },
                         {

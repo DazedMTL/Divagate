@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "客室 ～テラス～",
+    "displayName": "Guest Room ~Terrace~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4825,14 +4825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ 気のせいか？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (... Huh? Is it just my imagination? It\nfeels like someone is watching me...! No, maybe\nI'm just being paranoid...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かに見られているような……\\!いや、気にし過ぎか…)"
+                                ""
                             ]
                         },
                         {
@@ -4849,14 +4849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](デビューしてからというもの人の視線に対し、"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Since my debut, I might have become a\nlittle sensitive to people's gazes...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し過敏になっているのかもしれないな……)"
+                                ""
                             ]
                         },
                         {
@@ -5098,14 +5098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](世界が赤く包まれていく……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The world is enveloped in red... Ah, I\nfeel like I could compose a song right away...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、今なら速攻で一曲作れそうなのに…)"
+                                ""
                             ]
                         },
                         {
@@ -5189,14 +5189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](世界が赤く包まれていく……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The world is enveloped in red... Ah, I\nfeel like I could compose a song right away...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、今なら速攻で一曲作れそうなのに…)"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館３F ～宇堂の部屋～",
+    "displayName": "West Building 3F ~Udo's Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4281,7 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](\\C[2]モニタールーム\\C[0]へは、逆側のドアを進んだ先だ)"
+                                "\\n<Sonoda Kohei>\\F[62](\\C[2]The monitor room\\C[0] is located just\nbeyond the door on the opposite side)"
                             ]
                         },
                         {
@@ -4841,14 +4841,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](よし……収穫もあった事だし、"
+                                "\\n<Sonoda Kohei>Alright... Since we've made some progress, let's\ngo back to the monitoring room \\C[2] and check the\nsituation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "様子を見に一度\\C[2]モニタールーム\\C[0]へ戻るか)"
+                                ""
                             ]
                         },
                         {
@@ -4875,14 +4875,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](……特にこれといった収穫も無かったけど、"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (...Although we didn't have\nany significant findings, let's go back to the\nmonitoring room \\C[2]\\C[0] and check the\nsituation.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "様子を見に一度\\C[2]モニタールーム\\C[0]へ戻るか)"
+                                ""
                             ]
                         },
                         {
@@ -5073,7 +5073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](ん……鍵が掛かっている。 ここは何の部屋だ…)"
+                                "\\n<Sonoda Kohei>\\F[62] (Hmm... the door is locked. What kind of\nroom is this?)"
                             ]
                         },
                         {
@@ -5102,7 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[62]マスターキーを使い開錠した。"
+                                "Sonoda Kohei: \\F[62] unlocked the door using the\nmaster key."
                             ]
                         },
                         {
@@ -5277,7 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……今は戻りたくない)"
+                                "\\n<Sonoda Kohei>\\F[62](...I don't want to go back now)"
                             ]
                         },
                         {
@@ -5376,7 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……気分が悪くなる。 此処は止めておこう)"
+                                "\\n<Sonoda Kohei>\\F[62] (...I'm starting to feel sick. Let's stop\nhere.)"
                             ]
                         },
                         {
@@ -5475,7 +5475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](ん……鍵が掛かっている。 ここは何の部屋だ…)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (Hmm... the door is locked.\nWhat kind of room is this?)"
                             ]
                         },
                         {
@@ -5492,31 +5492,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「そこは……\\C[2]コレクションルーム\\C[0]です。"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] That place is... a collection\nroom\\C[0]. It might offend your sensibilities...\n\\C[2]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "恐らく気分を害するかと…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「えっと……どういう事かな？」"
+                                ""
                             ]
                         },
                         {
@@ -5533,14 +5516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「中には……宇堂監督がこれまでに手を掛けた女性達の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裸身を模した蝋人形が多数置かれています」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Um... I wonder what's going\non?"
                             ]
                         },
                         {
@@ -5557,7 +5533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「彼女達の名誉の為にも、どうか……その…」"
+                                "\\n<Sawa>Inside... there are many wax figures that resemble\nthe naked bodies of the women Udo Takeru has\nworked with before."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5574,7 +5557,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「そういう事か……分かった、此処は止めておこう」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] For the sake of their honor,\nplease... um..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] I see... I understand, let's\nstop here."
                             ]
                         },
                         {
@@ -5714,14 +5714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](……止めておこう。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (...Let's stop. As a man, I\nshouldn't intrude.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "男の僕は立ち入ってはいけない)"
+                                ""
                             ]
                         },
                         {
@@ -5889,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](中は……これといって目ぼしい物は無いか)"
+                                "\\n<Sonoda Kohei>(Is there anything noteworthy inside?)"
                             ]
                         },
                         {
@@ -6710,7 +6710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](何だコレは……怪しい液体の詰まったボトルが置かれている)"
+                                "\\n<Sonoda Kohei>What is this... a bottle filled with suspicious\nliquid is placed here."
                             ]
                         },
                         {
@@ -6787,7 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……ずぼらそうに見えて、思いのほか綺麗に整頓されているな)"
+                                "\\n<Sonoda Kohei>(......Despite looking sloppy, it's surprisingly\nwell organized.)"
                             ]
                         },
                         {
@@ -6864,7 +6864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……ずぼらそうに見えて、思いのほか綺麗に整頓されているな)"
+                                "\\n<Sonoda Kohei>(......Despite looking sloppy, it's surprisingly\nwell organized.)"
                             ]
                         },
                         {
@@ -6941,14 +6941,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](高そうなソファだ……。"
+                                "\\n<Sonoda Kohei>This sofa looks expensive... But more importantly,\nthis room is completely different from the room\nthat was assigned to me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それよりも此処は……僕に\\r[宛,あて]がわれた部屋とは大違いだな)"
+                                ""
                             ]
                         },
                         {

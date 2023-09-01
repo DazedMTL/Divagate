@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浴場施設",
+    "displayName": "Bathing facility",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6860,14 +6860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](結局、抜かずの二連発しちまったぜ……。"
+                                "\\n<Udo Takeru>In the end, I couldn't hold back and released\ntwice... I'm still young, huh?♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラもまだまだ若いねぇ♪)"
+                                ""
                             ]
                         },
                         {
@@ -6884,7 +6884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]](ま、スッキリした事だし明日に備えて今日は休むかねぇ～♪)"
+                                "\\n<Udo Takeru>Well, since I feel refreshed now, maybe I'll take\na break today to prepare for tomorrow~♪"
                             ]
                         },
                         {
@@ -6908,7 +6908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「はぁっ、はぁっ……ンっ……んぁァァ…」"
+                                "\\n<Minato Neon>\\{Haa... haa... n... nghhh...}"
                             ]
                         },
                         {
@@ -6932,14 +6932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「おォ～い、いつまでも寝てると風邪ひくぞォ？"
+                                "\\n<Udo Takeru>Hey~ If you keep sleeping forever, you'll catch a\ncold, you know? Well then, I'll head back first,\nokay? Take care~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んじゃ、オイラは先に戻るからなァ？ おつかれちゃ～ん♪」"
+                                ""
                             ]
                         },
                         {
@@ -7058,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ッ……わたしはまた……ぐっ……うぅ…」"
+                                "\\n<Minato Neon>\\{Ugh... I... again... guh... ugh...}"
                             ]
                         },
                         {
@@ -7117,14 +7117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "And so, the night of the sixth day grew late..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#こうして六日目の夜は更けていった…。"
+                                ""
                             ]
                         },
                         {

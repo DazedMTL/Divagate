@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "♪ 憂い",
+    "displayName": "♪ Melancholy",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1765,14 +1765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](食堂の管理は犬共に任せてあっから、"
+                                "\\n<Udo Takeru>Since I leave the cafeteria management to those\ndogs, to be honest... I have no idea where\nanything is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶっちゃけ……何がどこにあるのか分かってねぇンだわ)"
+                                ""
                             ]
                         },
                         {
@@ -1863,7 +1863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](使われた形跡があるな。 犬共はコレ使って調理してたンか…)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (There are traces of it\nbeing used. Did those dogs use this for cooking?)"
                             ]
                         },
                         {
@@ -1954,7 +1954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](\\r[薪,まき]だな……オール電化のこの時代に…)"
+                                "\\n<Udo Takeru>Firewood, huh... in this era of all-\nelectricity..."
                             ]
                         },
                         {
@@ -2045,7 +2045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](おっ♪ コレは…)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Oh... this is...)"
                             ]
                         },
                         {
@@ -2074,7 +2074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]ばいあぐりゃー\\C[0]を手に入れた！"
+                                "I got my hands on some Viagra!"
                             ]
                         },
                         {
@@ -2174,7 +2174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](……チッ、一本だけかよ)"
+                                "\\n<Udo Takeru>(......Tch, just one?)"
                             ]
                         },
                         {
@@ -2265,14 +2265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](食堂の管理は犬共に任せてあっから、"
+                                "\\n<Udo Takeru>Since I leave the cafeteria management to those\ndogs, honestly... I have no idea where anything\nis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぶっちゃけ……何がどこにあるのか分かってねぇンだわ)"
+                                ""
                             ]
                         },
                         {
@@ -2749,31 +2749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あ～、いいね！ いいね！ 良い表情だねっ！"
+                                "\\n<Udo Takeru>Ah~ That's great! That's great! You have a nice\nexpression. Finally, you're starting to have a\nnatural smile~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ようやく自然な感じの笑顔になってきたよォ～♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……どうして、いまさら水着でなんて…」"
+                                ""
                             ]
                         },
                         {
@@ -2790,14 +2773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "散々、恥ずかしい写真やら動画やらを撮られた音々からしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然の疑問だ。"
+                                "\\n<Minato Neon>...Why are you suddenly in a swimsuit..."
                             ]
                         },
                         {
@@ -2814,45 +2790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「映画のパンフ内のグラビアページに必要なんだよォ♪"
+                                "From Neon, who has been subjected to embarrassing\nphotos and videos countless times, it's only\nnatural for her to have this question."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "主演女優の…ってあれ？ 知らない？ 割と有名な話なんだけど…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラが撮る映画のパンフレットには他とは違った趣向があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは……主演女優によるグラビアページが存在するのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラ自ら撮っている事はオフレコだが。"
+                                ""
                             ]
                         },
                         {
@@ -2869,21 +2814,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "“品が無い”とか“女性軽視”だとか\\r[宣,のたま]うアンチも多いが、"
+                                "\\n<Udo Takeru>It's necessary for the gravure page in the movie\npamphlet, you know~♪ The lead actress... huh? You\ndon't know? It's a pretty famous story, though..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一定の層からは絶大な人気を博している名物企画となっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ……撮られる本人が承諾している以上、何も問題はない。"
+                                ""
                             ]
                         },
                         {
@@ -2900,7 +2838,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「グラビアページ……そんな話、聞いてない…」"
+                                "There was a unique twist in the movie pamphlet\nthat I'm shooting. It is... the existence of a\ngravure page by the lead actress. Although it's\noff the record that I'm personally taking the\nphotos."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2917,7 +2869,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「今更、お前の了承とか必要かァ？」"
+                                "There are many critics who say it lacks class or\nthat it objectifies women, but it has become a\npopular special project that has gained immense\npopularity among a certain audience. Well... as\nlong as the person being photographed has given\ntheir consent, there shouldn't be any problem."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2934,7 +2900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……ッ…」"
+                                "\\n<Minato Neon>Gravure page... I haven't heard about that..."
                             ]
                         },
                         {
@@ -2951,14 +2917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(この通り…主演女優は既に“犬化”済で、断る事は当然出来ない♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして……出来上がったパンフは、かなりの利益をもたらす)"
+                                "\\n<Udo Takeru>Do I really need your consent at this point?"
                             ]
                         },
                         {
@@ -2975,14 +2934,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(そりゃ、絶対にグラビア写真集とか出さない様なアイドルやら"
+                                "\\n<Minato Neon>...uh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女優の際どい水着姿が見れるんだ、万冊単位で売れるのは当然だ♪)"
+                                "\\n<Udo Takeru>(As you can see... the lead actress has already\nbeen dogified and can't refuse♪ And... the\nfinished pamphlet will bring in quite a profit)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>(Of course, you can see the daring swimsuit\nfigures of idols and actresses who would never\nrelease a gravure photo book. It's only natural\nthat they sell in the tens of thousands♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3061,38 +3061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(つーか、こんな水着姿に金を落とすンだもんなァ……。"
+                                "\\n<Udo Takeru>(Well, to think that people would spend money on\nsuch swimsuit figures... From my perspective,\nwhere I have unlimited access and can use them as\nI please, it's just pitiful...) It's just pitiful\nfrom my perspective where I have unlimited access\nand can use them as I please...) It's just pitiful\nfrom my perspective where I have unlimited access\nand can use them as I please...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見放題、使い放題なオイラからしたら哀れで仕方ねぇ…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(おっと、いけねぇ……上客様に向かってそれはねぇよなァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優越感を与えてくれる上に懐を潤してくれるンだからよォ♪)"
+                                ""
                             ]
                         },
                         {
@@ -3109,7 +3085,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「お、おい……ちょっと近い…」"
+                                "\\n<Udo Takeru>(Oops, that's not good... It's not something you\nshould say to our esteemed customers, you know~♪\nIt gives them a sense of superiority and fills\ntheir pockets, after all♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3126,14 +3109,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「いや、音々といったら乳だろう？"
+                                "\\n<Minato Neon>H-Hey... you're getting a little too close..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オイラは全国の非モテ男子の期待に応えなきゃならンのよォ♪」"
+                                "\\n<Udo Takeru>Well, when it comes to Neon, it's all about her\nbreasts, right? I have to meet the expectations of\nall the unpopular guys across the country, you\nknow~♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3176,38 +3176,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\r[窮屈,きゅうくつ]そうに水着へと収まる音々の乳を間近で撮っていく。"
+                                "Minato Neon's breasts, which seem to be cramped,\nare being captured up close in swimsuits. It's\nsuch a dirty scene that even I can't help but bend\nforward, right? I have no choice but to take it\nfor our esteemed customers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラでさえ思わず前屈みになってしまう程のドエロい光景だし？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "上客様達の為に撮らざるを得ンだろ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……どうして男って奴は…」"
+                                ""
                             ]
                         },
                         {
@@ -3224,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「総じて、男は皆おっぱいが大好きだからなァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々のモノとなると“オカズ”にしてきた連中も多いだろうしなァ」"
+                                "\\n<Minato Neon>Ugh... Why are guys like this..."
                             ]
                         },
                         {
@@ -3248,7 +3224,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「おかず…\\!――――ッ？！」"
+                                "\\n<Udo Takeru>In general, guys love breasts, you know~♪\nEspecially when it comes to Neon, there are\nprobably many who have used her as their\n'material' for self-pleasure."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>Side dish...?! What?!"
                             ]
                         },
                         {
@@ -3301,7 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オカズの意味を理解した音々の笑顔が僅かに引きつる。"
+                                "Neon's smile, understanding the meaning of\n'material', slightly twitches."
                             ]
                         },
                         {
@@ -3318,31 +3318,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「この写真が載ったパンフだって、“それ”目的で購入する連中が"
+                                "\\n<Udo Takeru>I think most people buy this pamphlet for the\npurpose of seeing these photos, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほとんどだと思うぞ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ、最低……最悪の気分だ…」"
+                                ""
                             ]
                         },
                         {
@@ -3359,14 +3342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そういうモンか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女にオカズにされたら、オイラは嬉しいけどなァ♪」"
+                                "\\n<Minato Neon>Ugh, the worst... I feel absolutely terrible..."
                             ]
                         },
                         {
@@ -3383,7 +3359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "腰を突き上げ、怒張したチンポを音々へと見せつける。"
+                                "\\n<Udo Takeru>Is that how it is? If I become a material for\nwomen, I wouldn't mind at all♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3400,21 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あ～……例えばだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数万人の女がこのチンポをオカズにオナニーをしたとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはつまり、数万人の女がこのチンポを求めてるって訳だ」"
+                                "Thrusting his hips, he proudly displays his erect\npenis to Neon."
                             ]
                         },
                         {
@@ -3431,31 +3400,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「それだけの数の女に望まれるチンポを有しているンだぞ？"
+                                "\\n<Udo Takeru>Ahh... for example. Let's say tens of thousands of\nwomen masturbate to this dick as their material.\nThat means, in other words, tens of thousands of\nwomen are craving this dick."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嬉しいを通り越して、男として誇らしくもなるだろう」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「それは、まぁ……何となく言ってる事は分かるが……でも…」"
+                                ""
                             ]
                         },
                         {
@@ -3472,14 +3431,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「音々の場合、たとえ話ではなく確実にオナニーされるだろう。"
+                                "\\n<Udo Takeru>Having a dick that is desired by such a large\nnumber of women, you know? It goes beyond being\nhappy, it's something to be proud of as a man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それこそ数万単位の男共になァ」"
+                                ""
                             ]
                         },
                         {
@@ -3496,7 +3455,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……嘘……私なんかの水着姿で…」"
+                                "\\n<Minato Neon>Well, um... I kind of understand what you're\nsaying, but..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>In Neon's case, without a doubt, she would\ndefinitely be masturbated to. I'm talking about\ntens of thousands of guys."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>N-No... You're kidding... Seeing me in a\nswimsuit..."
                             ]
                         },
                         {
@@ -3531,7 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「それは女の生乳すら見た事が無い、童貞男子○校生だったり…」"
+                                "\\n<Udo Takeru>That's like a virgin high school boy who has never\neven seen a woman's bare breasts..."
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「粗チンが唯一の悩みの、イケボマッチョな大学生だったり…」"
+                                "\\n<Udo Takeru>I'm a deep-voiced muscular college student with a\nsmall dick as my only worry..."
                             ]
                         },
                         {
@@ -3601,7 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「身内以外の女と数年会話した事が無い、ヒキニートだったり…」"
+                                "\\n<Udo Takeru>I haven't had a conversation with a woman other\nthan my family for years, I'm a shut-in..."
                             ]
                         },
                         {
@@ -3636,7 +3636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「パリピだがまったく女にモテない、生粋のオナニストだったり…」"
+                                "\\n<Udo Takeru>I may be a party-goer, but I'm completely\nunpopular with women, a pure masturbator..."
                             ]
                         },
                         {
@@ -3671,7 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「嫁マンコに飽きてしまったが、浮気する度胸も無い男だったり…」"
+                                "\\n<Udo Takeru>I got tired of my wife's pussy, but I'm also a man\nwithout the courage to cheat..."
                             ]
                         },
                         {
@@ -3706,7 +3706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「チン毛すら生え\\r[揃,そろ]ってない、包茎チンポな男子○学生だったり…」"
+                                "\\n<Udo Takeru>I'm a male high school student with not even a\nsingle pubic hair grown, and I have a foreskin-\ncovered penis..."
                             ]
                         },
                         {
@@ -3759,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……………」"
+                                "\\n<Minato Neon>「...............」"
                             ]
                         },
                         {
@@ -3776,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一転して音々の表情からは笑みが消え、見るからに曇り始める。"
+                                "Neon's expression suddenly changes, and the smile\ndisappears, becoming cloudy."
                             ]
                         },
                         {
@@ -3793,38 +3793,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「音々に触れるどころか言葉を交わす事すら叶わないからなァ……。"
+                                "\\n<Udo Takeru>I can't even touch Neon, let alone have a\nconversation with her... I'm sure all the guys are\nfantasizing about doing whatever they want with\nher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きっと男共の頭の中ではヤリたい放題だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「恋人設定や定番の幼馴染。 夫婦、姉弟エトセトラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありとあらゆる妄想を駆使して、その水着を剥がしにくるぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -3841,7 +3817,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……ッ……」"
+                                "\\n<Udo Takeru>Using various fantasies like setting her as a\nlover or a typical childhood friend, husband and\nwife, siblings, etc., I will strip off that\nswimsuit, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3858,7 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(んふふ……剥がされる様を想像してるなァ？)"
+                                "\\n<Minato Neon>...huh..."
                             ]
                         },
                         {
@@ -3875,14 +3858,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オイラは音々に近づくと、無防備に突き上げられた乳の中央にある"
+                                "\\n<Udo Takeru>(Nfufu... Are you imagining being stripped?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リング状の金具へと指を差し込み、水着を一気に引き抜いた。"
+                                "I approached Neon and boldly inserted my finger\ninto the ring-shaped metal fitting in the center\nof her defenseless breasts, and swiftly pulled off\nher swimsuit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4009,7 +4009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……あァ…」"
+                                "\\n<Minato Neon>Huh... Ahh..."
                             ]
                         },
                         {
@@ -4026,14 +4026,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "圧迫され続けていた鬱憤を晴らすかの様に、音々の美しい生乳が"
+                                "Neon's beautiful bare breasts burst out as if to\nrelease the pent-up frustration that had been\npressing on her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "派手に弾け出される。"
+                                ""
                             ]
                         },
                         {
@@ -4122,38 +4122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「こんな風に音々の生乳が暴かれちゃうんだぞォ♪"
+                                "\\n<Udo Takeru>Neon's bare breasts are exposed like this, you\nknow? And not just that, they're exposed to the\nhands of tens of thousands of men, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それも何万という男共の手によってなァ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そしたら欲望のままに揉みに揉みまくられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな可愛い乳首なんか変色するまでチューチュー吸われまくりだ」"
+                                ""
                             ]
                         },
                         {
@@ -4170,7 +4146,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「そんな……だめ……そんなの嫌…」"
+                                "\\n<Udo Takeru>And then, they'll be groped and sucked on to their\nheart's content, until these cute nipples of hers\nchange color from being sucked on so much."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4187,14 +4170,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そうやって嫌がったところで、男共は止まらない。"
+                                "\\n<Minato Neon>No... that's no good... I don't want that..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粗末なモンを音々にブチ込み、果てるまで使い倒される事になる」"
+                                "\\n<Udo Takeru>Even if she resists like that, the guys won't\nstop. They'll use and abuse her with cheap tricks\nuntil they're satisfied."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4391,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……\\I[12] 絶対ダメ……私は宇堂監督の…\\!――――ッ？！」"
+                                "\\n<Minato Neon>N-No... \\I[12], absolutely not... I am Udo's...!\nHuh?!"
                             ]
                         },
                         {
@@ -4408,31 +4408,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「宇堂監督の？ 何だ言ってみろ？"
+                                "\\n<Udo Takeru>Udo's what? What are you trying to say? If you can\nsay it, I'll give you this \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それが言えたらコイツをくれてやるぞ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポを揺らし再び音々へと見せつける。"
+                                ""
                             ]
                         },
                         {
@@ -4449,7 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「そんな……あァ……凄いおっきくなってる……ッ……でも…」"
+                                "I swing my dick and show it to Neon again."
                             ]
                         },
                         {
@@ -4466,14 +4449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……言えないなら撮影再開だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水着を付けて次のポーズをとってくれ」"
+                                "\\n<Minato Neon>That... Ahh... It's gotten so big... But..."
                             ]
                         },
                         {
@@ -4490,14 +4466,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オイラは手にした水着を音々の足元へと投げ捨て、"
+                                "\\n<Udo Takeru>...If you can't say it, then let's resume the\nshoot. Put on your swimsuit and take the next\npose."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "元居た椅子へと腰を掛け再びスマホを構える。"
+                                ""
                             ]
                         },
                         {
@@ -4514,7 +4490,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ！？ わ、分かった言うから……そんな意地悪をしないでくれ…」"
+                                "I threw the swimsuit I had in my hand at Neon's\nfeet and sat back on the chair I was originally\nin, holding my smartphone again."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>Huh?! F-Fine, I'll say it... just please don't be\nso mean..."
                             ]
                         },
                         {
@@ -4555,172 +4555,172 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "音々は最後の一枚を脱ぎ捨て、椅子に座るオイラへと歩み寄る。"
+                                "Minato Neon takes off the last piece of clothing\nand walks towards me, who is sitting on the chair.\nAnd... she looks straight into my eyes and opens\nher mouth."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして……真っ直ぐオイラの目を見つめ、その口を開いた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「私は宇堂監督のモノだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、妄想でも他の男となんて嫌だ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ククッ……よく言えましたァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ、お前の全てはオイラのモンだ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妄想すら許してもらえない男共を哀れに思いながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その存在に感謝する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラを引き立てる為に生まれてきてくれてありがとう……と。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「なァ、公開初日の夜はオナニーに勤しむ男共を余所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朝までセックスしまくろうなァ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「うん……それでいいからァ\\I[12] ねぇ、もういいでしょ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラが頷くのを確認すると、音々は下腹部へと跨り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慣れた手つきでチンポを股座へと添える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!\\SE[音々喘ぎ06]そして……歓喜の艶声と共に、音々はその腰を落とした―――…。"
+                                "\\n<Minato Neon>I belong to Director Udo... so, even in fantasies,\nI don't want to be with any other man..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>Heheh... Well said♪ That's right, everything about\nyou belongs to me\\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Thank you for being born to support me, even\nthough I pity those men who can't even have their\nfantasies allowed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>Hey, let's forget about those guys who are busy\nmasturbating on the first night of the release and\nhave sex all night long until morning, \\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>Yeah... that's enough, \\I[12]. Hey, isn't it\nalready okay..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "  After confirming my nod, Neon straddles my lower\nabdomen and skillfully places her hand on my\npenis, guiding it towards her crotch. She moans\nand... with a voice filled with ecstasy, Neon\nlowers her hips---..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5265,31 +5265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あ～、いいね！ いいね！ 良い表情だねっ！"
+                                "\\n<Udo Takeru>Ah~ That's great! That's great! You have a nice\nexpression. Finally, you're starting to have a\nnatural smile~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ようやく自然な感じの笑顔になってきたよォ～♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……どうして、いまさら水着でなんて…」"
+                                ""
                             ]
                         },
                         {
@@ -5306,14 +5289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "散々、恥ずかしい写真やら動画やらを撮られた音々からしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然の疑問だ。"
+                                "\\n<Minato Neon>...Why are you suddenly in a swimsuit..."
                             ]
                         },
                         {
@@ -5330,45 +5306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「映画のパンフ内のグラビアページに必要なんだよォ♪"
+                                "It's only natural for Neon, who has been subjected\nto embarrassing photos and videos, to have this\nquestion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "主演女優の…ってあれ？ 知らない？ 割と有名な話なんだけど…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラが撮る映画のパンフレットには他とは違った趣向があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは……主演女優によるグラビアページが存在するのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラ自ら撮っている事はオフレコだが。"
+                                ""
                             ]
                         },
                         {
@@ -5385,21 +5330,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "“品が無い”とか“女性軽視”だとか\\r[宣,のたま]うアンチも多いが、"
+                                "\\n<Udo Takeru>It's necessary for the gravure page in the movie\npamphlet, you know~♪ The leading actress... huh?\nYou don't know? It's a pretty famous story,\nthough..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一定の層からは絶大な人気を博している名物企画となっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ……撮られる本人が承諾している以上、何も問題はない。"
+                                "What I personally film is off the record, though."
                             ]
                         },
                         {
@@ -5416,7 +5385,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「グラビアページ……そんな話、聞いてない…」"
+                                "There are many critics who say it lacks class or\nthat it objectifies women, but it has become a\npopular special project among a certain group of\npeople. Well... as long as the person being filmed\nhas given their consent, there shouldn't be any\nproblems."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5433,7 +5416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「今更、お前の了承とか必要かァ？」"
+                                "\\n<Minato Neon>Gravure page... I haven't heard about that..."
                             ]
                         },
                         {
@@ -5450,7 +5433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……ッ…」"
+                                "\\n<Udo Takeru>Do I really need your consent at this point?"
                             ]
                         },
                         {
@@ -5467,14 +5450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(この通り…主演女優は既に“犬化”済で、断る事は当然出来ない♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして……出来上がったパンフは、かなりの利益をもたらす)"
+                                "\\n<Minato Neon>...uh..."
                             ]
                         },
                         {
@@ -5491,14 +5467,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(そりゃ、絶対にグラビア写真集とか出さない様なアイドルやら"
+                                "\\n<Udo Takeru>(As you can see... the leading actress has already\nbeen dogified and can't refuse♪ And... the\nfinished pamphlet will bring in quite a profit)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女優の際どい水着姿が見れるんだ、万冊単位で売れるのは当然だ♪)"
+                                "\\n<Udo Takeru>(Of course, you can see the daring swimsuit\nfigures of idols and actresses who would never\nrelease a gravure photo book. It's only natural\nthat they sell in the tens of thousands♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5577,38 +5577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(つーか、こんな水着姿に金を落とすンだもんなァ……。"
+                                "\\n<Udo Takeru>(Well, to think that people would spend money on\nsuch swimsuit figures... From my perspective,\nwhere I can see them anytime and use them as I\nplease, it's just pitiful...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見放題、使い放題なオイラからしたら哀れで仕方ねぇ…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(おっと、いけねぇ……上客様に向かってそれはねぇよなァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優越感を与えてくれる上に懐を潤してくれるンだからよォ♪)"
+                                ""
                             ]
                         },
                         {
@@ -5625,7 +5601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「お、おい……ちょっと近い…」"
+                                "\\n<Udo Takeru>(Oops, that's not good... Saying that to our\nesteemed customers, huh?♪ It gives them a sense of\nsuperiority and fills their pockets, you know♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5642,14 +5625,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「いや、音々といったら乳だろう？"
+                                "\\n<Minato Neon>O-Oh... you're a little too close..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オイラは全国の非モテ男子の期待に応えなきゃならンのよォ♪」"
+                                "\\n<Udo Takeru>Well, when it comes to Neon, it's all about her\nbreasts, right? I have to meet the expectations of\nall the unpopular guys across the country, you\nknow♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5692,38 +5692,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\r[窮屈,きゅうくつ]そうに水着へと収まる音々の乳を間近で撮っていく。"
+                                "Minato Neon's breasts, which seem to be cramped in\nthe swimsuit, are being captured up close. It's\nsuch a dirty scene that even I can't help but bend\nforward, right? I have no choice but to take it\nfor our esteemed customers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラでさえ思わず前屈みになってしまう程のドエロい光景だし？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "上客様達の為に撮らざるを得ンだろ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……どうして男って奴は…」"
+                                ""
                             ]
                         },
                         {
@@ -5740,14 +5723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「総じて、男は皆おっぱいが大好きだからなァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々のモノとなると“オカズ”にしてきた連中も多いだろうしなァ」"
+                                "\\n<Minato Neon>Ugh... why are guys like this..."
                             ]
                         },
                         {
@@ -5764,7 +5740,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「おかず…\\!――――ッ？！」"
+                                "\\n<Udo Takeru>In general, guys love breasts, you know♪ And when\nit comes to Neon, there are probably many who have\nused her as their 'material' for their personal\npleasure."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>Side dish...?! What?!"
                             ]
                         },
                         {
@@ -5817,7 +5817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オカズの意味を理解した音々の笑顔が僅かに引きつる。"
+                                "Neon's smile, understanding the meaning of\nmaterial, twitches slightly."
                             ]
                         },
                         {
@@ -5834,31 +5834,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「この写真が載ったパンフだって、“それ”目的で購入する連中が"
+                                "\\n<Udo Takeru>I think most people buy this pamphlet for the\npurpose of seeing these photos, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ほとんどだと思うぞ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ、最低……最悪の気分だ…」"
+                                ""
                             ]
                         },
                         {
@@ -5875,14 +5858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そういうモンか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女にオカズにされたら、オイラは嬉しいけどなァ♪」"
+                                "\\n<Minato Neon>Ugh, the worst... I feel absolutely terrible..."
                             ]
                         },
                         {
@@ -5899,7 +5875,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "腰を突き上げ、怒張したチンポを音々へと見せつける。"
+                                "\\n<Udo Takeru>Is that how it is? If I become a material for\nwomen's pleasure, I wouldn't mind at all♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5916,21 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あ～……例えばだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数万人の女がこのチンポをオカズにオナニーをしたとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはつまり、数万人の女がこのチンポを求めてるって訳だ」"
+                                "Thrusting his hips, he proudly displays his erect\npenis to Neon."
                             ]
                         },
                         {
@@ -5947,31 +5916,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「それだけの数の女に望まれるチンポを有しているンだぞ？"
+                                "\\n<Udo Takeru>Ah... for example. Let's say tens of thousands of\nwomen masturbate to this dick as their material.\nThat means, in other words, tens of thousands of\nwomen are craving this dick."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "嬉しいを通り越して、男として誇らしくもなるだろう」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「それは、まぁ……何となく言ってる事は分かるが……でも…」"
+                                ""
                             ]
                         },
                         {
@@ -5988,14 +5947,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「音々の場合、たとえ話ではなく確実にオナニーされるだろう。"
+                                "\\n<Udo Takeru>Having a dick that is desired by such a large\nnumber of women, you know? It goes beyond being\nhappy, it's something to be proud of as a man."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それこそ数万単位の男共になァ」"
+                                ""
                             ]
                         },
                         {
@@ -6012,7 +5971,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……嘘……私なんかの水着姿で…」"
+                                "\\n<Minato Neon>Well, um... I kind of understand what you're\nsaying, but..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>In Neon's case, without a doubt, she would\ndefinitely be masturbated to. By tens of thousands\nof guys, no less."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>N-No... Me in a swimsuit..."
                             ]
                         },
                         {
@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「それは女の生乳すら見た事が無い、童貞男子○校生だったり…」"
+                                "\\n<Udo Takeru>That's like a virgin high school boy who has never\neven seen a woman's bare breasts..."
                             ]
                         },
                         {
@@ -6082,7 +6082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「粗チンが唯一の悩みの、イケボマッチョな大学生だったり…」"
+                                "\\n<Udo Takeru>I'm a muscular college student with a sexy voice,\nand the only worry I have is my small penis..."
                             ]
                         },
                         {
@@ -6117,7 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「身内以外の女と数年会話した事が無い、ヒキニートだったり…」"
+                                "\\n<Udo Takeru>I haven't had a conversation with a woman other\nthan my family for years, I'm a shut-in..."
                             ]
                         },
                         {
@@ -6152,7 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「パリピだがまったく女にモテない、生粋のオナニストだったり…」"
+                                "\\n<Udo Takeru>I may be a partygoer, but I'm completely unpopular\nwith women, a true masturbator..."
                             ]
                         },
                         {
@@ -6187,7 +6187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「嫁マンコに飽きてしまったが、浮気する度胸も無い男だったり…」"
+                                "\\n<Udo Takeru>I got tired of my wife's pussy, but I'm also a man\nwithout the courage to cheat..."
                             ]
                         },
                         {
@@ -6222,7 +6222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「チン毛すら生え\\r[揃,そろ]ってない、包茎チンポな男子○学生だったり…」"
+                                "\\n<Udo Takeru>I'm a male high school student with not even a\nsingle pubic hair grown, and I have a foreskin-\ncovered penis..."
                             ]
                         },
                         {
@@ -6275,7 +6275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……………」"
+                                "\\n<Minato Neon>「...............」"
                             ]
                         },
                         {
@@ -6292,7 +6292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一転して音々の表情からは笑みが消え、見るからに曇り始める。"
+                                "Neon's expression suddenly changes, and the smile\ndisappears, becoming visibly cloudy."
                             ]
                         },
                         {
@@ -6309,38 +6309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「音々に触れるどころか言葉を交わす事すら叶わないからなァ……。"
+                                "\\n<Udo Takeru>I can't even touch Neon, let alone have a\nconversation with her... I'm sure all the guys are\nfantasizing about doing whatever they want with\nher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "きっと男共の頭の中ではヤリたい放題だ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「恋人設定や定番の幼馴染。 夫婦、姉弟エトセトラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありとあらゆる妄想を駆使して、その水着を剥がしにくるぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -6357,7 +6333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……ッ……」"
+                                "\\n<Udo Takeru>With the settings of lovers or the classic\nchildhood friend, husband and wife, siblings,\netc., I will make use of every possible fantasy to\nstrip off that swimsuit, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6374,7 +6357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>(んふふ……剥がされる様を想像してるなァ？)"
+                                "\\n<Minato Neon>...huh..."
                             ]
                         },
                         {
@@ -6391,14 +6374,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オイラは音々に近づくと、無防備に突き上げられた乳の中央にある"
+                                "\\n<Udo Takeru>(Hehe... Are you imagining being stripped?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リング状の金具へと指を差し込み、水着を一気に引き抜いた。"
+                                "When I approached Neon, I boldly inserted my\nfinger into the ring-shaped metal fitting at the\ncenter of her exposed breasts and swiftly pulled\noff her swimsuit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6525,7 +6525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……あァ…」"
+                                "\\n<Minato Neon>Huh... Ahh..."
                             ]
                         },
                         {
@@ -6542,14 +6542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "圧迫され続けていた鬱憤を晴らすかの様に、音々の美しい生乳が"
+                                "Neon's beautiful bare breasts burst out as if to\nrelease the pent-up frustration that had been\npressing on her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "派手に弾け出される。"
+                                ""
                             ]
                         },
                         {
@@ -6638,38 +6638,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「こんな風に音々の生乳が暴かれちゃうんだぞォ♪"
+                                "\\n<Udo Takeru>Neon's bare breasts are exposed like this, you\nknow? And not just that, they're exposed by the\nhands of tens of thousands of men, you see?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それも何万という男共の手によってなァ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そしたら欲望のままに揉みに揉みまくられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな可愛い乳首なんか変色するまでチューチュー吸われまくりだ」"
+                                ""
                             ]
                         },
                         {
@@ -6686,7 +6662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「そんな……だめ……そんなの嫌…」"
+                                "\\n<Udo Takeru>And then, they would be groped and sucked on to\ntheir heart's content, until even these cute\nnipples change color from being sucked on so much."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6703,14 +6686,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そうやって嫌がったところで、男共は止まらない。"
+                                "\\n<Minato Neon>No... that's no good... I don't want that..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "粗末なモンを音々にブチ込み、果てるまで使い倒される事になる」"
+                                "\\n<Udo Takeru>Even if she resists like that, the guys won't\nstop. They'll throw her into a rough situation and\nuse her until they're satisfied."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6907,7 +6907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ……\\I[12] 絶対ダメ……私は宇堂監督の…\\!――――ッ？！」"
+                                "\\n<Minato Neon>N-No... \\I[12], absolutely not... I am Udo's...!\nHuh?!"
                             ]
                         },
                         {
@@ -6924,31 +6924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「宇堂監督の？ 何だ言ってみろ？"
+                                "\\n<Udo Takeru>Udo's director? What are you saying? Say it if you\ncan, and I'll give you this \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それが言えたらコイツをくれてやるぞ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チンポを揺らし再び音々へと見せつける。"
+                                ""
                             ]
                         },
                         {
@@ -6965,7 +6948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「そんな……あァ……凄いおっきくなってる……ッ……でも…」"
+                                "I swing my penis and show it to Neon again."
                             ]
                         },
                         {
@@ -6982,14 +6965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……言えないなら撮影再開だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水着を付けて次のポーズをとってくれ」"
+                                "\\n<Minato Neon>That... Ahh... It's gotten so big... But..."
                             ]
                         },
                         {
@@ -7006,14 +6982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オイラは手にした水着を音々の足元へと投げ捨て、"
+                                "\\n<Udo Takeru>...If you can't say it, then let's resume the\nshoot. Put on your swimsuit and strike the next\npose."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "元居た椅子へと腰を掛け再びスマホを構える。"
+                                ""
                             ]
                         },
                         {
@@ -7030,7 +7006,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ッ！？ わ、分かった言うから……そんな意地悪をしないでくれ…」"
+                                "I threw the swimsuit I had in my hand at Neon's\nfeet and sat back on the chair I was originally\nin, holding my smartphone again."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>Huh?! F-Fine, I understand... so please don't be\nmean like that..."
                             ]
                         },
                         {
@@ -7071,172 +7071,172 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "音々は最後の一枚を脱ぎ捨て、椅子に座るオイラへと歩み寄る。"
+                                "Minato Neon takes off the last piece of clothing\nand walks towards me, who is sitting on the chair.\nAnd... she looks straight into my eyes and opens\nher mouth."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして……真っ直ぐオイラの目を見つめ、その口を開いた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「私は宇堂監督のモノだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、妄想でも他の男となんて嫌だ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ククッ……よく言えましたァ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ、お前の全てはオイラのモンだ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妄想すら許してもらえない男共を哀れに思いながらも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その存在に感謝する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラを引き立てる為に生まれてきてくれてありがとう……と。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「なァ、公開初日の夜はオナニーに勤しむ男共を余所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朝までセックスしまくろうなァ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「うん……それでいいからァ\\I[12] ねぇ、もういいでしょ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オイラが頷くのを確認すると、音々は下腹部へと跨り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慣れた手つきでチンポを股座へと添える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!\\SE[音々喘ぎ06]そして……歓喜の艶声と共に、音々はその腰を落とした―――…。"
+                                "\\n<Minato Neon>I belong to Director Udo... so, even in fantasies,\nI don't want to be with any other man..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>Heheh... Well said♪ That's right, everything about\nyou belongs to me\\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Thank you for being born to support me, even\nthough I pity those men who can't even have their\nfantasies allowed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>Hey, let's have sex all night until morning,\nignoring those men who are busy masturbating on\nthe first night of the release, \\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>Yeah... that's enough, \\I[12]. Hey, isn't it\nalready okay..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "  After confirming my nod, Neon straddles my lower\nabdomen and skillfully places the penis against\ntheir crotch. With a familiar touch, Neon moans...\nand with a voice filled with ecstasy, Neon lowers\ntheir hips---..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

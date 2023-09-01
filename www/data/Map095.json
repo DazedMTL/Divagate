@@ -16,7 +16,7 @@
         "volume": 5
     },
     "disableDashing": false,
-    "displayName": "客室 ～テラス～",
+    "displayName": "Guest Room ~Terrace~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4981,14 +4981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ 気のせいか？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (... Huh? Is it just my imagination? It\nfeels like someone is watching me... No, maybe I'm\njust being paranoid...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かに見られているような……\\!いや、気にし過ぎか…)"
+                                ""
                             ]
                         },
                         {
@@ -5005,14 +5005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](デビューしてからというもの人の視線に対し、"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ever since my debut, I've become a\nlittle sensitive to people's gazes... Maybe it's\njust my imagination...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し過敏になっているのかもしれないな……)"
+                                ""
                             ]
                         },
                         {
@@ -5163,7 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](吸い込まれそうな闇が広がっている…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's a darkness spreading that feels\nlike it's sucking me in...)"
                             ]
                         },
                         {
@@ -5247,7 +5247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](吸い込まれそうな闇が広がっている…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's a darkness spreading that feels\nlike it's sucking me in...)"
                             ]
                         },
                         {
@@ -5551,14 +5551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Hm? Just now, amidst the sound of\nthe wind, I faintly heard what seemed like a\nwoman's voice...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いま風の音に紛れて女性の声らしきものが微かに聞こえたような…)"
+                                ""
                             ]
                         },
                         {
@@ -5582,7 +5582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「まさか……こんな古びた洋館だし…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] No way... this mansion is so old..."
                             ]
                         },
                         {
@@ -5615,14 +5615,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](――――…い、いや気のせいだろう！"
+                                "\\n<Minato Neon>\\F[\\V[2]] (----...N-No, it must be my imagination!\nI have no psychic abilities, so it's definitely\njust my imagination!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "霊感とか皆無だし絶対に気のせいだ！)"
+                                ""
                             ]
                         },
                         {

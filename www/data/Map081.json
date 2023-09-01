@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "隠し部屋",
+    "displayName": "Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1816,7 +1816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既にUSBメモリーが刺さったノートパソコンが置いてある。"
+                                "There is a laptop with a USB memory already\ninserted."
                             ]
                         },
                         {
@@ -1852,14 +1852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](またコレか……嫌な予感しかしないが、今までのパターンだと、"
+                                "\\n<Minato Neon>Here we go again... I have a bad feeling about\nthis, but based on the previous patterns, there\nshould be some kind of clue in the video..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何らかの手掛かりは動画の中に…)"
+                                ""
                             ]
                         },
                         {
@@ -1867,8 +1867,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…視聴する。",
-                                    "…何もしない。"
+                                    "I will watch it",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -1898,7 +1898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「……ゴクッ…」"
+                                "\\n<Minato Neon>...*gulp*..."
                             ]
                         },
                         {
@@ -1934,14 +1934,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これまでとは違うパターンを期待したものの、その期待は即座に"
+                                "I was hoping for a different pattern this time,\nbut that expectation was immediately betrayed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "裏切られる事になる。"
+                                ""
                             ]
                         },
                         {
@@ -1970,7 +1970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「んふふふ…」"
+                                "\\n<Udo Takeru>Hehehe..."
                             ]
                         },
                         {
@@ -1987,14 +1987,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ただ一点これまでと違ったのは、私の隣には出演者である"
+                                "......The only thing that was different from\nbefore was that the actual performer was next to\nme----...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "本人がいた事だった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -2111,14 +2111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](馬の像の足元付近に何か\\C[2]取っ手の様なもの\\C[0]が確認できた。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I can see something like a handle \\C[0]\nnear the base of the horse statue. It would be\ngreat if that could be a clue...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それが手掛かりになるといいんだが…)"
+                                ""
                             ]
                         },
                         {
@@ -2186,7 +2186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "既にUSBメモリーが刺さったノートパソコンが置いてある。"
+                                "There is a notebook computer with a USB memory\nalready inserted."
                             ]
                         },
                         {
@@ -2210,14 +2210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](またコレか……嫌な予感しかしないが、今までのパターンだと、"
+                                "\\n<Minato Neon>Here we go again... I have a bad feeling about\nthis, but based on the previous patterns, there\nshould be some kind of clue in the video..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何らかの手掛かりは動画の中に…)"
+                                ""
                             ]
                         },
                         {
@@ -2234,7 +2234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「……ゴクッ…」"
+                                "\\n<Minato Neon>...*gulp*..."
                             ]
                         },
                         {
@@ -2270,14 +2270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これまでとは違うパターンを期待したものの、その期待は即座に"
+                                "I was hoping for a different pattern this time,\nbut that expectation was immediately betrayed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "裏切られる事になる。"
+                                ""
                             ]
                         },
                         {
@@ -2306,7 +2306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「んふふふ…」"
+                                "\\n<Udo Takeru>Hehehe..."
                             ]
                         },
                         {
@@ -2323,14 +2323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ただ一点これまでと違ったのは、私の隣には出演者である"
+                                "......The only thing that was different from\nbefore was that the actual performer was next to\nme----...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本人がいた事だった――――…。"
+                                ""
                             ]
                         },
                         {
@@ -2613,7 +2613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…真新しいダンボールが積まれている)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...there are stacks of brand new\ncardboard boxes)"
                             ]
                         },
                         {
@@ -2700,7 +2700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](二人がいた場所がここなら、このダンボールの裏辺りに…)"
+                                "\\n<Minato Neon>If \\F[\\V[2]] (the place where the two of them\nwere) is here, then it must be around the back of\nthis cardboard box..."
                             ]
                         },
                         {
@@ -2708,8 +2708,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ダンボールを動かす",
-                                    "…何もしない。"
+                                    "moving the cardboard box",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -2788,7 +2788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ どうやら空のようだ。 よし、これなら…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Hm? It seems to be empty. Alright,\nthis should work...)"
                             ]
                         },
                         {
@@ -3081,7 +3081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](やはりこの部屋だったか……よし、調べてみよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (So this is indeed the room... Alright,\nlet's investigate.)"
                             ]
                         },
                         {
@@ -3480,7 +3480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](馬の像だ……なぜこんな場所に…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (A statue of a horse... Why is it in a\nplace like this...)"
                             ]
                         },
                         {

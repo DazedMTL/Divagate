@@ -2300,7 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[67]\\FF[99]\\AA[FF]「こんばんわ～っ！」"
+                                "\\n<Momo>Good evening~!"
                             ]
                         },
                         {
@@ -2317,7 +2317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<帽子の男>\\F[67]\\FF[99]\\AA[F]「うおっ！？ な、何だ？！」"
+                                "\\n<Hat Man>\\F[67]\\FF[99]\\AA[F] Whoa!? W-What is it?!"
                             ]
                         },
                         {
@@ -2639,7 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[67]\\FF[99]\\AA[FF]「せ～のっ、ゆーばーガンズで～す\\I[12]」"
+                                "\\n<Momo>Alright, here we go~! It's time for the Yuva Guns\n\\I[12]!"
                             ]
                         },
                         {
@@ -2665,7 +2665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[67]\\FF[99]\\AA[FF]「二人とも打合せ通りに言ってよぉっ！！」"
+                                "\\n<Momo>Both of you, say it according to the meeting plan,\nokay?!"
                             ]
                         },
                         {
@@ -2682,7 +2682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[67]\\FF[99]\\AA[FF]「ごめんなさい……直前で\\r[躊躇,ちゅうちょ]しちゃって…」"
+                                "\\n<Sawa>I'm sorry... I hesitated \\r[ at the last minute..."
                             ]
                         },
                         {
@@ -2699,7 +2699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[67]\\FF[99]\\AA[FF]「ん……あぁ、わり」"
+                                "\\n<Kino>\\F[67]\\FF[99]\\AA[FF] Hmm... Ah, sorry."
                             ]
                         },
                         {
@@ -2716,7 +2716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>\\F[67]\\FF[99]\\AA[F]「何なんだお前らは勝手に入っ――――…あら？ あらら？」"
+                                "\\n<Brown-haired man>\\F[67]\\FF[99]\\AA[F] What the hell are you guys\ndoing, just barging in----... Oh? Oh my?"
                             ]
                         },
                         {
@@ -2733,7 +2733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[67]\\FF[99]\\AA[F]茶髪の男はキノを見た途端、表情を緩ませる。"
+                                "The brown-haired man's expression softened as soon\nas he saw Kino."
                             ]
                         },
                         {
@@ -2750,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>\\F[67]\\FF[99]\\AA[F]「キノちゃんじゃ～ん♪ 何？ また\\r[労,ねぎら]ってくれンの～？」"
+                                "\\n<Brown-haired man>\\F[67]\\FF[99]\\AA[F] Kino-chan~♪ What's up? Are you\nhere to \\r[reward and encourage] me again?"
                             ]
                         },
                         {
@@ -2767,7 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<帽子の男>\\F[67]\\FF[99]\\AA[F]「あン？ もしかして、この間の？」"
+                                "\\n<Hat Man>\\F[67]\\FF[99]\\AA[F] Huh? Could it be, from the\nother day?"
                             ]
                         },
                         {
@@ -2784,38 +2784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>\\F[67]\\FF[99]\\AA[F]「おう、宇堂さんがお裾分けってんで連れてきてくれた女な。"
+                                "\\n<Brown-haired man>\\F[67]\\FF[99]\\AA[F] Hey, Udo-san brought a girl\nfor us to share. We're gonna have a threesome all\nnight long (laughs)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝まで三人でマワしたった(笑」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<帽子の男>\\F[67]\\FF[99]\\AA[F]「クソっ、俺がいなかった時に限って……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも、けっこう可愛いし……あれ？ どっかで見た事ある様な…」"
+                                ""
                             ]
                         },
                         {
@@ -2832,7 +2808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[67]\\FF[99]\\AA[FF]「キノ……もしかして、あなたが此処に詳しかったのって…」"
+                                "\\n<Hat Man>\\F[67]\\FF[99]\\AA[F] Damn, it's always when I'm not\naround... And she's pretty cute too... Huh? I feel\nlike I've seen her somewhere before..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2849,14 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[67]\\FF[99]\\AA[FF]「あぁ……あの二人には黙っておいてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが私が手伝う条件な」"
+                                "\\n<Sawa>\\F[67]\\FF[99]\\AA[FF] Kino... Could it be that you\nwere familiar with this place...?"
                             ]
                         },
                         {
@@ -2873,7 +2849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[67]\\FF[99]\\AA[FF]「キノっち…」"
+                                "\\n<Kino>\\F[67]\\FF[99]\\AA[FF] Ah... Please keep this a\nsecret from those two. This is the condition for\nme helping out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2890,7 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>\\F[67]\\FF[99]\\AA[F]「何……まさか、今日は三人が相手してくれンの？」"
+                                "\\n<Momo>\\F[67]\\FF[99]\\AA[FF] Kino-chan..."
                             ]
                         },
                         {
@@ -2907,14 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[67]\\FF[99]\\AA[FF]「そうで～す☆"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お兄さん達との事が忘れられなくってぇ～また来ちゃった♪」"
+                                "\\n<Brown-haired man>\\F[67]\\FF[99]\\AA[F] What... Could it be, today\nyou'll be with the three of us?"
                             ]
                         },
                         {
@@ -2931,31 +2907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<帽子の男>\\F[67]\\FF[99]\\AA[F]「しゃあっ！ キノちゃんは俺が使うからな！"
+                                "\\n<Kino>\\F[67]\\FF[99]\\AA[FF] That's right~☆ I couldn't\nforget about you guys~ I came back again♪ I\ncouldn't forget about you guys~ I came back again♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "めっちゃタイプだわ♪」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>\\F[67]\\FF[99]\\AA[FF]「じゃ～あ……モモの相手はお兄さんがシて欲しいな～\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -2972,7 +2931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>\\F[67]\\FF[99]\\AA[F]「おう、いいぞ♪ そっちの子も一緒にどうだ？」"
+                                "\\n<Hat Man>\\F[67]\\FF[99]\\AA[F] Shaa! Kino-chan is mine to\nuse, you know! She's totally my type♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2989,7 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<帽子の男>\\F[67]\\FF[99]\\AA[F]「は？ お前は散々楽しんだだろうが！ ここは譲っとけよ！」"
+                                "\\n<Momo>Well then... Momo wants big brother to do it with\nher~ \\I[12]"
                             ]
                         },
                         {
@@ -3006,7 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>\\F[67]\\FF[99]\\AA[F]「知るか！ お前がいなかったのが悪いンだろうが！」"
+                                "\\n<Brown-haired man>\\F[67]\\FF[99]\\AA[F] Hey, great♪ How about bringing\nthat girl along too?"
                             ]
                         },
                         {
@@ -3023,14 +2989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[67]\\FF[99]\\AA[FF]「じゃ、じゃあ私は～……先に彼女達をイカせた方に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "混ざっちゃおっかなァ♪」"
+                                "\\n<Hat Man>\\F[67]\\FF[99]\\AA[F] Huh? You've had your fun\nplenty! Leave this one to me!"
                             ]
                         },
                         {
@@ -3047,7 +3006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男＆帽子の男>\\F[67]\\FF[99]\\AA[F]「「\\{ぜってぇ負けねぇッ！\\}」」"
+                                "\\n<Brown-haired man>\\F[67]\\FF[99]\\AA[F] Who cares! It's your fault for\nnot being here!"
                             ]
                         },
                         {
@@ -3064,21 +3023,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[67]\\FF[99]\\AA[F]キノは嫌な思いまでして私達を手伝ってくれているんだ。"
+                                "\\n<Sawa>\\F[67]\\FF[99]\\AA[FF] Then, then I'll... join the\none who makes them come first♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キャラじゃないのは分かっているが、ここで恥ずかしがっては"
+                                "\\n<Brown-haired man & Hat-wearing man>\\F[67]\\FF[99]\\AA[F] 'We definitely won't lose!'"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女に対して失礼だ。"
+                                "Kino is even going through unpleasant experiences\nto help us. I know she's not a character, but it\nwould be disrespectful to her if we were to feel\nembarrassed here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3152,38 +3152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二組の男女が肌を寄せ合い、互いの\\r[股座,またぐら]へと顔を埋め慰め合う中"
+                                "Two pairs of men and women press their skin\ntogether, burying their faces in each other's\ncrotches to comfort each other. In the midst of\nthat, I move to the blind spot of the men."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は男達の死角へと移動する。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>(…キノ達が男達を上手く誘導してくれたおかげね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待ってて直ぐに終わらせるから…)"
+                                ""
                             ]
                         },
                         {
@@ -3200,7 +3176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は上着のポケットに忍ばせていた小さなスプレー瓶を取り出す。"
+                                "\\n<Sawa>(...Thanks to Kino and the guys leading them well.\nWait a moment, I'll finish it quickly...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3217,7 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>(宇堂監督に渡されたコレが、まさか役に立つなんてね…)"
+                                "I take out a small spray bottle that I had hidden\nin the pocket of my jacket."
                             ]
                         },
                         {
@@ -3234,21 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…それは非売品の怪しい睡眠スプレーだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "合宿二日目の深夜、園田さんの部屋に\\r[赴,おもむ]き彼を眠らせる際に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使用した物だ。"
+                                "\\n<Sawa>(I never thought that what Udo Director gave me\nwould actually be useful...)"
                             ]
                         },
                         {
@@ -3265,7 +3234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「………」"
+                                "...It was a suspicious sleep spray that was not\nfor sale. On the second night of the training\ncamp, I went to Sonoda-san's room and used it to\nmake him fall asleep."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3282,21 +3265,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先ずはキノ達に近づく。"
+                                "\\n<Sawa>「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帽子を被った男はキノのアソコに夢中で、私の接近にまったく"
+                                "First, I approach Kino and the others. The man\nwearing a hat is completely absorbed in Kino's\ncrotch and doesn't notice my approach at all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気付いていなかった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3339,45 +3339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<帽子の男>「ぢゅるるるっ、ちゅっ、ちゅばっ、フスッ……フスフスッ…んンっ？"
+                                "\\n<Hat Man>Slurp, chu, chuba, fusu... fufu... Hm? Huh...?\nAhh... Zzz..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひゃれ……なんらぁ……？ あぅ……ァ………Zzz…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠りに落ちた男の頭を支え、そっと床へ置く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…すると、私が立ち上がるより先にキノは立ち上がると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モモの元へと向かった。"
+                                ""
                             ]
                         },
                         {
@@ -3394,7 +3363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「……キノ？」"
+                                "Kino stands up and heads towards Momo before I\neven have a chance to stand up, gently supporting\nthe head of the man who has fallen asleep and\nplacing it on the floor."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3411,7 +3394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>「ハァッ、ハァッ、モモちゃんっ\\I[12] モモちゃん俺もうっ…」"
+                                "\\n<Sawa>...Kino?"
                             ]
                         },
                         {
@@ -3428,7 +3411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「よぉ、早漏野郎」"
+                                "\\n<Brown-haired man>Haa, haa, Momo-chan\\I[12] Momo-chan, I can't hold\nback anymore..."
                             ]
                         },
                         {
@@ -3445,14 +3428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>「あァ？ キノちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だ、やっぱ俺のチンポが恋しく…――――ふがっ！？」"
+                                "\\n<Kino>Hey, premature ejaculation guy."
                             ]
                         },
                         {
@@ -3469,14 +3445,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キノは見上げた男の顔に足を乗せると…"
+                                "\\n<Brown-haired man>Huh? Kino-chan? What, you still long for my\ndick... huh?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!\\SE[Blow1]そのまま思いきり踏み込んだ。"
+                                ""
                             ]
                         },
                         {
@@ -3493,7 +3469,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>「んごっ……て、テメ…」"
+                                "Kino placed her foot on the face of the man she\nlooked up to...! Without hesitation, she stepped\non it with all her might."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Brown-haired man>Ngoh... you, you..."
                             ]
                         },
                         {
@@ -3541,7 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「んぶっ！？ ん\"ンンっ…」"
+                                "\\n<Momo>Mmmph!? Mm-mmph..."
                             ]
                         },
                         {
@@ -3570,7 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は慌てて男へと近づき、その顔へスプレーを噴射する。"
+                                "I hurriedly approached the man and sprayed his\nface with a spray."
                             ]
                         },
                         {
@@ -3587,7 +3587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<茶髪の男>「うぇ？ ふぁ……あれ……にゃんらこれ……ン……ぁ……Zzz…」"
+                                "\\n<Brown-haired man>Huh? Fuh... What's this... Nyannra... This... N...\nAh... Zzz..."
                             ]
                         },
                         {
@@ -3604,7 +3604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ぷっ……コイツ、頭踏みぬかれて射精しやがった」"
+                                "\\n<Kino>Heh... This guy came from having his head stepped\non and ejaculated."
                             ]
                         },
                         {
@@ -3621,7 +3621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「もう……ちょっと焦ったじゃない…」"
+                                "\\n<Sawa>Geez... You got a little flustered, didn't you..."
                             ]
                         },
                         {
@@ -3638,7 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「わりぃ、わりぃ……コイツのドヤ顔が余りにもムカついてな…」"
+                                "\\n<Kino>Sorry, sorry... but this guy's smug face is really\npissing me off..."
                             ]
                         },
                         {
@@ -3655,7 +3655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「けほっ、けほけほっ…うぇぇ……喉の奥に引っかかってるぅ…」"
+                                "\\n<Momo>Cough, cough... Ugh... It's stuck in the back of\nmy throat..."
                             ]
                         },
                         {
@@ -3749,7 +3749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…一転して、安堵の空気に包まれる。"
+                                "The atmosphere suddenly changed and was filled\nwith relief."
                             ]
                         },
                         {
@@ -3766,31 +3766,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66]「……これで数時間は目が覚めないはず。"
+                                "\\n<Sawa>\\F[66] ...With this, he shouldn't wake up for a\nfew hours. Let's meet up with Sonoda-san and the\nothers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "園田さん達と合流しましょう」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>\\F[66]\\FF[92]\\AA[FF]「それにしても上手くいったね～？ 完全に無警戒だったよ～」"
+                                ""
                             ]
                         },
                         {
@@ -3807,14 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66]\\FF[91]\\AA[F]「それは……キノのおかげかもしれないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宇堂監督に確認の電話を入れられたら危なかったもの…」"
+                                "\\n<Momo>\\F[66]\\FF[92]\\AA[FF] That went well, didn't it? He\nwas completely off guard."
                             ]
                         },
                         {
@@ -3831,38 +3807,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[66]\\FF[91]\\AA[FF]「それはサワにとっては偶然の産物だろ……。"
+                                "\\n<Sawa>That... might be thanks to Kino. If Udo-san had\nreceived a confirmation call, it could have been\ndangerous..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "コイツらが連絡しようとしたらどうするつもりだったんだ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[66]\\FF[91]\\AA[F]「そうね……その時は抱きつくなり、服でも脱いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強引に“事”へ持っていこうかと…」"
+                                ""
                             ]
                         },
                         {
@@ -3879,7 +3831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[66]\\FF[92]\\AA[FF]「今回の一件でサワっちへの見方が変わったよ…」"
+                                "\\n<Kino>\\F[66]\\FF[91]\\AA[FF] For Sawa, that was just a\ncoincidence... What were you planning to do if\nthese guys tried to contact us?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3896,14 +3855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[66]\\FF[91]\\AA[FF]「大人しそうな面してンのが一番怖いってこった。"
+                                "\\n<Sawa>\\F[66]\\FF[91]\\AA[F] Well... at that time, I was\nthinking of hugging him, maybe even taking off our\nclothes and forcefully taking it to the next\nlevel..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも、アタシ的には好印象だがな」"
+                                ""
                             ]
                         },
                         {
@@ -3920,14 +3879,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66]\\FF[91]\\AA[F]「私は必死だっただけで……そ、それよりも服を着て！"
+                                "\\n<Momo>\\F[66]\\FF[92]\\AA[FF] My perspective on Sawa-chan\nhas changed after this incident..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "携帯を奪ったら、さっさと戻るわよ！」"
+                                "\\n<Kino>They say the quiet ones are the scariest. But\npersonally, I have a good impression of\n\\F[66]\\FF[91]\\AA[FF]."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>\\F[66]\\FF[91]\\AA[F] I was just desperate... B-but\nmore importantly, put on some clothes! Once you\ntake their cell phones, hurry back!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3956,14 +3956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして……町への連絡手段を絶つ事に成功した私達は"
+                                "And so... we successfully cut off the means of\ncommunication to the town, leaving the sleeping\nmen behind and leaving the cabin behind..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "眠りこける男達をその場に残し、小屋を後にしたのだった―――…。"
+                                ""
                             ]
                         },
                         {

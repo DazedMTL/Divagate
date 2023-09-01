@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F隠し通路～",
+    "displayName": "Main Building ~3rd Floor Hidden Passage~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1742,7 +1742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この扉は…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This door...)"
                             ]
                         },
                         {
@@ -1771,14 +1771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]ドアノブの上に鍵と思われる小さなレバーが付いている。"
+                                "There is a small lever on the doorknob that\nappears to be a key. It seems to be locked at the\nmoment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今は施錠されているようだ。"
+                                ""
                             ]
                         },
                         {
@@ -1786,8 +1786,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…開錠する。",
-                                    "…何もしない。"
+                                    "Unlock it",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -1829,7 +1829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……開錠した。"
+                                "......Unlocked."
                             ]
                         },
                         {
@@ -1846,7 +1846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この先は一体…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (What lies ahead...)"
                             ]
                         },
                         {
@@ -2045,7 +2045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん……あれ？ 此処には見覚えが…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Huh...? This place looks familiar...)"
                             ]
                         },
                         {
@@ -2100,7 +2100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あっ！ 此処は宇堂監督の部屋の前……って、あれ？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ah! This is Udo Director's room...\nWait, what's that?)"
                             ]
                         },
                         {
@@ -2124,14 +2124,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](このドアの先が宇堂監督の部屋だと言ってたよな？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Did they say that Udo Director's room\nis beyond this door? Could it be... is it located\nat the end of the hallway I just passed?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もしかして……さっきの廊下の先にあるのか？)"
+                                ""
                             ]
                         },
                         {
@@ -2836,14 +2836,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>I've been trying not to think about it, but I'm\nbeing filmed too.... There's a rumor that the\nvideos will be deleted when we leave the mansion,\nbut can I trust that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {
@@ -3131,14 +3131,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>I've been trying not to think about it, but I'm\nbeing filmed too.... There's a rumor that the\nvideos will be deleted when we leave the mansion,\nbut can I trust that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {
@@ -3342,14 +3342,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>I've been trying not to think about it, but I'm\nbeing filmed too... There's a rumor that the\nvideos will be deleted when we leave the mansion,\nbut can I trust that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {
@@ -3553,14 +3553,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>I've been trying not to think about it, but I'm\nbeing filmed too... There's a rumor that the\nvideos will be deleted when we leave the mansion,\nbut can I trust that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {

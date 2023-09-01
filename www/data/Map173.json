@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "隠し部屋",
+    "displayName": "Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1755,14 +1755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](館内のパソコンはイントラネットで繋がっている。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (The computers inside\nthe building are connected to the intranet. If you\nenter the ID and password, you can watch the\nexclusive collection.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "IDとパスを通せば秘蔵コレクションが視聴可能だ)"
+                                ""
                             ]
                         },
                         {
@@ -1779,14 +1779,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](そういえば……ノートパソコンを使った一連の演出は、"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (By the way... the\nwhole performance using the laptop was an idea\nsuggested by a girl named Momo.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "モモとかいう女が出した案だったな)"
+                                ""
                             ]
                         },
                         {
@@ -2512,7 +2512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ンンン～♪ オイラのチンポは～馬並みィ～♪ 音々の大好物ぅ♪」"
+                                "\\n<Udo Takeru>Mmm~♪ My dick is as big as a horse~♪ Neon's\nfavorite treat~♪"
                             ]
                         },
                         {
@@ -2529,7 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ……過去一で最低な替え歌だ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ugh... That's the worst\nparody song I've ever heard..."
                             ]
                         },
                         {

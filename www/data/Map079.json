@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下通路",
+    "displayName": "Underground passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -7704,7 +7704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…そういえば、\\C[2]小さな鍵\\C[0]の入手がまだだったな)"
+                                "\\n<Minato Neon>By the way, I still haven't obtained \\C[2]'s small\nkey\\C[0]."
                             ]
                         },
                         {
@@ -7721,7 +7721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](まだ回っていない所もあるし、もう少し探してみるか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There are still places I haven't\nchecked, so maybe I should keep looking a little\nlonger...)"
                             ]
                         },
                         {
@@ -7888,14 +7888,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](\\C[2]小さな鍵\\C[0]は、この地下通路内にあるはずだ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The small key \\C[2] should be somewhere\nin this underground passage. Let's explore a\nlittle more.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "もう少し探索してみよう)"
+                                ""
                             ]
                         },
                         {
@@ -8723,7 +8723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レンガの壁に\\C[2]ハート\\C[0]が描かれている。"
+                                "A \\C[2] heart \\C[0] is drawn on the brick wall."
                             ]
                         },
                         {
@@ -9035,7 +9035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「……宇堂監督？」"
+                                "\\n<Minato Neon>\\F[\\V[2]] ...Director Udo?"
                             ]
                         },
                         {
@@ -9153,14 +9153,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いない……。 はぁ……それならそれで、いなくなる前に"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Sigh... If that's the case, then before\nyou disappear, just say a word... You're such a\nselfish man...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ひとこと言ってくれ……勝手な男だ…)"
+                                ""
                             ]
                         },
                         {
@@ -9177,7 +9177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](………あ……もしかして、先にレッスンルームへ向かったのか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Ah... Could it be that you went to\nthe lesson room ahead of me?)"
                             ]
                         },
                         {
@@ -11385,7 +11385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]小さな鍵\\C[0]を手に入れた。"
+                                "I obtained a small key \\C[0] in my hand."
                             ]
                         },
                         {
@@ -11460,7 +11460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……もう空っぽだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
                             ]
                         },
                         {
@@ -11669,7 +11669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]模造刀\\C[0]を手に入れた。"
+                                "I obtained a \\C[2]replica sword\\C[0]."
                             ]
                         },
                         {
@@ -11744,7 +11744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……もう空っぽだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
                             ]
                         },
                         {
@@ -11888,7 +11888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](水音は止んだようだが……何だったんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The sound of water seems to have\nstopped... What was that?)"
                             ]
                         },
                         {
@@ -11998,7 +11998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「えっ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Huh..."
                             ]
                         },
                         {
@@ -12060,14 +12060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](張られていた水が抜けている……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The water that was filled up has\ndrained... Was that hook a drainage device?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あのフックは排水装置だったのか…)"
+                                ""
                             ]
                         },
                         {

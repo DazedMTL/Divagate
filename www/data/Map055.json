@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～客室～",
+    "displayName": "East Hall ~Guest Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2436,7 +2436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あっ……この壺の中に…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ah... inside this jar...)"
                             ]
                         },
                         {
@@ -2453,7 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]壺の中にスイッチらしき物を見つけた。"
+                                "I found something that looks like a switch inside\nthe jar."
                             ]
                         },
                         {
@@ -2628,7 +2628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あっ……この壺の中に…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ah... Inside this jar...)"
                             ]
                         },
                         {
@@ -2657,7 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]壺の中にスイッチらしき物を見つけた。"
+                                "I found something that looks like a switch inside\nthe jar."
                             ]
                         },
                         {
@@ -2665,8 +2665,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…スイッチを押す。",
-                                    "…一旦、離れる。"
+                                    "Press the switch",
+                                    "Let's separate for now"
                                 ],
                                 1,
                                 0,
@@ -2797,7 +2797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…壺の中にあるスイッチは既に押されている。"
+                                "The switch inside the pot has already been\npressed."
                             ]
                         },
                         {

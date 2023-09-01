@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "回想ルーム ～別館～",
+    "displayName": "Flashback Room ~Annex~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3093,14 +3093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](バーチャルアイドルの中の人だったか？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Wasn't he the one\nbehind the virtual idol? I don't know much about\nit, but he had a good face, so I decided to give\nit a try.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "余り詳しくはねぇが、面が良かったからとりあえず喰ったった)"
+                                ""
                             ]
                         },
                         {
@@ -4759,7 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -4767,12 +4767,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[554])06『初めての…』",
-                                    "if(s[559])07『好きな体位』",
-                                    "if(s[555])08『二人のように…』",
-                                    "if(s[556])09『青姦日和』",
-                                    "if(s[557])10『誓いと冒涜』",
-                                    "…視聴しない。"
+                                    "if(s[554])06 First Time",
+                                    "if(s[559])07 Favorite Position",
+                                    "if(s[555])08 Like the Two of Us",
+                                    "if(s[556])09 Outdoor Sex Weather",
+                                    "if(s[557])10 Oath and Blasphemy",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -5287,7 +5287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "時間帯を選択して下さい。"
+                                "Please select a time slot."
                             ]
                         },
                         {
@@ -5295,10 +5295,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "…昼。",
-                                    "…夕方。",
-                                    "…夜。",
-                                    "…一つ前へ戻る。"
+                                    "noon",
+                                    "In the evening",
+                                    "night",
+                                    "Go back one step"
                                 ],
                                 3,
                                 0,
@@ -6251,7 +6251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -6259,12 +6259,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "06『初めての…』",
-                                    "07『好きな体位』",
-                                    "08『二人のように…』",
-                                    "09『青姦日和』",
-                                    "10『誓いと冒涜』",
-                                    "…視聴しない。"
+                                    "06 First Time",
+                                    "07 Favorite Position",
+                                    "08 Like the Two of Us",
+                                    "09 Outdoor Sex Weather",
+                                    "10 Oath and Blasphemy",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -6779,7 +6779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "時間帯を選択して下さい。"
+                                "Please select a time slot."
                             ]
                         },
                         {
@@ -6787,10 +6787,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "…昼。",
-                                    "…夕方。",
-                                    "…夜。",
-                                    "…一つ前へ戻る。"
+                                    "noon",
+                                    "In the evening",
+                                    "night",
+                                    "Go back one step"
                                 ],
                                 3,
                                 0,
@@ -9747,7 +9747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -9755,12 +9755,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[549])01『とりあえずセックス』",
-                                    "if(s[550])02『ポールオナニー』",
-                                    "if(s[551])03『四咥』",
-                                    "if(s[552])04『開拓』",
-                                    "if(s[553])05『外からも内からも…』",
-                                    "…視聴しない。"
+                                    "if(s[549])01 For Now, Sex",
+                                    "if(s[550])02 Pole Masturbation",
+                                    "if(s[551])03 Yotsu Tsumu",
+                                    "if(s[552])04 Pioneering",
+                                    "if(s[553])05 From the Outside and Inside",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -10546,7 +10546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -10554,12 +10554,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "01『とりあえずセックス』",
-                                    "02『ポールオナニー』",
-                                    "03『四咥』",
-                                    "04『開拓』",
-                                    "05『外からも内からも…』",
-                                    "…視聴しない。"
+                                    "01 For Now, Sex",
+                                    "02 Pole Masturbation",
+                                    "03 Yotsu Tsumu",
+                                    "04 Pioneering",
+                                    "05 From the Outside and Inside",
+                                    "I won't watch it"
                                 ],
                                 5,
                                 0,
@@ -11474,7 +11474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -11482,11 +11482,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[560])11『グラビア撮影会』",
-                                    "if(s[558])12『星空の下で…』",
-                                    "if(s[561])13『救い』",
-                                    "if(s[562])14『トラウマ』",
-                                    "…視聴しない。"
+                                    "if(s[560])11 Gravure Photoshoot",
+                                    "if(s[558])12 Under the Starry Sky",
+                                    "if(s[561])13 Salvation",
+                                    "if(s[562])14 Trauma",
+                                    "I won't watch it"
                                 ],
                                 4,
                                 0,
@@ -12132,7 +12132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーンを選択して下さい。"
+                                "Please select a scene."
                             ]
                         },
                         {
@@ -12140,11 +12140,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "『グラビア撮影会』",
-                                    "『星空の下で…』",
-                                    "『救い』",
-                                    "『トラウマ』",
-                                    "…視聴しない。"
+                                    "Gravure Photoshoot",
+                                    "Under the Starry Sky",
+                                    "Salvation",
+                                    "Trauma",
+                                    "I won't watch it"
                                 ],
                                 4,
                                 0,

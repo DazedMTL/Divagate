@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F客室～",
+    "displayName": "Main Building ~3rd Floor Guest Rooms~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -3499,7 +3499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -3516,7 +3516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あぁ、安心しな。 お前の持ちモンは全部まとめて預かってるからよ」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Ah, don't worry. I've\ngot all of your belongings stored together."
                             ]
                         },
                         {
@@ -4327,7 +4327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「すぅ～～～～～っ、ふぅ……そこはかとなく音々の匂いが…」"
+                                "\\n<Udo Takeru>Suu~~~h, phew... There's a faint scent of Neon in\nthe air..."
                             ]
                         },
                         {
@@ -4344,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「や、やめろバカっ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] S-Stop it, you idiot..."
                             ]
                         },
                         {
@@ -4831,7 +4831,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「音々の生尻が触れた便座か……いくらの値が付くかなァ」"
+                                "\\n<Udo Takeru>Is this the toilet seat that Neon's bare butt\ntouched... I wonder how much it's worth."
                             ]
                         },
                         {
@@ -4848,7 +4848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「なっ……売れる訳が無いだろっ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Th-There's no way it\nwould sell..."
                             ]
                         },
                         {
@@ -4959,7 +4959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「お前の為に新調したんだが、余り使わなかったみたいだな」"
+                                "\\n<Udo Takeru>I bought this for you, but it seems like you\nhaven't used it much."
                             ]
                         },
                         {
@@ -4976,7 +4976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「そうだったのか……でも、別に謝らないからな…」"
+                                "\\n<Minato Neon>Is that so... But, you don't have to apologize or\nanything..."
                             ]
                         },
                         {
@@ -5067,7 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](あァ？ 何で置物のリンゴに噛み跡が…)"
+                                "\\n<Udo Takeru>Huh? Why are there bite marks on the apple\nfigurine..."
                             ]
                         },
                         {
@@ -5158,7 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「すぅ～～～～～っ、ふぅ……そこはかとなく音々の匂いが…」"
+                                "\\n<Udo Takeru>Suuuuu~ *inhales*... The scent of Neon is\nlingering in the air..."
                             ]
                         },
                         {
@@ -5175,7 +5175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「や、やめろバカっ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] S-Stop it, you idiot..."
                             ]
                         },
                         {
@@ -5289,7 +5289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "静寂な部屋の中、古時計が時を刻んでいる。"
+                                "In the quiet room, an old clock is ticking away\nthe time."
                             ]
                         },
                         {
@@ -5306,14 +5306,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](この時計には隠しカメラが仕込まれてあンだよなァ。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (I heard there's a\nhidden camera in this clock. Though the angle\nisn't great for capturing good images...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "角度的に余り良い画は撮れねぇけど…)"
+                                ""
                             ]
                         },
                         {
@@ -5330,7 +5330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........？」"
                             ]
                         },
                         {
@@ -5442,7 +5442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「何で此処に\\r[薪,まき]を置いたンだっけか？」"
+                                "\\n<Udo Takeru>Why did I put the firewood here again?"
                             ]
                         },
                         {
@@ -5459,7 +5459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「私に聞くな…」"
+                                "\\n<Minato Neon>Don't ask me..."
                             ]
                         },
                         {
@@ -5754,7 +5754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](ブサイクな面してやがンな……自分で言うのも何だけど…)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Even though I hate to\nadmit it myself... I have an ugly face...)"
                             ]
                         },
                         {
@@ -5910,14 +5910,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](あの何とかってマネが使ったであろうトイレだ。"
+                                "\\n<Udo Takeru>That \\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (that someone\nused, probably a toilet. Tsk... I'll make sure\nthose dogs clean it properly.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "チッ……しっかりと犬共に掃除させんとな)"
+                                ""
                             ]
                         },
                         {
@@ -6009,14 +6009,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](コイツの中身は……あ～駄目だ、忘れちまったな。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (What's inside this...\nAh, damn it, I forgot. I'll have to make the dogs\norganize it when I get the chance...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "機会を見て犬共に整理させっかァ…)"
+                                ""
                             ]
                         },
                         {
@@ -6107,7 +6107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](半分荷物置き場になってンな、こりゃ…)"
+                                "\\n<Udo Takeru>This place has become half storage room, huh..."
                             ]
                         },
                         {

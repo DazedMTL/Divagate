@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F～",
+    "displayName": "Main Building ~3rd Floor~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 38,
@@ -7219,7 +7219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](車椅子のままでは降りるのは無理そうだ…)"
+                                "\\n<Sonoda Kohei>\\F[62] (It seems impossible to get off while still\nin a wheelchair...)"
                             ]
                         },
                         {
@@ -8405,7 +8405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](何となく取り付けたモンだったが、役に立つとは思わなかったぜ♪)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (I didn't think it\nwould be useful, but I somehow managed to install\nit♪)"
                             ]
                         },
                         {
@@ -8446,7 +8446,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](まぁ、見えねぇわな…)"
+                                "\\n<Udo Takeru>Well, I can't see it..."
                             ]
                         },
                         {
@@ -8877,14 +8877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](よし、ここなら……。"
+                                "\\n<Sonoda Kohei>Alright, here... Let's leave the wheelchair in\nthat room and start right away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "車椅子はそこの部屋に預けて、さっそく始めよう)"
+                                ""
                             ]
                         },
                         {
@@ -9190,7 +9190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]「ふぅ…」"
+                                "\\n<Sonoda Kohei>*sighs*"
                             ]
                         },
                         {
@@ -9207,7 +9207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](よし……大分歩けるようになってきたぞ)"
+                                "\\n<Sonoda Kohei>\\F[62] (Alright... I've been able to walk quite a\nbit now.)"
                             ]
                         },
                         {
@@ -9224,7 +9224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](日が昇るまで時間はたっぷりあるし、少し休憩を挟むか…)"
+                                "\\n<Sonoda Kohei>\\F[62] (We have plenty of time until the sun\nrises, so maybe we should take a short break...)"
                             ]
                         },
                         {
@@ -9314,14 +9314,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](ッ……今、扉が開いたよな？"
+                                "\\n<Sonoda Kohei>\\F[62] (Huh... the door just opened, right? This\nisn't good... What if it's Udo...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ま、マズイぞ……もし宇堂だったら…)"
+                                ""
                             ]
                         },
                         {
@@ -9338,14 +9338,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<？？？>\\F[62]「こんな夜中にどこに行くのかと思えば……。"
+                                "\\n<？？？>\\F[62] If I think about where you're going in the\nmiddle of the night... what are you doing in a\nplace like this?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こんなトコで何してンだ？」"
+                                ""
                             ]
                         },
                         {
@@ -9498,7 +9498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F]「な、何だ……キノか、驚かすなよ…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F] W-What... Kino, don't startle\nme like that..."
                             ]
                         },
                         {
@@ -9572,7 +9572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「美少女の裸体をガン見しておいて、随分な言い草だなァ？」"
+                                "\\n<Kino>\\F[62]\\FF[91]\\AA[FF] Staring at a girl's naked\nbody and saying such things, quite the audacious\nremark, don't you think?"
                             ]
                         },
                         {
@@ -9620,7 +9620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F]「……見てないぞ。 暗くて見えなかったし…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F] ......I didn't see anything.\nIt was too dark to see..."
                             ]
                         },
                         {
@@ -9637,38 +9637,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「ふぅン……まぁ、そういう事にしといてやるか。"
+                                "\\n<Kino>\\F[62]\\FF[91]\\AA[FF] Hmmm... Well, I guess I'll\nlet it slide. This silent and reserved guy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "このムッツリスケコマシ野郎が」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F]「全然、そういう事になってない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それで……何だよ？ 僕を探してたんだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -9685,14 +9661,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「んー…まぁ、ちょっとな。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F] No, it's not like that at\nall... So... What is it? You were looking for me,\nright?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんな廊下のど真ん中じゃ何だし、場所を変えようか…」"
+                                "\\n<Kino>\\F[62]\\FF[91]\\AA[FF] Hmm... well, yeah, let's move\nto a different place. It's kind of weird being\nright in the middle of this hallway..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9764,14 +9764,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "And I, immersed myself in rehabilitation until the\nsun rose---..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#そして僕は、日が昇るまでリハビリに没頭したのだった―――…。"
+                                ""
                             ]
                         },
                         {
@@ -9849,7 +9849,7 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
@@ -9859,7 +9859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　 　　　　　　　\\.\\SE[タイプライター]Ｎ\\.\\SE[タイプライター]Ｅ\\.\\SE[タイプライター]Ｘ\\.\\SE[タイプライター]Ｔ\\. \\SE[タイプライター]Ｄ\\.\\SE[タイプライター]Ａ\\.\\SE[タイプライター]Ｙ\\.\\SE[タイプライター]…"
+                                "[Minato Neon] NEXT DAY..."
                             ]
                         },
                         {
@@ -10272,7 +10272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](止めておこう……この時間は確実に宇堂が居るだろう)"
+                                "\\n<Sonoda Kohei>Let's stop \\F[62]... Udo is definitely here at\nthis time."
                             ]
                         },
                         {

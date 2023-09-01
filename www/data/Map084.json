@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "レッスンルーム",
+    "displayName": "Lesson Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1997,7 +1997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](勝手に戻るのはマズイよな……私の為に開かれた合宿なんだし…)"
+                                "\\n<Minato Neon>It's not good for \\F[\\V[2]] to just go back on\ntheir own... This training camp was organized for\nmy sake, after all..."
                             ]
                         },
                         {
@@ -2014,7 +2014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そう……それ以外に理由なんか無い…)"
+                                "\\n<Minato Neon>Yeah... There's no other reason..."
                             ]
                         },
                         {
@@ -2128,7 +2128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](………)"
+                                "\\n<Minato Neon>\\F[\\V[2]](.........)"
                             ]
                         },
                         {
@@ -2387,7 +2387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…大型のテレビだ。 こんなモノいつ運んだんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...It's a big TV. When did we bring\nsomething like this...)"
                             ]
                         },
                         {
@@ -2651,7 +2651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…大型のテレビだ。 こんなモノいつ運んだんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...It's a big TV. When did we bring\nsomething like this...)"
                             ]
                         },
                         {
@@ -2855,7 +2855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…大型のテレビだ。 こんなモノいつ運んだんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...It's a big TV. When did we bring\nsomething like this...)"
                             ]
                         },
                         {
@@ -3059,7 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…大型のテレビだ。 こんなモノいつ運んだんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...It's a big TV. When did we bring\nsomething like this...)"
                             ]
                         },
                         {
@@ -3215,7 +3215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]「本当にあの動画を……もし後で出てきたり何かしたら…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]] If that video really comes out... and\nif something happens later..."
                             ]
                         },
                         {
@@ -3232,7 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「だから消したってぇ、そこは信じてくれないとなァ…」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] So even if I delete it,\nyou won't believe me..."
                             ]
                         },
                         {
@@ -3249,31 +3249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「……そもそも、音々ちゃんが蝋人形の“アレ”を触らなけりゃ"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] ...In the first place,\nit's just a matter of Minato-chan not touching\nthat wax figure 'thing', right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良かっただけの話しなんだがなァ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「ぐっ……ちゃんと消したならいい……いや、よくはないけど…」"
+                                ""
                             ]
                         },
                         {
@@ -3290,14 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「館内で起きた事は一切口外しないし記録だって残さない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "契約書にだって書いてあったろォ？」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] Guh... If you really\ndeleted it, then it's fine... Well, not really,\nbut..."
                             ]
                         },
                         {
@@ -3314,14 +3290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「レッスンを終え館を出た時、オイラ達はただの監督と役者に戻る。"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] I won't speak a word\nabout what happened inside the mansion, and I\nwon't leave any records either. It's written in\nthe contract, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でもまぁそれは、“その時”音々ちゃんが望めばの話だが…」"
+                                ""
                             ]
                         },
                         {
@@ -3338,14 +3314,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「………？ と、とにかく今日のレッスンは終わりだな……？"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] After finishing the\nlesson and leaving the mansion, we will just\nreturn to being a director and actors. But well,\nthat's only if Neon-chan wishes for it at that\ntime..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は部屋に戻らせてもらうぞ…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] ...? A-anyway, today's\nlesson is over...? I'll go back to my room..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3393,7 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[4]]「あ～…ちょい待ち」"
+                                "\\n<Udo Takeru>\\F[\\V[4]] Ah... wait a moment."
                             ]
                         },
                         {
@@ -3441,31 +3441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[4]]「明日からはブラは付けてこなくていいからねぇ？"
+                                "\\n<Udo Takeru>\\F[\\V[4]] You don't have to wear a bra starting\nfrom tomorrow, okay? Since you're going to take it\noff anyway, it's just a hassle to put it on and\ntake it off, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうせ外す事になるんだし、付けるのも外すのも手間だよねぇ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「……は？ 何を言ってるんだ…」"
+                                ""
                             ]
                         },
                         {
@@ -3482,7 +3465,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「まぁ、その判断は任せるよ。 んじゃ、今日もおつかれちゃん♪」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] ...Huh? What are you\ntalking about..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Well, I'll leave that\njudgment up to you. Well then, good work today♪"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下通路",
+    "displayName": "Underground passage",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -8531,7 +8531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レンガの壁に\\C[2]ハート\\C[0]が描かれている。"
+                                "A \\C[2] heart \\C[0] is drawn on the brick wall."
                             ]
                         },
                         {
@@ -8821,7 +8821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…隠された部屋を発見した。"
+                                "...discovered a hidden room."
                             ]
                         },
                         {
@@ -9214,7 +9214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「暗っ！ おい、ほとんど見えないぞ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] It's so dark! Hey, I can hardly see..."
                             ]
                         },
                         {
@@ -9257,7 +9257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ひうっ\\I[12]」"
+                                "\\n<Minato Neon>\\F[\\V[2]]Hii... \\I[12]"
                             ]
                         },
                         {
@@ -9281,7 +9281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ……どさくさに紛れて変なトコを触るなっ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Hey... don't touch me in\nweird places while taking advantage of the\ncommotion!"
                             ]
                         },
                         {
@@ -9298,7 +9298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「こう暗いと仕方がないだろう～…わざとじゃないよォ」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] It can't be helped that\nit's so dark... It's not intentional, you know."
                             ]
                         },
                         {
@@ -9315,7 +9315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……どうだか」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] I wonder... how it is."
                             ]
                         },
                         {
@@ -9674,7 +9674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]小さな鍵\\C[0]を手に入れた。"
+                                "I obtained a small key \\C[0] in my hand."
                             ]
                         },
                         {
@@ -9749,7 +9749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……もう空っぽだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
                             ]
                         },
                         {
@@ -9958,7 +9958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]模造刀\\C[0]を手に入れた。"
+                                "\\C[2] obtained a replica sword \\C[0]."
                             ]
                         },
                         {
@@ -10033,7 +10033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……もう空っぽだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
                             ]
                         },
                         {
@@ -10244,14 +10244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](水位はそれ程でもないし進めなくもないが……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The water level isn't that high and I\ncan still move forward... but it smells really bad\nand I feel resistance...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かなり臭うし、抵抗があるな…)"
+                                ""
                             ]
                         },
                         {
@@ -10366,14 +10366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](水位はそれ程でもないし進めなくもないが……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (The water level isn't that high and I\ncan still move forward... but it smells really bad\nand I feel resistance...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "かなり臭うし、抵抗があるな…)"
+                                ""
                             ]
                         },
                         {

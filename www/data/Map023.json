@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西館 ～１F～",
+    "displayName": "West Building ~1F~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -6423,7 +6423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](おっ……どうやらこの鍵は、この扉のモノだったみたいだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Oh... It seems like this key belongs to\nthis door.)"
                             ]
                         },
                         {
@@ -6459,7 +6459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「あっ…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Ah..."
                             ]
                         },
                         {
@@ -6476,14 +6476,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "役目を終えたかの様に古びた鍵は手元部分で折れ、その先の部分が"
+                                "The worn-out key, as if its duty had come to an\nend, broke at the handle and the other end got\nstuck in the keyhole."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鍵穴に埋まってしまった。"
+                                ""
                             ]
                         },
                         {
@@ -6512,7 +6512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2]古びた鍵\\C[0]がアイテム欄から削除されました。"
+                                "The worn-out key \\C[2] has been removed from the\nitem inventory\\C[0]."
                             ]
                         },
                         {
@@ -6557,7 +6557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems like the door is locked."
                             ]
                         },
                         {
@@ -7594,7 +7594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……向こうから鍵がかけられている様だ。"
+                                "It seems like the door over there is locked."
                             ]
                         },
                         {
@@ -7784,14 +7784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](建造物が描かれている。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There are buildings depicted here. I\nwonder if these actually exist?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは実際に存在する物だろうか？)"
+                                ""
                             ]
                         },
                         {
@@ -7875,14 +7875,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](建造物が描かれている。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There are buildings depicted here. I\nwonder if these actually exist?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これは実際に存在する物だろうか？)"
+                                ""
                             ]
                         },
                         {

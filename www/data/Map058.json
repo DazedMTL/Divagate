@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～牢獄の間～",
+    "displayName": "East Hall ~Between the Prison Cells~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2750,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems like the door is locked."
                             ]
                         },
                         {
@@ -2827,7 +2827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホール程の大きさのスイッチがある。"
+                                "There is a switch the size of a manhole."
                             ]
                         },
                         {
@@ -2847,8 +2847,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…乗る。",
-                                    "…何もしない。"
+                                    "I'll ride",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……あれ？ ビクともしないぞ…」"
+                                "\\n<Minato Neon>...Huh? It's not even twitching..."
                             ]
                         },
                         {
@@ -2970,7 +2970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ん～…重さが足りてないんじゃないかなァ？」"
+                                "\\n<Udo Takeru>Hmm... Maybe it's not heavy enough?"
                             ]
                         },
                         {
@@ -2994,7 +2994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](なるほど、重さか…)"
+                                "\\n<Minato Neon>I see, it's about the weight..."
                             ]
                         },
                         {
@@ -3138,7 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンホール程の大きさのスイッチがある。"
+                                "There is a switch the size of a manhole."
                             ]
                         },
                         {
@@ -3158,9 +3158,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…乗る。",
-                                    "…宇堂が乗る。",
-                                    "…何もしない。"
+                                    "I'll ride it",
+                                    "Udo gets on",
+                                    "I won't do anything"
                                 ],
                                 2,
                                 0,
@@ -3265,7 +3265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……あれ？ ビクともしないぞ…」"
+                                "\\n<Minato Neon>...Huh? It doesn't even twitch..."
                             ]
                         },
                         {
@@ -3282,7 +3282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ん～…重さが足りてないんじゃないかなァ？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hmm... Maybe it's not\nheavy enough?"
                             ]
                         },
                         {
@@ -3306,7 +3306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](なるほど、重さか…)"
+                                "\\n<Minato Neon>I see, it's about the weight..."
                             ]
                         },
                         {
@@ -3388,7 +3388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「音々ちゃんの頼みとあらば、たとえ火の中水の中～♪」"
+                                "\\n<Udo Takeru>If it's a request from Neon-chan, I'll even go\nthrough fire and water~♪"
                             ]
                         },
                         {
@@ -3497,7 +3497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "付近の壁がスライドし、隠された部屋を発見した。"
+                                "The nearby wall slid open, revealing a hidden\nroom."
                             ]
                         },
                         {
@@ -3528,31 +3528,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「オイラは此処でスイッチを押してないといけないし……。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] I have to press the\nswitch here... so should we leave the exploration\nthere to you, Neon-chan?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そこの探索は音々ちゃんに任せるよォ～？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……あぁ、分かった」"
+                                ""
                             ]
                         },
                         {
@@ -3569,14 +3552,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](まさか……こうなる様に仕向けられた？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Ah, I understand."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何だかハメられた気がするが……いや、流石に考え過ぎか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Could it be... I was\nset up to end up like this? I feel like I've been\ntricked... No, maybe I'm just overthinking it...)\nI feel like I've been tricked... No, maybe I'm\njust overthinking it...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "レッスンルーム",
+    "displayName": "Lesson Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1871,7 +1871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ん……？ 宇堂監督は隣の部屋だろうか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Huh...? Is Director Udo in the next\nroom?)"
                             ]
                         },
                         {
@@ -2356,14 +2356,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>I've been trying not to think about it, but I'm\nbeing filmed too... There's a rumor that the\nvideos will be deleted when we leave the mansion,\nbut can I trust that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {
@@ -2627,14 +2627,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I've been trying not to think about it,\nbut I'm being filmed too... There's a rumor that\nthe videos are deleted when we leave the mansion,\nbut can I trust that?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {
@@ -2838,14 +2838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>I've been trying not to think about it, but I'm\nbeing filmed too... There's a rumor that the\nvideos will be deleted when we leave the mansion,\nbut can I trust that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {
@@ -3049,14 +3049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](考えないようにしていたが私も撮られているんだ…。"
+                                "\\n<Minato Neon>I've been trying not to think about it, but I'm\nbeing filmed too.... There's a rumor that the\nvideos will be deleted when we leave the mansion,\nbut can I trust that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "動画は館を出る時に消すという話だが、信用していいものか…)"
+                                ""
                             ]
                         },
                         {

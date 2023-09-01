@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～牢獄の間～",
+    "displayName": "East Hall ~Between the Prison Cells~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2949,7 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「あら？ あらら？ もしかして一人じゃ心細いのかなァ～？」"
+                                "\\n<Udo Takeru>Oh? Oh my? Are you feeling lonely all by yourself?"
                             ]
                         },
                         {
@@ -3160,7 +3160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](流石に……宇堂監督を放置したまま戻るのはマズイよな…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's really not good to leave Director\nUdo alone and come back like this...)"
                             ]
                         },
                         {
@@ -3268,7 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems that the door is locked."
                             ]
                         },
                         {
@@ -3352,14 +3352,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](此処は……隠し部屋か？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Is this... a hidden room? I've been\nthinking that for a while, but this Western-style\nmansion has a strange structure...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "前々から思っていたが、妙な造りをした洋館だな…)"
+                                ""
                             ]
                         },
                         {

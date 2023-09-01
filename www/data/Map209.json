@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F～",
+    "displayName": "Main Building ~3rd Floor~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 38,
@@ -7219,7 +7219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](車椅子のままでは降りるのは無理そうだ…)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (It seems impossible to get\noff while still in a wheelchair...)"
                             ]
                         },
                         {
@@ -8316,7 +8316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](何となく取り付けたモンだったが、役に立つとは思わなかったぜ♪)"
+                                "\\n<Udo Takeru>It was something I randomly installed, but I\ndidn't think it would be useful♪"
                             ]
                         },
                         {
@@ -8357,7 +8357,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](まぁ、見えねぇわな…)"
+                                "\\n<Udo Takeru>Well, I can't see it..."
                             ]
                         },
                         {
@@ -8599,7 +8599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「西館三階フロアの\\C[2]ベッドルーム\\C[0]へ向かいましょう」"
+                                "\\n<Sawa>Let's head to the \\C[2] bedroom on the third floor\nof the west wing."
                             ]
                         },
                         {
@@ -9342,7 +9342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](ん……此処は鍵が閉まっている様だ)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (Hmm... It seems like this\nplace is locked.)"
                             ]
                         },
                         {
@@ -9359,31 +9359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「そこは宇堂監督の部屋等があるフロアですね。"
+                                "\\n<Sawa>That area is the floor where Director Udo's room\nand others are located. If it's locked, you can't\nenter without the key that Director Udo has..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "施錠されていた場合、宇堂監督が持つ鍵がないと入れませんね…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「なるほど……監督の部屋の他にも、別な部屋がある言い方だね？」"
+                                ""
                             ]
                         },
                         {
@@ -9400,14 +9383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「…そうですね。 監督の部屋の他にベッドルームや浴場施設、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は\\C[2]モニタールーム\\C[0]等があります」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] I see... So there are other\nrooms besides the director's room, is that what\nyou're saying?"
                             ]
                         },
                         {
@@ -9424,7 +9400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「モニタールーム？」"
+                                "\\n<Sawa>...Yes, that's right. Besides the director's room,\nthere are bedrooms, bathing facilities, and also a\nmonitoring room, among other things."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9441,14 +9424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「館の中に設置された監視カメラの映像を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこで一括管理しているみたいです」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Monitoring room?"
                             ]
                         },
                         {
@@ -9465,7 +9441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「すると……僕らの行動は筒抜けって事にならないか？」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] It seems like they centrally\nmanage the footage from surveillance cameras\ninstalled inside the mansion there."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9482,14 +9465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「そうですね……でも基本的に、昼から夜にかけては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モニタールームにはいないと思います」"
+                                "\\n<Sonoda Kohei>So... does that mean our actions will be\ncompletely exposed?"
                             ]
                         },
                         {
@@ -9506,31 +9482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「今も音々と行動を共にしているはずですし、"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Yes, that's right... But\ngenerally, I don't think we're in the monitoring\nroom during the day and night."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "録画データを見るにしても音々の行動範囲内でしょうから…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「ふむ……なるほどね」"
+                                ""
                             ]
                         },
                         {
@@ -9547,38 +9506,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](逆に言えば行動するのは昼から夜にかけて行えば、"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Minato Neon and I should\nstill be together, so even if we were to watch the\nrecorded data, it would be within Minato Neon's\nrange of activities..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "比較的安全という事になるのか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](それに何とかモニタールームに入る事が出来れば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆にこちらから監視する事も可能か…)"
+                                ""
                             ]
                         },
                         {
@@ -9595,14 +9530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「此処の鍵は宇堂監督が持っていると言ったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スペアキーは存在するのかい？」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Hmm... I see."
                             ]
                         },
                         {
@@ -9619,7 +9547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「どうでしょう……そんな話は…――――あっ！ ただ…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (If we were to put it the\nother way around, if we carry out our actions from\ndaytime to nighttime, it would be relatively safe,\nright?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9636,14 +9571,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「\\C[2]マスターキー\\C[0]を館内のどこかで失くしてしまって"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (If we can somehow manage to\nenter the monitoring room, would it be possible\nfor us to monitor from there as well?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "面倒だとか何とか……以前、私達の前でぼやいてましたね」"
+                                ""
                             ]
                         },
                         {
@@ -9660,14 +9595,79 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「そうか、マスターキーが存在するのか。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] I heard that Director Udo has\nthe key to this place, but is there a spare key?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう、サワ！ 有益な情報だよ！」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Well... about that... Oh!\nJust..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Regarding the \\C[2] master\nkey, \\C[0] seems to have lost it somewhere inside\nthe mansion and was complaining about how\ntroublesome it is... They mentioned it in front of\nus before."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] I see, so there is a master\nkey. Thank you, Sawa! That's valuable information!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9838,14 +9838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](…施錠されている。"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F](...It's locked. If we can find\n\\C[2] the master key \\C[0], we can open it...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]マスターキー\\C[0]が見つかれば開けられるんだが…)"
+                                ""
                             ]
                         },
                         {
@@ -9925,14 +9925,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「よし、開いたぞ。"
+                                "\\n<Sonoda Kohei>Alright, it's open. When we come back, we must\nremember to lock it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "戻った時は、鍵を掛け忘れないようにしないとな…」"
+                                ""
                             ]
                         },
                         {
@@ -10142,7 +10142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「あ……今、ランプを点けますね」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Ah... I'll turn on the lamp\nnow."
                             ]
                         },
                         {
@@ -10180,14 +10180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「あれ……いいのか？"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Huh... Is it okay? If we turn\non the lamp, there's a higher chance of being\ndiscovered..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ランプなんか点けてたら見つかってしまう可能性が高まるんじゃ…」"
+                                ""
                             ]
                         },
                         {
@@ -10204,14 +10204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「………ま、まぁ……ササっと通っちゃいましょう！"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] ...W-Well... Let's quickly\npass through! It'll be fine, we won't be found\neasily!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫っ、そうそう見つかりませんって！」"
+                                ""
                             ]
                         },
                         {
@@ -10246,7 +10246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「………」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -10263,7 +10263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「サワって意外と大胆なトコがあるよな…」"
+                                "\\n<Sonoda Kohei>Sawa, you surprisingly have a bold side, don't\nyou..."
                             ]
                         },
                         {
@@ -10280,7 +10280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]\\MM[jump]「えっ………あっ！？ な、何を思い出してるんですかっ！」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF]\\MM[jump] Eh... Ah!? W-What\nare you remembering?!"
                             ]
                         },
                         {

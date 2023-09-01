@@ -1501,14 +1501,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Um... I'm okay with that kind of thing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#「あの……そういうの結構ですから…」"
+                                ""
                             ]
                         },
                         {
@@ -1542,7 +1542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「じゃ、そういう事で…」"
+                                "\\n<Minato Neon>Well, in that case..."
                             ]
                         },
                         {
@@ -1589,7 +1589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…そう言うと、彼女は足早に去って行った。"
+                                "...Saying that, she quickly left."
                             ]
                         },
                         {
@@ -1606,7 +1606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「………」"
+                                "\\n<Sonoda Kohei>「.........」"
                             ]
                         },
                         {
@@ -1653,7 +1653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「！？」"
+                                "\\n<Minato Neon>「！？」"
                             ]
                         },
                         {
@@ -1670,7 +1670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕は彼女を追い抜き再び対峙する。"
+                                "I overtook her and confronted her again."
                             ]
                         },
                         {
@@ -1687,7 +1687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「僕は決して怪しい者じゃ……それに、ナンパとかでもなくて…」"
+                                "\\n<Sonoda Kohei>I'm definitely not a suspicious person... And it's\nnot like I'm trying to pick up girls or\nanything..."
                             ]
                         },
                         {
@@ -1704,14 +1704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャケットのポケットというポケットを\\r[弄,まさぐ]り名刺入れを探すも"
+                                "I start to panic as I fumble around with the\npockets of my jacket, desperately searching for my\nbusiness card holder, but it's nowhere to be\nfound."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "一向に見つからず、しどろもどろになりながら僕は焦り始める。"
+                                ""
                             ]
                         },
                         {
@@ -1764,7 +1764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……新手のパフォーマー？」"
+                                "\\n<Minato Neon>...A novice performer?"
                             ]
                         },
                         {
@@ -1781,76 +1781,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「違うわっ！ あ、あれっ？ おかしいな…。"
+                                "\\n<Sonoda Kohei>No, that's not it! Huh? That's strange... I always\nkeep it in my inner pocket, but... Ah!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもは内ポケに入れてあるんだが………あっ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(しまった……今日は完全オフの日だった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名刺入れはホテルに置きっぱか…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出張に来てから初めての休日という事もあり、ぶらり駅前一人旅中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だった事を思い出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!どうやら……この思わぬ再会に、僕は舞い上がっていたらしい。"
+                                "\\n<Sonoda Kohei>Damn it... Today was supposed to be my day off...\nI left my business card holder at the hotel..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1867,7 +1829,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……まぁ、お前も頑張れよ」"
+                                "I remember that it was my first day off since\ncoming on a business trip, and I was taking a\nleisurely solo trip around the station. It seems\nthat... I was getting excited by this unexpected\nreunion."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>...Well, you do your best too."
                             ]
                         },
                         {
@@ -1914,7 +1914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「あっ…」"
+                                "\\n<Sonoda Kohei>Ah..."
                             ]
                         },
                         {
@@ -1931,7 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕の肩をポンと叩くと彼女は走り去ってしまった…。"
+                                "She tapped my shoulder and ran away..."
                             ]
                         },
                         {
@@ -1948,31 +1948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(まぁ……慌ただしかった前回と違って今回は時間だけはあるし、"
+                                "\\n<Sonoda Kohei>(Well... Unlike last time when things were hectic,\nthis time I have plenty of time, so there should\nbe plenty of opportunities.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いくらでも機会はあるはずだ)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(次はちゃんと手順を踏んで……ん？)"
+                                ""
                             ]
                         },
                         {
@@ -1989,21 +1972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……何やら周囲からの視線を感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そりゃそうだ……傍から見たらナンパ男の撃沈劇だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人立ち尽くす僕は、さぞ滑稽な姿に見えるだろう。"
+                                "\\n<Sonoda Kohei>(Next, I'll follow the proper procedure... Huh?)"
                             ]
                         },
                         {
@@ -2020,7 +1989,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(違う僕はナンパなんてしてない……そんな目で見ないでくれ…)"
+                                "I can feel the gaze from my surroundings. Well,\nthat's to be expected... From an outsider's\nperspective, it must look like a failed attempt at\npicking up someone. Standing there alone, I must\nlook quite ridiculous."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2037,7 +2020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「………」"
+                                "\\n<Sonoda Kohei>(No, I'm not trying to pick up anyone... Please\ndon't look at me like that...)"
                             ]
                         },
                         {
@@ -2054,14 +2037,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……自分がいたたまれなくなった僕は、"
+                                "\\n<Sonoda Kohei>「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逃げる様にその場を後にしたのだった…。"
+                                "And then... unable to bear it any longer, I fled\nfrom that place as if running away..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2097,21 +2097,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Four months ago... When I was staying at the\nbusiness trip destination for about three days for\nvarious procedures, I met her."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#四か月前……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#各種手続きの為、三日間ほど出張先に滞在した時に彼女と出会った。"
+                                ""
                             ]
                         },
                         {
@@ -2135,28 +2135,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#…本当に一目惚れだった。"
+                                "\\#...It was truly love at first sight. I happened\nto see her playing the guitar in front of the\nstation, and I just stopped by out of curiosity.\nBut... before I knew it, I was captivated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#駅前で弾き語っていた彼女を見かけ、仕事柄何となく足を止めただけだった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#だが……気付いた時には僕は魅了されていた。"
+                                ""
                             ]
                         },
                         {
@@ -2180,21 +2180,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "People who were touched by the same strings as me\nalso stopped in their tracks, in the cold sky\nwhere \\# snow began to fall... Everyone was\ncaptivated by her singing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#僕と同じ様に琴線に触れたのだろう人達も足を止め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#雪が降り始めた寒空の中……皆、彼女の歌に聴き入っていた。"
+                                ""
                             ]
                         },
                         {
@@ -2211,21 +2211,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#...I closed my eyes. And then... your figure\nsinging in front of a large crowd became clear in\nmy mind's eye."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#…僕は目を閉じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#すると……大観衆の前で歌う君の姿がハッキリと目に浮かんだ。"
+                                ""
                             ]
                         },
                         {
@@ -2242,21 +2242,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I was too embarrassed to say this to you in the\nend, \\#, but at that time... I had a premonition\nof your shining future."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#これはとても恥ずかしくて結局君に言えなかったけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#あの時……君の輝ける未来を僕は予感したんだ。"
+                                ""
                             ]
                         },
                         {
@@ -2658,28 +2658,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女は今、何をしているだろうか？"
+                                "I wonder what she is doing now? Is she lying in\nbed just like me? And... I hope she is sleeping\npeacefully."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ様に床に就けているだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!そして……安心して、眠れているだろうか？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2696,14 +2696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっと隣にいたのに今はそれが叶わない。"
+                                "Even though we were always together, now it feels\nlike that is no longer possible. Even though we\nare in the same mansion, I feel a distance greater\nthan just physical distance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "同じ館に居るというのに物理的距離以上の距離を感じてしまう。"
+                                ""
                             ]
                         },
                         {
@@ -2720,28 +2720,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会って話がしたい……今なら……今なら言えそうな気がする。"
+                                "I want to meet and talk... Now... I feel like I\ncan say it now. You, who shines brighter every\nday, are so dazzling that it makes me, an ordinary\nperson, feel inferior... There are words that I\nhaven't been able to convey because of my\ninferiority complex."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!凡庸な自分には、日々輝きを増していく君が余りにも眩しくて…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "劣等感からずっと伝えられなかった言葉があるんだ。"
+                                ""
                             ]
                         },
                         {
@@ -2776,14 +2776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Since that time, I have always..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#あの頃からずっと、僕は君に――――…"
+                                ""
                             ]
                         },
                         {
@@ -2837,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「へぇ……凄いもんだ。 結構な稼ぎになるんだな」"
+                                "\\n<Sonoda Kohei>Wow... That's amazing. It seems like it can earn\nquite a lot."
                             ]
                         },
                         {
@@ -2854,14 +2854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "空のベースケースに投げ込まれた“おひねり”を巾着袋に詰め、"
+                                "Neon, who had thrown the tip into the piggy bank\nin the empty base case and finished preparing to\ngo home, stood up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "残りの帰り支度を済ませた音々は立ち上がる。"
+                                ""
                             ]
                         },
                         {
@@ -2896,7 +2896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ふふっ、今日は夕食にコロッケを付けられるぞ」"
+                                "\\n<Minato Neon>Hehe, today I'll have croquettes with dinner."
                             ]
                         },
                         {
@@ -2913,7 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「えっ……割と切羽詰まってるんだな…」"
+                                "\\n<Sonoda Kohei>Huh... It seems like you're quite desperate..."
                             ]
                         },
                         {
@@ -2930,7 +2930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「活動資金にバイト代のほとんどを持ってかれるからな…」"
+                                "\\n<Minato Neon>Most of my part-time job earnings go towards\nactivity funds..."
                             ]
                         },
                         {
@@ -2947,117 +2947,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そりゃそうか……楽器の維持費に箱代もろもろ。"
+                                "Well, that's true... There are instrument\nmaintenance costs and case fees. Generally, there\nis a perception that student band members are\npoor. Especially since she was living alone, it\nwas even more so."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一般的に、学生バンドマン＝貧乏というイメージはどこかある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ましてや彼女は一人暮らしの身だったから尚更だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……飯でも食べに行くか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だか彼女の夕飯事情に泣けてきて思わず誘ってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に他意は無かったのだが、そう捉えられても仕方が無いだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「何っ？！ 勿論、おごりなんだろうなっ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…思いのほか音々が乗ってきたので戸惑ってしまったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナンパ男とは思われなかった様でホッと胸を撫で下ろす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!身分を隠し、一年近く通い詰めて少しは信頼を得られたのだろうか？"
+                                ""
                             ]
                         },
                         {
@@ -3074,7 +2978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「なぁ……私がお店を選んでいいか？」"
+                                "\\n<Sonoda Kohei>......Do you want to go grab a meal?"
                             ]
                         },
                         {
@@ -3091,7 +2995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「ん……あぁ、構わないが…」"
+                                "I couldn't help but feel sorry for her dinner\nsituation, so I unintentionally invited her. I\nreally didn't mean anything else, but I guess it\ncan be interpreted that way."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3108,14 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(まぁ……信頼を得られた事が分かった記念と思えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この程度の出費は安いモンだろう)"
+                                "\\n<Minato Neon>What?! Of course, you're treating me, right?!"
                             ]
                         },
                         {
@@ -3132,14 +3036,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別に大した稼ぎがある訳でも無いが……無趣味な上に物欲も余り"
+                                "...I was surprised when Neon unexpectedly got on,\nbut I was relieved that she didn't think I was\ntrying to pick her up. I wonder if I've been able\nto gain some trust by hiding my identity and going\nthere for almost a year?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "無かったおかげで、それなりの蓄えはあった。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3156,14 +3074,96 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから僕は気が大きくなっていたのだろう。"
+                                "\\n<Minato Neon>Hey... Can I choose the restaurant?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女がどんな名物店に連れて行ってくれるのか楽しみであった。"
+                                "\\n<Sonoda Kohei>Hmm... Ah, I don't mind..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>(Well... If I think of it as a commemoration of\nrealizing that I have gained trust, this level of\nexpense is cheap.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I don't really have a significant income... But\nthanks to not having any hobbies and not having\nmuch desire for material things, I had some\nsavings."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Therefore, I had become excited. I was looking\nforward to what kind of famous restaurant she\nwould take me to."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3233,7 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「………」"
+                                "\\n<Sonoda Kohei>「.........」"
                             ]
                         },
                         {
@@ -3268,7 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ふふっ、外食なんて久しぶりだ♪」"
+                                "\\n<Minato Neon>Hehe, it's been a while since I've eaten out♪"
                             ]
                         },
                         {
@@ -3285,7 +3285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(なに……なんなのこの娘……泣かせにきてんの？)"
+                                "\\n<Sonoda Kohei>(What... what's with this girl... is she here to\nmake me cry?)"
                             ]
                         },
                         {
@@ -3302,31 +3302,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「えっと……いいのか？"
+                                "\\n<Sonoda Kohei>Um... Is it okay? Since it's a special occasion,\nhow about going to a local restaurant known for\nits delicious food?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "せっかくなんだし、もっと地元特有の美味い店とか…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ん……どうした？ 早く行こう！」"
+                                ""
                             ]
                         },
                         {
@@ -3343,7 +3326,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(まぁ……僕も好きだけど。 週に２～３回は通ってるし…)"
+                                "\\n<Minato Neon>Hmm... What's wrong? Let's go already!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>(Well... I like it too, but I go there 2-3 times a\nweek...)"
                             ]
                         },
                         {
@@ -3431,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「色々とあるんだな……何にしようか悩むな…」"
+                                "\\n<Minato Neon>There are so many options... I'm not sure what to\nchoose..."
                             ]
                         },
                         {
@@ -3448,31 +3448,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかめっ面をした音々がメニューとにらめっこしていた。"
+                                "Minato Neon, with a frowning face, was staring at\nthe menu. They seemed to be greatly troubled about\nwhat to eat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何を食すか大変悩んでおられるご様子だ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「定食関連は魅力的なんだが、牛丼の口になってるんだよな…」"
+                                ""
                             ]
                         },
                         {
@@ -3489,7 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「トッピングも選べるらしいぞ」"
+                                "\\n<Minato Neon>The set meals are tempting, but I feel like having\nbeef bowl..."
                             ]
                         },
                         {
@@ -3506,7 +3489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「なんだと……ぬぐぐぐ…」"
+                                "\\n<Sonoda Kohei>It seems like you can choose the toppings too."
                             ]
                         },
                         {
@@ -3523,14 +3506,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…もう暫く時間がかかりそうだ。"
+                                "\\n<Minato Neon>What did you say... nuguuuguu..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はスマホを取り出し、とりあえず暇を潰す事にした。"
+                                "...It seems like it will take a while longer. I\ntook out my smartphone and decided to kill time\nfor now."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3600,31 +3600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「よし、牛丼の大盛に決めたぞ。 シンプルイズベストだ。"
+                                "\\n<Minato Neon>Alright, I've decided on the large beef bowl.\nSimple is best. What will Sonoda-san order?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "園田さんは何を頼むんだ？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「僕は並かな……あ、卵も付けようかな」"
+                                ""
                             ]
                         },
                         {
@@ -3641,7 +3624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「……は？ 並って……牛丼の並盛という事か？」"
+                                "\\n<Sonoda Kohei>I'll have the regular... Oh, maybe I'll add an egg\ntoo."
                             ]
                         },
                         {
@@ -3658,7 +3641,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「え……そうだけど……じゃあ、店員さんを呼ぶね」"
+                                "\\n<Minato Neon>...Huh? Are you saying we have to line up... for a\nregular-sized beef bowl?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>Huh... well... then, let's call the waiter."
                             ]
                         },
                         {
@@ -3711,7 +3711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ちょっと待てっ！」"
+                                "\\n<Minato Neon>Wait a minute!"
                             ]
                         },
                         {
@@ -3740,38 +3740,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼の形相をした音々の手が、呼び出しボタンへ伸ばした僕の手を"
+                                "Minato Neon, with a fierce expression, grabbed my\nhand as I reached for the call button."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "押さえつける。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「園田さんは特盛な？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し\\r[痩,や]せ気味なんだから沢山食べないと…」"
+                                ""
                             ]
                         },
                         {
@@ -3788,14 +3764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「なんでだよ、僕はいつも並盛なんだ。"
+                                "\\n<Minato Neon>Sonoda-san, are you getting the large serving?\nYou're a bit on the skinny side, so you should eat\na lot..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいから放せ……ぬぐおっ？！ なんて力だ…」"
+                                ""
                             ]
                         },
                         {
@@ -3812,14 +3788,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…音々の指先が手の甲にめり込む。"
+                                "\\n<Sonoda Kohei>Why is that? I always get the regular size. Let\ngo... huh?! What strength..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボタンの直前で僕の手は静止し、ピクリとも動かせなかった。"
+                                "...Neon's fingertips sank into the back of my\nhand. Just before pressing the button, my hand\nstopped and couldn't move even a bit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3848,7 +3848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「痛たたたっ……の、残したら悪いだろうがっ…」"
+                                "\\n<Sonoda Kohei>Ouch... It's not good to leave bruises, you\nknow..."
                             ]
                         },
                         {
@@ -3865,7 +3865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「だって……」"
+                                "\\n<Minato Neon>But..."
                             ]
                         },
                         {
@@ -3882,7 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「\\}うわぁ……男より上のサイズとか大食い女乙(笑 とか思われるだろうがっ！\\{」"
+                                "\\n<Minato Neon>Uwaa... They'll probably think I'm a big eater or\nsomething, being a girl and ordering a size bigger\nthan the guys! (laughs)"
                             ]
                         },
                         {
@@ -3899,7 +3899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「そんなの店員さんは一々気にしないって…」"
+                                "\\n<Sonoda Kohei>The waiter doesn't really care about that kind of\nthing..."
                             ]
                         },
                         {
@@ -3916,7 +3916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「私が気にするんだ。 オーダーは私がするからな」"
+                                "\\n<Minato Neon>I'll take care of the order because I'm the one\nwho's concerned."
                             ]
                         },
                         {
@@ -3986,31 +3986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「牛丼の大盛と特盛に卵を二つ。"
+                                "\\n<Minato Neon>I'll have a large serving and a special serving of\nbeef bowl with two eggs. Oh, and also one regular\nserving for takeout, please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、それとテイクアウトで並盛を一つお願いします」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<店員>「かしこまりましたぁ～。 オーダー入りまぁ～す…」"
+                                ""
                             ]
                         },
                         {
@@ -4027,14 +4010,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(コイツ……しれっと自分用の卵を追加した上、"
+                                "\\n<Shop Assistant>Understood~. We have received your order..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "弁当まで頼みやがった…)"
+                                "\\n<Sonoda Kohei>(This guy... not only casually added extra eggs\nfor himself, but also ordered a bento...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4087,7 +4087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ふふっ、牛丼なんて久しぶりだ♪」"
+                                "\\n<Minato Neon>Hehe, it's been a while since I had beef bowl♪"
                             ]
                         },
                         {
@@ -4104,7 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「………」"
+                                "\\n<Sonoda Kohei>「.........」"
                             ]
                         },
                         {
@@ -4121,14 +4121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(はぁ……それは反則だよ。"
+                                "\\n<Sonoda Kohei>(Sigh... That's unfair. If you show me that\nexpression, I won't be able to say anything...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんな表情を見せられたら、何も言えなくなるじゃないか…)"
+                                ""
                             ]
                         },
                         {
@@ -4228,38 +4228,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ごちそうさまでした♪"
+                                "\\n<Minato Neon>Thank you for the meal♪ I feel bad for having you\nbuy souvenirs for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お土産まで買って貰っちゃって何だか悪いな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(それはお前が勝手に頼んだモノだろが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、まぁ……それはもういい…)"
+                                ""
                             ]
                         },
                         {
@@ -4276,14 +4252,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……ここらがタイミングじゃないか？"
+                                "\\n<Sonoda Kohei>(That's something you ordered on your own, right?\nWell, um... it's fine now...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だか食べ物で釣った感は否めないが……そこは目を\\r[瞑,つむ]ろう)"
+                                "\\n<Sonoda Kohei>(......Isn't this the perfect timing? I can't deny\nthat it feels like you're luring me with\nfood...but I'll just close my eyes to that.)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4336,7 +4336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「今日はありがとう。 じゃあ、また次の路上ライブで…」"
+                                "\\n<Minato Neon>Thank you for today. Well then, see you at the\nnext street live..."
                             ]
                         },
                         {
@@ -4383,7 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……ちょっと待ってくれ！」"
+                                "\\n<Sonoda Kohei>...Wait a minute!"
                             ]
                         },
                         {
@@ -4400,14 +4400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…音々の背中に声をかける。"
+                                "I called out to Neon from behind. My voice might\nhave gotten a little louder."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと声が上ずってしまったかもしれない。"
+                                ""
                             ]
                         },
                         {
@@ -4442,7 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「なんだ……？ 今更、この弁当は返さないぞ…」"
+                                "\\n<Minato Neon>What...? I'm not giving back this bento now..."
                             ]
                         },
                         {
@@ -4459,7 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「ンな事するかっ！ いや、そうじゃなくて…」"
+                                "\\n<Sonoda Kohei>I won't do such a thing! No, that's not it..."
                             ]
                         },
                         {
@@ -4476,31 +4476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「ゴホンっ……失礼。"
+                                "\\n<Sonoda Kohei>Ahem... Excuse me. I've been silent until now, but\nI am this kind of person..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今まで黙っていましたが、私はこういう者で…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時渡せなかった名刺を彼女に手渡す。"
+                                ""
                             ]
                         },
                         {
@@ -4517,7 +4500,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「\\r[尾道,おのみち]……プロダクション？」"
+                                "Handing over the business card that I couldn't\ngive her at that time."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>\\r[ Production...?"
                             ]
                         },
                         {
@@ -4546,14 +4546,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……湊 音々さん。"
+                                "\\n<Sonoda Kohei>...Minato Neon-san, I... came here to scout you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は……あなたをスカウトしに来ました」"
+                                ""
                             ]
                         },
                         {
@@ -4848,21 +4848,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\# I want to deliver your song to the world... Let\nme... No, allow me to help with that!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#「君の歌を世界へ届けたい――――…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#私に……いや、僕にその手伝いをさせてくれさいっ！」"
+                                ""
                             ]
                         },
                         {
@@ -4896,7 +4896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(うわぁぁぁぁぁァァっ！！ かんだぁぁぁァァァァッ！！)"
+                                "\\n<Sonoda Kohei>(Uwaaaaaahhh!! I bit ittttt!!)"
                             ]
                         },
                         {
@@ -4913,7 +4913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「くれさい…」"
+                                "\\n<Minato Neon>Please give it to me..."
                             ]
                         },
                         {
@@ -4930,7 +4930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「下さい……です…」"
+                                "\\n<Sonoda Kohei>Please give it to me..."
                             ]
                         },
                         {
@@ -4947,38 +4947,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、やっぱ馴れ馴れしいかな……と直前でビビッてしまい、"
+                                "No, maybe it was too familiar... I got scared at\nthe last moment and ended up forcefully changing\ndirection while talking. It was a line I had\npracticed over and over again, my special line..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "喋りながら無理に方向転換した事が災いした。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "繰り返し何度も練習していた、とっておきの台詞だったのに…。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「いや……方言という可能性も…」"
+                                ""
                             ]
                         },
                         {
@@ -4995,7 +4978,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「じゃあ、その方向で…」"
+                                "\\n<Minato Neon>No... There's also the possibility of it being a\ndialect..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>Well then, in that direction..."
                             ]
                         },
                         {
@@ -5048,7 +5048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ぷフっ――――…そんな訳ないだろ」"
+                                "\\n<Minato Neon>Puff... There's no way that's true."
                             ]
                         },
                         {
@@ -5065,14 +5065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(くっ……コイツ……恥を忍んでフォローに乗ってやったというのに"
+                                "\\n<Sonoda Kohei>(Ku... This person... I endured the embarrassment\nand tried to support them, but they betrayed me in\nseconds...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "秒で裏切りやがった…)"
+                                ""
                             ]
                         },
                         {
@@ -5160,7 +5160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「じゃあ、また……今日はありがとな」"
+                                "\\n<Minato Neon>Well then, see you again... Thanks for today."
                             ]
                         },
                         {
@@ -5207,7 +5207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軽く手を振り、音々は小走りで駅の構内へと消えていった。"
+                                "Neon waved her hand lightly and disappeared into\nthe station premises with a quick run."
                             ]
                         },
                         {
@@ -5224,7 +5224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「………」"
+                                "\\n<Sonoda Kohei>「.........」"
                             ]
                         },
                         {
@@ -5241,45 +5241,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女の返答は“時間をくれ”との事だった。"
+                                "Her response was Give me time. Well, that's\nunderstandable. She's still a student and has\nplenty of options for the future. It's not easy\nfor someone to make a quick decision to live based\non their special skills."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そりゃそうだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女はまだ学生で、将来の選択肢はいくらでもある。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "特技で生きて行こうと即決出来る人間はそうはいないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……一先ず連絡待ちかな)"
+                                ""
                             ]
                         },
                         {
@@ -5296,14 +5279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやく進展した事に胸を撫で下ろすも、僕は内心焦っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街での一年という出張期間が、残りひと月を切っていたのだ。"
+                                "\\n<Sonoda Kohei>(......I guess I'll wait for a contact for now)"
                             ]
                         },
                         {
@@ -5320,14 +5296,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(慎重になり過ぎたか……いや、違うか。"
+                                "Finally, I felt relieved by the progress that had\nbeen made, but deep down, I was anxious. The\nbusiness trip period of one year in this town was\ncoming to an end in less than a month."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……スカウトとしては駄目なんだろうな…)"
+                                "\\n<Sonoda Kohei>(Maybe I've been too cautious... No, that's not\nit. This... is probably not good as a scout...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5356,28 +5356,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#……ただ純粋に、彼女と過ごす僅かな時間が楽しかった。"
+                                "\\#...I think I was just purely enjoying the little\ntime I spent with her. \\#I was scared of losing\nthat little time. \\#\\! I think this feeling of\nloss that was born in my heart... maybe, that's\nwhat it is."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#その僅かな時間を失うのが怖かったのだと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\!この胸の内に生まれた喪失感は……たぶん、そういう事なんだ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5436,45 +5436,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引継ぎを視野に入れなければならない時期に差し掛かり、"
+                                "During a time when I have to consider the\nhandover, my free time is being reduced by \\r[\ndays."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自由に動ける時間が\\r[日毎,ひごと]に削られていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも何とか時間をやり繰りし駅前広場へと向かうも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの日以降……彼女の定位置である広場の片隅から、その姿だけが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポッカリと抜け落ちていた。"
+                                ""
                             ]
                         },
                         {
@@ -5491,45 +5460,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(今日もいない……何かあったのか？"
+                                "After somehow managing to arrange my schedule, I\nheaded towards the plaza in front of the station.\nHowever, ever since that day... from the corner of\nthe plaza, which was her usual spot, only her\nfigure was noticeably missing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんな事なら連絡先ぐらい聞いておくんだった…)"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……少し楽観的だったのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直ぐに何かしらの連絡が来るものだと決めつけていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名刺を渡しただけで満足していた自分の浅はかさに呆れてしまう。"
+                                ""
                             ]
                         },
                         {
@@ -5546,14 +5491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(いや……もしかしたら、これが彼女が出した答えなのかもしれない。"
+                                "\\n<Sonoda Kohei>(She's not here today... Did something happen? If\nonly I had asked for her contact information...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "距離を詰め過ぎて怖がらせてしまったかな…)"
+                                ""
                             ]
                         },
                         {
@@ -5570,21 +5515,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……彼女のいない駅前広場を見渡す。"
+                                "I might have been a little too optimistic. I had\nassumed that I would receive some kind of contact\nright away. I'm disgusted with my own shallowness,\nbeing satisfied with just handing over my business\ncard."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すると……あのスペースで二人組のバンドマンらしき男達が"
+                                "\\n<Sonoda Kohei>(No... Maybe this is her answer. Perhaps I scared\nher by getting too close...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "路上ライブをするのだろう、その準備を始めていた。"
+                                "I looked out over the empty plaza in front of the\nstation. And then... I saw two men who seemed to\nbe band members setting up for a street live\nperformance in that space."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5606,28 +5606,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I couldn't bear the sight of that everyday scene,\nas if she had never been there from the\nbeginning... I left the plaza as if escaping."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#まるで……初めからそこに彼女なんか居なかったと思わせる、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ごく日常的なその光景に居たたまれなくなった僕は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#逃げる様に広場を後にした…。"
+                                ""
                             ]
                         },
                         {
@@ -5674,7 +5674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……ッ…」"
+                                "\\n<Sonoda Kohei>...  Note: The ellipsis (...) indicates a pause or\nhesitation in speech."
                             ]
                         },
                         {
@@ -5691,31 +5691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨晩はささやかながら送別会を開いてもらい、"
+                                "Last night, I had a small farewell party and ended\nup drinking a little too much, so now I'm being\nattacked by a slight headache."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し飲み過ぎてしまったせいか軽い頭痛が僕を襲う。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(はぁ……途中で頭痛薬でも買ってくか…)"
+                                ""
                             ]
                         },
                         {
@@ -5732,21 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全ての引継ぎ業務を終わらせ、僕は無事に出張を終える事が出来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日明日は完全オフで後は帰宅するだけなので、昼過ぎまで惰眠を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\r[貪,むさぼ]ってしまったのだ。"
+                                "\\n<Sonoda Kohei>(Sigh... Maybe I should buy some headache medicine\non the way...)"
                             ]
                         },
                         {
@@ -5763,7 +5732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(一年か……あっという間だったな…)"
+                                "I finished all the handover tasks and was able to\nsuccessfully complete my business trip. Today and\ntomorrow are completely off, so all I have to do\nis go home. I indulged in a lazy nap until early\nafternoon."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5780,7 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一年間世話になったホテルを見上げ、心の中で呟く。"
+                                "\\n<Sonoda Kohei>(It's been a year... It feels like it went by in\nan instant...)"
                             ]
                         },
                         {
@@ -5797,7 +5780,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……んじゃ帰るか」"
+                                "I looked up at the hotel that took care of me for\na year and muttered in my heart."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>...Well, I guess I'll go home."
                             ]
                         },
                         {
@@ -5819,45 +5819,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大通りへと出る。"
+                                "I will head towards the main street. When going to\nthe station, I always used the bus, but today I\nwant to walk while indulging in sentimentality."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "駅へ向かう際は、いつもバスを利用していたが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日だけは感傷に浸りながら歩こうと思う。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すると……意気揚々と歩き出した僕を追い抜き、視線の先にあった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "停留所へとバスが停車した。"
+                                ""
                             ]
                         },
                         {
@@ -5874,7 +5850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……走ったら間に合うか？ いや、歩くと決めたんだし…)"
+                                "And then... as I walked confidently, a bus passed\nme and stopped at the bus stop ahead of my gaze."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5891,14 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "“バスは見送る”と固く決め、僕はそのまま歩き続ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがバスは一向に発車せず、僕との距離が縮まっていく。"
+                                "\\n<Sonoda Kohei>(If I run, will I make it? No, I've decided to\nwalk...)"
                             ]
                         },
                         {
@@ -5915,21 +5891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(フッ……分かっているぞ。 これは走っていっても直前でドアを"
+                                "Deciding firmly to see off the bus, I continue\nwalking. However, the bus doesn't seem to depart\nat all, and the distance between me and the bus\nkeeps getting closer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "閉められ、再度ドアを開けてもらう事になって乗客と気まずくなる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パターンだ！ その手に乗るかぁッ！)"
+                                ""
                             ]
                         },
                         {
@@ -5946,7 +5915,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<車内アナウンス>「時間調整の為、1分程停車しております。 暫くお待ちください」"
+                                "\\n<Sonoda Kohei>(Hmph... I know. If I run, they'll close the doors\nright before I reach them, and I'll have to\nawkwardly ask them to open them again and become\nthe center of attention among the passengers! I\nwon't fall for that trick!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5963,7 +5946,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(あ、乗ろ)ｽﾝ…"
+                                "\\n<In-car announcement>We will be stopping for about 1 minute for time\nadjustment. Please wait a moment."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>(Ah, I'll get on)... Hm..."
                             ]
                         },
                         {
@@ -6029,7 +6029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「………」"
+                                "\\n<Sonoda Kohei>「.........」"
                             ]
                         },
                         {
@@ -6046,93 +6046,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "土曜の昼過ぎという事もあり、広場はそれなりに賑わっており"
+                                "On a Saturday afternoon, the square was quite\nlively, and I walked through it, looking around."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はその中を歩き辺りを見渡す。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(女々しいかな……でも…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……音々と会いたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "避けられてるのだとしても、せめて挨拶だけはしておきたい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが……いつもの場所は勿論、広場のどこにも彼女の姿は無かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "\\!……挨拶出来ないのは残念だが、落胆はしない。"
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって近い将来きっと出会えるから。"
+                                "\\n<Sonoda Kohei>(Is it feminine... but...)"
                             ]
                         },
                         {
@@ -6149,21 +6087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(僕が何かしなくても音々なら誰かに見つけてもらえるはずだ。"
+                                "I want to meet Neon. Even if she's avoiding me, I\nat least want to greet her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうしたらテレビの前で……いや、もしかしたらウチの誰かが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "共演なんて事も…)"
+                                ""
                             ]
                         },
                         {
@@ -6180,14 +6111,83 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その時は一言謝罪し、昔話でも語らえたらいいな……と"
+                                "However... She was nowhere to be found, not even\nin the usual spot in the square. It's\ndisappointing that I couldn't greet her, but I\nwon't be discouraged. Because I'm sure we'll meet\nin the near future."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕は穏やかな気持ちで広場を後にしたのだった。"
+                                "\\n<Sonoda Kohei>(Even if I don't do anything, someone should be\nable to find Neon. And then, maybe we'll even\nappear together on TV... No, perhaps someone from\nmy family will also be involved...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "At that moment, I apologized briefly and left the\nsquare with a peaceful feeling, hoping that we\ncould have a chat about old times..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6241,7 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肩に掛けたバッグからメール着信音が聞こえた。"
+                                "I heard the sound of a message notification coming\nfrom the bag hanging on my shoulder."
                             ]
                         },
                         {
@@ -6258,14 +6258,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(仕事用のスマホを取り出すには一度荷物を降ろさなきゃいけないし、"
+                                "\\n<Sonoda Kohei>(I have to put down my bag to take out my work\nphone, so maybe I should check it on the train...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "電車の中で確認すればいいか…)"
+                                ""
                             ]
                         },
                         {
@@ -6294,7 +6294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(しつこい……この音はメールだよな？)"
+                                "\\n<Sonoda Kohei>(Persistent... This sound is a message, right?)"
                             ]
                         },
                         {
@@ -6311,7 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「あっ、すみません…」"
+                                "\\n<Sonoda Kohei>Ah, excuse me..."
                             ]
                         },
                         {
@@ -6328,14 +6328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人にぶつかりそうになり謝罪する。 向こうは歩きながらスマホを"
+                                "I almost bumped into someone and apologized. They\nwere playing with their smartphone while walking,\nso technically I didn't have to apologize..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "弄っていたので謝る義理はないんだが…。"
+                                ""
                             ]
                         },
                         {
@@ -6364,7 +6364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(あーもうっ、しつこいな！ 悪戯メールか？！)"
+                                "\\n<Sonoda Kohei>(Ugh, so persistent! Is this a prank message?!)"
                             ]
                         },
                         {
@@ -6381,31 +6381,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通路内に設置されていた腰かけに荷物を下ろし、"
+                                "I set down my belongings on the seat that was\ninstalled in the hallway, and took out my\nsmartphone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕はスマホを取り出す。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(誰だこれ……知らないアドレスだな…)"
+                                ""
                             ]
                         },
                         {
@@ -6422,7 +6405,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……僕は届いたメールを順に確認していく。"
+                                "\\n<Sonoda Kohei>(Who is this... It's an unfamiliar email\naddress...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I started checking the received emails one by one."
                             ]
                         },
                         {
@@ -6439,14 +6439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Where are you right now, \\#?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#いまどこ？"
+                                ""
                             ]
                         },
                         {
@@ -6463,14 +6463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Hey, \\#."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#おーい"
+                                ""
                             ]
                         },
                         {
@@ -6487,14 +6487,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "Ah, there you are."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#あ、いた"
+                                "\\n<Sonoda Kohei>(Huh... No, what is this? It's scary...)"
                             ]
                         },
                         {
@@ -6511,7 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(えっ……やだ何これ怖い…)"
+                                "\\n<Sonoda Kohei>L-Let's pretend we didn't see anything..."
                             ]
                         },
                         {
@@ -6528,7 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「み、見なかった事にしよう…」"
+                                "\\n<？？？>Don't do it, and don't put away your smartphone!"
                             ]
                         },
                         {
@@ -6545,7 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>「するなっ、そしてスマホをしまおうとするなっ！」"
+                                "\\n<Sonoda Kohei>Eek!"
                             ]
                         },
                         {
@@ -6562,31 +6579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「ひぃっ！？」"
+                                "I was suddenly called out and unintentionally let\nout a voice. With fear, I turned around, and\nthere... she was."
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突然声を掛けられ思わず声が出てしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐る恐る僕は振り向くと、そこには……彼女が居た。"
+                                ""
                             ]
                         },
                         {
@@ -6633,7 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ひぃって何だ！ 私を何だと…」"
+                                "\\n<Minato Neon>What the... What do you mean by 'hii' me..."
                             ]
                         },
                         {
@@ -6650,7 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……音々？ いや、これを見ろよ…」"
+                                "\\n<Sonoda Kohei>...Neon? No, look at this..."
                             ]
                         },
                         {
@@ -6667,7 +6667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スマホを彼女へと向け、届いたメールを順に見せていく。"
+                                "I turned my smartphone towards her and showed her\nthe received emails one by one."
                             ]
                         },
                         {
@@ -6684,7 +6684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「えっ……怖っ…――――って私が出したメールじゃないかっ！」"
+                                "\\n<Minato Neon>Huh... scary... Wait, isn't this the email I sent!"
                             ]
                         },
                         {
@@ -6701,7 +6701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「\\{お前かいっ！ 紛らわしいっ！」"
+                                "\\n<Sonoda Kohei>Is it you?! How confusing!"
                             ]
                         },
                         {
@@ -6754,7 +6754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………」"
+                                "\\n<Minato Neon>「.........」"
                             ]
                         },
                         {
@@ -6807,7 +6807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「それにしても“ひぃっ！？”って…」"
+                                "\\n<Minato Neon>By the way, 'hii'... what does that mean?"
                             ]
                         },
                         {
@@ -6824,7 +6824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「言うな……」"
+                                "\\n<Sonoda Kohei>Don't say that..."
                             ]
                         },
                         {
@@ -6894,7 +6894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「よし、じゃあ行くか」"
+                                "\\n<Minato Neon>Alright, then let's go."
                             ]
                         },
                         {
@@ -6911,7 +6911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「行くかって……その荷物は…」"
+                                "\\n<Sonoda Kohei>Are we going... with that luggage..."
                             ]
                         },
                         {
@@ -6928,7 +6928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "音々の足元には大きなキャリーバッグが置かれていた。"
+                                "A large suitcase was placed at Neon's feet."
                             ]
                         },
                         {
@@ -6981,7 +6981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「おい……今更\\r[惚,とぼ]けるなよ？ 無かった事になんかさせないぞ…」"
+                                "\\n<Minato Neon>Hey... don't play dumb about \\r[ now, okay? I\nwon't let you pretend it didn't happen..."
                             ]
                         },
                         {
@@ -6998,7 +6998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「まさか……付いてくる気か？」"
+                                "\\n<Sonoda Kohei>No way... Are you planning to come with me?"
                             ]
                         },
                         {
@@ -7015,21 +7015,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「あぁ、そのつもりだ。"
+                                "\\n<Minato Neon>Ah, that's the plan. I quit school and my part-\ntime job for that purpose, and I even moved out of\nmy house and convinced my parents. It was tough,\nyou know..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その為に学校やバイトも辞め、住まいも引き払い両親も説得した。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大変だったんだぞ…」"
+                                ""
                             ]
                         },
                         {
@@ -7046,7 +7046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「いやいやいやいや――――…それ以前に連絡の一つぐらい…」"
+                                "\\n<Sonoda Kohei>No no no no... Before that, couldn't you have at\nleast contacted me once..."
                             ]
                         },
                         {
@@ -7099,7 +7099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「ビックリさせようかと思って♪」"
+                                "\\n<Minato Neon>I thought I'd surprise you ♪"
                             ]
                         },
                         {
@@ -7116,7 +7116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「なっ……ぐっ…」"
+                                "\\n<Sonoda Kohei>Ngh... guh..."
                             ]
                         },
                         {
@@ -7133,14 +7133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……言葉を失う。"
+                                "I was at a loss for words... Various emotions\noverwhelmed me, and I didn't have time to feel the\njoy of our reunion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "様々な感情が押し寄せ、再会の喜びを感じる暇が無かった。"
+                                ""
                             ]
                         },
                         {
@@ -7157,7 +7157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「色々と文句は言いたいところだが……何故、今日が帰る日だと…」"
+                                "\\n<Sonoda Kohei>There are many complaints I want to make... but\nwhy is today the day you're coming back..."
                             ]
                         },
                         {
@@ -7210,38 +7210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「尾道プロダクションの事務の人に聞いたからに決まってるだろ？"
+                                "\\n<Minato Neon>I heard it from the staff at Onomichi Production,\nso it's definitely decided, right? Oh, make sure\nto coordinate our story later, pretending to be my\ngirlfriend."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あ、彼女を装ったから後で適当に話を合わせてくれよな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それほど大きくもないプロダクションだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう彼女の事は社内に広まっているだろう…。"
+                                ""
                             ]
                         },
                         {
@@ -7258,14 +7234,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「分かった……それも、もういい……。"
+                                "It's not that big of a production. Her story must\nhave already spread within the company..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちなみに聞くが、向こうで泊まれる場所のあてはあるのか？」"
+                                ""
                             ]
                         },
                         {
@@ -7282,7 +7258,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「住むところが決まるまでよろしくな♪ ほら、行くぞ！」"
+                                "\\n<Sonoda Kohei>I understand... Well, that's fine too... By the\nway, do you have a place to stay over there?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>Until I find a place to live, take care of me ♪\nCome on, let's go!"
                             ]
                         },
                         {
@@ -7329,14 +7329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「おいっ、ちょっと待て！ それはどういう――――…"
+                                "\\n<Sonoda Kohei>Hey, wait a minute! What the... hey, Neon!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おいっ、音々っ！」"
+                                ""
                             ]
                         },
                         {
@@ -7372,28 +7372,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#こうして…"
+                                "And so... And so... As spring comes to an end and\nthe cherry blossoms begin to turn green, our story\nbegan with the arrival of summer----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\!桜も緑に色づき始めた春の終わり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#夏の到来と共に僕達の物語が始まった――――…。"
+                                ""
                             ]
                         },
                         {

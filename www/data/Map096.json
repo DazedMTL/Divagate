@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～２F～",
+    "displayName": "Main Building ~2nd Floor~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -6386,7 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いや……実際に入った事は無いが、園田さんの部屋は三階だ)"
+                                "\\n<Minato Neon>Well... I've never actually been inside, but\nSonoda-san's room is on the third floor."
                             ]
                         },
                         {
@@ -7339,7 +7339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「……音々ちゃん？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] ...Neon-chan?"
                             ]
                         },
                         {
@@ -7356,7 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「あ……っと、スマン\\C[2]地下\\C[0]だったな…」"
+                                "\\n<Minato Neon>Ah... um, sorry, it was \\C[2] underground\\C[0]..."
                             ]
                         },
                         {
@@ -7555,7 +7555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いや……実際に入った事は無いが、園田さんの部屋は三階だ)"
+                                "\\n<Minato Neon>Well... I've never actually been inside, but\nSonoda-san's room is on the third floor."
                             ]
                         },
                         {
@@ -7663,7 +7663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……向こう側から鍵がかけられている様だ。"
+                                "It seems like the door is locked from the other\nside."
                             ]
                         },
                         {
@@ -7964,7 +7964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いや……実際に入った事は無いが、園田さんの部屋は三階だ)"
+                                "\\n<Minato Neon>Well... I've never actually been inside, but\nSonoda-san's room is on the third floor."
                             ]
                         },
                         {
@@ -8079,7 +8079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](いや……実際に入った事は無いが、園田さんの部屋は三階だ)"
+                                "\\n<Minato Neon>Well... I've never actually been inside, but\nSonoda-san's room is on the third floor."
                             ]
                         },
                         {
@@ -8734,7 +8734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -8818,7 +8818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -9087,7 +9087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]......Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -9428,7 +9428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]......Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -9512,7 +9512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -9596,7 +9596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]......Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -9684,7 +9684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……古びた鍵はこの扉を開ける為のモノではないようだ。"
+                                "......It seems that the old key is not meant to\nopen this door."
                             ]
                         },
                         {
@@ -9711,7 +9711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems that the door is locked."
                             ]
                         },
                         {
@@ -9968,7 +9968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「……音々ちゃん？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] ...Neon-chan?"
                             ]
                         },
                         {
@@ -9985,7 +9985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「あ……っと、スマン\\C[2]地下\\C[0]だったな…」"
+                                "\\n<Minato Neon>Ah... um, sorry, it was \\C[2] underground..."
                             ]
                         },
                         {
@@ -10109,7 +10109,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](\\C[2]レッスンルーム\\C[0]へ向かおう…)"
+                                "\\n<Minato Neon>Let's head to \\F[\\V[2]] (the \\C[2] lesson room\n\\C[0]...)"
                             ]
                         },
                         {
@@ -10136,14 +10136,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](これまでと同じパターンなら、"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If it's the same pattern as before, we\nshould be able to obtain the \\C[2] card key in the\n\\C[2] hidden passage \\C[0] where treasure chests\nare lined up \\C[0])."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "宝箱が並ぶ\\C[2]隠し通路\\C[0]で\\C[2]カードキー\\C[0]が手に入るはずだ)"
+                                ""
                             ]
                         },
                         {
@@ -10180,14 +10180,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あとは\\C[2]小さな鍵\\C[0]か……\\C[2]地下通路\\C[0]で回っていない所が"
+                                "\\n<Minato Neon>\\F[\\V[2]] (We still need to find a \\C[2]small\nkey\\C[0]... There should be a place we haven't\nexplored yet in the \\C[2]underground passage\\C[0].\nLet's start by searching there)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あったはずだ。 先ずはそちらを探してみよう)"
+                                ""
                             ]
                         },
                         {

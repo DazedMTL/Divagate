@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "隠し部屋",
+    "displayName": "Hidden Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1913,14 +1913,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](しかし……凄い映像だった…。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (But... it was an amazing scene... Is it\nreally possible for something like that to\nhappen?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんなになってしまうものなのか…)"
+                                ""
                             ]
                         },
                         {
@@ -2007,7 +2007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](意外と男勝りなトコがあるキノがあんなに乱れて…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I didn't expect Kino, who usually acts\ntough, to be so wild...)"
                             ]
                         },
                         {
@@ -2015,8 +2015,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…USBを回収する。",
-                                    "…何もしない。"
+                                    "Collecting the USB",
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -2058,7 +2058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[\\V[2]]\\C[2]USB(ハメ撮り動画)\\C[0]を回収した。"
+                                "I collected \\F[\\V[2]]\\C[2]USB (amateur sex\nvideo)\\C[0]."
                             ]
                         },
                         {
@@ -2185,7 +2185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…例のUSBは回収済みだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...The USB in question has already been\ncollected)"
                             ]
                         },
                         {
@@ -2737,14 +2737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はフックの上に模造刀を置いた。"
+                                "I placed a replica sword on the hook. Then, with a\nclinking sound, the hook slowly sank."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "するとカチャンという音と共に、ゆっくりとフックが沈み込む。"
+                                ""
                             ]
                         },
                         {
@@ -2820,7 +2820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「な、なんだ！？」"
+                                "\\n<Minato Neon>\\F[\\V[2]] W-What is it!?"
                             ]
                         },
                         {
@@ -2837,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](水が流れる音がする……それも大量の…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I can hear the sound of water\nflowing... and it's a large amount...)"
                             ]
                         },
                         {
@@ -2854,7 +2854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……部屋を出て確認してみよう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Let's leave the room and check it\nout.)"
                             ]
                         },
                         {
@@ -2895,7 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]模造刀\\C[0]がアイテム欄から削除されました。"
+                                "The replica sword \\C[2] has been removed from the\nitem inventory \\C[0]."
                             ]
                         },
                         {
@@ -3077,7 +3077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](馬の像だ……なぜこんな場所に…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (A statue of a horse... Why is it in a\nplace like this...)"
                             ]
                         },
                         {
@@ -3161,7 +3161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](これは……よく見たら取っ手ではなくて、何かを掛けるフックだな)"
+                                "\\n<Minato Neon>(This... upon closer inspection, it's not a\nhandle, but rather a hook to hang something on.)"
                             ]
                         },
                         {
@@ -3178,14 +3178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…何を掛けるものなんだろうか？"
+                                "\\n<Minato Neon>\\F[\\V[2]](...I wonder what it's meant to hang? It\ndoesn't seem like it's for hangers, considering\nit's installed in a low place...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "低い場所に設置されている事からハンガーの類ではなさそうだが…)"
+                                ""
                             ]
                         },
                         {
@@ -3268,14 +3268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](もしかしたら……掛けるのではなく置くのか？"
+                                "\\n<Minato Neon>(Maybe... instead of hanging it, should I just\nplace it? For example, if it's something long and\nthin, it might fit perfectly...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "例えば、\\C[2]何か細長い物\\C[0]ならピッタリとハマりそうだが…)"
+                                ""
                             ]
                         },
                         {
@@ -3350,7 +3350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この模造刀はもう必要のない物だろう。 たぶん…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I probably don't need this replica\nsword anymore...)"
                             ]
                         },
                         {

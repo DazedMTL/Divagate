@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～１F隠し部屋～",
+    "displayName": "Main Building ~1st Floor Hidden Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1917,7 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](ブサイクな面してやがンな……自分で言うのも何だけど…)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Even though I hate to\nadmit it myself... I have an ugly face...)"
                             ]
                         },
                         {
@@ -2008,7 +2008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](ブサイクな面してやがンな……自分で言うのも何だけど…)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Even though I hate to\nadmit it myself... I have an ugly face...)"
                             ]
                         },
                         {
@@ -2166,7 +2166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](ブサイクな面してやがンな……自分で言うのも何だけど…)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Even though I hate to\nadmit it myself... I have an ugly face...)"
                             ]
                         },
                         {
@@ -2257,14 +2257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](館内のパソコンはイントラネットで繋がっている。"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (The computers inside\nthe building are connected to the intranet. If you\nenter the ID and password, you can watch the\nexclusive collection.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "IDとパスを通せば秘蔵コレクションが視聴可能だ)"
+                                ""
                             ]
                         },
                         {
@@ -2281,14 +2281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](そういえば……ノートパソコンを使った一連の演出は、"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (By the way... the\nwhole performance using the laptop was an idea\nsuggested by a girl named Momo.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "モモとかいう女が出した案だったな)"
+                                ""
                             ]
                         },
                         {
@@ -2709,7 +2709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](ブサイクな面してやがンな……自分で言うのも何だけど…)"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (Even though I hate to\nadmit it myself... I have an ugly face...)"
                             ]
                         },
                         {

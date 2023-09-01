@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "浴場施設",
+    "displayName": "Bathing facility",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6533,31 +6533,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「……絶景だな。 ハァ……こんな状況じゃなければ、"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] ...What a magnificent view.\nHaah... If it weren't for this situation, I would\nwant to leisurely soak in here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりと浸かっていきたいところなんだが…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「そうですね……あ、今度皆で温泉旅行とかいいかもですね♪」"
+                                ""
                             ]
                         },
                         {
@@ -6574,7 +6557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「そうだな……うん、悪くないな…」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] That's true... Oh, how about\nwe all go on a hot spring trip together next\ntime?♪"
                             ]
                         },
                         {
@@ -6591,14 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F](……でもそれは、全てが片付いてからだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、行ってやるぞ温泉旅行！)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] Yeah... Yeah, not a bad\nidea..."
                             ]
                         },
                         {
@@ -6615,7 +6591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「………」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] (...But that's after\neverything is settled. Ah, I'll go on a hot spring\ntrip!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6632,14 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「サワだけでも入っていったらどうだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな恰好をさせられてんだ……\\r[罰,ばち]は当たらないだろう」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -6656,7 +6632,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「えっ……で、でも…」"
+                                "\\n<Sonoda Kohei>How about just Sawa goes in? She's the only one\nbeing forced to dress like that... She shouldn't\nbe punished, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6673,14 +6656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[93]\\AA[F]「僕は行ける範囲で少し見て回ってくるからさ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、ゆっくりとまではいかないけど…」"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] Eh... but, um..."
                             ]
                         },
                         {
@@ -6697,7 +6673,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[62]\\FF[93]\\AA[FF]「………\\!じゃ、じゃあ……すみませんが少しだけ…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[93]\\AA[F] I'll go and take a look around\nwithin my range, okay? So, I won't be able to\nrelax and take my time though..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] ...Um... then... sorry, but\njust for a little bit..."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下教会",
+    "displayName": "Underground Church",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -9525,7 +9525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ここは教会か……あれ？ 地下だったはずなのに…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Is this a church...?\nHuh? It was supposed to be underground..."
                             ]
                         },
                         {
@@ -9542,14 +9542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ンふふ……凄いだろォ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hehe... Isn't it\namazing? We've set up lights behind the stained\nglass to create the illusion of sunlight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ステンドグラスの裏に照明を設置して日差しを演出してるんだよォ」"
+                                ""
                             ]
                         },
                         {
@@ -9573,31 +9573,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「そうなのか……でも、わざわざそんな事をするぐらいなら"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Is that so... But\ninstead of going through all that trouble, they\nshould have just built the church on a higher\nfloor instead of underground..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "地下ではなく上の階に教会を作ればいいのに…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ロマンだよロマン♪ 地下教会って響きが何かいいだろォ？」"
+                                ""
                             ]
                         },
                         {
@@ -9614,7 +9597,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「む……確かに、少し分かる…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Romance, it's all about\nromance♪ Doesn't the sound of an underground\nchurch have a certain charm to it?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Hmm... I can understand\nthat a little..."
                             ]
                         },
                         {

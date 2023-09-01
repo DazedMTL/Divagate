@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "客室 ～テラス～",
+    "displayName": "Guest Room ~Terrace~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4778,14 +4778,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……こ、これは絶景だな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...T-This is an amazing view. So, the\nback side of the mansion is a cliff, huh?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうか、館の裏手側は崖になっているのか)"
+                                ""
                             ]
                         },
                         {
@@ -4960,14 +4960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……こ、これは絶景だな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...T-This is an amazing view. So, the\nback side of the mansion is a cliff, huh?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうか、館の裏手側は崖になっているのか)"
+                                ""
                             ]
                         },
                         {
@@ -5098,14 +5098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ 気のせいか？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (... Huh? Is it just my imagination? It\nfeels like someone is watching me...! No, maybe\nI'm just being paranoid...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "誰かに見られているような……\\!いや、気にし過ぎか…)"
+                                ""
                             ]
                         },
                         {
@@ -5122,14 +5122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](デビューしてからというもの人の視線に対し、"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Since my debut, I might have become a\nlittle sensitive to people's gazes...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し過敏になっているのかもしれないな……)"
+                                ""
                             ]
                         },
                         {

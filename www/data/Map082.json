@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下教会 ～泉の間～",
+    "displayName": "Underground Church ~Spring Chamber~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 22,
@@ -4561,28 +4561,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "It is written on the pages of a book, 'Cleanse the\nsymbol of a dirty man with the holy water of a\nmaiden.'"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#“汚れた男の象徴を乙女の聖水にて清めよ”"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……と書物のページに書かれている。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4676,28 +4676,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "It is written on the pages of a book, 'Cleanse the\nsymbol of a dirty man with the holy water of a\nmaiden.'"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#“汚れた男の象徴を乙女の聖水にて清めよ”"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……と書物のページに書かれている。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5078,7 +5078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………最悪…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] ...The worst..."
                             ]
                         },
                         {
@@ -5095,7 +5095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よりにもよって宇堂監督に“あんな姿”を晒してしまった…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Of all people, I had to expose myself\nlike that in front of Director Udo...)"
                             ]
                         },
                         {
@@ -5112,14 +5112,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ッ……もう帰りたい…。"
+                                "\\n<Minato Neon>\\F[\\V[2]](Ugh... I want to go home already...\nBut... Would it be selfish of me to run away from\nthis \\r[ situation...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも……ここで逃げるのは私の\\r[我儘,わがまま]なのだろうか…)"
+                                ""
                             ]
                         },
                         {
@@ -5136,7 +5136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私は……どうしたらいいの？ 園田さん…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (What should I do... Sonoda-san...)"
                             ]
                         },
                         {
@@ -5220,14 +5220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……そういえば、宇堂監督が去り際に蝋人形のアレを見ろと"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...By the way, Director Udo mentioned\nsomething about looking at the wax figure on his\nway out. Is there still something else?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "言っていたな。 まだ何かあるのか…)"
+                                ""
                             ]
                         },
                         {
@@ -5418,7 +5418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「………最悪…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] ...The worst..."
                             ]
                         },
                         {
@@ -5435,7 +5435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よりにもよって宇堂監督に“あんな姿”を晒してしまった…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Of all people, I had to expose myself\nlike that in front of Director Udo...)"
                             ]
                         },
                         {
@@ -5452,14 +5452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ッ……もう帰りたい…。"
+                                "\\n<Minato Neon>\\F[\\V[2]](...I want to go home already... But...\nWould it be selfish of me to run away from this\n\\r[ situation here...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "でも……ここで逃げるのは私の\\r[我儘,わがまま]なのだろうか…)"
+                                ""
                             ]
                         },
                         {
@@ -5476,7 +5476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私は……どうしたらいいの？ 園田さん…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (What should I do... Sonoda-san...)"
                             ]
                         },
                         {
@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ッ……こんなところにも例の蝋人形が…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](Huh... the usual wax figure is here\ntoo...)"
                             ]
                         },
                         {
@@ -5967,7 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](男の象徴に……乙女の聖水って…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (A symbol of masculinity... the holy\nwater of a maiden...)"
                             ]
                         },
                         {
@@ -5984,14 +5984,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ありゃ……分かり辛かったかなァ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Oh... Was it hard to\nunderstand? The symbol refers to that penis, and\nthe holy water..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "象徴ってのがソコのチンポで、聖水ってのは…」"
+                                ""
                             ]
                         },
                         {
@@ -6015,7 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「言うな……わ、分かってる…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Don't say it... I-I\nunderstand..."
                             ]
                         },
                         {
@@ -6051,7 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](なんなんだコレは……本当にやらなきゃいけない事なのか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What is this... Is this\nreally something I have to do?)"
                             ]
                         },
                         {
@@ -6059,8 +6059,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…書物に書かれていた事を実行する。",
-                                    "…一度、考え直す。"
+                                    "Executing what was written in the book",
+                                    "I'll reconsider it once"
                                 ],
                                 1,
                                 0,
@@ -6198,7 +6198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](なんなんだコレは……本当にやらなきゃいけない事なのか？)"
+                                "\\n<Minato Neon>What is this... Do I really have to do it?"
                             ]
                         },
                         {
@@ -6206,8 +6206,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…書物に書かれていた事を実行する。",
-                                    "…一度、考え直す。"
+                                    "I will carry out what was written in the book",
+                                    "I'll reconsider it once"
                                 ],
                                 1,
                                 0,
@@ -6413,7 +6413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「じゃあ……するから、その…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Well then... I'll do it, so um..."
                             ]
                         },
                         {
@@ -6461,7 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あぁ、分かってる分かってる。 オイラは後ろ向いてるねぇ～」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Ah, I get it, I get it.\nI'll turn around, hehe~"
                             ]
                         },
                         {
@@ -6524,7 +6524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「部屋から出て行けっ！！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Get out of the room!!"
                             ]
                         },
                         {
@@ -6541,7 +6541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「えっ？ じゃあ耳も塞ぐから…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Huh? Then I'll cover my\nears too..."
                             ]
                         },
                         {
@@ -6558,7 +6558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「出て行けっ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Get out of here!"
                             ]
                         },
                         {
@@ -6613,7 +6613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「………どうしても？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] .........Do you really\nwant to?"
                             ]
                         },
                         {
@@ -6630,7 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「しつこいっ、駄目に決まってるだろっ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] You're so persistent,\nit's obviously not going to work!"
                             ]
                         },
                         {
@@ -6654,7 +6654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「分かった、分ったよォ……ちぇえ～…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] I get it, I get it...\nGeez~..."
                             ]
                         },
                         {
@@ -6836,7 +6836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「まったく…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Geez..."
                             ]
                         },
                         {
@@ -6891,14 +6891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ここでするのか……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Are we really doing it here... sigh...\nHow did things end up like this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……何でこんな事になってるんだ…)"
+                                ""
                             ]
                         },
                         {
@@ -7312,7 +7312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](これ以上なんだっていうんだ…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (What more do you want from me...)"
                             ]
                         },
                         {
@@ -7338,7 +7338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「ん……これは？ なにか数字が浮かび上がって…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Hm... What's this? Some numbers are\nfloating up..."
                             ]
                         },
                         {
@@ -7355,7 +7355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](\\C[2]04544\\C[0]……これがパスワードか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]](\\C[2]04544\\C[0]... Is this the\npassword?)"
                             ]
                         },
                         {
@@ -7419,7 +7419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]パスワードの記憶：四日目\\C[0]を手に入れた。"
+                                "Obtained the memory of password: Day 4."
                             ]
                         },
                         {
@@ -7494,7 +7494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](私はここでアレに…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm here for that...)"
                             ]
                         },
                         {
@@ -7576,7 +7576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](男の象徴に……乙女の聖水って…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (A symbol of masculinity... the holy\nwater of a maiden...)"
                             ]
                         },
                         {
@@ -7593,14 +7593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ありゃ……分かり辛かったかなァ？"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Oh... was it hard to\nunderstand? The symbol refers to that penis, and\nthe holy water..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "象徴ってのがソコのチンポで、聖水ってのは…」"
+                                ""
                             ]
                         },
                         {
@@ -7624,7 +7624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「言うな……わ、分かってる…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Don't say it... I-I\nunderstand..."
                             ]
                         },
                         {
@@ -7648,7 +7648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](なんなんだコレは……本当にやらなきゃいけない事なのか？)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What is this... Do I\nreally have to do it?)"
                             ]
                         },
                         {
@@ -7750,7 +7750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「じゃあ……するから、その…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Well then... I'll do it, so um..."
                             ]
                         },
                         {
@@ -7798,7 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あぁ、分かってる分かってる。 オイラは後ろ向いてるねぇ～」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Ah, I get it, I get it.\nI'm facing backwards, you know~"
                             ]
                         },
                         {
@@ -7861,7 +7861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「部屋から出て行けっ！！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Get out of the room!!"
                             ]
                         },
                         {
@@ -7878,7 +7878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「えっ？ じゃあ耳も塞ぐから…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Huh? Then I'll cover my\nears too..."
                             ]
                         },
                         {
@@ -7895,7 +7895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「出て行けっ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Get out of here!"
                             ]
                         },
                         {
@@ -7950,7 +7950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「………どうしても？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] .........Do you really\nhave to?"
                             ]
                         },
                         {
@@ -7967,7 +7967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「しつこいっ、駄目に決まってるだろっ！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] You're so persistent,\nit's obviously not going to work!"
                             ]
                         },
                         {
@@ -7991,7 +7991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「分かった、分ったよォ……ちぇえ～…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] I get it, I get it...\nGeez..."
                             ]
                         },
                         {
@@ -8173,7 +8173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「まったく…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Honestly..."
                             ]
                         },
                         {
@@ -8228,14 +8228,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ここでするのか……。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Are we really doing it here... sigh...\nHow did it come to this...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……何でこんな事になってるんだ…)"
+                                ""
                             ]
                         },
                         {
@@ -8742,14 +8742,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……宇堂監督を外で待たせている。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...I'm making Udo-san wait outside.\nLet's confirm the wax figure thing and then go...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "蝋人形のアレを確認してから行こう…)"
+                                ""
                             ]
                         },
                         {

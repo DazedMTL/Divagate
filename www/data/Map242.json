@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "洋館前",
+    "displayName": "In front of the mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -16149,31 +16149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[99]\\AA[F]「皆、荷物は持ったな？"
+                                "\\n<Sonoda Kohei>Everyone, did you bring your luggage? Be careful\nof your footing because it's dark."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "暗いから足元には気を付けるんだぞ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<三人>\\F[62]\\FF[99]\\AA[FF]「「は～いっ！」」「は、は～い…」"
+                                ""
                             ]
                         },
                         {
@@ -16190,7 +16173,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[99]\\AA[F]「よし、良い返事だ」"
+                                "\\n<Three people>\\F[62]\\FF[99]\\AA[FF] Yes! Y-Yes..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>Alright, that's a good response."
                             ]
                         },
                         {
@@ -16214,7 +16214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「ふふっ、引率の先生みたいだ」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Hehe, you're like a\nchaperone teacher."
                             ]
                         },
                         {
@@ -16231,7 +16231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[F]「音々は大丈夫か？ まだふらつくか？」"
+                                "\\n<Sonoda Kohei>\\FF[\\V[2]]\\F[62]\\AA[F] Is Neon okay? Are you still\nfeeling dizzy?"
                             ]
                         },
                         {
@@ -16255,7 +16255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「少しな……でも歩くぐらいなら問題ない」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] I'm a little... but I can\nwalk without any problems."
                             ]
                         },
                         {
@@ -16279,7 +16279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「………」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -16296,14 +16296,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「ありがとう……本当に……。"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Thank you... truly... If\nyou hadn't come back then... I..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの時、来てくれなかったら今頃……私…」"
+                                ""
                             ]
                         },
                         {
@@ -16320,7 +16320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[F]「音々…」"
+                                "\\n<Sonoda Kohei>\\FF[\\V[2]]\\F[62]\\AA[F] Neon..."
                             ]
                         },
                         {
@@ -16368,31 +16368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「皆も、ありがとう……。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F] Thank you, everyone... and\nI'm sorry... It's like I dragged you all into\nthis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それと、ごめんなさい……私が巻き込んだ様なもんだよな…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>\\F[\\V[2]]\\FF[99]\\AA[FF]「そんな事――――…だって私達は…」"
+                                ""
                             ]
                         },
                         {
@@ -16409,7 +16392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[99]\\AA[F]「いや……その話は落ち着いてからにしよう」"
+                                "\\n<Sawa>\\F[\\V[2]]\\FF[99]\\AA[FF] But... we are..."
                             ]
                         },
                         {
@@ -16426,7 +16409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[99]\\AA[FF]「……だな。 先ずは安全を確保しねーとな」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[99]\\AA[F] No... let's talk about that\nonce things have settled down."
                             ]
                         },
                         {
@@ -16443,7 +16426,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[62]\\FF[99]\\AA[FF]「さんせ～い♪ ずらかんべ！」　"
+                                "\\n<Kino>\\F[62]\\FF[99]\\AA[FF] ......I guess so. First, we\nneed to ensure our safety."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Momo>\\F[62]\\FF[99]\\AA[FF] Attention~! Let's get\nstarted!"
                             ]
                         },
                         {
@@ -16467,7 +16467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[62]\\AA[FF]「あぁ、そうだな……ずらかんべ！」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[62]\\AA[FF] Ah, yeah... let's do our\nbest!"
                             ]
                         },
                         {
@@ -16635,14 +16635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](ようやく皆で館を出る事が出来たな……。"
+                                "\\n<Sonoda Kohei>Finally, we were able to leave the mansion\ntogether... but it's not over yet... until I\nsafely escort them..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だが、まだ終わっていない……彼女達を無事に送り届けるまでは…)"
+                                ""
                             ]
                         },
                         {
@@ -16928,14 +16928,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[99]\\AA[F]「じゃあ……僕と音々は車で待機しておくよ。"
+                                "\\n<Sonoda Kohei>Well then... Neon and I will wait in the car.\nPlease be careful, okay..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くれぐれも気をつけてな…」"
+                                ""
                             ]
                         },
                         {
@@ -16959,7 +16959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「ん……サワ達とは別行動になるのか？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F] Hmm... Are we going to\nsplit up from Sawa and the others?"
                             ]
                         },
                         {
@@ -16976,7 +16976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[\\V[2]]\\FF[99]\\AA[FF]「えぇ、ほんの少しだけね」"
+                                "\\n<Sawa>Yes, just a little bit."
                             ]
                         },
                         {
@@ -16993,7 +16993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -17017,7 +17017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「………何かする気だろう？」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F] .........Do you have\nsomething in mind?"
                             ]
                         },
                         {
@@ -17034,14 +17034,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[\\V[2]]\\FF[99]\\AA[FF]「そうね……私達がやらなきゃいけない事なの。"
+                                "\\n<Sawa>\\F[\\V[2]]\\FF[99]\\AA[FF] Yes... It's something that\nwe have to do. So let me go quietly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だから黙って行かせて…」"
+                                ""
                             ]
                         },
                         {
@@ -17065,7 +17065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -17089,38 +17089,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「よくは分からないが……うん、分かった。"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F] I don't really understand,\nbut... yeah, I got it. I guess I shouldn't go with\nyou."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は付いていっては駄目なんだろうな」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[\\V[2]]\\FF[99]\\AA[FF]「そうだな……ポンされちゃたまンねぇからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だ自覚してたのか……ウチのポンコツ姫は…」"
+                                ""
                             ]
                         },
                         {
@@ -17137,14 +17113,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[\\V[2]]\\FF[99]\\AA[FF]「でも\\r[音々,ネネっち]は、そのままでいいんだよ～？"
+                                "\\n<Kino>\\F[\\V[2]]\\FF[99]\\AA[FF] Yeah... because she's such\na klutz. I wonder if she's even aware of it... my\nclumsy princess..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "完璧超人じゃつまらないよ～」"
+                                "\\n<Kino>But \\F[\\V[2]]\\FF[99]\\AA[FF], Neon, Nene-chan],\nit's okay to stay as you are~? Being a perfect\nsuperhuman is boring~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17168,7 +17168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「つまれ！ 私はポンコツじゃない！」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F] Hey! I'm not a klutz!"
                             ]
                         },
                         {
@@ -17185,14 +17185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「ポンコツはさておき……。"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] Putting aside the\nklutziness... I'm surprised. I thought you would\nresist more."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "意外だな。 もっとゴネるかと思ったのに」"
+                                ""
                             ]
                         },
                         {
@@ -17209,7 +17209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「だから、私を何だと…」"
+                                "\\n<Minato Neon>\\FF[61]\\F[\\V[2]]\\AA[FF] So, what am I to you..."
                             ]
                         },
                         {
@@ -17233,7 +17233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「……まぁ単純に、三人を信頼してるからな」"
+                                "\\n<Minato Neon>Well... simply because I trust the three of you."
                             ]
                         },
                         {
@@ -17250,14 +17250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[\\V[2]]\\FF[99]\\AA[FF]「音々……ありがとう。"
+                                "\\n<Sawa>Neon... Thank you. I'm really glad to have you as\na member of this band♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私……あなたが居るこのバンドのメンバーで本当に良かったわ♪」"
+                                ""
                             ]
                         },
                         {
@@ -17281,7 +17281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[99]\\AA[F]「だろう？ もっと言ってやれ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[99]\\AA[F] Right? Say it more."
                             ]
                         },
                         {
@@ -17298,7 +17298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[\\V[2]]\\FF[99]\\AA[FF]「ふふっ、じゃあ行ってくるね」"
+                                "\\n<Sawa>Hehe, well then, I'm off!"
                             ]
                         },
                         {
@@ -17406,14 +17406,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[\\V[2]]\\FF[65]\\AA[FF]「あ、ちょっと待った……音々、バイクの鍵を寄こせ。"
+                                "\\n<Kino>Hey, wait a minute... Neon, give me the key to the\nbike. It's dangerous for you to be in that state,\nright? I'll ride it for you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんな状態じゃ危ねーだろ？ アタシが乗ってってやるよ」"
+                                ""
                             ]
                         },
                         {
@@ -17437,7 +17437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[65]\\AA[F]「あぁ、そうだな……その方がいいか」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[65]\\AA[F] Ah, yeah... that might be\nbetter."
                             ]
                         },
                         {
@@ -17454,7 +17454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[65]\\AA[F]「えっ……キノ、免許持ってたのか？」"
+                                "\\n<Sonoda Kohei>Huh... Kino, you have a driver's license?"
                             ]
                         },
                         {
@@ -17471,7 +17471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[65]\\AA[FF]「ッ……ま、まぁな…」"
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Uhh... W-Well, you know..."
                             ]
                         },
                         {
@@ -17488,38 +17488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[65]\\AA[F]「何を言ってるんだ？ キノは私のお師匠様だぞ。"
+                                "\\n<Minato Neon>What are you saying? Kino is my mentor. She taught\nme everything about bikes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "バイクのイロハはキノに伝授してもらったんだ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「そうだったのか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その割にはキノがバイクに乗ってるところは見たことがないな」"
+                                ""
                             ]
                         },
                         {
@@ -17536,7 +17512,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[65]\\AA[FF]「べ、別にいいだろっ……ほれ、行った行った！」"
+                                "\\n<Sonoda Kohei>Is that so...? Despite that, I've never seen Kino\nriding a bike."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] I-It's not a big deal...\nH-Here, go ahead, go!"
                             ]
                         },
                         {
@@ -18017,7 +18017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](…\\C[2]離れの小屋\\C[0]へ向かおう)"
+                                "\\n<Sawa>Let's head to the \\F[66] (...the cabin \\C[2] away)"
                             ]
                         },
                         {
@@ -19547,7 +19547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](来る時に乗って来た宇堂監督の車だわ)"
+                                "\\n<Sawa>\\F[66] (It's Director Udo's car that he came in)"
                             ]
                         },
                         {
@@ -19624,7 +19624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](来る時に乗って来た宇堂監督の車だわ)"
+                                "\\n<Sawa>\\F[66] (It's Director Udo's car that he came in)"
                             ]
                         },
                         {
@@ -19701,7 +19701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](来る時に乗って来た宇堂監督の車だわ)"
+                                "\\n<Sawa>\\F[66] (It's Director Udo's car that he came in)"
                             ]
                         },
                         {
@@ -19778,14 +19778,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](園田さんが愛用している尾道プロの社用車ね。"
+                                "\\n<Sawa>\\F[66] (Sonoda-san's using the Onomichi Pro's\ncompany car, you know. I heard it used to be the\npresident's personal car.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "元は社長の自家用車だったという話だ)"
+                                ""
                             ]
                         },
                         {
@@ -19862,14 +19862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](ジェットコースターとか平気なタイプだけど、このバイクの"
+                                "\\n<Sawa>\\F[66] (I'm the type who can handle roller\ncoasters and stuff, but I absolutely don't want to\nride on the tandem seat of this bike anymore...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "タンデムシートにだけはもう絶対に乗りたくない…)"
+                                ""
                             ]
                         },
                         {
@@ -19946,14 +19946,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](園田さんが愛用している尾道プロの社用車ね。"
+                                "\\n<Sawa>\\F[66] (Sonoda-san's using Onomichi Pro's company\ncar. I heard it used to be the president's\npersonal car.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "元は社長の自家用車だったという話だ)"
+                                ""
                             ]
                         },
                         {
@@ -20030,14 +20030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](ジェットコースターとか平気なタイプだけど、このバイクの"
+                                "\\n<Sawa>\\F[66] (I'm the type who can handle roller\ncoasters and stuff, but I absolutely don't want to\nride on the tandem seat of this bike anymore...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "タンデムシートにだけはもう絶対に乗りたくない…)"
+                                ""
                             ]
                         },
                         {
@@ -20114,7 +20114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](そこの\\C[2]小屋\\C[0]に行きましょう)"
+                                "\\n<Sawa>Let's go to that \\C[2] cabin \\C[0]."
                             ]
                         },
                         {
@@ -20222,7 +20222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](そこの\\C[2]小屋\\C[0]に行きましょう)"
+                                "\\n<Sawa>Let's go to that \\C[2] cabin \\C[0]."
                             ]
                         },
                         {
@@ -20337,14 +20337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](けっこう\\r[上,のぼ]って来たよな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (You've climbed quite high, haven't you?\nIt must be inconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうも人里から離れていては住むには不便だろう)"
+                                ""
                             ]
                         },
                         {
@@ -20452,7 +20452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](そこの\\C[2]小屋\\C[0]に行きましょう)"
+                                "\\n<Sawa>Let's go to that \\C[2] cabin \\C[0]."
                             ]
                         },
                         {
@@ -20560,7 +20560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](そこの\\C[2]小屋\\C[0]に行きましょう)"
+                                "\\n<Sawa>Let's go to that cabin over there."
                             ]
                         },
                         {
@@ -21215,7 +21215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「まだ九月だというのに山の上は流石に冷えるね」"
+                                "\\n<Sonoda Kohei>Even though it's still September, it's really cold\nup in the mountains, as expected."
                             ]
                         },
                         {
@@ -21232,7 +21232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「確かに……ジャンバーでも羽織ってくるんだったな」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Indeed... I remember I was\nsupposed to bring a jacket."
                             ]
                         },
                         {
@@ -21447,14 +21447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[66](園田さんが愛用している尾道プロの社用車ね。"
+                                "\\n<Sawa>\\F[66] (Sonoda-san's using the Onomichi Pro's\ncompany car, you know. I heard it used to be the\npresident's personal car.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "元は社長の自家用車だったという話だ)"
+                                ""
                             ]
                         },
                         {
@@ -22880,7 +22880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<キノ>\\F[66]\\FF[65]\\AA[FF]「んじゃ、行くか？」"
+                                "\\n<Kino>Well then, shall we go?"
                             ]
                         },
                         {
@@ -22888,8 +22888,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "…小屋に入る。",
-                                    "…まだ入らない。"
+                                    "enter the cabin",
+                                    "I'm not going in yet"
                                 ],
                                 1,
                                 0,
@@ -22919,7 +22919,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>\\F[66]\\FF[65]\\AA[F]「そうね、じゃあ\\r[手筈,てはず]通りに…」"
+                                "\\n<Sawa>Yes, then let's proceed according to \\r[ plan..."
                             ]
                         },
                         {
@@ -23065,7 +23065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<モモ>\\F[66]\\FF[64]\\AA[FF]「ほいじゃ、行く～？」"
+                                "\\n<Momo>Alright, shall we go~?"
                             ]
                         },
                         {
@@ -23073,8 +23073,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "…小屋に入る。",
-                                    "…まだ入らない。"
+                                    "enter the cabin",
+                                    "I'm not going in yet"
                                 ],
                                 1,
                                 0,
@@ -23104,7 +23104,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>\\F[66]\\FF[64]\\AA[F]「そうね、じゃあ\\r[手筈,てはず]通りに…」"
+                                "\\n<Sawa>Yes, then let's proceed according to\n\\F[66]\\FF[64]\\AA[F]'s plan..."
                             ]
                         },
                         {

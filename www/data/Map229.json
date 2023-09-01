@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～３F隠し通路～",
+    "displayName": "Main Building ~3rd Floor Hidden Passage~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1938,7 +1938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](……ん？ 開いてる……アイツの仕業か…)"
+                                "\\n<Sonoda Kohei>\\F[62] (...Huh? It's open... Is that person\nresponsible for this?)"
                             ]
                         },
                         {
@@ -1955,14 +1955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62](僕が通る事を見越してなんだろうが、"
+                                "\\n<Sonoda Kohei>\\F[62] (I wonder if they did this in anticipation\nof me passing by. But what if Udo notices it by\nany chance...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "万が一宇堂に気付かれでもしたらどうするんだ…)"
+                                ""
                             ]
                         },
                         {

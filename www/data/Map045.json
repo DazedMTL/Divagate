@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館２F ～テラス～",
+    "displayName": "Main Building 2F ~Terrace~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7113,14 +7113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「なぁ、宇堂監督を見なかったか？"
+                                "\\n<Sonoda Kohei>Hey, have you seen Director Udo? I haven't seen\nhim since this morning..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "朝からずっと見かけてないんだが…」"
+                                ""
                             ]
                         },
                         {
@@ -7144,7 +7144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「い、いや……私も見てないな…」"
+                                "\\n<Minato Neon>U-Um... No, I haven't seen him either..."
                             ]
                         },
                         {
@@ -7161,14 +7161,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F](そういえば園田さんは……"
+                                "\\n<Minato Neon>By the way, does Sonoda-san... know that I'm\ntaking such lessons?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私があんなレッスンを受けている事を知っているのだろうか？)"
+                                ""
                             ]
                         },
                         {
@@ -7258,7 +7258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「……音々？」"
+                                "\\n<Sonoda Kohei>\\FF[61]\\F[\\V[2]]\\AA[FF] ...Neon?"
                             ]
                         },
                         {
@@ -7275,7 +7275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F](……この様子だと知らされていないのだろうな)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F](...It seems like they\nhaven't been informed.)"
                             ]
                         },
                         {
@@ -7748,7 +7748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]「ンフフ～♪ 全裸女の気配がするぞぉ\\I[12]」"
+                                "\\n<Udo Takeru>Nfufu~♪ I sense the presence of a naked woman, you\nknow\\I[12]"
                             ]
                         },
                         {
@@ -7788,7 +7788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](なっ……宇堂監督？！)"
+                                "\\n<Minato Neon>\\F[\\V[2]](Wha... Udo-sensei?!)"
                             ]
                         },
                         {
@@ -7812,14 +7812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ぐっ……こんな恰好で出歩いているのを見られたら"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If someone sees me walking around like\nthis, what will they say... I have to find a way\nto get through this somehow...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何を言われるか…何とかしてやり過ごさなければ……)"
+                                ""
                             ]
                         },
                         {
@@ -7874,14 +7874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……だが、やり過ごすといってもこんな行き止まりの場所じゃ"
+                                "\\n<Minato Neon>\\F[\\V[2]](...But even if I try to endure, there's\na limit to how long I can stay in this dead end.\nIf only I can somehow avoid being found and get\nout of this room first...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "限界がある。 何とか見つからず、先にこの部屋を出れれば…)"
+                                ""
                             ]
                         },
                         {
@@ -7915,7 +7915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブをしますか？"
+                                "Do you want to save?"
                             ]
                         },
                         {
@@ -7923,8 +7923,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9274,7 +9274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]小さな鍵\\C[0]を手に入れた。"
+                                "I obtained a small key \\C[0] in my hand."
                             ]
                         },
                         {
@@ -9300,7 +9300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この鍵は……あの隠し通路にあった宝箱のものだろうな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (This key... I think it's from the\ntreasure chest in that hidden passage.)"
                             ]
                         },
                         {

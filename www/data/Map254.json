@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館３F ～小部屋～",
+    "displayName": "East Building 3F - Small Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1967,7 +1967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「………」"
+                                "\\n<Sonoda Kohei>「.........」"
                             ]
                         },
                         {
@@ -1984,7 +1984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(だいぶ寝てしまった気がする……いま何時だ？)"
+                                "\\n<Sonoda Kohei>(I feel like I slept for a long time... What time\nis it now?)"
                             ]
                         },
                         {
@@ -2001,7 +2001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "起き上がろうとしたところで、僕は違和感に気付く。"
+                                "As I tried to get up, I noticed a sense of\ndiscomfort."
                             ]
                         },
                         {
@@ -2018,7 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……あれ？ 手足が痺れて思う様に……変な体勢で寝てたのか…)"
+                                "\\n<Sonoda Kohei>(......Huh? My arms and legs are numb... Did I\nsleep in a weird position?)"
                             ]
                         },
                         {
@@ -2035,38 +2035,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが……いくら待てど痺れが引く事はなかった。"
+                                "However... no matter how long I waited, the\nnumbness didn't go away. Feeling at a loss, I\nlooked around and finally... noticed another sense\nof discomfort."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "途方に暮れた僕は辺りを見渡し、そこでようやく…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "“もう一つの違和感”に気付いた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……何処だここは？ 昨晩はちゃんと部屋に戻ったよな？)"
+                                ""
                             ]
                         },
                         {
@@ -2083,14 +2066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昼間に一階ホールで音々と会った後に自室へと戻った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれだけ記憶を辿っても僕の記憶はそこで途絶えていた。"
+                                "\\n<Sonoda Kohei>(......Where am I? Did I properly return to my\nroom last night?)"
                             ]
                         },
                         {
@@ -2107,14 +2083,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(確かに部屋には戻った……。"
+                                "After meeting with Neon in the first-floor hall\nduring the day, I returned to my room. No matter\nhow much I try to recall, my memory stops there."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この手足の痺れといい……どういう事だ？ 何が起こっている…)"
+                                "\\n<Sonoda Kohei>(I definitely returned to my room... but this\nnumbness in my arms and legs... What's going on?\nWhat is happening...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2333,21 +2333,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の来訪者に僕の全身に緊張が走る。"
+                                "As a sudden visitor arrived, tension ran through\nmy entire body. I instinctively closed my eyes and\nsquinted to confirm their face, and it turned out\nto be someone I knew well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "咄嗟に目を瞑り薄目でその顔を確認すると、その来訪者は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕の良く知る人物だった。"
+                                ""
                             ]
                         },
                         {
@@ -2382,7 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……サワ？ どうして君が…」"
+                                "\\n<Sonoda Kohei>...Sawa? Why are you here?"
                             ]
                         },
                         {
@@ -2399,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「…起きてたんですね。 体の調子はいかがですか？」"
+                                "\\n<Sawa>...So you were awake. How are you feeling?"
                             ]
                         },
                         {
@@ -2489,24 +2489,24 @@
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "サワは傍らにあった椅子に腰かけ、無言のまま佇んでいた。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこか僕の言葉を待っている様な気がしたので、頭に浮かんでいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疑問を投げかけてみる事にした。"
+                                "I decided to ask a question."
                             ]
                         },
                         {
@@ -2609,7 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「………」"
+                                "\\n<Sawa>「.........」"
                             ]
                         },
                         {
@@ -2617,12 +2617,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…此処はどこだ？",
-                                    "…この手足の痺れは？",
-                                    "if(s[239])…君はどうして此処に？",
-                                    "if(s[240])…どうして服を？",
-                                    "if(s[241])…音々は無事なのか？",
-                                    "…サワを見る。"
+                                    "Where am I?",
+                                    "What's with the numbness in my limbs?",
+                                    "if(s[239])Why are you here?",
+                                    "if(s[240])Why are you taking off your clothes?",
+                                    "if(s[241])Is Neon okay?",
+                                    "I look at Sawa"
                                 ],
                                 -1,
                                 0,
@@ -2661,7 +2661,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「ここは\\C[2]東館\\C[0]の三階、大部屋にある一室です」"
+                                "\\n<Sawa>This is a room located on the third floor of \\C[2]\nEast Building, in the large room."
                             ]
                         },
                         {
@@ -2688,7 +2688,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「ここは\\C[2]東館\\C[0]の三階、大部屋にある一室です」"
+                                "\\n<Sawa>This is a room located on the third floor of \\C[2]\nEast Building, in the large room."
                             ]
                         },
                         {
@@ -2705,7 +2705,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(ここも館内なんだな。 いや、だとしたら…)"
+                                "\\n<Sonoda Kohei>(So this is also inside the mansion. No, if that's\nthe case...)"
                             ]
                         },
                         {
@@ -2770,7 +2770,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「………」"
+                                "\\n<Sawa>「.........」"
                             ]
                         },
                         {
@@ -2787,7 +2787,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……もう答える気は無さそうだ)"
+                                "\\n<Sonoda Kohei>(......It seems like they have no intention of\nanswering anymore.)"
                             ]
                         },
                         {
@@ -2814,38 +2814,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「その症状は数日で和らいでいくと思います。"
+                                "\\n<Sawa>I think those symptoms will improve in a few days.\nI've tried it on my own body, so you can rest\nassured about that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "一度、私自身の体で試したモノなので、そこは安心して下さい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「安心って……そうじゃないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何故こんな薬？だかを使わされる事になっていると聞いている」"
+                                ""
                             ]
                         },
                         {
@@ -2862,14 +2838,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「それは……あなたの自由を奪う為です。"
+                                "\\n<Sonoda Kohei>To feel at ease... I don't think that's the case.\nWhy am I being forced to use this kind of\nmedicine?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここで数日間ジっとしていれば、あなたは無事に帰れますから…」"
+                                "\\n<Sawa>That is... to take away your freedom. If you stay\nhere quietly for a few days, you will be able to\nreturn safely..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2936,7 +2936,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「………」"
+                                "\\n<Sawa>「.........」"
                             ]
                         },
                         {
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……もう答える気は無さそうだ)"
+                                "\\n<Sonoda Kohei>(......It seems like they have no intention of\nanswering anymore.)"
                             ]
                         },
                         {
@@ -2980,7 +2980,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「………この合宿を手伝う為です」"
+                                "\\n<Sawa>...It's to help with this training camp."
                             ]
                         },
                         {
@@ -2997,7 +2997,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「手伝いだって……？ なぜ君が…」"
+                                "\\n<Sonoda Kohei>Help...? Why you..."
                             ]
                         },
                         {
@@ -3014,7 +3014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「理由は……ッ……ごめんなさい……言いたくありません…」"
+                                "\\n<Sawa>The reason is... I'm sorry... I don't want to say\nit..."
                             ]
                         },
                         {
@@ -3081,7 +3081,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「………」"
+                                "\\n<Sawa>「.........」"
                             ]
                         },
                         {
@@ -3098,7 +3098,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……もう答える気は無さそうだ)"
+                                "\\n<Sonoda Kohei>(......It seems like they have no intention of\nanswering anymore.)"
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<サワ>「……宇堂監督にそう命じられているからです」"
+                                "\\n<Sawa>...Because I have been ordered to do so by Coach\nUdo."
                             ]
                         },
                         {
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「宇堂監督に？ なぜそんな命令なんかに従って…」"
+                                "\\n<Sonoda Kohei>To Coach Udo? Why should I follow such an order..."
                             ]
                         },
                         {
@@ -3159,45 +3159,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そこでふと、あの男の“黒い噂”を思い出す。"
+                                "Suddenly, I remembered the dark rumors about that\nman. I don't know the exact details, but I have\nheard stories of women who were targeted by him\nand ended up with unfortunate outcomes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "僕も詳しい内容までは知らないが、あの男に目を付けられ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "不幸な結果となった女性達の話はいくつか聞いた事があった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "芸能界に付いて回るよくあるただの噂話だと思い込んでいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だから僕はわざわざ不安がらせまいと音々には彼の噂を伏せたのだ。"
+                                ""
                             ]
                         },
                         {
@@ -3214,14 +3190,38 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……全て本当の事だったのか？"
+                                "I had convinced myself that it was just a common\nrumor that circulates in the entertainment\nindustry. That's why I purposely kept the rumors\nabout him hidden from Neon so as not to worry her\nunnecessarily."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうなるとサワはもう……いや、そんな事があってたまるか！)"
+                                "\\n<Sonoda Kohei>(......So everything was true? In that case, Sawa\nis already... No, I can't let that happen!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3284,7 +3284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「音々は……音々は無事なのか？」"
+                                "\\n<Sonoda Kohei>Is Neon... Is Neon safe?"
                             ]
                         },
                         {
@@ -3313,7 +3313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>「……それを聞いてどうするんですか？」"
+                                "\\n<Sawa>......What are you going to do by asking that?"
                             ]
                         },
                         {
@@ -3330,38 +3330,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その……どこか冷たく、無機質な口調に背筋がゾクリとする。"
+                                "That... spine shivers at the cold and emotionless\ntone. I'm taken aback by her demeanor, which is\nunimaginable from her usual gentle self."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "普段の温厚な彼女からは想像がつかない様子に僕は怯んでしまう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<サワ>「ここでジっと数日過ごすだけであなたは無事に帰れるんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでいいじゃないですか？」"
+                                ""
                             ]
                         },
                         {
@@ -3378,31 +3354,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>「勿論、身の回りのお世話は全て私がさせてもらいます。"
+                                "\\n<Sawa>If you just stay here quietly for a few days, you\ncan safely go back. Isn't that good enough?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何一つ不自由さは感じさせません！ 私……頑張りますからっ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「サワ……君はなに言って…」"
+                                ""
                             ]
                         },
                         {
@@ -3419,7 +3378,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>「………」"
+                                "\\n<Sawa>Of course, I will take care of everything for you.\nI won't let you feel any inconvenience! I... will\ndo my best!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3436,14 +3402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サワの視線が僕から外れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いや……正確に言うと僕の下半身へと移された。"
+                                "\\n<Sonoda Kohei>Sawa... What are you saying..."
                             ]
                         },
                         {
@@ -3460,7 +3419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>「嬉しい……私で反応してくれてるんですか？」"
+                                "\\n<Sawa>「.........」"
                             ]
                         },
                         {
@@ -3477,7 +3436,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「これはっ……寝起きだからだ！ 男にはそういう…」"
+                                "Sawa's gaze shifted away from me. No... to be more\nprecise, it shifted towards my lower body."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3494,14 +3460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "情けない事に愚息が反応してしまっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "痺れた腕では隠す事も叶わず、僕は酷く動揺してしまう。"
+                                "\\n<Sawa>I'm happy... Are you reacting to me?"
                             ]
                         },
                         {
@@ -3518,7 +3477,48 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>「嘘……私が入って来た時は“そう”じゃなかったですよ？」"
+                                "\\n<Sonoda Kohei>This is... because I just woke up! It's something\nthat happens to guys..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "My pathetic son had a reaction. I couldn't hide it\nwith my numb arm, and I became greatly disturbed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\n<Sawa>Lies... When I came in, it wasn't like that,\nright?"
                             ]
                         },
                         {
@@ -3591,7 +3591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「……サワ？」"
+                                "\\n<Sonoda Kohei>...Sawa?"
                             ]
                         },
                         {
@@ -3608,7 +3608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女は僕の膝上に跨り、ベルトへと手を掛ける。"
+                                "She straddled my lap and reached for the belt."
                             ]
                         },
                         {
@@ -3625,14 +3625,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<サワ>「コッチのお世話だって出来るんだから……。"
+                                "\\n<Sawa>I can take care of this side too... Don't worry,\nleave everything to me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫です、全部私に任せて下さい…」"
+                                ""
                             ]
                         },
                         {
@@ -3649,7 +3649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「なっ……お、おい…！？」"
+                                "\\n<Sonoda Kohei>Ngh... H-Hey...!?"
                             ]
                         },
                         {
@@ -3678,31 +3678,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無情にも静止の声は届かず、僕のズボンは彼女の手によって"
+                                "Mercilessly, my plea for her to stop went unheard,\nand my pants, along with my underwear, were pulled\ndown by her hand, exposing my knees."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "下着ごと膝下までズリ下ろされてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<サワ>「コレが園田さんの……ゴクッ…」"
+                                ""
                             ]
                         },
                         {
@@ -3719,14 +3702,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女を\\r[諫,いさ]めようと僕は見上げる。"
+                                "\\n<Sawa>This is Sonoda-san's... gulp..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが、そこには……僕の良く知るサワはいなかった。"
+                                "I looked up to \\r[ her, but there... Sawa, whom I\nknew well, was not there."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3788,7 +3788,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(……もう止めておこう)"
+                                "\\n<Sonoda Kohei>(...Let's stop here.)"
                             ]
                         },
                         {
@@ -3815,31 +3815,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "…股間部の前で手を組んでいる体勢からか、両腕によって挟まれた"
+                                "The sight of breasts, squeezed between both arms,\nforming a deep cleavage while in a position with\nhands clasped in front of the crotch area, is\nquite lewd."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "乳房が深い谷間を形成している姿が何ともいやらしい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\n<サワ>「うぅ……園田さん？」"
+                                ""
                             ]
                         },
                         {
@@ -3856,7 +3839,24 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「ぁ……いや、スマン…」"
+                                "\\n<Sawa>Ugh... Sonoda-san?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>Ah...no, sorry..."
                             ]
                         },
                         {
@@ -3904,38 +3904,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "僕はサワを見上げる。"
+                                "I looked up at Sawa. She was sitting there in her\nnatural state, not hiding her exposed breasts, and\nstaring at me intently."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "彼女は生まれたままの姿で座っており、露出した乳房も隠さずに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "僕をジっと見据えていた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\n<サワ>「ッ……あ、あの……あまり見ないで下さい…」"
+                                ""
                             ]
                         },
                         {
@@ -3952,7 +3935,24 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>「ご、ごめん…」"
+                                "\\n<Sawa>Ah... um... please don't look at me too much..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\n<Sonoda Kohei>S-Sorry..."
                             ]
                         },
                         {
@@ -3996,8 +3996,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…Hシーンまでスキップする。",
-                                    "…回想ルームへ戻る。"
+                                    "Skip to the H scene",
+                                    "Return to the flashback room"
                                 ],
                                 1,
                                 -1,

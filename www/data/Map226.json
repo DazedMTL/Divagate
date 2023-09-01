@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "乱交フロア ～大部屋",
+    "displayName": "Orgy Floor ~ Large Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3335,7 +3335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\FF[95]「ん……何だ？ 二人とも起きてたんか…」"
+                                "\\n<Kino>\\FF[95] Hmm... What's going on? Both of you are\nawake..."
                             ]
                         },
                         {
@@ -3414,7 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[93]\\FF[95]\\AA[F]「あ、キノ！？ もうドコ行ってたのよ！」"
+                                "\\n<Sawa>Ah, Kino!? Where did you go already?"
                             ]
                         },
                         {
@@ -3589,7 +3589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[93]\\FF[95]\\AA[FF]「悪い悪い、ちょっとな……んで、どーしたん？ そんな慌てて…」"
+                                "\\n<Kino>\\F[93]\\FF[95]\\AA[FF] Sorry, sorry, I was just...\nSo, what's going on? Why are you in such a hurry?"
                             ]
                         },
                         {
@@ -3606,7 +3606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[93]\\FF[95]\\AA[F]「宇堂監督が怒鳴り込んで来て……三人共、部屋に来いって…」"
+                                "\\n<Sawa>\\F[93]\\FF[95]\\AA[F] Director Udo came in\nyelling... He told all three of us to come to the\nroom..."
                             ]
                         },
                         {
@@ -3623,38 +3623,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[93]\\FF[95]\\AA[F]「それに園田さんの姿も見えなくて……。"
+                                "\\n<Sawa>And I can't see Sonoda-san anywhere... Could it be\nthat he got caught by Director Udo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まさか宇堂監督に捕まって…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>\\F[93]\\FF[95]\\AA[FF]「あぁ、そっちの方は安心してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツなら本館の方の自室にいるよ」"
+                                ""
                             ]
                         },
                         {
@@ -3671,7 +3647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[93]\\FF[95]\\AA[F]「えっ……そうなの？ でも……何故アナタがそれを…」"
+                                "\\n<Kino>\\F[93]\\FF[95]\\AA[FF] Ah, don't worry about that.\nIf it's him, he's in his own room in the main\nbuilding."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3688,7 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>\\F[92]\\FF[95]\\AA[F]「隠れてシッポリ～？ な～んか怪しいなぁ♪」"
+                                "\\n<Sawa>\\F[93]\\FF[95]\\AA[F] Huh... Is that so? But... why\nare you the one..."
                             ]
                         },
                         {
@@ -3705,14 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[92]\\FF[95]\\AA[FF]「そんなんじゃねぇよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは後でキッチリ話すから、今はとにかく…」"
+                                "\\n<Momo>\\F[92]\\FF[95]\\AA[F] Are you hiding something? It\nseems suspicious~♪"
                             ]
                         },
                         {
@@ -3729,7 +3705,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>\\F[93]\\FF[95]\\AA[F]「……そうね。 宇堂監督の部屋へ向かいましょう」"
+                                "\\n<Kino>\\F[92]\\FF[95]\\AA[FF] That's not it. We'll talk\nabout that later, for now..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>\\F[93]\\FF[95]\\AA[F]... I see. Let's head to\nDirector Udo's room."
                             ]
                         },
                         {

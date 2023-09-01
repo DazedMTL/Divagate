@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "自室",
+    "displayName": "My Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1412,14 +1412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](テレビは……余り見なくなったな。"
+                                "\\n<Minato Neon>I don't watch TV much anymore. It's more fun to\nplay with musical instruments..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "楽器に触れている方が楽しいし…)"
+                                ""
                             ]
                         },
                         {
@@ -1858,7 +1858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](学生時代に、お金を貯めて購入した私の相棒だ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (My partner that I saved up money to buy\nduring my student days)"
                             ]
                         },
                         {
@@ -1942,7 +1942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「はぁ……可愛い…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] Haa... cute..."
                             ]
                         },
                         {
@@ -2026,7 +2026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](料理は……苦手だ)"
+                                "\\n<Minato Neon>I'm not good at cooking..."
                             ]
                         },
                         {
@@ -2110,7 +2110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](止めておこう……触れると時間を忘れ、夢中になってしまうからな)"
+                                "\\n<Minato Neon>Let's stop \\F[\\V[2]]... Because when we touch, we\nforget about time and get completely absorbed in\nit."
                             ]
                         },
                         {
@@ -2297,7 +2297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -2305,10 +2305,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…部屋着。",
-                                    "…下着姿。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "my pajamas",
+                                    "in my underwear",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -2925,7 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -2933,10 +2933,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…下着姿。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "a leather suit",
+                                    "in my underwear",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -3553,7 +3553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -3561,10 +3561,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…部屋着。",
-                                    "…裸。",
-                                    "…着替えない。"
+                                    "a leather suit",
+                                    "my pajamas",
+                                    "naked",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -4181,7 +4181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](さて、着替えるか…)"
+                                "\\n<Minato Neon>Well, should I change my clothes..."
                             ]
                         },
                         {
@@ -4189,10 +4189,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…ライダースーツ。",
-                                    "…部屋着。",
-                                    "…下着姿。",
-                                    "…着替えない。"
+                                    "a rider suit",
+                                    "my pajamas",
+                                    "in my underwear",
+                                    "I won't change my clothes"
                                 ],
                                 3,
                                 0,
@@ -4806,7 +4806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](何も入ってないぞ。 マメに片してるからな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (There's nothing inside. Because I keep\nit tidy regularly.)"
                             ]
                         },
                         {
@@ -4897,7 +4897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[4]]\\F[\\V[2]]\\AA[FF]「音々ちゃ～ん\\I[12]」"
+                                "\\n<Udo Takeru>Neon-chan, \\I[12]"
                             ]
                         },
                         {
@@ -4914,7 +4914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -4931,7 +4931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ゴクッ……乳揉んでいいよな？」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Gulp... Can I touch\nyour breasts?"
                             ]
                         },
                         {
@@ -4955,7 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「ッ……駄目に決まってるだろ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] No way... It's\ndefinitely not allowed."
                             ]
                         },
                         {
@@ -5537,7 +5537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「通常」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Normal"
                             ]
                         },
                         {
@@ -5561,7 +5561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「笑」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Laugh"
                             ]
                         },
                         {
@@ -5585,7 +5585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「睨み」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Stare"
                             ]
                         },
                         {
@@ -5609,7 +5609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「睨み(口開け)」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Stare (with mouth open)"
                             ]
                         },
                         {
@@ -5633,7 +5633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「困り」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Troubled"
                             ]
                         },
                         {
@@ -5657,7 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「微笑み」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Smile"
                             ]
                         },
                         {
@@ -5681,7 +5681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「戸惑い」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Confused"
                             ]
                         },
                         {
@@ -5705,7 +5705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「期待」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Expectation"
                             ]
                         },
                         {
@@ -5729,7 +5729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\AA[F]「発情」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\AA[F] Estrus"
                             ]
                         },
                         {
@@ -5866,7 +5866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「てすとだよ」"
+                                "\\n<Minato Neon>It's a test."
                             ]
                         },
                         {
@@ -5883,7 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てすとだよ"
+                                "It's a test."
                             ]
                         },
                         {
@@ -5907,7 +5907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てすとだよ"
+                                "It's a test."
                             ]
                         },
                         {
@@ -5924,7 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「てすとだよ」"
+                                "\\n<Minato Neon>It's a test."
                             ]
                         },
                         {

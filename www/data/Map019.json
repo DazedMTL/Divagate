@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～２F～",
+    "displayName": "Main Building ~2nd Floor~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -6398,7 +6398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[62]\\FF[\\V[4]]\\AA[FF]「そのランプは全部で二つしかねぇから無くすンじゃねぇぞ？」"
+                                "\\n<Udo Takeru>There are only two of those lamps, so don't lose\nthem, okay?"
                             ]
                         },
                         {
@@ -6415,7 +6415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[\\V[4]]\\AA[F]「はぁ……あの……そもそも此処の照明は…」"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[\\V[4]]\\AA[F] Umm... well, first of all,\nthe lighting here..."
                             ]
                         },
                         {
@@ -6439,7 +6439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[62]\\FF[\\V[4]]\\AA[FF]「あ\"ァ？」"
+                                "\\n<Udo Takeru>\\F[62]\\FF[\\V[4]]\\AA[FF] Huh?"
                             ]
                         },
                         {
@@ -6463,14 +6463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[62]\\FF[\\V[4]]\\AA[FF]「ゴホンっ……それは後でまとめて説明すっからよォ？"
+                                "\\n<Udo Takeru>\\F[62]\\FF[\\V[4]]\\AA[FF] Ahem... I'll explain\neverything later, okay? For now, let's meet here\nin one hour."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とりあえず一時間後に此処で集合な」"
+                                ""
                             ]
                         },
                         {
@@ -6487,14 +6487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[62]\\FF[\\V[4]]\\AA[FF]「お前さんの部屋は、そこの階段を進んだ先の右側の部屋だからな？"
+                                "\\n<Udo Takeru>\\F[62]\\FF[\\V[4]]\\AA[FF] Your room is the one on\nthe right side after going up those stairs, right?\nThe room at the end is my room, so be careful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "突き当りの部屋はオイラの部屋になってるからよォ」"
+                                ""
                             ]
                         },
                         {
@@ -6563,7 +6563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「んじゃ、音々ちゃんはコッチな♪」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Well then, Neon-chan,\nyou're over here ♪"
                             ]
                         },
                         {
@@ -6580,7 +6580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「はい…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Yes..."
                             ]
                         },
                         {
@@ -7502,7 +7502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督を待たせてる……先に部屋へと案内してもらおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm keeping Director Udo waiting...\nLet's show him to the room first.)"
                             ]
                         },
                         {
@@ -7683,7 +7683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……園田さん達を置いて歩き回るのはマズイだろう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...It's not good to leave Sonoda-san\nand the others behind and wander around.)"
                             ]
                         },
                         {
@@ -7796,14 +7796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「そっちからじゃ\\C[2]東館\\C[0]へは行けないよォ？"
+                                "\\n<Udo Takeru>You can't go to the East Building from there, you\nknow? If you're still half asleep, let me wake you\nup with a passionate kiss..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "寝ぼけてるなら眠気覚ましにオイラの熱いキッスを…」"
+                                ""
                             ]
                         },
                         {
@@ -7827,7 +7827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「必要ない。 間違えただけだ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] No need. It was just a\nmistake."
                             ]
                         },
                         {
@@ -8092,7 +8092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……園田さん達を置いて歩き回るのはマズイだろう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...It's not good to leave Sonoda-san\nand the others behind and wander around.)"
                             ]
                         },
                         {
@@ -8207,7 +8207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督を待たせてる……先に部屋へと案内してもらおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm keeping Director Udo waiting...\nLet's show him to the room first.)"
                             ]
                         },
                         {
@@ -8388,7 +8388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……園田さん達を置いて歩き回るのはマズイだろう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...It's not good to leave Sonoda-san\nand the others behind and wander around.)"
                             ]
                         },
                         {
@@ -8501,14 +8501,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「そっちからじゃ\\C[2]東館\\C[0]へは行けないよォ？"
+                                "\\n<Udo Takeru>You can't go to the East Building from there, you\nknow? If you're still half asleep, let me wake you\nup with a passionate kiss..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "寝ぼけてるなら眠気覚ましにオイラの熱いキッスを…」"
+                                ""
                             ]
                         },
                         {
@@ -8532,7 +8532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「必要ない。 間違えただけだ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] No need. It was just a\nmistake."
                             ]
                         },
                         {
@@ -8775,7 +8775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……向こう側から鍵がかけられている様だ。"
+                                "It seems like the door is locked from the other\nside."
                             ]
                         },
                         {
@@ -9208,7 +9208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -9225,7 +9225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おいおい、そんな警戒しないでおくれよォ…」"
+                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hey hey, don't be so\ncautious..."
                             ]
                         },
                         {
@@ -9242,31 +9242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](……ふざけてるのか？"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (...Are you joking?\nActing in a way that stirs up people's\nwariness...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "人の警戒心を煽る様な接し方をしておいて…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](いや……もしかしたら、既に演技指導的なものが始まってるとか？)"
+                                ""
                             ]
                         },
                         {
@@ -9283,7 +9266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](うん、ありえるかもしれない……有名な映画監督みたいだし…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (No... Maybe, the acting\nguidance has already started?)"
                             ]
                         },
                         {
@@ -9300,14 +9283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「ほらほら力抜いてよォ？ 今日は互いに完全オフだからさァ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リラックスぅ♪ リラックスぅ♪」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Yeah, it's possible...\nHe seems like a famous movie director...)"
                             ]
                         },
                         {
@@ -9324,7 +9300,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](ッ……素だったらしい…)"
+                                "\\n<Udo Takeru>Hey hey, relax, okay? Today is a complete day off\nfor both of us, you know? Relax~♪ Relax~♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (S-She seems to have\nnoticed...)"
                             ]
                         },
                         {
@@ -9498,7 +9498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督を待たせてる……先に部屋へと案内してもらおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm keeping Director Udo waiting...\nLet's show him to the room first.)"
                             ]
                         },
                         {
@@ -9662,14 +9662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「そっちへ行くと西館だよねぇ？"
+                                "\\n<Udo Takeru>If you're heading that way, it's the West Wing,\nright? If you're feeling sleepy, I can wake you up\nwith a hot kiss..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "寝ぼけてるなら眠気覚ましにオイラの熱いキッスを…」"
+                                ""
                             ]
                         },
                         {
@@ -9693,7 +9693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「必要ない。 間違えただけだ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] No need. It was just a\nmistake."
                             ]
                         },
                         {
@@ -10048,7 +10048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督を待たせてる……先に部屋へと案内してもらおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm keeping Director Udo waiting...\nLet's show him to the room first.)"
                             ]
                         },
                         {
@@ -10212,14 +10212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「そっちへ行くと西館だよねぇ？"
+                                "\\n<Udo Takeru>If you're heading that way, it's the West Wing,\nright? If you're feeling sleepy, I can wake you up\nwith a hot kiss..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "寝ぼけてるなら眠気覚ましにオイラの熱いキッスを…」"
+                                ""
                             ]
                         },
                         {
@@ -10243,7 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「必要ない。 間違えただけだ」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] No need. It was just a\nmistake."
                             ]
                         },
                         {
@@ -10418,7 +10418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督を待たせてる……先に部屋へと案内してもらおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm keeping Director Udo waiting...\nLet's show him to the room first.)"
                             ]
                         },
                         {
@@ -10584,7 +10584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](宇堂監督を待たせてる……先に部屋へと案内してもらおう)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I'm keeping Director Udo waiting...\nLet's show him to the room first.)"
                             ]
                         },
                         {
@@ -10750,7 +10750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -10834,7 +10834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -11103,7 +11103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -11187,14 +11187,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](この階段の先には園田さんと宇堂監督の部屋があるらしいな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It seems that Sonoda-san and Director\nUdo's rooms are at the end of this staircase. My\nroom seems to be at the end of the other\nstaircase.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私の部屋は向こうの階段の先みたいだ)"
+                                ""
                             ]
                         },
                         {
@@ -11507,7 +11507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「どうした？ その先は監督と僕の部屋しかないぞ？」"
+                                "\\n<Sonoda Kohei>What's wrong? There's only the director's room and\nmy room ahead, you know?"
                             ]
                         },
                         {
@@ -11524,7 +11524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「……あぁ、そうだったな」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] ......Ah, that's right."
                             ]
                         },
                         {
@@ -11661,14 +11661,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](園田さんは部屋だろうか……？"
+                                "\\n<Minato Neon>I wonder if Sonoda-san is in his room...? No,\nmaybe I'll do it later... It's difficult to\nconsult with Udo-sensei around..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、後にするか……宇堂監督がいたんじゃ相談し辛いし…)"
+                                ""
                             ]
                         },
                         {
@@ -12031,7 +12031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]......Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -12115,7 +12115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -12199,7 +12199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……窓の外側が何かに覆われ遮られている)"
+                                "\\n<Minato Neon>\\F[\\V[2]]...... Something is covering and blocking\nthe outside of the window."
                             ]
                         },
                         {
@@ -12297,14 +12297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「少し早いけど、飯でも食べながらにしようかねぇ。"
+                                "\\n<Udo Takeru>It's a bit early, but how about we eat while we're\nat it? I'll guide you to the cafeteria~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "食堂に案内するよォ～」"
+                                ""
                             ]
                         },
                         {
@@ -12433,14 +12433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\FF[61]\\F[\\V[2]]\\AA[FF]「その様子じゃ部屋の方には不満は無かったようだね。"
+                                "\\n<Sonoda Kohei>It seems like there were no complaints from the\nroom. I guess we can relax for now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これで一先ず安心か…」"
+                                ""
                             ]
                         },
                         {
@@ -12464,7 +12464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[61]\\AA[F]「園田さんは私を何だと思ってるんだ…」"
+                                "\\n<Minato Neon>What does Sonoda-san think of me..."
                             ]
                         },
                         {
@@ -12564,38 +12564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]「宇堂監督……何か用か？"
+                                "\\n<Minato Neon>\\FF[\\V[2]] Director Udo... Do you need something?\nI'm about to explore the mansion..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はこれから館内を探索するんだが…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「だから待ってたんだよォ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日からはオイラも同行させてもらうよォ♪」"
+                                ""
                             ]
                         },
                         {
@@ -12612,7 +12588,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「必要ない、一人で十分だ。 他を当たってくれ」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] So, were you waiting for\nme? Starting today, I'll be joining you on this\nexpedition too~♪"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12629,14 +12612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「手厳しいねぇ～…でも駄目だよォ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作中の礼子だって主人公と行動を共にしていたろォ？」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] No need, I'm fine on my\nown. Go ask someone else."
                             ]
                         },
                         {
@@ -12653,14 +12629,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「だから、オイラを主人公に見立てて行動してもらうからねぇ。"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] You're being tough,\nhuh... But it's no good, right? Even Reiko in the\ngame was acting together with the protagonist,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これも全て役作りの為だと受け入れて欲しいなァ」"
+                                ""
                             ]
                         },
                         {
@@ -12677,14 +12653,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「あ、勿論……全て一人でこなせるってなら話は別さ。"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] So, I want you to act as\nif I am the protagonist. I hope you can accept\nthat this is all part of the role-playing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "主人公と共に行動する礼子を完璧に演じてくれるなら問題ない」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Ah, of course... If you\ncan handle everything on your own, that's a\ndifferent story. If you can perfectly portray\nReiko, who acts together with the protagonist,\nthen there's no problem."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12708,14 +12708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF](演者としては初心者の私にそれを言うか……。"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] (As a beginner actress\nlike me, are you really saying that... there's no\nway I can refuse that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなの断れる訳がないじゃないか…)"
+                                ""
                             ]
                         },
                         {
@@ -12739,7 +12739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「分かった……よろしく頼む…」"
+                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF] I understand... I'll\nleave it to you..."
                             ]
                         },
                         {
@@ -12756,7 +12756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]「んふふっ……あぁ、こちらこそよろしく頼むよォ♪」"
+                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Nfufu... Ah, nice to\nmeet you too~♪"
                             ]
                         },
                         {
@@ -12778,14 +12778,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Udo Takeru... joined as a fellow traveler."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#……こうして宇堂監督が同行者として加わった。"
+                                ""
                             ]
                         },
                         {
@@ -12964,7 +12964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……古びた鍵はこの扉を開ける為のモノではないようだ。"
+                                "......It seems that the old key is not meant to\nopen this door."
                             ]
                         },
                         {
@@ -12991,7 +12991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……扉は施錠されているようだ。"
+                                "......It seems that the door is locked."
                             ]
                         },
                         {
@@ -13545,14 +13545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…今日は\\C[2]東館\\C[0]を回ってみようか？"
+                                "\\n<Udo Takeru>Ah... How about we go around the East Building\ntoday, \\C[2]? The door on the east side should be\nopen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "東側のドアが開いているはずだよォ」"
+                                ""
                             ]
                         },
                         {
@@ -13576,7 +13576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……\\C[2]東館\\C[0]だな。分かった…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...\\C[2] the East\nBuilding, huh? Got it..."
                             ]
                         },
                         {
@@ -13600,7 +13600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい……どうせ宇堂監督が開けたんだろうに…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (How shameless... I bet\nit was Director Udo who opened it anyway...)"
                             ]
                         },
                         {
@@ -13816,14 +13816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…今日は\\C[2]東館\\C[0]を回ってみようか？"
+                                "\\n<Udo Takeru>Ah... How about we go around the East Building\ntoday, \\C[2]? The doors on the east side should be\nopen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "東側のドアが開いているはずだよォ」"
+                                ""
                             ]
                         },
                         {
@@ -13847,7 +13847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……\\C[2]東館\\C[0]だな。分かった…」"
+                                "\\n<Minato Neon>...East Building, huh? I got it..."
                             ]
                         },
                         {
@@ -13871,7 +13871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい……どうせ宇堂監督が開けたんだろうに…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (How shameless... I bet\nit was Director Udo who opened it anyway...)"
                             ]
                         },
                         {
@@ -14087,14 +14087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…今日は\\C[2]東館\\C[0]を回ってみようか？"
+                                "\\n<Udo Takeru>Ah... How about we go around the East Building\ntoday, \\C[2]? The door on the east side should be\nopen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "東側のドアが開いているはずだよォ」"
+                                ""
                             ]
                         },
                         {
@@ -14118,7 +14118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……\\C[2]東館\\C[0]だな。分かった…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...\\C[2] the East\nBuilding, huh? Got it..."
                             ]
                         },
                         {
@@ -14142,7 +14142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい……どうせ宇堂監督が開けたんだろうに…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (How shameless... I bet\nit was Director Udo who opened it anyway...)"
                             ]
                         },
                         {
@@ -14358,14 +14358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「あ～…今日は\\C[2]東館\\C[0]を回ってみようか？"
+                                "\\n<Udo Takeru>Ah... How about we go around \\C[2] East Building\n\\C[0] today? The door on the east side should be\nopen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "東側のドアが開いているはずだよォ」"
+                                ""
                             ]
                         },
                         {
@@ -14389,7 +14389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「……\\C[2]東館\\C[0]だな。分かった…」"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...\\C[2] East Building\n\\C[0], huh? Got it..."
                             ]
                         },
                         {
@@ -14413,7 +14413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](白々しい……どうせ宇堂監督が開けたんだろうに…)"
+                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (How shameless... I bet\nit was Director Udo who opened it anyway...)"
                             ]
                         },
                         {

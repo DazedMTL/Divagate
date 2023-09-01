@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "東館 ～客室～",
+    "displayName": "East Hall ~Guest Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2426,7 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あっ……よく見たらここに…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ah... now that I look closely,\n\\F[\\V[2]] is here...)"
                             ]
                         },
                         {
@@ -2455,7 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]壁とベッドの隙間にスイッチらしき物を見つけた。"
+                                "I found something that looks like a switch between\nthe wall and the bed."
                             ]
                         },
                         {
@@ -2463,8 +2463,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…スイッチを押す。",
-                                    "…一旦、離れる。"
+                                    "Press the switch",
+                                    "Let's separate for now"
                                 ],
                                 1,
                                 0,
@@ -2595,7 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…壁とベッドの隙間にあるスイッチは既に押されている。"
+                                "The switch between the wall and the bed has\nalready been pressed."
                             ]
                         },
                         {
@@ -2679,7 +2679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](あっ……よく見たらここに…)"
+                                "\\n<Minato Neon>Ah... now that I look closely, \\F[\\V[2]] is\nhere..."
                             ]
                         },
                         {
@@ -2696,7 +2696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]壁とベッドの隙間にスイッチらしき物を見つけた。"
+                                "I found something that looks like a switch between\nthe wall and the bed."
                             ]
                         },
                         {

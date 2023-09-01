@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "本館 ～館内守衛所～",
+    "displayName": "Main Building ~Guard Station~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1891,7 +1891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…この洋館には不釣り合いなノートパソコンが置かれている。"
+                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
                             ]
                         },
                         {
@@ -1978,14 +1978,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ぁ……そういえばUSBメモリーを拾っていたな。"
+                                "\\n<Minato Neon>Ah... come to think of it, I found a USB memory.\nIf I use this laptop, I can check its contents..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このノートパソコンを使えば中身を確認する事が出来るが…)"
+                                ""
                             ]
                         },
                         {
@@ -1993,8 +1993,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…USBメモリーの中身を確かめる。",
-                                    "…やめておく。"
+                                    "Check the contents of the USB memory",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,
@@ -2024,14 +2024,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そうだな……確かめるべきだな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Yeah... I should check it. Maybe I'll\nfind the password that hasn't been found yet...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "まだ見つかっていないパスワードが見つかるかもしれないし…)"
+                                ""
                             ]
                         },
                         {
@@ -2200,21 +2200,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I turned on my laptop and inserted the memory into\nthe port on the right side. After waiting for\nabout three seconds, a folder automatically opened\nand I found a video file."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ノートパソコンを立ち上げ、私は右側面にあった差し込み口へとメモリーをセットする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#三秒程おいた後、自動的にフォルダーが開かれ一つの動画ファイルが見つかった。"
+                                ""
                             ]
                         },
                         {
@@ -2250,28 +2250,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#…そのファイルにカーソルを合わせダブルクリックをする。\\!"
+                                "\\#... I hovered the cursor over the file and\ndouble-clicked on it. When I did that... the\nlaptop made a clicking sound and launched a video\nplayer, playing the file----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#すると……カタカタと小刻みな音を立てたノートパソコンは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#動画再生ソフトを起動させ、そのファイルを再生させた――――…。"
+                                ""
                             ]
                         },
                         {
@@ -2300,45 +2300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(……やはり思った通りだ。"
+                                "\\n<Minato Neon>(...As I thought. It seems that the password is\ninside this video.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "パスワードはこの動画内にある様だ)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動画は１５分程度のもので、全てを観るのは少し面倒ではあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが……パスワードを見逃す訳にはいかないので、私は食い入る様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その画面を見つめた。"
+                                ""
                             ]
                         },
                         {
@@ -2355,14 +2324,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(直ぐに見つかるといいけど……。"
+                                "The video was about 15 minutes long, and it would\nbe a bit troublesome to watch it all. However... I\ncouldn't afford to miss the password, so I stared\nat the screen intently."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……謎解き要素とかは勘弁してくれよ…)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2379,21 +2355,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思わず溜息が漏れる……が、直ぐに気持ちを切り替える。"
+                                "\\n<Minato Neon>(I hope I can find it quickly... sigh... I hope\nthere aren't any puzzle elements or anything...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……そんな私と同調するかの様に、黒背景にテロップのみの"
+                                "I couldn't help but let out a sigh... but I\nquickly changed my mindset. And then... as if\nresonating with me, the screen switched to a\nsimple black background with only text displayed\non it----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "シンプルな画面も切り替わった――――…。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2447,7 +2447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………えっ…」"
+                                "\\n<Minato Neon>...Huh..."
                             ]
                         },
                         {
@@ -2464,14 +2464,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その予想だにしなかった映像に全身が硬直する。"
+                                "My whole body froze at the unexpected footage...\nbut it was only for a moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……だがそれは一瞬の事だった。"
+                                ""
                             ]
                         },
                         {
@@ -2537,7 +2537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「い、今のって…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] W-What was that just now..."
                             ]
                         },
                         {
@@ -2554,31 +2554,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]…私は思わず動画ファイルを閉じていた。"
+                                "\\F[\\V[2]]... I instinctively closed the video\nfile. Then, I quickly looked around and confirmed\nthat I was alone in the room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして慌てて周囲を見渡し、部屋に私一人なのを確認する。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](今のを観ろという事なのか……私にあんな映像を…)"
+                                ""
                             ]
                         },
                         {
@@ -2595,21 +2578,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]嫌がらせともとれる“仕掛け”に腹が立つ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Are you telling me to watch that just\nnow... to show me such a video...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが……このまま動画を観ずに宇堂監督を問い詰め様ものなら、"
+                                "I felt angry at the prank-like setup. However...\nif I were to confront Director Udo without\nwatching the video, I felt like I would be made a\nfool of."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それはそれで馬鹿にされる気がした。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2633,14 +2633,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こんなモノに動揺して子供だと思われるのも\\r[癪,しゃく]だしな…。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's irritating to think that I would\nbe seen as a child for being shaken up by\nsomething like this... And if this is also part of\nthe lesson, then if I were to play Reiko...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それにこれもレッスンだと言うなら、私が演じる礼子だったら…)"
+                                ""
                             ]
                         },
                         {
@@ -2669,21 +2669,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I excitedly reached out my hand towards the\nlaptop. But... I couldn't help but be curious\nabout the entrance right behind me, so I walked\ntowards the door."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は気を奮い立たせノートパソコンへと手を伸ばす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが……どうしても真後ろにある出入口が気になってしまい扉へと歩み寄る。"
+                                ""
                             ]
                         },
                         {
@@ -2700,21 +2700,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I felt relieved as I confirmed the simple key\nprepared on the door. And when I closed it... I\nturned my attention back to the display once\nagain----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#扉に備えられた簡素な鍵を確認でき私は安堵する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そしてそれを閉めると……私は再びディスプレイへと向き直った――――…。"
+                                ""
                             ]
                         },
                         {
@@ -2819,7 +2819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…この洋館には不釣り合いなノートパソコンが置かれている。"
+                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
                             ]
                         },
                         {
@@ -2911,7 +2911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ネットに繋がっているなら直ぐに調べられるんだが…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If we're connected to the internet, we\ncan look it up right away...)"
                             ]
                         },
                         {
@@ -2947,7 +2947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](やはり繋がっていないか……だったら何故…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (So we're still not connected... then\nwhy is that?)"
                             ]
                         },
                         {
@@ -2964,7 +2964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ん？ なんだこのテキストファイルは…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (...Huh? What is this text file...)"
                             ]
                         },
                         {
@@ -2981,14 +2981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]デスクトップ上に“宇堂”という名前のテキストファイルを見つけ、"
+                                "I found a text file named Udo on the desktop, so I\ndecided to open it for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はとりあえずそれを開いてみた。"
+                                ""
                             ]
                         },
                         {
@@ -3024,7 +3024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]そこには宇堂監督のプロフィールが書き\\r[綴,つづ]られていた。"
+                                "There, Udo's director profile was written."
                             ]
                         },
                         {
@@ -3041,14 +3041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](生年月日はっと……\\C[2]１９７７\\C[0]年生まれか。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Let's see... \\C[2]born in 1977\\C[0].\nSo, the password must be \\C[2]1977\\C[0], right?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]１９７７\\C[0]がパスワードって事だな)"
+                                ""
                             ]
                         },
                         {
@@ -3096,7 +3096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]パスワードの記憶：三日目\\C[0]を手に入れた。"
+                                "Obtained the password memory: Day 3."
                             ]
                         },
                         {
@@ -3120,7 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](しかし、こうして見ると…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (However, looking at it like this...)"
                             ]
                         },
                         {
@@ -3137,52 +3137,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]……経歴にあたる部分をザッと読んでみる。"
+                                "\\F[\\V[2]]... I'll quickly read through the section\nabout his career. I looked it up once when I\nreceived the offer, but now that I'm looking back\nat Udo's director profile, it seems hard to\nbelieve."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オファーを受けた際に一度調べたのだが、宇堂監督の経歴は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今見返すと信じ難い内容に見えた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[\\V[2]]そこには……偏った生き方をしている私ですら知っている賞などの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受賞記録が書かれており、これを見た限りでは凄い監督なのだと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わされる。"
+                                ""
                             ]
                         },
                         {
@@ -3199,14 +3168,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](だが実際は……。"
+                                "\\F[\\V[2]]There, it was written about award records\nthat even someone like me, who leads a biased way\nof life, knows about. From what I saw, it made me\nthink that he is an amazing director."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人として素直に尊敬できないというか何と言うか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (But in reality... I can't honestly\nrespect him as a person, or rather, what should I\nsay...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3294,7 +3294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……\\C[2]レッスンルーム\\C[0]へ向かうか…)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...Should I head to the lesson room\n\\C[2]\\C[0]...)"
                             ]
                         },
                         {
@@ -3321,7 +3321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](パスワードは手に入れた……後はカードキーだな)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I obtained the password... now I just\nneed the card key.)"
                             ]
                         },
                         {
@@ -3347,7 +3347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](今までと同じなら、カードキーは\\C[2]隠し通路\\C[0]にあるはずだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (If it's the same as before, the card\nkey should be hidden in \\C[2] secret passage\n\\C[0])."
                             ]
                         },
                         {
@@ -3374,14 +3374,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](手掛かりは\\C[2]東館１F\\C[0]にあると言っていたよな？"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I remember \\C[2] saying that the clue\nis on the 1st floor of the East Building. Let's go\nback and check to make sure we didn't miss\nanything.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "見落としが無いか戻って調べてみよう)"
+                                ""
                             ]
                         },
                         {
@@ -3486,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…この洋館には不釣り合いなノートパソコンが置かれている。"
+                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
                             ]
                         },
                         {
@@ -3573,7 +3573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](モモもアレの味を知っていたのか…)"
+                                "\\n<Minato Neon>Did Momo also know the taste of that?"
                             ]
                         },
                         {
@@ -3581,8 +3581,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "…USBを回収する。",
-                                    "…何もしない。"
+                                    "Collecting the USB",
+                                    "I'm not doing anything"
                                 ],
                                 1,
                                 0,
@@ -3624,7 +3624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\F[\\V[2]]\\C[2]USB(フェラ動画)\\C[0]を回収した。"
+                                "I collected the USB (blowjob video)."
                             ]
                         },
                         {
@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](…例のUSBは回収済みだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]](...The USB in question has already been\ncollected)"
                             ]
                         },
                         {
@@ -3826,14 +3826,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ぁ……そういえばUSBメモリーを拾っていたな。"
+                                "\\n<Minato Neon>Ah... come to think of it, I found a USB memory.\nIf I use this laptop, I can check its contents..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このノートパソコンを使えば中身を確認する事が出来るが…)"
+                                ""
                             ]
                         },
                         {
@@ -3850,14 +3850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](そうだな……確かめるべきだな。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Yeah... I should check it. Maybe I'll\nfind the password that hasn't been found yet...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まだ見つかっていないパスワードが見つかるかもしれないし…)"
+                                ""
                             ]
                         },
                         {
@@ -3944,21 +3944,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I turned on the laptop and inserted the memory\ninto the port on the right side. After waiting for\nabout three seconds, a folder opened automatically\nand I found a single video file."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ノートパソコンを立ち上げ、私は右側面にあった差し込み口へとメモリーをセットする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#三秒程おいた後、自動的にフォルダーが開かれ一つの動画ファイルが見つかった。"
+                                ""
                             ]
                         },
                         {
@@ -3994,28 +3994,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#…そのファイルにカーソルを合わせダブルクリックをする。\\!"
+                                "I... hovered the cursor over the file and double-\nclicked it. When I did that... the laptop made a\nclicking sound and launched a video player,\nplaying the file----..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#すると……カタカタと小刻みな音を立てたノートパソコンは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#動画再生ソフトを起動させ、そのファイルを再生させた――――…。"
+                                ""
                             ]
                         },
                         {
@@ -4044,45 +4044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(……やはり思った通りだ。"
+                                "\\n<Minato Neon>(...As I thought. It seems that the password is\ninside this video.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "パスワードはこの動画内にある様だ)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動画は１５分程度のもので、全てを観るのは少し面倒ではあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが……パスワードを見逃す訳にはいかないので、私は食い入る様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その画面を見つめた。"
+                                ""
                             ]
                         },
                         {
@@ -4099,14 +4068,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>(直ぐに見つかるといいけど……。"
+                                "The video was about 15 minutes long, and it was a\nbit of a hassle to watch it all. However... I\ncouldn't afford to miss the password, so I stared\nat the screen intently."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……謎解き要素とかは勘弁してくれよ…)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4123,21 +4099,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思わず溜息が漏れる……が、直ぐに気持ちを切り替える。"
+                                "\\n<Minato Neon>(I hope I find it soon... *sigh*... I hope there\naren't any puzzle elements or anything...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……そんな私と同調するかの様に、黒背景にテロップのみの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シンプルな画面も切り替わった――――…。"
+                                "The screen switched to a simple one..."
                             ]
                         },
                         {
@@ -4191,7 +4191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「………えっ…」"
+                                "\\n<Minato Neon>...Huh..."
                             ]
                         },
                         {
@@ -4208,14 +4208,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その予想だにしなかった映像に全身が硬直する。"
+                                "My whole body froze at the unexpected video... but\nthat was only for a moment."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "……だがそれは一瞬の事だった。"
+                                ""
                             ]
                         },
                         {
@@ -4281,7 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]「い、今のって…」"
+                                "\\n<Minato Neon>\\F[\\V[2]] W-What was that just now..."
                             ]
                         },
                         {
@@ -4298,31 +4298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]…私は思わず動画ファイルを閉じていた。"
+                                "\\F[\\V[2]]... I instinctively closed the video\nfile. Then, I quickly looked around and confirmed\nthat I was alone in the room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして慌てて周囲を見渡し、部屋に私一人なのを確認する。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](今のを観ろという事なのか……私にあんな映像を…)"
+                                ""
                             ]
                         },
                         {
@@ -4339,21 +4322,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]嫌がらせともとれる“仕掛け”に腹が立つ。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Are you telling me to watch that just\nnow... to show me such a video...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが……このまま動画を観ずに宇堂監督を問い詰め様ものなら、"
+                                "I felt angry at the prank-like setup. However...\nif I were to confront Director Udo without\nwatching the video, I felt like I would be made a\nfool of."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それはそれで馬鹿にされる気がした。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4377,14 +4377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](こんなモノに動揺して子供だと思われるのも\\r[癪,しゃく]だしな…。"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It's irritating to think that I would\nbe seen as childish for being shaken up by\nsomething like this... And if this is also\nconsidered a lesson, if I were to play the role of\nReiko...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それにこれもレッスンだと言うなら、私が演じる礼子だったら…)"
+                                ""
                             ]
                         },
                         {
@@ -4413,21 +4413,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I excitedly reach out for my laptop, but... I\ncouldn't help but be curious about the entrance\nright behind me, so I walk towards the door."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は気を奮い立たせノートパソコンへと手を伸ばす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#だが……どうしても真後ろにある出入口が気になってしまい扉へと歩み寄る。"
+                                ""
                             ]
                         },
                         {
@@ -4444,21 +4444,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I confirm the simple key prepared for the door and\nfeel relieved. And when I close it... I turn back\nto the display once again----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#扉に備えられた簡素な鍵を確認でき私は安堵する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#そしてそれを閉めると……私は再びディスプレイへと向き直った――――…。"
+                                ""
                             ]
                         },
                         {
@@ -4639,7 +4639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ホース×1、錆取り剤×1、除草剤×3……どうやら発注書のようだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (1 hose, 1 rust remover, 3 weed\nkillers... It seems to be an order form.)"
                             ]
                         },
                         {
@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カラカラに乾いた状態から察するに、長い間使われていないようだ。"
+                                "It seems like it hasn't been used for a long time,\njudging from its completely dried state."
                             ]
                         },
                         {
@@ -5211,7 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開かないな……どうやら鍵がかかっているらしい)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... It seems like it's\nlocked.)"
                             ]
                         },
                         {
@@ -5307,7 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](鍵は……あった！ よし、\\C[2]モニタールーム\\C[0]へ向かうぞ！)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I have the key! Alright, let's head to\nthe \\C[2] monitoring room\\C[0]!)"
                             ]
                         },
                         {
@@ -5336,7 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2]モニタールームの鍵\\C[0]を入手した。"
+                                "Momo obtained the key to the monitoring room."
                             ]
                         },
                         {
@@ -5421,7 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](既に鍵は入手済みだ)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (I already have the key)"
                             ]
                         },
                         {
@@ -5505,7 +5505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](うっ……少しカビ臭い…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ugh... It smells a little musty...)"
                             ]
                         },
                         {
@@ -5649,7 +5649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](うっ……少しカビ臭い…)"
+                                "\\n<Minato Neon>\\F[\\V[2]] (Ugh... It smells a little musty...)"
                             ]
                         },
                         {

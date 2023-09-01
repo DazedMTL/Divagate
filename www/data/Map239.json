@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "♪ 雨のプレリュード",
+    "displayName": "♪ Prelude of Rain",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6410,38 +6410,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はサワとモモに手伝われベッドへと移される。"
+                                "I was helped by Sawa and Momo and moved to the\nbed. And... at the stage where my clothes were\nbeing taken off, my \\r[ was already throbbing, and\neveryone witnessed it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!そして……服を脱がされる段階で、既に\\r[漲,みなぎ]っていた愚息を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "皆に目撃されてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「あははっ\\I[12] ヤル気満々だぁ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -6458,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「はぁ……節操ねぇなァ」"
+                                "\\n<Momo>Ahaha, you're full of motivation, huh?"
                             ]
                         },
                         {
@@ -6475,14 +6458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「そんな顔しないで……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫、全部私達がしますから…」"
+                                "\\n<Kino>Sigh... You have no morals, huh?"
                             ]
                         },
                         {
@@ -6499,38 +6475,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そして、全ての衣服を脱がされた僕は、文字通り…"
+                                "\\n<Sawa>Don't make that face... It's okay, we'll take care\nof everything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ベッドの上で大の字となった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(後はこのまま寝ているだけで帰れるんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々を見捨て……僕は逃げる様に…)"
+                                ""
                             ]
                         },
                         {
@@ -6547,7 +6499,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "......And then, after having all of my clothes\ntaken off, I literally...spread out on the bed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6564,7 +6523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "\\n<Sonoda Kohei>(If I just stay here and pretend to sleep, I can\ngo home... abandoning Neon... I'll escape...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6581,7 +6547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                ".................."
                             ]
                         },
                         {
@@ -6598,14 +6564,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれからどれだけ経ったろう。"
+                                "............"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一時間？ それとも二時間？ 時間の感覚があやふやになっている。"
+                                "......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's been how long since then... One hour? Or\nmaybe two hours? My sense of time has become\nuncertain."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6691,38 +6691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗に\\r[纏,まと]まっていた髪を振り乱し、サワは一心不乱にその腰を"
+                                "Sawa, with her hair beautifully \\r[ tied up, let\nit loose and relentlessly thrust her hips towards\nme."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕へと叩きつけていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>「んあっ\\I[12] あぁァっ\\I[12] 園田さんッ\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "園田さんっ\\I[12] 私を見てぇ……あァんっ\\I[12] イイっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -6739,21 +6715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おとなしめな普段の彼女の姿を良く知る分、今の彼女はとても"
+                                "\\n<Sawa>Nngh... Ahh... Sonoda-san... Sonoda-san... Look at\nme... Ahh... It feels good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "刺激的かつ魅力的だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな彼女に釣られ、僕も下から腰を突き上げていく。"
+                                ""
                             ]
                         },
                         {
@@ -6770,38 +6739,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(でも何故だ……既に三人それぞれに射精し、サワに至っては"
+                                "I was familiar with her usually quiet and reserved\ndemeanor, so seeing her like this was incredibly\nexciting and attractive. Drawn in by her allure, I\nalso thrust my hips up from below."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "二度目のセックスだというのに、この尽きる事のない性欲は…)"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「ちゅっ……んンっ、ンっ……ンっ……ふふっ、ほら良い子だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんとゴックンしてぇ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -6818,7 +6770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>「んクっ、んンっ、んクっ…」"
+                                "\\n<Sonoda>(But why... even though I've already ejaculated\nwith three different people, and Sawa is on her\nsecond round of sex, this insatiable sexual\ndesire...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6835,38 +6794,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(さっきからモモに口移しで飲まされている"
+                                "\\n<Momo>Mmm... Nngh, ngh... Ngh... Hehe, see? You're a\ngood boy, so make sure to swallow it all, \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この甘ったるい液体が原因だろうか？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モモに子ども扱いされる事が心地良くて、“良い子”でいたいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の疑いも無く与えられた液体を僕は飲み込んでいった。"
+                                ""
                             ]
                         },
                         {
@@ -6883,7 +6818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ただの精力剤だよ……但し裏モノみたいだけどな」"
+                                "\\n<Sonoda>Nngh... Nngh... Nngh..."
                             ]
                         },
                         {
@@ -6900,52 +6835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「監督に頼んで一本貰っといてやったんだぞ？"
+                                "\\n<Sonoda>(Could it be that this sweet liquid that I've been\nmade to drink from Momo's mouth is the cause?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良かったなァ…… “あの\\r[醜態,しゅうたい]”を二人に晒さずに済んでさァ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キノが僕の耳元で囁く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "離れ際に見上げた彼女の表情は昨晩のものだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!僕を蔑み、嘲笑うかの様な表情だったのにも関わらず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は……酷く興奮していた。"
+                                ""
                             ]
                         },
                         {
@@ -6962,7 +6859,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>「うぁ……あぁァ…」"
+                                "I found it pleasurable to be treated like a child\nby Momo, so without any doubt, I swallowed the\nliquid that was given to me because I wanted to be\na good boy."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6979,28 +6883,124 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女達によって僕の内に眠っていた新たな扉が開かれていく…。"
+                                "\\n<Kino>It's just an energy supplement... Although it\nseems like something shady."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!サワからは虐める事で得られる高揚感を。"
+                                "\\n<Kino>I asked the director and got one for you. You're\nlucky... You didn't have to expose that \\r[\ndisgrace in front of the two of us."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!モモからは子供の様に甘えさせてくれる事で得られる多幸感を。"
+                                "Kino whispered in my ear. Her expression when she\nlooked up before leaving was the same as last\nnight. Despite her expression that seemed to scorn\nand mock me, I... was incredibly excited."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!そしてキノからは……冷たく蔑まれる事で生まれた背徳感を。"
+                                "\\n<Sonoda>Ugh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "By them, a new door that was sleeping inside me is\nbeing opened...! From Sawa, I obtain an\nexhilarating feeling by being bullied. From Momo,\nI obtain a sense of happiness by being pampered\nlike a child. And from Kino... I obtain a sense of\ntaboo that is born from being coldly scorned."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7036,14 +7036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "様々な感情がひしめき合い脳の処理が追いつかず、パニックに"
+                                "I noticed a faint sound that I heard in my right\near as various emotions crowded together and my\nbrain struggled to keep up, almost causing me to\npanic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なりかけた僕は右耳に聞こえた微かな音に気付く。"
+                                ""
                             ]
                         },
                         {
@@ -7060,7 +7060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(何の音だ……？ 鏡張りの壁から聞こえてくる…)"
+                                "\\n<Sonoda>(What's that sound...? It's coming from the\nmirrored wall...)"
                             ]
                         },
                         {
@@ -7091,52 +7091,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "疑問には思ったが……モモとのキスを止める程ではなかった。"
+                                "I had my doubts... but it wasn't enough to make me\nstop kissing Momo. In the end... without even\nglancing in the direction of the sound, my\nconsciousness immediately turned towards the\npleasure I was weaving with them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!結局……音のする方向には一度も目もくれず、直ぐに僕の意識は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女達と紡ぐ快楽へと向けられた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「んちゅっ\\I[12] ちゅうぅぅ……んふふっ\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マネちゃん可愛い\\I[12] ちゅっ\\I[12] ンろぉ……\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -7153,7 +7129,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(モモっ……もっと……あぁァ、何て美味しいんだ…)"
+                                "\\n<Momo>Mwah\\I[12]... hehe\\I[12] Mane-chan is so\ncute\\I[12] Mwah\\I[12] Nroo...\\I[12]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7170,14 +7153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「やぁァ……私を見てください……もっと……んンっ\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やぁンっ\\I[12] いくらでもオマンコしますからぁ\\I[12]」"
+                                "\\n<Sonoda>(Momo... more... ahh, it's so delicious...)"
                             ]
                         },
                         {
@@ -7194,31 +7170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あぁァ、サワのオマンコを犯してる……。"
+                                "\\n<Sawa>Hey... please look at me... more... nghh \\I[12],\nnghh \\I[12], I'll do as much pussy as you want, so\nplease \\I[12]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ちいい、気持ちいいよサワ……お前のオマンコは最高だ…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>「女なら誰でもいいんだなァ？ この薬頼りの雑魚チンポ野郎\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -7235,14 +7194,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(キノにもっと僕の雑魚チンポを使ってもらいたい……。"
+                                "\\n<Sonoda>(Ahh, I'm fucking Sawa's pussy... It feels good,\nit feels so good, Sawa... Your pussy is the\nbest...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その蔑むような瞳で見下ろしながら僕を犯してくれ…)"
+                                "\\n<Kino>So any woman will do, huh? You pathetic loser who\nrelies on drugs, \\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda>(I want Kino to use my pathetic dick more... while\nlooking down on me with those scornful eyes,\nplease violate me...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7277,14 +7277,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三人に思考を巡らせた結果、必然的に辿り着く。"
+                                "After contemplating with the three of them, I\ninevitably arrived at a conclusion. The person I\nfound and spent a year with, becoming my dearest\ncompanion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕が見つけ、一年を費やし仲間となった最愛の人。"
+                                ""
                             ]
                         },
                         {
@@ -7301,7 +7301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々も今……こうやって、あの男に犯されているのだろうか…)"
+                                "\\n<Sonoda>(I wonder if Neon is being violated by that man\nright now...)"
                             ]
                         },
                         {
@@ -7337,21 +7337,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先程と同じ音が聞こえたところで、ふと僕は気付く。"
+                                "At the moment I heard the same sound as earlier, I\nsuddenly realized. The bed placed in that man's\nroom is positioned exactly next to this room..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの男の部屋に置かれたベッドが間取り的に、丁度この部屋の"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隣にある事を…。"
+                                ""
                             ]
                         },
                         {
@@ -7418,7 +7418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あの深紅のベッドの上で、音々はあの男に“初めて”を…)"
+                                "\\n<Sonoda>(On that deep crimson bed, Neon is giving herself\nto that man for the first time...)"
                             ]
                         },
                         {
@@ -7435,14 +7435,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(立場など無視して、もっと積極的に音々と向き合えてたら"
+                                "\\n<Sonoda>(If I had been more proactive in facing Neon,\nregardless of our positions, maybe I could have\nreceived her purity...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕が貰えていたかもしれない彼女の純潔を…)"
+                                ""
                             ]
                         },
                         {
@@ -7459,14 +7459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あんな男に……ッ……出会って間もないくせに……"
+                                "\\n<Sonoda>(To think that she would meet a man like him...\nignoring the time we have spent together... giving\nin to his dirty desires...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕達が育んできた時間を無視して、汚れた欲望のままに…)"
+                                ""
                             ]
                         },
                         {
@@ -7544,14 +7544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(これまで犯してきた女性達みたいに、宇堂は当たり前の様に"
+                                "\\n<Sonoda>(Just like the women he has violated before, Udo\nis going to take Neon's virgin pussy with that\nmonstrous dick of his as if it's a given...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの凶悪なチンポで音々の処女マンコを…)"
+                                ""
                             ]
                         },
                         {
@@ -7640,7 +7640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(何度も突き入れ……僕の知らない音々を、いとも簡単に引き出し…)"
+                                "\\n<Sonoda>(Thrusting in repeatedly... easily drawing out a\nside of Neon that I don't know...)"
                             ]
                         },
                         {
@@ -7729,14 +7729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々を跨らせたりもするかもしれない……。"
+                                "\\n<Sonoda>(He might make Neon straddle him... and Udo will\nthoroughly enjoy watching her unravel...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして彼女が乱れる様を宇堂は存分に眺め…)"
+                                ""
                             ]
                         },
                         {
@@ -7825,7 +7825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々としたかった……こんな風に手を繋いで愛し合いたかった…)"
+                                "\\n<Sonoda>(I wanted to be with Neon... I wanted to hold\nhands and love each other like this...)"
                             ]
                         },
                         {
@@ -7914,21 +7914,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あの音々が自分から動いて……。"
+                                "\\n<Sonoda>(Will Neon willingly move towards him... and\nengage in sex, selling herself to a man? No,\nsurely that wouldn't happen... not for a man like\nhim...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "男に媚びを売る様なセックスをするだろうか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、流石にそれは無いだろう……あんな男の為に…)"
+                                ""
                             ]
                         },
                         {
@@ -8017,14 +8017,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々とキスしながらの濃厚なセックス……。"
+                                "\\n<Sonoda>(Intense sex while kissing Neon... Why... Why with\nthat man...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……何で……何であんな男となんだ…)"
+                                ""
                             ]
                         },
                         {
@@ -8113,14 +8113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(きっと宇堂は容赦しない……。"
+                                "\\n<Sonoda>(Surely Udo won't show any mercy... He won't use\nany contraception and will recklessly take\nadvantage of Neon's virgin pussy...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "避妊などせず、無責任に生のまま音々の処女マンコを使い倒し…)"
+                                ""
                             ]
                         },
                         {
@@ -8227,7 +8227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(遠慮など一切せず、音々の\\r[膣内,なか]へと欲望のままに…)"
+                                "\\n<Sonoda>(Without any hesitation, he thrusts his desire\ndeep into Neon's \\r[ pussy...)"
                             ]
                         },
                         {
@@ -8298,7 +8298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(まるで自分の所有物だと言わんばかりに何度も…)"
+                                "\\n<Sonoda>(As if declaring her as his possession, he thrusts\ninto her over and over...)"
                             ]
                         },
                         {
@@ -8369,7 +8369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(彼女の汚れを知らなかったオマンコに何度も…)"
+                                "\\n<Sonoda>(To her innocent pussy that I didn't know...)"
                             ]
                         },
                         {
@@ -8458,7 +8458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(彼女に拒絶されようがお構いなく何度も…)"
+                                "\\n<Sonoda>(No matter how much she rejects him, he doesn't\ncare and continues to...)"
                             ]
                         },
                         {
@@ -8547,7 +8547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(何度……も…)"
+                                "\\n<Sonoda>(No matter how many times...)"
                             ]
                         },
                         {
@@ -8636,7 +8636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(まるで子作りでもするかの様に何度も…)"
+                                "\\n<Sonoda>(As if trying to make a baby, he does it over and\nover...)"
                             ]
                         },
                         {
@@ -8757,7 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(僕の知らない音々に変えられ、彼女はあの男の全てを受け入れ…)"
+                                "\\n<Sonoda>(Changed into a Neon I didn't know, she accepts\neverything about that man...)"
                             ]
                         },
                         {
@@ -9156,7 +9156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(ずっと好きだった……デビューをする前から好きだったんだ…)"
+                                "\\n<Sonoda>(I've always loved you... I've loved you even\nbefore your debut...)"
                             ]
                         },
                         {
@@ -9199,7 +9199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(違う形で出会えたのなら違ったのだろうか…)"
+                                "\\n<Sonoda>(If we had met in a different way, would things\nhave been different...)"
                             ]
                         },
                         {
@@ -9242,7 +9242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々……音々……クソっ、どうして僕は…)"
+                                "\\n<Sonoda>(Neon... Neon... Damn it, why am I...)"
                             ]
                         },
                         {
@@ -9277,7 +9277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>「ハァッ、ハァッ……ンあっ……あぁァ…」"
+                                "\\n<Sonoda>Haa... Haa... Ahh... Ahh..."
                             ]
                         },
                         {
@@ -9294,31 +9294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「やぁンっ\\I[12] イキそうだったのに……。"
+                                "\\n<Sawa>Hey \\I[12], I was about to cum... don't stop...\ndon't make it go soft..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だめぇ……萎えないでぇ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「あははっ\\I[12] マネちゃんげきチ～ン\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -9335,7 +9318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「二周目でそれかよ……おい、コレ三時間持つのかァ？」"
+                                "\\n<Momo>Ahaha, Manechan's acting is amazing~"
                             ]
                         },
                         {
@@ -9352,7 +9335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……一人妄想に\\r[耽,ふけ]っている間に、どうやら僕は射精していたらしい。"
+                                "\\n<Kino>Doing that on the second playthrough... hey, can\nyou last for three hours?"
                             ]
                         },
                         {
@@ -9369,7 +9352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(最低だ……サワとシていたというのに僕は音々の事を考えて…)"
+                                "While I was indulging in my own fantasies, it\nseems like I ejaculated."
                             ]
                         },
                         {
@@ -9386,14 +9369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「んンっ\\I[12] 大丈夫です……だから、そんな顔しないで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふっ、すぐおっきくさせますから…」"
+                                "\\n<Sonoda>(How despicable... Even though I was with Sawa, I\nwas thinking about Neon...)"
                             ]
                         },
                         {
@@ -9410,31 +9386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サワはアソコを\\r[窄,すぼ]ませつつ浅い動きに切り替えたりと、"
+                                "\\n<Sawa>Nn, \\I[12], it's okay... So, don't make that\nface... Hehe, I'll make it hard again soon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "工夫を凝らし萎え始めた僕の愚息を器用にシゴいていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「えぇぇ～…１射精交代じゃないのぉ？」"
+                                ""
                             ]
                         },
                         {
@@ -9451,7 +9410,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「まぁ、いいじゃねぇか……サワの好きにヤらせてやれって…」"
+                                "Sawa skillfully stroked my flaccid member, while\ntightening \\r[ and switching to shallow movements,\nusing various techniques to keep it from wilting."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9468,14 +9434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「むぅ～……しょうがないのぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サワっち、マネちゃんの事ずっと好きだったモンね～」"
+                                "\\n<Momo>Eeeh... Only one ejaculation per turn?"
                             ]
                         },
                         {
@@ -9492,7 +9451,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ぁ……バカ…」"
+                                "\\n<Kino>Well, it's fine... Let Sawa do as she likes..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Momo>Mmm... I guess there's no helping it... Sawa-\nchan, I've always liked Mane-chan, you know~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Kino>Ah... Idiot..."
                             ]
                         },
                         {
@@ -9528,38 +9528,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「…――――――ッ！？ も、\\{モモっ！！\\}"
+                                "\\n<Sawa>...------!? M-Momo!! Ah... that wasn't what it\nlooked like... I mean, not in a human way... Ahh,\ngeez..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぁ……いや今のは違くて……人間的にというか……あぁん、もう…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<園田>(そうか……そういう事だったのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何となく……そうなんじゃないかとは思っていたけど…)"
+                                ""
                             ]
                         },
                         {
@@ -9576,7 +9552,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(――――――だったら…)"
+                                "\\n<Sonoda>(I see... So that's what it was... Somehow... I\nhad a feeling it might be like that...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9593,7 +9576,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「うぅ……園田さん…？」"
+                                "\\n<Sonoda>(If that's the case...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>Ugh... Sonoda-san...?"
                             ]
                         },
                         {
@@ -9643,28 +9643,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#……もし許されるのなら、僕は彼女に恩を返すべきだろう。"
+                                "If it's allowed, I should repay her kindness. Even\nif it means risking my whole life... As a good\nfriend, even if I'm rejected... It's the worst\nsituation to make up my mind... But at that\nmoment, I felt like you saved me----..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#それも生涯を賭けて……拒絶されたとしても、良き友として僕は…"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\!決意を固めるには最低な状況だけど……僕はこの時、君に救われた気がしたんだ――――…。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10363,38 +10363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はサワとモモに手伝われベッドへと移される。"
+                                "I was helped by Sawa and Momo and moved to the\nbed. And... at the stage of having my clothes\ntaken off, my \\r[ was already overflowing, and\neveryone witnessed it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!そして……服を脱がされる段階で、既に\\r[漲,みなぎ]っていた愚息を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "皆に目撃されてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「あははっ\\I[12] ヤル気満々だぁ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -10411,7 +10394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「はぁ……節操ねぇなァ」"
+                                "\\n<Momo>Ahaha, you're full of motivation, huh?"
                             ]
                         },
                         {
@@ -10428,14 +10411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「そんな顔しないで……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫、全部私達がしますから…」"
+                                "\\n<Kino>Sigh... You have no morals, huh?"
                             ]
                         },
                         {
@@ -10452,38 +10428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そして、全ての衣服を脱がされた僕は、文字通り…"
+                                "\\n<Sawa>Don't make that face... It's okay, we'll take care\nof everything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ベッドの上で大の字となった。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>(後はこのまま寝ているだけで帰れるんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "音々を見捨て……僕は逃げる様に…)"
+                                ""
                             ]
                         },
                         {
@@ -10500,7 +10452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………"
+                                "......And then, after having all my clothes taken\noff, I literally...spread out on the bed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10517,7 +10476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………"
+                                "\\n<Sonoda Kohei>(If I just stay here and pretend to sleep, I can\ngo home... abandoning Neon... I'll escape...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10534,7 +10500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                ".................."
                             ]
                         },
                         {
@@ -10551,14 +10517,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれからどれだけ経ったろう。"
+                                "............"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一時間？ それとも二時間？ 時間の感覚があやふやになっている。"
+                                "......"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's been how long since then... One hour? Or\nmaybe two hours? My sense of time has become\nuncertain."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10644,38 +10644,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗に\\r[纏,まと]まっていた髪を振り乱し、サワは一心不乱にその腰を"
+                                "Sawa, with her hair beautifully \\r[ tied up, let\nit loose and relentlessly thrust her hips towards\nme."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕へと叩きつけていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<サワ>「んあっ\\I[12] あぁァっ\\I[12] 園田さんッ\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "園田さんっ\\I[12] 私を見てぇ……あァんっ\\I[12] イイっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -10692,21 +10668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おとなしめな普段の彼女の姿を良く知る分、今の彼女はとても"
+                                "\\n<Sawa>Nngh... Ahh... Sonoda-san... Sonoda-san... Look at\nme... Ahh... It feels good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "刺激的かつ魅力的だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな彼女に釣られ、僕も下から腰を突き上げていく。"
+                                ""
                             ]
                         },
                         {
@@ -10723,38 +10692,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(でも何故だ……既に三人それぞれに射精し、サワに至っては"
+                                "Neon, who I know as a usually quiet and reserved\nperson, was incredibly exciting and attractive in\nthat moment. Drawn in by her, I also thrust my\nhips up from below."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "二度目のセックスだというのに、この尽きる事のない性欲は…)"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「ちゅっ……んンっ、ンっ……ンっ……ふふっ、ほら良い子だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんとゴックンしてぇ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -10771,7 +10723,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>「んクっ、んンっ、んクっ…」"
+                                "\\n<Sonoda>(But why... even though we've already ejaculated\nwith each of the three of them, and Sawa has even\nhad sex for the second time, this insatiable\nsexual desire...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10788,38 +10747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(さっきからモモに口移しで飲まされている"
+                                "\\n<Momo>Mmm... Nngh, ngh... Ngh... Hehe, see? Be a good\nboy and swallow it \\I[12]. Swallow it properly\n\\I[12]. Swallow it properly \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この甘ったるい液体が原因だろうか？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モモに子ども扱いされる事が心地良くて、“良い子”でいたいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の疑いも無く与えられた液体を僕は飲み込んでいった。"
+                                ""
                             ]
                         },
                         {
@@ -10836,7 +10771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ただの精力剤だよ……但し裏モノみたいだけどな」"
+                                "\\n<Sonoda>Nngh... Nngh... Nngh..."
                             ]
                         },
                         {
@@ -10853,52 +10788,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「監督に頼んで一本貰っといてやったんだぞ？"
+                                "\\n<Sonoda>(Could it be that this sweet liquid that I've been\nmade to drink from Momo's mouth is the cause?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "良かったなァ…… “あの\\r[醜態,しゅうたい]”を二人に晒さずに済んでさァ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キノが僕の耳元で囁く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "離れ際に見上げた彼女の表情は昨晩のものだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\!僕を蔑み、嘲笑うかの様な表情だったのにも関わらず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は……酷く興奮していた。"
+                                ""
                             ]
                         },
                         {
@@ -10915,7 +10812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>「うぁ……あぁァ…」"
+                                "Being treated like a child by Momo felt pleasant,\nso without any doubt, I swallowed the liquid that\nwas given to me because I want to be a good boy."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10932,28 +10836,124 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女達によって僕の内に眠っていた新たな扉が開かれていく…。"
+                                "\\n<Kino>It's just an energy supplement... Although it\nseems like something shady."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!サワからは虐める事で得られる高揚感を。"
+                                "\\n<Kino>I asked the director and got one for you. You're\nlucky... You were able to avoid exposing that \\r[\ndisgrace in front of the two of us."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!モモからは子供の様に甘えさせてくれる事で得られる多幸感を。"
+                                "Kino whispered in my ear. When I looked up at her\nas she moved away, her expression was the same as\nlast night. Despite the fact that it was an\nexpression of contempt and mockery towards me,\nI... was incredibly excited."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\!そしてキノからは……冷たく蔑まれる事で生まれた背徳感を。"
+                                "\\n<Sonoda>Ugh... Ahh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The new door that lay dormant within me is being\nopened by them... From Sawa, I feel an\nexhilaration that comes from being teased. From\nMomo, I feel a sense of bliss that comes from\nbeing pampered like a child. And from Kino... I\nfeel a sense of taboo that is born from her cold\ncontempt."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10989,14 +10989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "様々な感情がひしめき合い脳の処理が追いつかず、パニックに"
+                                "I noticed a faint sound that I heard in my right\near as various emotions crowded together and\noverwhelmed my brain, almost causing me to panic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なりかけた僕は右耳に聞こえた微かな音に気付く。"
+                                ""
                             ]
                         },
                         {
@@ -11013,7 +11013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(何の音だ……？ 鏡張りの壁から聞こえてくる…)"
+                                "\\n<Sonoda>(What's that sound...? I can hear it coming from\nthe mirrored wall...)"
                             ]
                         },
                         {
@@ -11044,52 +11044,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "疑問には思ったが……モモとのキスを止める程ではなかった。"
+                                "I had my doubts... but it wasn't enough to make me\nstop kissing Momo. In the end... without even\nglancing in the direction of the sound, my\nconsciousness immediately turned towards the\npleasure I was weaving with them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!結局……音のする方向には一度も目もくれず、直ぐに僕の意識は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女達と紡ぐ快楽へと向けられた。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「んちゅっ\\I[12] ちゅうぅぅ……んふふっ\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マネちゃん可愛い\\I[12] ちゅっ\\I[12] ンろぉ……\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -11106,7 +11082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(モモっ……もっと……あぁァ、何て美味しいんだ…)"
+                                "\\n<Momo>Mwah\\I[12]... hehe\\I[12] Mane-chan is so\ncute\\I[12] Mwah\\I[12]... Nroo\\I[12]..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11123,14 +11106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「やぁァ……私を見てください……もっと……んンっ\\I[12]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やぁンっ\\I[12] いくらでもオマンコしますからぁ\\I[12]」"
+                                "\\n<Sonoda>(Momo... more... ahh, it's so delicious...)"
                             ]
                         },
                         {
@@ -11147,31 +11123,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あぁァ、サワのオマンコを犯してる……。"
+                                "\\n<Sawa>Hey... please look at me... more... mmm, I'll do\nanything with my pussy... as much as you want."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気持ちいい、気持ちいいよサワ……お前のオマンコは最高だ…)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<キノ>「女なら誰でもいいんだなァ？ この薬頼りの雑魚チンポ野郎\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -11188,14 +11147,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(キノにもっと僕の雑魚チンポを使ってもらいたい……。"
+                                "\\n<Sonoda>(Ahh, I'm violating Sawa's pussy... It feels good,\nit feels so good, Sawa... Your pussy is the\nbest...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その蔑むような瞳で見下ろしながら僕を犯してくれ…)"
+                                "\\n<Kino>So any woman will do, huh? You're just a pathetic\nloser who relies on drugs, \\I[12]."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sonoda>(I want Kino to use my pathetic dick more... while\nlooking down on me with those contemptuous eyes,\nviolate me...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11230,14 +11230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三人に思考を巡らせた結果、必然的に辿り着く。"
+                                "After contemplating with the three of them, I\ninevitably arrived at a conclusion. The person I\nfound and spent a year with, becoming my dearest\ncompanion."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕が見つけ、一年を費やし仲間となった最愛の人。"
+                                ""
                             ]
                         },
                         {
@@ -11254,7 +11254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々も今……こうやって、あの男に犯されているのだろうか…)"
+                                "\\n<Sonoda>(I wonder if Neon is being violated by that man\nright now...)"
                             ]
                         },
                         {
@@ -11290,21 +11290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先程と同じ音が聞こえたところで、ふと僕は気付く。"
+                                "At the moment I heard the same sound as earlier, I\nsuddenly realized. The bed placed in that man's\nroom is positioned exactly next to this room..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの男の部屋に置かれたベッドが間取り的に、丁度この部屋の"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "隣にある事を…。"
+                                ""
                             ]
                         },
                         {
@@ -11371,7 +11371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あの深紅のベッドの上で、音々はあの男に“初めて”を…)"
+                                "\\n<Sonoda>(On that deep crimson bed, Neon is giving her\nfirst time to that man...)"
                             ]
                         },
                         {
@@ -11388,14 +11388,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(立場など無視して、もっと積極的に音々と向き合えてたら"
+                                "\\n<Sonoda>(If I had been more proactive in facing Neon,\nregardless of our positions, maybe I could have\nreceived her purity...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕が貰えていたかもしれない彼女の純潔を…)"
+                                ""
                             ]
                         },
                         {
@@ -11412,14 +11412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あんな男に……ッ……出会って間もないくせに……"
+                                "\\n<Sonoda>(To think that she would meet a man like him...\nignoring the time we have spent together... giving\nin to his filthy desires...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "僕達が育んできた時間を無視して、汚れた欲望のままに…)"
+                                ""
                             ]
                         },
                         {
@@ -11497,14 +11497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(これまで犯してきた女性達みたいに、宇堂は当たり前の様に"
+                                "\\n<Sonoda>(Just like the women he has violated before, Udo\nis going to take Neon's virgin pussy with that\nmonstrous dick of his as if it's a given...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの凶悪なチンポで音々の処女マンコを…)"
+                                ""
                             ]
                         },
                         {
@@ -11593,7 +11593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(何度も突き入れ……僕の知らない音々を、いとも簡単に引き出し…)"
+                                "\\n<Sonoda>(Thrusting in repeatedly... easily drawing out a\nside of Neon that I don't know...)"
                             ]
                         },
                         {
@@ -11682,14 +11682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々を跨らせたりもするかもしれない……。"
+                                "\\n<Sonoda>(He might make Neon straddle him... and Udo will\nthoroughly enjoy watching her unravel...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして彼女が乱れる様を宇堂は存分に眺め…)"
+                                ""
                             ]
                         },
                         {
@@ -11778,7 +11778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々としたかった……こんな風に手を繋いで愛し合いたかった…)"
+                                "\\n<Sonoda>(I wanted to be with Neon... I wanted to hold\nhands and love each other like this...)"
                             ]
                         },
                         {
@@ -11867,21 +11867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(あの音々が自分から動いて……。"
+                                "\\n<Sonoda>(Would Neon really go so far as to willingly\nengage in sex with a man...? No, surely that\nwouldn't happen... Not for a man like him...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "男に媚びを売る様なセックスをするだろうか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、流石にそれは無いだろう……あんな男の為に…)"
+                                ""
                             ]
                         },
                         {
@@ -11970,14 +11970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々とキスしながらの濃厚なセックス……。"
+                                "\\n<Sonoda>(Intense sex while kissing Neon... Why... Why with\nthat man...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ッ……何で……何であんな男となんだ…)"
+                                ""
                             ]
                         },
                         {
@@ -12066,14 +12066,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(きっと宇堂は容赦しない……。"
+                                "\\n<Sonoda>(Surely Udo won't show any mercy... He won't use\nany contraception, and he'll recklessly take\nadvantage of Neon's virgin pussy as it is...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "避妊などせず、無責任に生のまま音々の処女マンコを使い倒し…)"
+                                ""
                             ]
                         },
                         {
@@ -12180,7 +12180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(遠慮など一切せず、音々の\\r[膣内,なか]へと欲望のままに…)"
+                                "\\n<Sonoda>(Without any hesitation, he plunges into Neon's\n\\r[ pussy, giving in to his desires...)"
                             ]
                         },
                         {
@@ -12251,7 +12251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(まるで自分の所有物だと言わんばかりに何度も…)"
+                                "\\n<Sonoda>(As if declaring her as his possession, he thrusts\ninto her over and over...)"
                             ]
                         },
                         {
@@ -12322,7 +12322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(彼女の汚れを知らなかったオマンコに何度も…)"
+                                "\\n<Sonoda>(Repeatedly into her innocent pussy that I didn't\nknow was tainted...)"
                             ]
                         },
                         {
@@ -12411,7 +12411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(彼女に拒絶されようがお構いなく何度も…)"
+                                "\\n<Sonoda>(No matter how much she rejects me, I don't care\nand I'll do it over and over again...)"
                             ]
                         },
                         {
@@ -12500,7 +12500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(何度……も…)"
+                                "\\n<Sonoda>(No matter how many times...)"
                             ]
                         },
                         {
@@ -12589,7 +12589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(まるで子作りでもするかの様に何度も…)"
+                                "\\n<Sonoda>(As if trying to make a baby, doing it over and\nover again...)"
                             ]
                         },
                         {
@@ -12710,7 +12710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(僕の知らない音々に変えられ、彼女はあの男の全てを受け入れ…)"
+                                "\\n<Sonoda>(Changed into a Neon I didn't know, she accepts\neverything about that man...)"
                             ]
                         },
                         {
@@ -13109,7 +13109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(ずっと好きだった……デビューをする前から好きだったんだ…)"
+                                "\\n<Sonoda>(I've loved you for so long... Even before your\ndebut...)"
                             ]
                         },
                         {
@@ -13152,7 +13152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(違う形で出会えたのなら違ったのだろうか…)"
+                                "\\n<Sonoda>(If we had met in a different way, would things\nhave been different...)"
                             ]
                         },
                         {
@@ -13195,7 +13195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(音々……音々……クソっ、どうして僕は…)"
+                                "\\n<Sonoda>(Neon... Neon... Damn it, why am I...)"
                             ]
                         },
                         {
@@ -13230,7 +13230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>「ハァッ、ハァッ……ンあっ……あぁァ…」"
+                                "\\n<Sonoda>Haa... Haa... Ahh... Aahh..."
                             ]
                         },
                         {
@@ -13247,31 +13247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「やぁンっ\\I[12] イキそうだったのに……。"
+                                "\\n<Sawa>Hey \\I[12], I was about to cum... don't stop...\ndon't go soft..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だめぇ……萎えないでぇ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「あははっ\\I[12] マネちゃんげきチ～ン\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -13288,7 +13271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「二周目でそれかよ……おい、コレ三時間持つのかァ？」"
+                                "\\n<Momo>Ahaha, Manechan's acting skills are amazing~"
                             ]
                         },
                         {
@@ -13305,7 +13288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……一人妄想に\\r[耽,ふけ]っている間に、どうやら僕は射精していたらしい。"
+                                "\\n<Kino>Doing it again in the second round... Hey, can you\nlast for three hours?"
                             ]
                         },
                         {
@@ -13322,7 +13305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(最低だ……サワとシていたというのに僕は音々の事を考えて…)"
+                                "While I was indulging in my own fantasies, it\nseems that I had ejaculated."
                             ]
                         },
                         {
@@ -13339,14 +13322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「んンっ\\I[12] 大丈夫です……だから、そんな顔しないで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふっ、すぐおっきくさせますから…」"
+                                "\\n<Sonoda>(How despicable... Even though I was with Sawa, I\nwas thinking about Neon...)"
                             ]
                         },
                         {
@@ -13363,31 +13339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サワはアソコを\\r[窄,すぼ]ませつつ浅い動きに切り替えたりと、"
+                                "\\n<Sawa>Mmm, \\I[12], it's okay... So don't make that\nface... Hehe, I'll make you hard again soon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "工夫を凝らし萎え始めた僕の愚息を器用にシゴいていく。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<モモ>「えぇぇ～…１射精交代じゃないのぉ？」"
+                                ""
                             ]
                         },
                         {
@@ -13404,7 +13363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「まぁ、いいじゃねぇか……サワの好きにヤらせてやれって…」"
+                                "Sawa skillfully stroked my flaccid member, while\ntightening her \\r[ and switching to shallow\nmovements, using various techniques to keep it\nfrom wilting."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13421,14 +13387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<モモ>「むぅ～……しょうがないのぅ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サワっち、マネちゃんの事ずっと好きだったモンね～」"
+                                "\\n<Momo>Eeeh... Only one ejaculation per turn?"
                             ]
                         },
                         {
@@ -13445,7 +13404,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>「ぁ……バカ…」"
+                                "\\n<Kino>Well, it's fine... Let Sawa do as she pleases..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Momo>Mmm... I can't help it... Sawa-chan, I've always\nliked Mane-chan, you know~"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Kino>Ah... Idiot..."
                             ]
                         },
                         {
@@ -13481,38 +13481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「…――――――ッ！？ も、\\{モモっ！！\\}"
+                                "\\n<Sawa>...------!?\\{Momo!!\\} Ah... no, that wasn't what I\nmeant... I mean, in a human way... Ahh, never\nmind..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぁ……いや今のは違くて……人間的にというか……あぁん、もう…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<園田>(そうか……そういう事だったのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何となく……そうなんじゃないかとは思っていたけど…)"
+                                ""
                             ]
                         },
                         {
@@ -13529,7 +13505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<園田>(――――――だったら…)"
+                                "\\n<Sonoda>(I see... So that's what it was... Somehow... I\nhad a feeling it might be like that...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13546,7 +13529,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サワ>「うぅ……園田さん…？」"
+                                "\\n<Sonoda>(If that's the case...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Sawa>Ugh... Sonoda-san...?"
                             ]
                         },
                         {
@@ -13596,28 +13596,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#……もし許されるのなら、僕は彼女に恩を返すべきだろう。"
+                                "If it's possible for me to be forgiven... I should\nrepay her kindness. Even if I'm rejected, as a\ngood friend... It's the worst situation to make up\nmy mind... But at this moment, I felt like you\nsaved me----..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#それも生涯を賭けて……拒絶されたとしても、良き友として僕は…"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\!決意を固めるには最低な状況だけど……僕はこの時、君に救われた気がしたんだ――――…。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13766,7 +13766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<キノ>\\F[62]\\FF[91]\\AA[FF]「………」"
+                                "\\n<Kino>\\F[62]\\FF[91]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -13783,7 +13783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[1]園田\\C[0]>\\F[62]\\FF[91]\\AA[F](ッ……怖くて目が合わせられない……絶対、睨んでるよな…)"
+                                "\\n<Sonoda Kohei>\\F[62]\\FF[91]\\AA[F](S-She... I'm too scared to\nmake eye contact... She's definitely glaring at\nme...)"
                             ]
                         },
                         {
@@ -14618,14 +14618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "I... had some confidence in my appearance, to some\nextent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#私は……多少なりとも自分の容姿には自信があった。"
+                                ""
                             ]
                         },
                         {
@@ -14667,21 +14667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "I think my figure is decent, and even if you\nsubtract my somewhat stubborn personality, I take\npride in being a good woman."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　スタイルだってそれなりだと思うし、\\r[拗,こじ]らせてしまった性格を差し引いても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#女としては良い部類だと自負している。"
+                                ""
                             ]
                         },
                         {
@@ -14705,28 +14705,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#だからだろうか……私はこれまでの人生で、ぞんざいな扱いをされた事は無い。"
+                                "Maybe it's because of \\#... Throughout my life, I\nhave never been treated roughly. Of course, I\nunderstand that the biggest factor is being\nblessed with good friendships. But still...\nsomewhere deep down, maybe I was a bit arrogant\nbecause I am me and \\r[."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#勿論、それは交友関係に恵まれたのが一番の要因だろう事は分かっている。\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　だが、それでも……私はどこかで“私だから”と\\r[自惚,うぬぼ]れていたのかもしれない。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14856,7 +14856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「はぁンっ\\I[12] あっ\\I[12] んあっ\\I[12] やぁァんっ\\I[12]」"
+                                "\\n<Minato Neon>Haaan \\I[12] Ahh \\I[12] Naaah \\I[12] Yaaan \\I[12]"
                             ]
                         },
                         {
@@ -14880,14 +14880,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな自惚れていた私をまるで罰するかの様に、男のモノが"
+                                "The way the man's thing roughly thrusts into me is\nlike a punishment for my arrogance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私を“ぞんざい”に突き上げる。"
+                                ""
                             ]
                         },
                         {
@@ -14911,7 +14911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んあっ\\I[12] はげしぃンっ……んっ\\I[12] あぁァっ\\I[12]」"
+                                "\\n<Minato Neon>Nghh... It's so intense... Ahh...!"
                             ]
                         },
                         {
@@ -14935,14 +14935,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが……不快感は一切なかった。"
+                                "However... I didn't feel any discomfort at all. In\nfact, I even derived pleasure from being treated\nlike this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "むしろ、“私”がこの様な扱いを受ける事に快楽を得てさえいた。"
+                                ""
                             ]
                         },
                         {
@@ -15057,14 +15057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んっ\\I[12] あぁァっ\\I[12] アソコ……アソコおかしいのぉ\\I[12]"
+                                "\\n<Minato Neon>Nghh... Ahh... My \\I[12]... My \\I[12] feels\nstrange... Ahh... Ahh... It's so intense... My\npussy is going to break!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あっ\\I[12] あぁっ\\I[12] やぁんっ、オマンコこわれちゃうぅンっ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -15088,14 +15088,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あぁ、壊れちゃうねぇ♪"
+                                "\\n<Udo Takeru>Ahh, it's like I'm going to break♪ Becoming a\npussy made for this big dick, in a way, maybe\nthat's true♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このデカチン用のオマンコになるって事はある意味そうかもねぇ♪」"
+                                ""
                             ]
                         },
                         {
@@ -15112,14 +15112,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男が好む言葉を選んで口にする。"
+                                "The man chooses words that men prefer and\nrepeatedly utters words that are usually too \\r[\nugly or despicable to say out loud."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "普段、絶対に口に出せない様な\\r[醜,みにく]く浅ましい言葉を何度も…。"
+                                ""
                             ]
                         },
                         {
@@ -15215,7 +15215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んい\"ぃィィっ\\I[12]」"
+                                "\\n<Minato Neon>Nii... Ahh... Yesss \\I[12]"
                             ]
                         },
                         {
@@ -15239,14 +15239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あらら……またイっちゃったねぇ♪"
+                                "\\n<Udo Takeru>Oh my... you came again, huh? Neon's pussy is so\ntight and cute♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "音々のオマンコはチョロくて可愛いなァ♪」"
+                                ""
                             ]
                         },
                         {
@@ -15263,28 +15263,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恥ずかし気もなく絶頂する姿を何度も晒す。"
+                                "Without any shame, I repeatedly expose myself in\nthe act of climaxing. At first, I resisted being\nseen in such a state, but gradually, it changed\nfrom something I didn't want to be seen to\nsomething I didn't mind being seen... and\neventually, it transformed into something I wanted\nto be seen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんな姿を見られる事に初めこそ抵抗はあったものの、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつしか“見られたくない”ものから“見られてもいい”ものへ…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして“見て欲しい”ものへと変化していった。"
+                                ""
                             ]
                         },
                         {
@@ -15373,69 +15373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「こうして手を繋いでると恋人同士のセックスの様だねぇ？"
+                                "\\n<Udo Takeru>When we hold hands like this, it feels like we're\nhaving sex as lovers, doesn't it? How about we\njust start dating for real? Well, only on the\nsurface, of course♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もういっそ付き合っちゃうかい？ 飽くまで表向きだけど♪」"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                100
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んンっ\\I[12] うらではなに…んあっ\\I[12] あぁァっ\\I[12]」"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                99
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「勿論、オイラ専用のオマンコ犬♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ？ 今、オマンコがキュッって喜んだぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -15459,7 +15404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ッ……んぁァ\\I[12] ばかぁ…」"
+                                "\\n<Minato Neon>Nghh... What are you doing behind me... Ahh...\nAhh..."
                             ]
                         },
                         {
@@ -15483,21 +15428,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会話はただの調味料。"
+                                "\\n<Udo Takeru>Of course, my very own pussy dog♪ Oh? Is your\npussy getting all excited right now?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                100
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "快楽という名の旨味を引き上げる為に、私達は何度も何度も\\r[淫,みだ]らで"
+                                "\\n<Minato Neon>Nghh... Ahh... \\I[12], you idiot..."
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                99
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "官能的な言葉を交わし合う。"
+                                "Conversation is just a seasoning. In order to\nenhance the umami of pleasure, we exchange obscene\nand sensual words over and over again."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15593,7 +15593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んっ\\I[12] んあっ\\I[12] やっぱおっきィ……んンっ\\I[12]」"
+                                "\\n<Minato Neon>Mmm, ah, it's big after all... mmm!"
                             ]
                         },
                         {
@@ -15617,7 +15617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「イイ感じだ……いいよォ？ そのまま続けてぇ♪」"
+                                "\\n<Udo Takeru>Feels good... Is it okay? Let's continue just like\nthat♪"
                             ]
                         },
                         {
@@ -15634,28 +15634,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男が動き辛い体位の時は私が積極的に腰を動かした。\\!"
+                                "When the man was in a difficult position to move,\nI actively moved my hips. It's not like... I did\nit because I was told to. I just felt that it was\nnatural to do so, that's all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "別に……そうしろと言われたからではない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そうする事が当たり前だと感じたから私はそうしたに過ぎない。"
+                                ""
                             ]
                         },
                         {
@@ -15770,7 +15770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んちゅっ……ちゅっ、れろぉ……ちゅむっ、ちゅっ…」"
+                                "\\n<Minato Neon>Mmm... *kiss*... *lick*... *kiss*..."
                             ]
                         },
                         {
@@ -15794,21 +15794,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……キスは好き。"
+                                "I like kisses... I like intense kisses while\nhaving sex. I also like kisses that tenderly\nembrace each other after climaxing, and nibbling\nkisses."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "セックスしながら行う濃厚なキスが好き。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "絶頂した後の互いを労わる様な、ついばむキスも好き。"
+                                ""
                             ]
                         },
                         {
@@ -15825,14 +15825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれほど嫌だったのに……。"
+                                "This man has changed me, even though I hated it so\nmuch..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この男によって私という人間が変えられていく。"
+                                ""
                             ]
                         },
                         {
@@ -15966,14 +15966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んン\"ぅ\\I[12] やぁんっ、またイク……ッ\\I[12]"
+                                "\\n<Minato Neon>Nngh... Ahh, I'm cumming again... It's no good...\nAhh, I'm cumming... My pussy is going to cum..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "だめ……あぁっ\\I[12] イク……おまんこイっちゃうのぉ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -15997,14 +15997,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「おう、好きなだけイっちまえ♪"
+                                "\\n<Udo Takeru>Oh, go ahead and cum as much as you want♪ I was a\nvirgin until that age... 'I won't let myself fall\nbehind!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その歳まで処女だったんだ……“遅れ”を取り戻さんとなァ！」"
+                                ""
                             ]
                         },
                         {
@@ -16028,14 +16028,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「いっしょに……オチンポもいっしょがいい…。"
+                                "\\n<Minato Neon>Together... I want your cock inside me... Let's\ncum together... Ahh, \\I[12]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "わたしのオマンコでいっしょにイってぇ……ッ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -16059,7 +16059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「んひひひひっ♪ そらぁっ！ 受け取れぇいッ！！」"
+                                "\\n<Udo Takeru>Nhihihihi♪ Here it comes! Receive it!!"
                             ]
                         },
                         {
@@ -16220,7 +16220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はもう……拒絶する事はしなかった。"
+                                "I no longer... refused."
                             ]
                         },
                         {
@@ -16345,7 +16345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は当たり前のように私の\\r[膣内,なか]へと精を放っていった。"
+                                "The man released his seed into my \\r[ pussy as if\nit were natural."
                             ]
                         },
                         {
@@ -16470,7 +16470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度も…。"
+                                "Many times..."
                             ]
                         },
                         {
@@ -16613,7 +16613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度も…。"
+                                "Many times..."
                             ]
                         },
                         {
@@ -16756,7 +16756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度も…。"
+                                "Many times..."
                             ]
                         },
                         {
@@ -16899,7 +16899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まるで夫婦が子作りでもしているかの様に…。"
+                                "It's as if a married couple is trying to make a\nbaby..."
                             ]
                         },
                         {
@@ -17049,21 +17049,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私も感覚が麻痺していたのだろう。\\!"
+                                "......I think my senses were also numb. Once the\nnumber of ejaculations exceeded three, I began to\nfeel that it was only natural for \\r[ to ejaculate\ninside my vagina, and I accepted it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "射精回数が三回を超えた辺りから\\r[膣内,なか]で\\r[射精,だ]されるのは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "当然の行為だと感じ始め、受け入れていた。"
+                                ""
                             ]
                         },
                         {
@@ -17087,7 +17087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ひっ……んンっ\\I[12] はぁンっ\\I[12] まだおっきぃン…ッ\\I[12]」"
+                                "\\n<Minato Neon>H-huh... it's still b-big... \\I[12]..."
                             ]
                         },
                         {
@@ -17111,14 +17111,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「今夜の為に裏モノの精力剤をキメてるからなァ？"
+                                "\\n<Udo Takeru>Are you taking some secret stamina enhancer for\ntonight? Nhihihi, I'll make you stay with me until\nyour semen runs dry♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んひひっ、精液が枯れるまで付き合ってもらうからねぇ♪」"
+                                ""
                             ]
                         },
                         {
@@ -17135,21 +17135,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "衰える事なく私を突き上げるオチンポに頼もしさを覚える。"
+                                "I feel reassured by the penis that thrusts into me\nwithout weakening. And... towards the man who\ngives me such pleasure with this manly penis, I\neven begin to feel affection."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして……この男らしいオチンポで、私にこれ程の快楽を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "与えてくれる男に対し、愛おしさすら感じ始める。"
+                                ""
                             ]
                         },
                         {
@@ -17173,7 +17173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「いっぱいつかってぇ……\\I[12] すき……このオチンポすきぃ……っ\\I[12]」"
+                                "\\n<Minato Neon>I want you to use it a lot... I love \\I[12]... I\nlove this penis... \\I[12]"
                             ]
                         },
                         {
@@ -17204,28 +17204,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私は初めて、女に生まれ落ちた事へ感謝した。\\!"
+                                "......For the first time, I felt grateful for\nbeing born as a woman. And... for meeting this man\nand him showing interest in me. And on top of\nthat, for him being the one to give me my first\nexperience and teach me about sex. I felt grateful\nfor every single thing that led up to this day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そして……この男と出会い、私に興味を持ってくれた事。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "挙句、“初めて”を貰ってくれてセックスを教えてくれた事。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はこの日に至る全ての事象に感謝した。"
+                                ""
                             ]
                         },
                         {
@@ -17915,7 +17915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{\\{「ッッ……はぁァァんっ\\I[12]」"
+                                "\\n<Minato Neon>Haaah... Ahhhn \\I[12]"
                             ]
                         },
                         {
@@ -18059,7 +18059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ん\"おっ\\I[12] お\"ぉおぉォ…」"
+                                "\\n<Udo Takeru>Ngh... Oh, \\I[12]... Ahhh..."
                             ]
                         },
                         {
@@ -18196,14 +18196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の\\r[迸,ほとば]りを腹の奥で感じながら私は気付く。"
+                                "During the eruption of \\r['s manhood, I felt a\nsurge deep in my abdomen and realized that the\nposition we were in at the end was the same as our\nfirst time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "この最後に行っていた体位が、“初めて”の時のものだったと。"
+                                ""
                             ]
                         },
                         {
@@ -18292,14 +18292,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ふぃ～…\\r[射精,だ]した♪ \\r[射精,だ]した♪"
+                                "\\n<Udo Takeru>Phew... I ejaculated, yeah♪ I ejaculated, yeah♪\nBecause you initially rejected me, it made me even\nmore fired up♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "初っ端で拒絶するモンだから逆に燃えちまったぜぇ♪」"
+                                ""
                             ]
                         },
                         {
@@ -18323,7 +18323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「あう……ぁ……あぁァ…」"
+                                "\\n<Minato Neon>Ah... ah... aahh..."
                             ]
                         },
                         {
@@ -18347,7 +18347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「腹減ったな……一旦、飯にするかァ…」"
+                                "\\n<Udo Takeru>I'm hungry... Let's grab a meal for now..."
                             ]
                         },
                         {
@@ -18437,7 +18437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「んぁ\\I[12] ッ……はぁっ、はぁっ…」"
+                                "\\n<Minato Neon>Nngh... Haaah, haaah..."
                             ]
                         },
                         {
@@ -18461,28 +18461,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督はアソコに埋まっていたモノを無造作に引き抜くと"
+                                "Udo Director pulled out what was buried in my\ncrotch carelessly and moved away from me. As for\nme, I had long exceeded my physical limits and\ncouldn't move as I wanted, so I could only follow\nUdo Director with my eyes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私から離れた。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私はというと体力の限界をとうに超えていたので思うように動けず、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "宇堂監督を目で追う事しか出来なかった。"
+                                ""
                             ]
                         },
                         {
@@ -18517,14 +18517,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「……いや、その前に風呂かなァ。"
+                                "\\n<Udo Takeru>......Well, before that, should we take a bath?\nMinato-chan, together... Oh, it seems impossible,\nhuh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "音々ちゃんも一緒に……って、無理そうだねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -18548,7 +18548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「はぁっ…はぁっ……んぅ……おわった……の…」"
+                                "\\n<Minato Neon>Haaah... Haaah... Nngh... It's over... I..."
                             ]
                         },
                         {
@@ -18572,7 +18572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「んァ？ あぁ、とりあえずな」"
+                                "\\n<Udo Takeru>Hmm? Ah, for now..."
                             ]
                         },
                         {
@@ -18589,14 +18589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「そのベッドは使っていいから少し休むといい。"
+                                "\\n<Udo Takeru>You can use that bed, so take a rest for a bit. If\nyou're hungry, you can help yourself to whatever's\nin the fridge."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "腹が減ってるなら冷蔵庫のモンを勝手に食っていいからな」"
+                                ""
                             ]
                         },
                         {
@@ -18613,7 +18613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言った宇堂監督は何かを拾い上げ、それを私に向ける。"
+                                "Udo Director, who said that, picked something up\nand aimed it towards me."
                             ]
                         },
                         {
@@ -18663,7 +18663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ぁ……ッ……いやぁ…」"
+                                "\\n<Minato Neon>Ah... ah... nooo..."
                             ]
                         },
                         {
@@ -18687,7 +18687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ぐひひっ、歌姫陥落ぅ♪」"
+                                "\\n<Udo Takeru>Guhiihi, the songstress has fallen♪"
                             ]
                         },
                         {
@@ -18730,14 +18730,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大股開きでアソコから精液を垂れ流す様を撮られるも、"
+                                "I was filmed with my legs spread wide open, semen\ndripping from my crotch, unable to even move a\nmuscle, completely at their mercy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私は身じろぎする事すら叶わずされるがままとなる。"
+                                ""
                             ]
                         },
                         {
@@ -18754,14 +18754,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「あ～…そうそう……館を出る時に写真の類を消すって契約な。"
+                                "\\n<Udo Takeru>Ah... right, right... We had a contract to delete\nany photos or evidence before leaving the mansion.\nWasn't that until yesterday's date change?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "アレ、昨日の日付変更までの話なァ？」"
+                                ""
                             ]
                         },
                         {
@@ -18785,7 +18785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ぇ……じゃあ……ッ……だ、だめぇ……とらないでぇ…」"
+                                "\\n<Minato Neon>Eh... Then... No... Don't... don't take it..."
                             ]
                         },
                         {
@@ -18809,14 +18809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「動画もバッチリ撮らせてもらったからねぇ♪"
+                                "\\n<Udo Takeru>I even recorded a video perfectly, you know♪ Do\nyou understand what this means?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これがどういう事か分かるよねぇ？」"
+                                ""
                             ]
                         },
                         {
@@ -18833,14 +18833,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「もし、お前が逃げ出したり何かしたら……"
+                                "\\n<Udo Takeru>If you were to run away or do something, it would\nbe regrettable for me, but it might cause trouble\nfor everyone, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オイラとしては不本意だけど皆が迷惑する事になるかもねぇ？」"
+                                ""
                             ]
                         },
                         {
@@ -18864,7 +18864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>\\{「ッ……あぁァ……そんな…」"
+                                "\\n<Minato Neon>Ah... ah... nooo..."
                             ]
                         },
                         {
@@ -18888,14 +18888,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\C[27]宇堂\\C[0]>「ま、オイラのオマンコ犬になるんだし逃げ出す訳ないかァ♪"
+                                "\\n<Udo Takeru>Well, since you're going to be my pussy dog,\nthere's no way you'll run away, right? Well then,\nsee you later, \\I[12]."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "んじゃ、また後でなァ\\I[12]」"
+                                ""
                             ]
                         },
                         {
@@ -18924,7 +18924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私を一人ベッドへと残し、宇堂監督は部屋を後にした。"
+                                "Udo Director left the room, leaving me alone on\nthe bed."
                             ]
                         },
                         {
@@ -18941,31 +18941,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "後悔なんてしてはいけない。"
+                                "You must not regret it. Even though you were shown\nsuch a scene, you chose to be embraced by your own\nwill."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あんな光景を見せられたにせよ、自分で選んで抱かれたのだから。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\C[31]音々\\C[0]>「うぐ……ッ……駄目だ……泣くな…」"
+                                ""
                             ]
                         },
                         {
@@ -18982,14 +18965,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの時……裏切られたと感じた。"
+                                "\\n<Minato Neon>Ugh... No... Don't... Don't cry..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今もその気持ちは変わらないが、どうしても彼の顔が頭に浮かぶ。"
+                                "That time... I felt betrayed. Even now, that\nfeeling hasn't changed, but his face keeps coming\nto mind."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19025,14 +19025,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Minato Neon: I'm sorry... I'm sorry... I'm\nsorry... I..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#「ごめん……なさい……ごめん……私…」"
+                                ""
                             ]
                         },
                         {
@@ -19049,14 +19049,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Minato Neon: I... I can't sing anymore..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#「私……もう……歌えない…」"
+                                ""
                             ]
                         },
                         {
@@ -19073,21 +19073,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "In the quiet room, I covered my face with\ntrembling arms and tears wet my cheeks..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#静まり返った部屋の中、震える腕で顔を覆うと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#私は一人頬を濡らした――――…。"
+                                ""
                             ]
                         },
                         {
