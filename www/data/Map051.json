@@ -6969,7 +6969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] ...Is this the guest room floor?"
+                                "\\n<Minato>\\F[\\V[2]]...Is this the guest room floor?"
                             ]
                         },
                         {
@@ -6986,7 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Ah... Should I give\nsome advice here? It's inefficient without any\nhints, after all."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Ah... Should I give some advice here? It's inefficient\nwithout any hints, after all."
                             ]
                         },
                         {
@@ -7010,7 +7010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru cleared his throat and deliberately\nexhaled, then began to speak to himself."
+                                "\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Udo, who deliberately exhaled with a cough, began to\nspeak to himself."
                             ]
                         },
                         {
@@ -7027,7 +7027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>In the guest rooms on this floor, there are three\nhidden switches that are linked to certain\ndevices. It would be best to start by searching\nfor them."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]In the guest rooms on this floor, there are three\nswitches hidden that are linked to \\C[0] devices.\nFirst, it's best to search for them."
                             ]
                         },
                         {
@@ -7058,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -7075,7 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hm? Did you not hear\nit?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hm? Did you not hear me?"
                             ]
                         },
                         {
@@ -7099,7 +7099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] No... Is that the only\nhint? And what is this 'certain device'?"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]No... Is that the only hint? And what is this 'device'\nyou mentioned?"
                             ]
                         },
                         {
@@ -7123,7 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] If I were to tell you\neverything, you wouldn't learn the art of\nexploration, right? Come on, let's go... I won't\ntell you the exact location though ♪"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]If I were to tell you everything, you wouldn't learn\nthe art of exploration, right? Come on, let's\ngo... I won't tell you the exact location though ♪"
                             ]
                         },
                         {
@@ -7154,7 +7154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Tch... \\r[I'm annoyed,\nbut you're right. I'll follow along carefully and\nobediently...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Tch... as much as it annoys me, you're right. I'll\nfollow your advice and proceed with caution...)"
                             ]
                         },
                         {
@@ -7209,7 +7209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obtained Udo's Hint \\C[0]"
+                                "\\C[2]Memory: Obtained Udo's Hint \\C[0]."
                             ]
                         },
                         {
@@ -8491,7 +8491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Huh...? Did I just hear\na sound coming from above?)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Hm...? Did I just hear a sound coming from above?)"
                             ]
                         },
                         {
@@ -8508,7 +8508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hmm? What's wrong,\nNeon-chan?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hmm? What's wrong, Minato-chan?"
                             ]
                         },
                         {
@@ -8525,7 +8525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Is it just my\nimagination? It seems like Director Udo didn't\nnotice...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Is it just my imagination? It seems like Director\nUdo didn't notice...)"
                             ]
                         },
                         {
@@ -8705,7 +8705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Hm...? Did I just hear\na sound coming from above?)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Hm...? Did I just hear a sound coming from above?)"
                             ]
                         },
                         {
@@ -8722,7 +8722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hmm? What's wrong,\nNeon-chan?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hmm? What's wrong, Minato-chan?"
                             ]
                         },
                         {
@@ -8739,7 +8739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Is it just my\nimagination? It seems like Director Udo didn't\nnotice...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Is it just my imagination? It seems like Director\nUdo didn't notice...)"
                             ]
                         },
                         {
@@ -8919,7 +8919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Huh...? Did I just hear\na sound coming from above?)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Hm...? Did I just hear a sound coming from above?)"
                             ]
                         },
                         {
@@ -8936,7 +8936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hmm? What's wrong,\nNeon-chan?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hmm? What's wrong, Minato-chan?"
                             ]
                         },
                         {
@@ -8953,7 +8953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Is it just my\nimagination? It seems like Director Udo didn't\nnotice...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Is it just my imagination? It seems like Director\nUdo didn't notice...)"
                             ]
                         },
                         {

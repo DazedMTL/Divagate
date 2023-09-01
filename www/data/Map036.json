@@ -10523,14 +10523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Chapter 1... ... ... Finished"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　　　　　　　\\.\\SE[タイプライター]c\\.\\SE[タイプライター]h\\.\\SE[タイプライター]a\\.\\SE[タイプライター]p\\.\\SE[タイプライター]t\\.\\SE[タイプライター]e\\.\\SE[タイプライター]r\\.\\SE[タイプライター]1\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]…\\.\\SE[タイプライター]了"
+                                ""
                             ]
                         },
                         {
@@ -10572,7 +10572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\SE[Chime]\\C[2]chapter2\\C[0] has been unlocked!\n(※) The \\SE[Chime]\\C[2] flashback room has been\nunlocked! (※) Please select from the choices after\nthe Start from the beginning option on the title\nscreen."
+                                "\\SE[Chime]\\C[2]Chapter 2 \\C[0] has been unlocked! (※) The flashback room \\C[0] has\nbeen unlocked! (※) Select from the choices after\nStart from the beginning on the title screen."
                             ]
                         },
                         {
@@ -12924,7 +12924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#I... have some confidence in my appearance. I\nthink my style is decent, and even if you subtract\nmy twisted personality, I pride myself on being in\nthe good category as a woman."
+                                "\\# I... have some confidence in my appearance. I\nthink my style is decent, and even if I subtract\nmy twisted personality, I pride myself on being a\ngood woman."
                             ]
                         },
                         {
@@ -12962,7 +12962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's probably because of that... I have never been\ntreated roughly in my life. Of course, the biggest\nfactor is that I have been blessed with good\nfriendships. I understand that. But still...\nsomewhere deep down, maybe I was a bit conceited\nbecause of who I am."
+                                "Maybe it's because of \\#... I have never been treated\nroughly in my life. Of course, the biggest factor\nis that I have been blessed with good friends. I\nunderstand that. But still... maybe somewhere\nalong the line, I was being conceited just because\nI am me."
                             ]
                         },
                         {
@@ -15111,7 +15111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (For now, I'll head to the room where\n\\C[2] notebook computer is... It's frustrating how\nthings are going exactly as that guy wants...)"
+                                "\\n<Minato>\\F[\\V[2]](For now, I'll head to the room \\C[0] where \\C[2]\nlaptop is... It's frustrating to see things going\nthe way that guy wants...)"
                             ]
                         },
                         {
@@ -15200,12 +15200,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[481])For now, let's have sex / Location: West Wing 3rd floor bedroom / Conditions: None",
+                                    "if(s[481])For now, let's have sex / Location: West Building 3rd Floor Bedroom / Conditions: None",
                                     "if(s[482])Paul Masturbation / Location: Hidden Room on the 3rd floor of the main building / Requirements: None",
-                                    "if(s[483])Yotsuhami / Location: Main Building 2F Terrace / Requirements: None",
+                                    "if(s[483])Yotsutsu / Location: Main Building 2F Terrace / Conditions: None",
                                     "if(s[484])Expansion / Location: Underground Library / Condition: Approval rate of 10 or higher",
                                     "if(s[485])From the outside and the inside / Location: West Building 2F Large Bath / Requirement: Approval rate of 20 or higher",
-                                    "if(s[486])First time / Location: West Building 3rd floor bathing facility / Condition: Approval rate of 30 or higher"
+                                    "if(s[486])First time / Location: West Building 3F Bathing Facility / Requirement: Approval rate of 30 or higher"
                                 ],
                                 -1,
                                 0,
@@ -15301,9 +15301,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[487])Favorite Position / Location: East Building 2nd Floor Guest Room / Requirement: Approval Rate of 40 or higher",
-                                    "if(s[488])Like the two of us / Location: West Wing 3rd Floor Bedroom / Condition: Approval rate of 50% or higher",
-                                    "if(s[489])Aokan Biyori / Location: Main Building 1F / Requirement: Approval rate of 60% or higher",
+                                    "if(s[487])Favorite Position / Location: East Building 2F Guest Room / Requirement: Approval Rate of 40 or higher",
+                                    "if(s[488])Like the two of us / Location: West Building 3F Bedroom / Condition: Approval rate of 50 or higher",
+                                    "if(s[489])Outdoor Sex Weather / Location: Main Building 1F / Requirement: Approval rate of 60 or higher",
                                     "if(s[490])Oath and Blasphemy / Location: Underground Church / Requirement: Approval rate of 70 or higher",
                                     "if(s[491])『グラビア撮影会』/場所：西館１F食堂/条件：えっちな水着(上下)has it",
                                     "if(s[492])Under the Starry Sky / Location: Main Building 3rd Floor Guest Room Terrace / Condition: Nighttime"
@@ -15402,8 +15402,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[493])Rescue / Location: West Building 3F Collection Room / Condition: Limited to the eighth day",
-                                    "if(s[494])Trauma / Location: West Building 3F Collection Room / Condition: Limited to the ninth day",
+                                    "if(s[493])'Rescue' / Location: West Building 3F Collection Room / Condition: Limited to the eighth day",
+                                    "if(s[494])'Trauma' / Location: West Building 3F Collection Room / Condition: Limited to the ninth day",
                                     "Close it"
                                 ],
                                 2,
@@ -15621,7 +15621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Minato Neon] Type-Writer] Meeting [Minato Neon]\nType-Writer] Lodging [Minato Neon] Type-Writer]\nDay [Minato Neon] Type-Writer] Eye [Minato Neon]\nType-Writer] 1 [Minato Neon] Type-Writer] 0\n[\\N[5]] Type-Writer: 40"
+                                "\\.\\SE[タイプライタ]合\\.\\SE[タイプライタ]宿\\.\\SE[タイプライタ]\\C[27]1\\.\\SE[タイプライタ]\\C[27]0\\C[0]\\.\\SE[タイプライタ]日\\.\\SE[タイプライタ]目\\.\\SE[タイプライタ]\\.\\SE[タイプライタ]1\\.\\SE[タイプライタ]2\\.\\SE[タイプライタ]: \\.\\SE[タイプライタ]4\\.\\SE[タイプライタ]0"
                             ]
                         },
                         {
@@ -16378,7 +16378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Eroge Title] P[Eroge Title] r[Eroge Title]\no[Eroge Title] l[Eroge Title] o[Eroge Title]\ng[Eroge Title] u[Eroge Title] e[Eroge Title]:\n[Eroge Title] Song Princess...[Eroge\nTitle]...[Eroge Title]...[Eroge Title] Finished"
+                                "Prologue: The Song Princess... ... ... Ended."
                             ]
                         },
                         {
@@ -16462,7 +16462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#... If even one person was missing, it wouldn't\nhave turned out like this. And this is not a\nmiracle... It is the result of the \\r[ created by\nme and them, the work of people."
+                                "\\#... If even one person was missing, it wouldn't have\nturned out like this. And this is not a miracle...\nIt is the result of the work that I and they have\nwoven together."
                             ]
                         },
                         {
@@ -16795,7 +16795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Minato Neon] Eroge Title: Uta Hime...  Note: The\ntext is cut off and the title of the eroge is not\nfully visible."
+                                "Prologue: The Song Princess... ... ... Ended."
                             ]
                         },
                         {

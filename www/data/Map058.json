@@ -2750,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......It seems like the door is locked."
+                                "......It seems that the door is locked."
                             ]
                         },
                         {
@@ -2847,7 +2847,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I'll ride",
+                                    "ride",
                                     "I won't do anything"
                                 ],
                                 1,
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>...Huh? It's not even twitching..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]...Huh? It doesn't even twitch..."
                             ]
                         },
                         {
@@ -2970,7 +2970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Udo Takeru>Hmm... Maybe it's not heavy enough?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hmm... Maybe it's not heavy enough?"
                             ]
                         },
                         {
@@ -2994,7 +2994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>I see, it's about the weight..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I see, it's about the weight...)"
                             ]
                         },
                         {
@@ -3158,7 +3158,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I'll ride it",
+                                    "ride",
                                     "Udo gets on",
                                     "I won't do anything"
                                 ],
@@ -3265,7 +3265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>...Huh? It doesn't even twitch..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]...Huh? It doesn't even twitch..."
                             ]
                         },
                         {
@@ -3282,7 +3282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hmm... Maybe it's not\nheavy enough?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hmm... Maybe it's not heavy enough?"
                             ]
                         },
                         {
@@ -3306,7 +3306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>I see, it's about the weight..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I see, it's about the weight...)"
                             ]
                         },
                         {
@@ -3388,7 +3388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Udo Takeru>If it's a request from Neon-chan, I'll even go\nthrough fire and water~♪"
+                                "\\n<Udo>\\FF[\\V[4]]If it's a request from Minato-chan, even if it's in\nthe fire or in the water~♪"
                             ]
                         },
                         {
@@ -3497,7 +3497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The nearby wall slid open, revealing a hidden\nroom."
+                                "The nearby wall slid and revealed a hidden room."
                             ]
                         },
                         {
@@ -3528,7 +3528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] I have to press the\nswitch here... so should we leave the exploration\nthere to you, Neon-chan?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]I have to press the switch here... so I'll leave\nthe exploration over there to you, Minato-chan~?"
                             ]
                         },
                         {
@@ -3552,7 +3552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ...Ah, I understand."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]...Ah, I see."
                             ]
                         },
                         {
@@ -3569,7 +3569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (Could it be... I was\nset up to end up like this? I feel like I've been\ntricked... No, maybe I'm just overthinking it...)\nI feel like I've been tricked... No, maybe I'm\njust overthinking it...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Could it be... I was set up to end up like this? It\nfeels like I've been tricked... No, maybe I'm just\noverthinking it...)"
                             ]
                         },
                         {

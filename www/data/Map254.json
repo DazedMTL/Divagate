@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "East Building 3F - Small Room",
+    "displayName": "East Building 3F ~Small Room~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1967,7 +1967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>「.........」"
+                                "\\n<Sonoda>「.........」"
                             ]
                         },
                         {
@@ -1984,7 +1984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(I feel like I slept for a long time... What time\nis it now?)"
+                                "\\n<Sonoda>(I feel like I slept for a long time... What time is\nit now?)"
                             ]
                         },
                         {
@@ -2018,7 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......Huh? My arms and legs are numb... Did I\nsleep in a weird position?)"
+                                "\\n<Sonoda>(......Huh? My arms and legs are numb... Did I sleep in a\nweird position?)"
                             ]
                         },
                         {
@@ -2035,7 +2035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However... no matter how long I waited, the\nnumbness didn't go away. Feeling at a loss, I\nlooked around and finally... noticed another sense\nof discomfort."
+                                "However... no matter how long I waited, the numbness didn't\ngo away. Feeling at a loss, I looked around and\nfinally... noticed another sense of discomfort."
                             ]
                         },
                         {
@@ -2066,7 +2066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......Where am I? Did I properly return to my\nroom last night?)"
+                                "\\n<Sonoda>(......Where am I? Did I properly return to my room last\nnight?)"
                             ]
                         },
                         {
@@ -2083,7 +2083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After meeting with Neon in the first-floor hall\nduring the day, I returned to my room. No matter\nhow much I try to recall, my memory stops there."
+                                "After meeting with Minato in the first floor hall\nduring the day, I returned to my room. No matter\nhow much I try to recall, my memory stops there."
                             ]
                         },
                         {
@@ -2107,7 +2107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(I definitely returned to my room... but this\nnumbness in my arms and legs... What's going on?\nWhat is happening...)"
+                                "\\n<Sonoda>(I did return to my room... but this numbness in my\narms and legs... What's going on? What\nhappened...)"
                             ]
                         },
                         {
@@ -2333,7 +2333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a sudden visitor arrived, tension ran through\nmy entire body. I instinctively closed my eyes and\nsquinted to confirm their face, and it turned out\nto be someone I knew well."
+                                "A sudden visitor makes tension run through my\nentire body. I instinctively close my eyes and\nsquint to confirm their face, and that visitor\nturns out to be someone I know well."
                             ]
                         },
                         {
@@ -2382,7 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>...Sawa? Why are you here?"
+                                "\\n<Sonoda>...Sawa? Why are you here?"
                             ]
                         },
                         {
@@ -2489,24 +2489,24 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I decided to ask a question."
+                                "Sawa sat down on a nearby chair and remained silent,\nas if waiting for my words. Feeling that way, I\ndecided to throw out the questions that were\nfloating in my head."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2621,7 +2621,7 @@
                                     "What's with the numbness in my limbs?",
                                     "if(s[239])Why are you here?",
                                     "if(s[240])Why are you taking off your clothes?",
-                                    "if(s[241])Is Neon okay?",
+                                    "if(s[241])Is Minato okay?",
                                     "I look at Sawa"
                                 ],
                                 -1,
@@ -2705,7 +2705,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>(So this is also inside the mansion. No, if that's\nthe case...)"
+                                "\\n<Sonoda>(So this is also inside the mansion. No, if that's\nthe case...)"
                             ]
                         },
                         {
@@ -2787,7 +2787,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>(......It seems like they have no intention of\nanswering anymore.)"
+                                "\\n<Sonoda>(......It seems like they have no intention of answering\nanymore.)"
                             ]
                         },
                         {
@@ -2838,7 +2838,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>To feel at ease... I don't think that's the case.\nWhy am I being forced to use this kind of\nmedicine?"
+                                "\\n<Sonoda>To feel at ease... I don't think that's the case.\nWhy are we being forced to use such medicine?"
                             ]
                         },
                         {
@@ -2862,7 +2862,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Sawa>That is... to take away your freedom. If you stay\nhere quietly for a few days, you will be able to\nreturn safely..."
+                                "\\n<Sawa>That is... to take away your freedom. If you stay here\nquietly for a few days, you will be able to return\nsafely..."
                             ]
                         },
                         {
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>(......It seems like they have no intention of\nanswering anymore.)"
+                                "\\n<Sonoda>(......It seems like they have no intention of answering\nanymore.)"
                             ]
                         },
                         {
@@ -2997,7 +2997,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>Help...? Why you..."
+                                "\\n<Sonoda>Help...? Why you...?"
                             ]
                         },
                         {
@@ -3014,7 +3014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Sawa>The reason is... I'm sorry... I don't want to say\nit..."
+                                "\\n<Sawa>The reason is... um... I'm sorry... I don't want to\nsay it..."
                             ]
                         },
                         {
@@ -3098,7 +3098,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>(......It seems like they have no intention of\nanswering anymore.)"
+                                "\\n<Sonoda>(......It seems like they have no intention of answering\nanymore.)"
                             ]
                         },
                         {
@@ -3125,7 +3125,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Sawa>...Because I have been ordered to do so by Coach\nUdo."
+                                "\\n<Sawa>...Because Coach Udo ordered me to do so."
                             ]
                         },
                         {
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>To Coach Udo? Why should I follow such an order..."
+                                "\\n<Sonoda>To Coach Udo? Why would I follow such an order..."
                             ]
                         },
                         {
@@ -3159,7 +3159,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Suddenly, I remembered the dark rumors about that\nman. I don't know the exact details, but I have\nheard stories of women who were targeted by him\nand ended up with unfortunate outcomes."
+                                "And then, I suddenly remembered the 'dark rumors'\nabout that man. I don't know the exact details,\nbut I have heard stories about women who caught\nhis attention and ended up with unfortunate\noutcomes."
                             ]
                         },
                         {
@@ -3190,7 +3190,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I had convinced myself that it was just a common\nrumor that circulates in the entertainment\nindustry. That's why I purposely kept the rumors\nabout him hidden from Neon so as not to worry her\nunnecessarily."
+                                "I had convinced myself that it was just a common\nrumor that circulates in the entertainment\nindustry. That's why I purposely kept the rumors\nabout him hidden from Minato, so as not to worry\nher unnecessarily."
                             ]
                         },
                         {
@@ -3214,7 +3214,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>(......So everything was true? In that case, Sawa\nis already... No, I can't let that happen!)"
+                                "\\n<Sonoda>(......Was everything true? If that's the case, then Sawa...\nNo, I can't let something like that happen!)"
                             ]
                         },
                         {
@@ -3284,7 +3284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>Is Neon... Is Neon safe?"
+                                "\\n<Sonoda>Is Minato... Is Minato safe?"
                             ]
                         },
                         {
@@ -3330,7 +3330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That... spine shivers at the cold and emotionless\ntone. I'm taken aback by her demeanor, which is\nunimaginable from her usual gentle self."
+                                "That... spine-chilling sensation runs down my back from\nher cold and emotionless tone. I'm taken aback by\nthis unexpected behavior from her usually gentle\nself."
                             ]
                         },
                         {
@@ -3354,7 +3354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>If you just stay here quietly for a few days, you\ncan safely go back. Isn't that good enough?"
+                                "\\n<Sawa>If you just stay here quietly for a few days, you\ncan go back safely. Isn't that good enough?"
                             ]
                         },
                         {
@@ -3378,7 +3378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>Of course, I will take care of everything for you.\nI won't let you feel any inconvenience! I... will\ndo my best!"
+                                "\\n<Sawa>Of course, I will take care of everything for you. I\nwon't let you feel any inconvenience! I... will do\nmy best!"
                             ]
                         },
                         {
@@ -3402,7 +3402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>Sawa... What are you saying..."
+                                "\\n<Sonoda>Sawa... What are you saying..."
                             ]
                         },
                         {
@@ -3477,7 +3477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>This is... because I just woke up! It's something\nthat happens to guys..."
+                                "\\n<Sonoda>This is... because I just woke up! It's something that\nhappens to guys..."
                             ]
                         },
                         {
@@ -3518,7 +3518,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>Lies... When I came in, it wasn't like that,\nright?"
+                                "\\n<Sawa>Liar... Wasn't it different when I came in?"
                             ]
                         },
                         {
@@ -3591,7 +3591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>...Sawa?"
+                                "\\n<Sonoda>...Sawa?"
                             ]
                         },
                         {
@@ -3608,7 +3608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "She straddled my lap and reached for the belt."
+                                "She straddled my lap and reached for my belt."
                             ]
                         },
                         {
@@ -3625,7 +3625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>I can take care of this side too... Don't worry,\nleave everything to me..."
+                                "\\n<Sawa>I can take care of this area too... Don't worry,\nleave everything to me..."
                             ]
                         },
                         {
@@ -3649,7 +3649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>Ngh... H-Hey...!?"
+                                "\\n<Sonoda>Wha... Hey...!?"
                             ]
                         },
                         {
@@ -3678,7 +3678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mercilessly, my plea for her to stop went unheard,\nand my pants, along with my underwear, were pulled\ndown by her hand, exposing my knees."
+                                "Unfortunately, my plea for her to stop fell on deaf ears, and my\npants, along with my underwear, were pulled down\nby her hands, all the way to below my knees."
                             ]
                         },
                         {
@@ -3702,7 +3702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>This is \\N[5]-san's... gulp..."
+                                "\\n<Sawa>This is Sonoda-san's... gulp..."
                             ]
                         },
                         {
@@ -3719,7 +3719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I looked up to \\r[ her, but there... Sawa, whom I\nknew well, was not there."
+                                "I looked up to try to admonish her, but there...\nSawa, whom I know well, was not there."
                             ]
                         },
                         {
@@ -3788,7 +3788,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\N[5]>(...Let's stop here.)"
+                                "\\n<Sonoda>(...Let's stop here.)"
                             ]
                         },
                         {
@@ -3815,7 +3815,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "The sight of breasts, squeezed between both arms,\nforming a deep cleavage while in a position with\nhands clasped in front of the crotch area, is\nquite lewd."
+                                "...The posture of clasping hands in front of the crotch\narea, with the breasts sandwiched between both\narms, creates a provocative sight with a deep\ncleavage."
                             ]
                         },
                         {
@@ -3839,7 +3839,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Sawa>Ugh... \\N[5]-san?"
+                                "\\n<Sawa>Ugh... Sonoda-san?"
                             ]
                         },
                         {
@@ -3856,7 +3856,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\N[5]>Ah...no, sorry..."
+                                "\\n<Sonoda>Ah...no, sorry..."
                             ]
                         },
                         {
@@ -3935,7 +3935,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Sawa>Ah... um... please don't look at me too much..."
+                                "\\n<Sawa>Ugh... Ah, um... Please don't look too much..."
                             ]
                         },
                         {
@@ -3952,7 +3952,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\N[5]>S-Sorry..."
+                                "\\n<Sonoda>S-Sorry..."
                             ]
                         },
                         {

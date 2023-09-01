@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "West Building 3F ~Udo's Room~",
+    "displayName": "West Building 3F ~ Udo's Room ~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4190,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62](\\C[2]The monitor room\\C[0] is located just\npast the door on the opposite side.)"
+                                "\\n<Sonoda>\\F[62](\\C[2]The monitor room \\C[0] is located beyond the door on\nthe opposite side."
                             ]
                         },
                         {
@@ -4585,7 +4585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well... unfortunately, there is a thief among us."
+                                "\\n<Udo>\\F[\\V[4]]Um... Unfortunately, there is a thief among us."
                             ]
                         },
                         {
@@ -4647,7 +4647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>That thief sneaked into my collection room and,\nbelieve it or not, stole Neon-chan's (wax figure)\nbra."
+                                "\\n<Udo>\\F[\\V[4]]That thief sneaked into my collection room and\nunbelievably stole Minato-chan's (wax figure) bra."
                             ]
                         },
                         {
@@ -4671,7 +4671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] Huh!?"
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF]Huh!?"
                             ]
                         },
                         {
@@ -4688,7 +4688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[4]] Hey, didn't I say... that betrayal means\nan immediate AV debut? It seems like there's a\ngirl among the three who wants to make her\ndebut..."
+                                "\\n<Udo>\\F[\\V[4]]Hey, didn't I say... that betrayal means an immediate\nAV debut? It seems like there's a girl among the\nthree who wants to debut."
                             ]
                         },
                         {
@@ -4743,7 +4743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>I wonder if Kino-chan is the culprit?"
+                                "\\n<Udo>\\FF[91]\\F[\\V[4]]\\AA[F]I wonder if the culprit is Kino-chan?"
                             ]
                         },
                         {
@@ -4760,7 +4760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kino>\\FF[91]\\F[\\V[4]]\\AA[FF] ......No, that's not true."
+                                "\\n<Kino>\\FF[91]\\F[\\V[4]]\\AA[FF]...No, that's not true."
                             ]
                         },
                         {
@@ -4777,7 +4777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Hmmm?"
+                                "\\n<Udo>\\FF[91]\\F[\\V[4]]\\AA[F]Hmmm?"
                             ]
                         },
                         {
@@ -4853,7 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>If that's the case, maybe it's Momo-chan?"
+                                "\\n<Udo>\\FF[92]\\F[\\V[4]]\\AA[F]Then maybe it's Momo-chan?"
                             ]
                         },
                         {
@@ -4870,7 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Momo>\\FF[92]\\F[\\V[4]]\\AA[FF] No, that's not true~"
+                                "\\n<Momo>\\FF[92]\\F[\\V[4]]\\AA[FF]No, that's not true~"
                             ]
                         },
                         {
@@ -4887,7 +4887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\FF[92]\\F[\\V[4]]\\AA[F] Hmm, hmm."
+                                "\\n<Udo>\\FF[92]\\F[\\V[4]]\\AA[F]Hmmm, hmmm."
                             ]
                         },
                         {
@@ -4949,7 +4949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>If that's the case, maybe it's Sawa-chan? Ah... by\nthe way, if the culprit doesn't come forward, all\nthree of you will debut together, getting along\nnicely."
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]Then maybe it's Sawa-chan? Ah... by the way, if the\nculprit doesn't come forward, all three of you\nwill debut together \\I[12]."
                             ]
                         },
                         {
@@ -4973,7 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] ...I stole it."
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF]...I stole it."
                             ]
                         },
                         {
@@ -5008,7 +5008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Hmmm... For now, should I ask for the reason?"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]Hmmm... Just to be sure, should I ask for the reason?"
                             ]
                         },
                         {
@@ -5025,7 +5025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] ...I-I just wanted to try\nit on because it was a design I liked..."
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF]...B-because it was a design I liked, I wanted to try wearing\nit..."
                             ]
                         },
                         {
@@ -5042,7 +5042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>I see! Alright, everyone pay attention! The\nculprit was Sawa-chan~"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]I see! Attention, please! The culprit was Sawa-\nchan~"
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kino>No, wait... There's no way Sawa would do something\nlike that..."
+                                "\\n<Kino>\\FF[91]\\F[\\V[4]]\\AA[FF]No, wait... There's no way Sawa would do something\nlike that..."
                             ]
                         },
                         {
@@ -5076,7 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Momo>\\FF[92]\\F[\\V[4]]\\AA[FF] Yeah~! There's no way Sawa\nwould do something like that~!"
+                                "\\n<Momo>\\FF[92]\\F[\\V[4]]\\AA[FF]That's right~! There's no way Sawa would have it~!"
                             ]
                         },
                         {
@@ -5093,7 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] It's okay, both of you...\nI'm sorry... You can punish me however you want..."
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF]It's okay, both of you... I'm sorry... You can punish\nme however you want..."
                             ]
                         },
                         {
@@ -5117,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] That's disappointing... I\nthought you were a smarter person, you know?"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]That's disappointing... I thought you were a smarter\nperson, you know?"
                             ]
                         },
                         {
@@ -5141,7 +5141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] Well then, as promised...\nI'll have you make your AV debut, \\I[12]! Alright,\napplause~"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]Well then, as promised... you will make your AV debut,\n\\I[12]! Clap your hands~"
                             ]
                         },
                         {
@@ -5165,7 +5165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kino & Momo>\\FF[93]\\F[\\V[4]]\\AA[F] Ku... Bu..."
+                                "\\n<Kino & Momo>\\FF[93]\\F[\\V[4]]\\AA[F]Kuh... Buu..."
                             ]
                         },
                         {
@@ -5213,7 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] Shut up!"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]\\{ Shut up! \\}"
                             ]
                         },
                         {
@@ -5230,7 +5230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kino & Momo>Eeeee..."
+                                "\\n<Kino & Momo>\\FF[93]\\F[\\V[4]]\\AA[F]Eeeee..."
                             ]
                         },
                         {
@@ -5254,7 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\FF[93]\\F[\\V[4]]\\AA[F] ...Sawa-chan, you're lucky.\nYou've been saved~... thanks to my genius\ninspiration♪"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]...Sawa-chan, you're lucky. You've been saved~... thanks to my\ngenius inspiration♪"
                             ]
                         },
                         {
@@ -5278,7 +5278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF] What do you mean..."
+                                "\\n<Sawa>\\FF[93]\\F[\\V[4]]\\AA[FF]What do you mean..."
                             ]
                         },
                         {
@@ -5295,7 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>It's not so much that it fell from the sky because\nmy bra disappeared, but rather, I came up with a\nnaughty event with Neon-chan, you know~"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]It's not so much that it fell from the sky because my\nbra disappeared, but rather I came up with a\nnaughty event with Minato-chan, you see~\\I[12]"
                             ]
                         },
                         {
@@ -5319,7 +5319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>So, for this time only, by giving a punishment, we\ncan avoid Sawa-chan's AV debut~!"
+                                "\\n<Udo>\\FF[93]\\F[\\V[4]]\\AA[F]So, for this time only, by giving a punishment, Sawa-\nchan's AV debut will be avoided~!"
                             ]
                         },
                         {
@@ -5362,7 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Amidst the various conflicting emotions, the night\nof the fourth day of the training camp grew late."
+                                "\\#... And so, as various emotions intertwine, the night\nof the fourth day of the training camp grew late."
                             ]
                         },
                         {
@@ -5405,14 +5405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                " \\.\\SE[タイプライタ]Ｎ\\.\\SE[タイプライタ]Ｅ\\.\\SE[タイプライタ]Ｘ\\.\\SE[タイプライタ]Ｔ\\. \\SE[タイプライタ]Ｄ\\.\\SE[タイプライタ]Ａ\\.\\SE[タイプライタ]Ｙ\\.\\SE[\nタイプライタ]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　　　　　　　\\.\\SE[タイプライター]Ｎ\\.\\SE[タイプライター]Ｅ\\.\\SE[タイプライター]Ｘ\\.\\SE[タイプライター]Ｔ\\. \\SE[タイプライター]Ｄ\\.\\SE[タイプライター]Ａ\\.\\SE[タイプライター]Ｙ\\.\\SE[タイプライター]…"
+                                ""
                             ]
                         },
                         {
@@ -5695,7 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (...I'm starting to feel sick. Let's stop\nhere.)"
+                                "\\n<Sonoda>\\F[62](...I'm starting to feel sick. Let's stop here.)"
                             ]
                         },
                         {
@@ -5863,7 +5863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (Is there anything noteworthy inside?)"
+                                "\\n<Sonoda>\\F[62](Is there anything noteworthy inside?)"
                             ]
                         },
                         {
@@ -6684,7 +6684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>What is this... a bottle filled with suspicious\nliquid is placed here."
+                                "\\n<Sonoda>\\F[62](What is this... a bottle filled with suspicious liquid\nis placed here)"
                             ]
                         },
                         {
@@ -6761,7 +6761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......Despite looking sloppy, it's surprisingly\nwell organized.)"
+                                "\\n<Sonoda>\\F[62](......Despite appearing sloppy, it's surprisingly well\norganized.)"
                             ]
                         },
                         {
@@ -6838,7 +6838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......Despite looking lazy, it's surprisingly\nwell organized.)"
+                                "\\n<Sonoda>\\F[62](......Despite appearing sloppy, it's surprisingly well\norganized.)"
                             ]
                         },
                         {
@@ -6915,7 +6915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>This sofa looks expensive... But more importantly,\nthis place is completely different from the room\nthat was assigned to me \\r[."
+                                "\\n<Sonoda>\\F[62](That's an expensive-looking sofa... But more\nimportantly, this room is completely different\nfrom the one assigned to me.)"
                             ]
                         },
                         {

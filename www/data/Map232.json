@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": true,
-    "displayName": "In front of the mansion",
+    "displayName": "In front of the Western Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -16139,7 +16139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>Um... Are you okay? Your legs..."
+                                "\\n<Sawa>Um... Are you okay? How are your legs...?"
                             ]
                         },
                         {
@@ -16156,7 +16156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Ah, it's no problem for me to walk. I'll show you\nby walking a bit, so please stand in a slightly\ndistant place."
+                                "\\n<Sonoda>Ah, if it's just walking, there's no problem. I'll\nshow you by walking a bit, so please stand in a\nslightly distant place."
                             ]
                         },
                         {
@@ -16197,7 +16197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sawa took a few steps back while facing backwards,\ndistancing themselves from me. And then I... put\nstrength into my legs and took that step\nforward--..."
+                                "Sawa takes a few steps back while facing backwards,\ndistancing themselves from me. And then I... I put\nstrength into my legs and took that step\nforward--..."
                             ]
                         },
                         {
@@ -16328,7 +16328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Oops... S-Sorry..."
+                                "\\n<Sonoda>Oops... S-Sorry..."
                             ]
                         },
                         {
@@ -16362,7 +16362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sawa, as usual, gently caught me when I stumbled\nand dove into her chest."
+                                "Sawa, as usual, gently caught me when I stumbled and\ndove into her chest."
                             ]
                         },
                         {
@@ -16386,7 +16386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Driving a car seems tough... Oh, speaking of\nwhich, Sawa, you have a driver's license, right?"
+                                "\\n<Sonoda>Driving a car seems tough... Oh, by the way, Sawa, do you\nhave a driver's license?"
                             ]
                         },
                         {
@@ -16451,7 +16451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sawa looked up at me and had a mischievous smile\nlike that of a young boy."
+                                "Sawa looked up at me and had a mischievous smile, like\nthat of a young boy."
                             ]
                         },
                         {
@@ -16492,7 +16492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#... I swear in my heart to protect this smile.\nAnd someday... it would be amazing if the four of\nus could gather again and share an old story\ntogether."
+                                "\\#... I swear in my heart to protect this smile. And\nsomeday... it would be amazing if the four of us\ncould gather again and share an old story or\ntwo..."
                             ]
                         },
                         {
@@ -16527,31 +16527,31 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This day was filled with such hopeful morning..."
+                                "\\#... It was a convenient wish for me. But... I\ncouldn't help but wish for it. This day, it was a\nmorning filled with such hope..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16771,7 +16771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (Neon is still with Udo... but it's fine...\nit's okay... I'm sorry, Neon...)"
+                                "\\n<Sonoda>\\F[62](Minato is still with Udo... but it's fine... it's\nokay... I'm sorry, Minato...)"
                             ]
                         },
                         {
@@ -18658,7 +18658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Is that \\F[\\V[2]]'s car? It looks expensive."
+                                "\\n<Minato>\\F[\\V[2]](Is that guy's car? It looks expensive.)"
                             ]
                         },
                         {
@@ -18742,7 +18742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Is that \\F[\\V[2]]'s car? It looks expensive."
+                                "\\n<Minato>\\F[\\V[2]](Is that guy's car? It looks expensive.)"
                             ]
                         },
                         {
@@ -18826,7 +18826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Is that guy's car? It looks expensive.)"
+                                "\\n<Minato>\\F[\\V[2]](Is that guy's car? It looks expensive.)"
                             ]
                         },
                         {
@@ -18910,7 +18910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon> This is the company car of Onomichi Pro, the\nproduction I belong to."
+                                "\\n<Minato>\\F[\\V[2]](This is the company car of the production I belong to,\ncalled \\C[2] Onomichi Pro\\C[0])"
                             ]
                         },
                         {
@@ -18994,7 +18994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (This is my beloved car. It's been a\nwhile since I went on a long trip, so I got\nexcited and ended up speeding.)"
+                                "\\n<Minato>\\F[\\V[2]](This is my beloved car. It's been a while since I went\non a long trip, so I got excited and ended up\nspeeding.)"
                             ]
                         },
                         {
@@ -19085,7 +19085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>This is the company car of the production I belong\nto, Onomichi Pro (short for Onomichi Production)."
+                                "\\n<Minato>\\F[\\V[2]](This is the company car of the production I belong to,\ncalled \\C[2] Onomichi Pro\\C[0])"
                             ]
                         },
                         {
@@ -19169,7 +19169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (This is my beloved car. It's been a\nwhile since I went on a long trip, so I got\nexcited and ended up speeding.)"
+                                "\\n<Minato>\\F[\\V[2]](This is my beloved car. It's been a while since I went\non a long trip, so I got excited and ended up\nspeeding.)"
                             ]
                         },
                         {
@@ -19260,7 +19260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (You've really come up in the world,\nhaven't you? It must be inconvenient to live so\nfar away from civilization.)"
+                                "\\n<Minato>\\F[\\V[2]](We've climbed quite a bit, haven't we? It must be\ninconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
@@ -19382,7 +19382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (You've really come a long way, haven't\nyou? It must be inconvenient to live so far away\nfrom civilization.)"
+                                "\\n<Minato>\\F[\\V[2]](We've climbed quite a bit, haven't we? It must be\ninconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
@@ -19504,7 +19504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (You've really come a long way, haven't\nyou? It must be inconvenient to live so far away\nfrom civilization.)"
+                                "\\n<Minato>\\F[\\V[2]](We've climbed quite a bit, haven't we? It must be\ninconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
@@ -19626,7 +19626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (You've really come up in the world,\nhaven't you? It must be inconvenient to live so\nfar away from civilization.)"
+                                "\\n<Minato>\\F[\\V[2]](We've climbed quite a bit, haven't we? It must be\ninconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
@@ -19748,7 +19748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (You've really come a long way, haven't\nyou? It must be inconvenient to live so far away\nfrom civilization.)"
+                                "\\n<Minato>\\F[\\V[2]](We've climbed quite a bit, haven't we? It must be\ninconvenient to live so far away from\ncivilization.)"
                             ]
                         },
                         {
@@ -20410,7 +20410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Even though it's still September, it's really cold\nup in the mountains, as expected."
+                                "\\n<Sonoda>\\FF[61]\\F[\\V[2]]\\AA[FF]Even though it's still September, it's really cold up\nin the mountains, as expected."
                             ]
                         },
                         {
@@ -20427,7 +20427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[61]\\AA[F] Indeed... I remember I was\nsupposed to bring a jacket."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[61]\\AA[F]Indeed... I remember wearing a jacket for this."
                             ]
                         },
                         {
@@ -20649,7 +20649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon> This is the company car of Onomichi Pro, the\nproduction I belong to."
+                                "\\n<Minato>\\F[\\V[2]](This is the company car of the production I belong to,\ncalled \\C[2] Onomichi Pro\\C[0])"
                             ]
                         },
                         {
@@ -21446,7 +21446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......I'll walk alone to Sawa's place. Right now,\nI want to reassure her even just a little...)"
+                                "\\n<Sonoda>\\F[62](...I'll walk to Sawa's place alone. I want to reassure\nher even just a little...)"
                             ]
                         },
                         {
@@ -21561,7 +21561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......I'll walk to Sawa's place alone. I want to\nreassure her even just a little...)"
+                                "\\n<Sonoda>\\F[62](...I'll walk to Sawa's place alone. I want to reassure\nher even just a little...)"
                             ]
                         },
                         {
@@ -21676,7 +21676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (...I'll walk to Sawa's place alone. Right\nnow, I want to reassure her even just a little...)"
+                                "\\n<Sonoda>\\F[62](...I'll walk to Sawa's place alone. I want to reassure\nher even just a little...)"
                             ]
                         },
                         {
@@ -21791,7 +21791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......I'll walk to Sawa's place alone. Right now,\nI want to reassure her even just a little...)"
+                                "\\n<Sonoda>\\F[62](...I'll walk to Sawa's place alone. I want to reassure\nher even just a little...)"
                             ]
                         },
                         {
@@ -21906,7 +21906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (...I'll walk to Sawa's place alone. Right\nnow, I want to do whatever I can to reassure\nher...)"
+                                "\\n<Sonoda>\\F[62](...I'll walk to Sawa's place alone. I want to reassure\nher even just a little...)"
                             ]
                         },
                         {

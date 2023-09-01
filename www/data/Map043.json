@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Main Building ~Guard Station~",
+    "displayName": "Main Building ~Interior Guard Station~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1891,7 +1891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
+                                "In this mansion, there is an out-of-place laptop."
                             ]
                         },
                         {
@@ -1978,7 +1978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Ah... come to think of it, I found a USB memory.\nIf I use this laptop, I can check its contents..."
+                                "\\n<Minato>\\F[\\V[2]](Ah... come to think of it, I found a USB memory. If I\nuse this laptop, I can check its contents...)"
                             ]
                         },
                         {
@@ -1994,7 +1994,7 @@
                             "parameters": [
                                 [
                                     "Check the contents of the USB memory",
-                                    "I'll refrain"
+                                    "I'll leave it alone"
                                 ],
                                 1,
                                 0,
@@ -2024,7 +2024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Yeah... I should check it. Maybe I'll\nfind the password that hasn't been found yet...)"
+                                "\\n<Minato>\\F[\\V[2]](Yeah... I should check it. There might be a password that\nhasn't been found yet...)"
                             ]
                         },
                         {
@@ -2250,7 +2250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#... I hovered the cursor over the file and\ndouble-clicked on it. When I did that... the\nlaptop made a clicking sound and launched a video\nplayer, playing the file----..."
+                                "\\#... I positioned the cursor on that file and double-\nclicked it. When I did that... the laptop made a\nclicking sound and launched a video player,\nplaying the file ----...."
                             ]
                         },
                         {
@@ -2300,7 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(...As I thought. It seems that the password is\ninside this video.)"
+                                "\\n<Minato>(...As I thought. It seems that the password is inside\nthis video.)"
                             ]
                         },
                         {
@@ -2324,7 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The video was about 15 minutes long, and it would\nbe a bit troublesome to watch it all. However... I\ncouldn't afford to miss the password, so I stared\nat the screen intently."
+                                "The video was about 15 minutes long, and it would be\na bit troublesome to watch it all. However... I\ncouldn't afford to miss the password, so I stared\nat the screen intently."
                             ]
                         },
                         {
@@ -2355,7 +2355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I hope I can find it quickly... sigh... I hope\nthere aren't any puzzle elements or anything...)"
+                                "\\n<Minato>(I hope it's found quickly... sigh... I hope there\naren't any puzzle elements or anything...)"
                             ]
                         },
                         {
@@ -2379,7 +2379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I couldn't help but let out a sigh... but I\nquickly changed my mindset. And then... as if\nresonating with me, the screen switched to a\nsimple black background with only text displayed\non it----..."
+                                "I couldn't help but let out a sigh... but I quickly\nchanged my mindset. And then... as if resonating\nwith me, the screen switched to a simple black\nbackground with only text displayed ----...."
                             ]
                         },
                         {
@@ -2447,7 +2447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...Huh..."
+                                "\\n<Minato>...Huh..."
                             ]
                         },
                         {
@@ -2464,7 +2464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My whole body froze at the unexpected footage...\nbut it was only for a moment."
+                                "My whole body froze at the unexpected video... but\nit was only for a moment."
                             ]
                         },
                         {
@@ -2537,7 +2537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] W-What was that just now..."
+                                "\\n<Minato>\\F[\\V[2]]T-The one just now..."
                             ]
                         },
                         {
@@ -2554,7 +2554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]... I instinctively closed the video\nfile. Then, I quickly looked around and confirmed\nthat I was alone in the room."
+                                "\\F[\\V[2]]...I instinctively closed the video file. And then, I\nquickly looked around and confirmed that I was\nalone in the room."
                             ]
                         },
                         {
@@ -2578,7 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Are you telling me to watch that just\nnow... to show me such a video...)"
+                                "\\n<Minato>\\F[\\V[2]](Are they telling me to watch that just now... to show\nme such a video...)"
                             ]
                         },
                         {
@@ -2595,7 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I felt angry at the prank-like setup. However...\nif I were to confront Director Udo without\nwatching the video, I felt like I would be made a\nfool of."
+                                "\\F[\\V[2]]I'm angry at the trick that could be interpreted as\nharassment. But... if I were to confront Director\nUdo without watching the video, I felt like I\nwould be made a fool of."
                             ]
                         },
                         {
@@ -2633,7 +2633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's irritating to think that I would\nbe seen as a child for being shaken up by\nsomething like this... And if this is also part of\nthe lesson, then if I were to play Reiko...)"
+                                "\\n<Minato>\\F[\\V[2]](It's annoying to be shaken up by something like this\nand be seen as a child... And if they say this is\nalso part of the lesson, if I were to play\nReiko...)"
                             ]
                         },
                         {
@@ -2669,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I excitedly reached out my hand towards the\nlaptop. But... I couldn't help but be curious\nabout the entrance right behind me, so I walked\ntowards the door."
+                                "I excitedly reach out my hand towards the laptop.\nBut... I couldn't help but be curious about the\nentrance right behind me, so I walk towards the\ndoor."
                             ]
                         },
                         {
@@ -2700,7 +2700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I felt relieved as I confirmed the simple key\nprepared on the door. And when I closed it... I\nturned my attention back to the display once\nagain----..."
+                                "I feel relieved as I confirm the simple key\nprepared on the door. And when I close it... I\nturn my attention back to the display once again\n----..."
                             ]
                         },
                         {
@@ -2819,7 +2819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
+                                "In this mansion, there is an out-of-place laptop."
                             ]
                         },
                         {
@@ -2911,7 +2911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (If we're connected to the internet, we\ncan look it up right away...)"
+                                "\\n<Minato>\\F[\\V[2]](If we're connected to the internet, I can look it up\nright away...)"
                             ]
                         },
                         {
@@ -2947,7 +2947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (So we're still not connected... then\nwhy is that?)"
+                                "\\n<Minato>\\F[\\V[2]](I guess we're not connected after all... If that's\nthe case, then why...)"
                             ]
                         },
                         {
@@ -2964,7 +2964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...Huh? What is this text file...)"
+                                "\\n<Minato>\\F[\\V[2]](......Hm? What is this text file...)"
                             ]
                         },
                         {
@@ -2981,7 +2981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I found a text file named Udo on the desktop, so I\ndecided to open it for now."
+                                "\\F[\\V[2]]I found a text file named Udo on the desktop, so I\ndecided to open it for now."
                             ]
                         },
                         {
@@ -3024,7 +3024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There, Udo's director profile was written."
+                                "\\F[\\V[2]]There, Udo's profile was written."
                             ]
                         },
                         {
@@ -3041,7 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Let's see... \\C[2]born in 1977\\C[0].\nSo, the password must be \\C[2]1977\\C[0], right?)"
+                                "\\n<Minato>\\F[\\V[2]](Let's see... \\C[2]Born in 1977\\C[0]. So, the password must be\n\\C[2]1977\\C[0], right?)"
                             ]
                         },
                         {
@@ -3096,7 +3096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obtained the password memory: Day 3."
+                                "\\C[2]Password Memory: Obtained \\C[0] on the third day."
                             ]
                         },
                         {
@@ -3120,7 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (However, looking at it like this...)"
+                                "\\n<Minato>\\F[\\V[2]](However, looking at it like this...)"
                             ]
                         },
                         {
@@ -3137,38 +3137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]... I'll quickly read through the section\nabout his career. I looked it up once when I\nreceived the offer, but now that I'm looking back\nat Udo's director profile, it seems hard to\nbelieve."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[\\V[2]]There, it was written about award records\nthat even someone like me, who leads a biased way\nof life, knows about. From what I saw, it made me\nthink that he is an amazing director."
+                                "\\F[\\V[2]]I'll quickly read through the section about his\ncareer. I looked it up once when I received the\noffer, but now that I'm looking back at Udo's\ndirectorial history, it seems hard to believe."
                             ]
                         },
                         {
@@ -3199,7 +3168,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (But in reality... I can't honestly\nrespect him as a person, or rather, what should I\nsay...)"
+                                "\\F[\\V[2]]There, it was written about the award records, even I,\nwho leads a biased way of life, know about. From\nwhat I saw, it made me think that he is an amazing\ndirector."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato>\\F[\\V[2]](But in reality... I can't honestly respect him as a\nperson, or rather, what should I say...)"
                             ]
                         },
                         {
@@ -3294,7 +3294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]](...Should I head to the lesson room\n\\C[2]\\C[0]...)"
+                                "\\n<Minato>\\F[\\V[2]](......\\C[2](Should I head to the Lesson Room \\C[0]...)"
                             ]
                         },
                         {
@@ -3321,7 +3321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I obtained the password... now I just\nneed the card key.)"
+                                "\\n<Minato>\\F[\\V[2]](I obtained the password... now I just need the\nkeycard.)"
                             ]
                         },
                         {
@@ -3347,7 +3347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (If it's the same as before, the card\nkey should be hidden in \\C[2] secret passage\n\\C[0])."
+                                "\\n<Minato>\\F[\\V[2]](If it's the same as before, the keycard should be in\nthe hidden passage \\C[2]\\C[0].)"
                             ]
                         },
                         {
@@ -3374,7 +3374,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I remember \\C[2] saying that the clue\nis on the 1st floor of the East Building. Let's go\nback and check to make sure we didn't miss\nanything.)"
+                                "\\n<Minato>\\F[\\V[2]](I remember them saying that there's a clue in \\C[2]\nEast Building 1F. Let's go back and check to make\nsure I didn't miss anything.)"
                             ]
                         },
                         {
@@ -3486,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
+                                "In this mansion, there is an out-of-place laptop."
                             ]
                         },
                         {
@@ -3573,7 +3573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Did Momo also know the taste of that?"
+                                "\\n<Minato>\\F[\\V[2]](Did Momo also know the taste of that?)"
                             ]
                         },
                         {
@@ -3582,7 +3582,7 @@
                             "parameters": [
                                 [
                                     "Collecting the USB",
-                                    "I'm not doing anything"
+                                    "I won't do anything"
                                 ],
                                 1,
                                 0,
@@ -3624,7 +3624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I collected the USB (blowjob video)."
+                                "\\F[\\V[2]]\\C[2]I collected the USB (blowjob video) \\C[0]."
                             ]
                         },
                         {
@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]](...The USB in question has already been\ncollected)"
+                                "\\n<Minato>\\F[\\V[2]](...The USB in question has been collected.)"
                             ]
                         },
                         {
@@ -3826,7 +3826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Ah... come to think of it, I found a USB memory.\nIf I use this laptop, I can check its contents..."
+                                "\\n<Minato>\\F[\\V[2]](Ah... come to think of it, I found a USB memory. If I\nuse this laptop, I can check its contents...)"
                             ]
                         },
                         {
@@ -3850,7 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Yeah... I should check it. Maybe I'll\nfind the password that hasn't been found yet...)"
+                                "\\n<Minato>\\F[\\V[2]](Yeah... I should check it. There might be a password that\nhasn't been found yet...)"
                             ]
                         },
                         {
@@ -3944,7 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I turned on the laptop and inserted the memory\ninto the port on the right side. After waiting for\nabout three seconds, a folder opened automatically\nand I found a single video file."
+                                "I turned on the laptop and inserted the memory into\nthe port on the right side. After waiting for\nabout three seconds, a folder opened automatically\nand I found a video file."
                             ]
                         },
                         {
@@ -3994,7 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I... hovered the cursor over the file and double-\nclicked it. When I did that... the laptop made a\nclicking sound and launched a video player,\nplaying the file----..."
+                                "I... hovered the cursor over the file and double-\nclicked on it. When I did that... the laptop made\na clicking sound and started up a video player,\nplaying the file----..."
                             ]
                         },
                         {
@@ -4044,7 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(...As I thought. It seems that the password is\ninside this video.)"
+                                "\\n<Minato>(......As I thought. It seems that the password is inside\nthis video.)"
                             ]
                         },
                         {
@@ -4068,7 +4068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The video was about 15 minutes long, and it was a\nbit of a hassle to watch it all. However... I\ncouldn't afford to miss the password, so I stared\nat the screen intently."
+                                "The video was about 15 minutes long, and it was a bit\nof a hassle to watch it all. However... I couldn't\nafford to miss the password, so I stared at the\nscreen intently."
                             ]
                         },
                         {
@@ -4099,7 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I hope I find it soon... *sigh*... I hope there\naren't any puzzle elements or anything...)"
+                                "\\n<Minato>(I hope I can find it soon... sigh... I hope there\naren't any puzzle elements or anything...)"
                             ]
                         },
                         {
@@ -4120,24 +4120,24 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The screen switched to a simple one..."
+                                "I couldn't help but let out a sigh... but I quickly\nchanged my mindset. And then... as if resonating\nwith me, the screen switched to a simple black\nbackground with only text captions----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4191,7 +4191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...Huh..."
+                                "\\n<Minato>...Huh..."
                             ]
                         },
                         {
@@ -4208,7 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My whole body froze at the unexpected video... but\nthat was only for a moment."
+                                "My whole body froze at the unexpected footage... but\nit was only for a moment."
                             ]
                         },
                         {
@@ -4281,7 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] W-What was that just now..."
+                                "\\n<Minato>\\F[\\V[2]]T-The one just now..."
                             ]
                         },
                         {
@@ -4298,7 +4298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]... I instinctively closed the video\nfile. Then, I quickly looked around and confirmed\nthat I was alone in the room."
+                                "\\F[\\V[2]]...I instinctively closed the video file. Then, I\nquickly looked around and confirmed that I was\nalone in the room."
                             ]
                         },
                         {
@@ -4322,7 +4322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Are you telling me to watch that just\nnow... to show me such a video...)"
+                                "\\n<Minato>\\F[\\V[2]](Are they telling me to watch that just now...? To\nshow me such a video...)"
                             ]
                         },
                         {
@@ -4339,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I felt angry at the prank-like setup. However...\nif I were to confront Director Udo without\nwatching the video, I felt like I would be made a\nfool of."
+                                "\\F[\\V[2]]I'm angry at the trick that could be interpreted as\nharassment. However... if I were to confront\nDirector Udo without watching the video, I felt\nlike I would be made a fool of."
                             ]
                         },
                         {
@@ -4377,7 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's irritating to think that I would\nbe seen as childish for being shaken up by\nsomething like this... And if this is also\nconsidered a lesson, if I were to play the role of\nReiko...)"
+                                "\\n<Minato>\\F[\\V[2]](It's annoying to be shaken up by something like this\nand be seen as a child... And if they say this is\nalso part of the lesson, if I were to play\nReiko...)"
                             ]
                         },
                         {
@@ -4413,7 +4413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I excitedly reach out for my laptop, but... I\ncouldn't help but be curious about the entrance\nright behind me, so I walk towards the door."
+                                "I excitedly reach out my hand towards the laptop.\nBut... I couldn't help but be curious about the\nentrance right behind me, so I walk towards the\ndoor."
                             ]
                         },
                         {
@@ -4444,7 +4444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I confirm the simple key prepared for the door and\nfeel relieved. And when I close it... I turn back\nto the display once again----..."
+                                "I feel relieved as I confirm the simple key\nprepared on the door. And when I close it... I\nturn my attention back to the display once\nagain----..."
                             ]
                         },
                         {
@@ -4639,7 +4639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (1 hose, 1 rust remover, 3 weed\nkillers... It seems to be an order form.)"
+                                "\\n<Minato>\\F[\\V[2]](One hose, one rust remover, three weed killers... It\nseems to be an order form.)"
                             ]
                         },
                         {
@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like it hasn't been used for a long time,\njudging from its completely dried state."
+                                "Judging from the completely dry state, it seems like it\nhasn't been used for a long time."
                             ]
                         },
                         {
@@ -5211,7 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... It seems like it's\nlocked.)"
+                                "\\n<Minato>\\F[\\V[2]](It won't open... It seems like it's locked.)"
                             ]
                         },
                         {
@@ -5307,7 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I have the key! Alright, let's head to\nthe \\C[2] monitoring room\\C[0]!)"
+                                "\\n<Minato>\\F[\\V[2]](I found the key! Alright, let's head to the\n\\C[2]monitor room\\C[0]!)"
                             ]
                         },
                         {
@@ -5336,7 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Momo obtained the key to the monitoring room."
+                                "\\C[2]Momo: (I obtained the key to the monitor room\\C[0].)"
                             ]
                         },
                         {
@@ -5421,7 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I already have the key)"
+                                "\\n<Minato>\\F[\\V[2]](I already have the key)"
                             ]
                         },
                         {
@@ -5505,7 +5505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Ugh... It smells a little musty...)"
+                                "\\n<Minato>\\F[\\V[2]](Ugh... It smells a little musty...)"
                             ]
                         },
                         {
@@ -5649,7 +5649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Ugh... It smells a little musty...)"
+                                "\\n<Minato>\\F[\\V[2]](Ugh... It smells a little musty...)"
                             ]
                         },
                         {

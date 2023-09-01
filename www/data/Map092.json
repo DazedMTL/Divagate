@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Main Building ~ 3rd Floor Guest Rooms ~",
+    "displayName": "Main Building ~3rd Floor Guest Rooms~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2073,7 +2073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]](Tch... It's not me. I can't go out\ndressed like this.)"
+                                "\\n<Minato>\\F[\\V[2]](Tch... It's not me. I can't go out dressed like this.)"
                             ]
                         },
                         {
@@ -2198,7 +2198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (To prepare for tomorrow... I'll take a\nshower and rest for today.)"
+                                "\\n<Minato>\\F[\\V[2]](To prepare for tomorrow... I'll take a shower and\nrest for today)"
                             ]
                         },
                         {
@@ -2263,7 +2263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (To prepare for tomorrow... I'll take a\nshower and rest for today.)"
+                                "\\n<Minato>\\F[\\V[2]](To prepare for tomorrow... I'll take a shower and\nrest for today)"
                             ]
                         },
                         {
@@ -2287,7 +2287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (W-What kind of outfit should I wear...)"
+                                "\\n<Minato>\\F[\\V[2]](W-What kind of outfit should I wear...)"
                             ]
                         },
                         {
@@ -3802,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should \\F[\\V[2]] change clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -3810,10 +3810,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "pajamas",
+                                    "my pajamas",
                                     "in underwear",
                                     "naked",
-                                    "won't change clothes"
+                                    "won't change"
                                 ],
                                 3,
                                 0,
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should I change my clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -4438,10 +4438,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "a leather suit",
-                                    "in my underwear",
+                                    "rider suit",
+                                    "in underwear",
                                     "naked",
-                                    "I won't change my clothes"
+                                    "won't change"
                                 ],
                                 3,
                                 0,
@@ -5058,7 +5058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should I change my clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -5069,7 +5069,7 @@
                                     "rider suit",
                                     "my pajamas",
                                     "naked",
-                                    "I won't change my clothes"
+                                    "I won't change"
                                 ],
                                 3,
                                 0,
@@ -5686,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should I change my clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -5694,10 +5694,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "a rider suit",
+                                    "rider suit",
                                     "my pajamas",
-                                    "in my underwear",
-                                    "I won't change my clothes"
+                                    "in underwear",
+                                    "won't change"
                                 ],
                                 3,
                                 0,
@@ -6983,7 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2] got a flashlight \\C[0] in hand."
+                                "\\C[2]I obtained a flashlight \\C[0] in my hand."
                             ]
                         },
                         {
@@ -7676,7 +7676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's dazzling... It can't possibly be\nmade of pure gold, right?)"
+                                "\\n<Minato>\\F[\\V[2]](Dazzling... It can't possibly be made of pure gold, right?)"
                             ]
                         },
                         {
@@ -7780,7 +7780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It smells nice... I'm looking forward\nto tonight.)"
+                                "\\n<Minato>\\F[\\V[2]](It smells good... I'm looking forward to tonight.)"
                             ]
                         },
                         {
@@ -7864,7 +7864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]... It's a figurine made of wax. My teeth\nmarks are on it."
+                                "\\F[\\V[2]]......It's a wax figurine. My teeth marks are on it."
                             ]
                         },
                         {
@@ -7948,7 +7948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer...\nbut saying that would be selfish of me, wouldn't\nit, \\N[5]?"
+                                "\\n<Minato>\\F[\\V[2]](This bed is so soft. I prefer it a bit firmer\nthough... but saying that would be selfish,\nwouldn't it?)"
                             ]
                         },
                         {
@@ -8039,7 +8039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer\nthough... but saying that would be selfish of me,\nwouldn't it, \\N[5]?"
+                                "\\n<Minato>\\F[\\V[2]](This bed is so soft. I prefer it a bit firmer\nthough... but saying that would be selfish,\nwouldn't it?)"
                             ]
                         },
                         {
@@ -8130,7 +8130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's an antique-style chest. But...\nthere's nothing in particular to put in it.)"
+                                "\\n<Minato>\\F[\\V[2]](It's an antique-style chest. But... there's nothing\nspecial to put in it.)"
                             ]
                         },
                         {
@@ -8235,7 +8235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the quiet room, an old clock is ticking away\nthe time."
+                                "In the quiet room, an old clock ticks away the time."
                             ]
                         },
                         {
@@ -8353,7 +8353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the quiet room, an old clock is ticking away\nthe time."
+                                "In the quiet room, an old clock ticks away the time."
                             ]
                         },
                         {
@@ -8702,7 +8702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained a small key \\C[0] in my hand."
+                                "\\C[2]I obtained a small key \\C[0] in my hand."
                             ]
                         },
                         {
@@ -8726,7 +8726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...Hm? Is this the usual key? I somehow\nobtained it so easily...)"
+                                "\\n<Minato>\\F[\\V[2]](......Hm? This is the usual key, right? I somehow obtained\nit quite easily...)"
                             ]
                         },
                         {
@@ -8808,7 +8808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
+                                "\\n<Minato>\\F[\\V[2]](...It's already empty.)"
                             ]
                         },
                         {
@@ -8985,7 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(In the end... we ended up doing it three times to\neach other...)"
+                                "\\n<Minato>(In the end... we ended up doing it three times with\neach other...)"
                             ]
                         },
                         {
@@ -9002,7 +9002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...ah..."
+                                "\\n<Minato>...ah..."
                             ]
                         },
                         {
@@ -9019,7 +9019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Suddenly... I notice the presence of love juice\nflowing down my crotch."
+                                "Suddenly... I notice the presence of love juice flowing down\nmy crotch."
                             ]
                         },
                         {
@@ -9036,7 +9036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Haha... even though we did it so much...)"
+                                "\\n<Minato>(Haha... even though we did it like that...)"
                             ]
                         },
                         {
@@ -9079,7 +9079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#, even after being released by the man, I\ncouldn't help but feel a throbbing sensation in my\nbody. However... I no longer hesitated."
+                                "Even after being released by \\#, my body began to ache\nand I couldn't help but feel bored. But... I no\nlonger hesitated."
                             ]
                         },
                         {
@@ -9110,7 +9110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#I approached the wax figure and leaned my back\nagainst the wall, spreading my legs. \\#And as I\nfocused my gaze on it, I reached out my hand\ntowards the heated center..."
+                                "\\#I approached the wax figure and leaned my back\nagainst the wall, spreading my legs. \\#And as I\nfocused my gaze on it, I reached out my hand\ntowards the heated center----..."
                             ]
                         },
                         {
@@ -9297,7 +9297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(In the end... we ended up doing it three times to\neach other...)"
+                                "\\n<Minato>(In the end... we ended up doing it three times with\neach other...)"
                             ]
                         },
                         {
@@ -9314,7 +9314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...ah..."
+                                "\\n<Minato>...ah..."
                             ]
                         },
                         {
@@ -9331,7 +9331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Suddenly... I notice the presence of love juices\nflowing down my crotch."
+                                "Suddenly... I notice the presence of love juice flowing down\nmy crotch."
                             ]
                         },
                         {
@@ -9348,7 +9348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Haha... even though we did it so much...)"
+                                "\\n<Minato>(Haha... even though we did it like that...)"
                             ]
                         },
                         {
@@ -9391,7 +9391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#, even after being released by the man, I\ncouldn't help but feel a throbbing sensation in my\nbody. However... I no longer hesitated."
+                                "Even after being released by \\#, my body began to ache\nand I couldn't help but feel bored. But... I no\nlonger hesitated."
                             ]
                         },
                         {
@@ -9422,7 +9422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#I approached the wax figure and leaned my back\nagainst the wall, spreading my legs. \\#And as I\nfocused my gaze on it, I reached out my hand\ntowards the heated center..."
+                                "\\#I approached the wax figure and leaned my back\nagainst the wall, spreading my legs. \\#And as I\nfocused my gaze on it, I reached out my hand\ntowards the heated center----..."
                             ]
                         },
                         {

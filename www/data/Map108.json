@@ -3896,7 +3896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>I can't run away... I'm heading towards \\C[2]'s\nbedroom."
+                                "\\n<Minato>\\F[\\V[2]](I can't run away... I'm heading to \\C[2]'s bedroom\n\\C[0])"
                             ]
                         },
                         {
@@ -4011,7 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (For now... no, it's fine. Let's head to\nthe bedroom \\C[2]\\C[0]...)"
+                                "\\n<Minato>\\F[\\V[2]](For now... no, it's fine. Let's head to the bedroom\n\\C[0]...)"
                             ]
                         },
                         {
@@ -4404,7 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
+                                "\\n<Minato>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -4421,7 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]I feel overwhelmed by anxiety. Looking\nback at the content of the lessons so far, it's\nonly natural."
+                                "\\F[\\V[2]]Feeling overwhelmed by anxiety. Considering the content\nof the previous lessons, it was only natural."
                             ]
                         },
                         {
@@ -4445,7 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...It's okay, don't be swayed by\ntemporary pleasure. Besides... it's not just my\nproblem anymore.)"
+                                "\\n<Minato>\\F[\\V[2]](......It's okay, don't be swayed by temporary pleasure.\nBesides......it's not just my problem anymore.)"
                             ]
                         },
                         {
@@ -4507,7 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] Hm... Alright, let's go..."
+                                "\\n<Minato>\\F[\\V[2]]Alright... let's go..."
                             ]
                         },
                         {
@@ -4541,7 +4541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I muttered a word to encourage myself, and headed\ntowards the bedroom where that man was\nwaiting----..."
+                                "\\#I muttered a word to encourage myself, and headed\ntowards the \\C[2]bedroom\\C[0] where that man was\nwaiting----..."
                             ]
                         },
                         {
@@ -4753,7 +4753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]「.........」"
+                                "\\n<Minato>\\F[\\V[2]]「.........」"
                             ]
                         },
                         {
@@ -4770,7 +4770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]I feel overwhelmed by anxiety. Looking\nback at the content of the lessons so far, it's\nonly natural."
+                                "\\F[\\V[2]]Feeling overwhelmed by anxiety. Considering the content\nof the previous lessons, it was only natural."
                             ]
                         },
                         {
@@ -4794,7 +4794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...It's okay, don't be swayed by\ntemporary pleasure. Besides... it's not just my\nproblem anymore.)"
+                                "\\n<Minato>\\F[\\V[2]](......It's okay, don't be swayed by temporary pleasure.\nBesides......it's not just my problem anymore.)"
                             ]
                         },
                         {
@@ -4856,7 +4856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]Hm... Alright, let's go..."
+                                "\\n<Minato>\\F[\\V[2]]Alright... let's go..."
                             ]
                         },
                         {
@@ -4890,7 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I muttered a word to encourage myself, and headed\ntowards the bedroom where that man was\nwaiting----..."
+                                "\\#I muttered a word to encourage myself, and headed\ntowards the \\C[2]bedroom\\C[0] where that man was\nwaiting----..."
                             ]
                         },
                         {
@@ -5084,7 +5084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......It seems like the door is locked."
+                                "......It seems that the door is locked."
                             ]
                         },
                         {
@@ -5256,17 +5256,17 @@
                             ]
                         },
                         {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Udo>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]Hehe, then let's begin, Minato-chan... This will truly\nbe the last private lesson♪"
+                            ]
+                        },
+                        {
                             "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "This is truly the last private lesson, ya♪"
                             ]
                         },
                         {
@@ -5295,7 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「.........」"
+                                "\\n<Minato>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh my... Are you scared?"
+                                "\\n<Udo>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]Oh my... Are you scared, hmm?"
                             ]
                         },
                         {
@@ -5511,7 +5511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F] Hehe, well then, let's\nbegin, Neon-chan... This will truly be our last\nprivate lesson♪"
+                                "\\n<Udo>\\FF[\\V[2]]\\F[\\V[4]]\\AA[F]Hehe, then let's begin, Minato-chan... This will truly\nbe the last private lesson♪"
                             ]
                         },
                         {
@@ -5535,7 +5535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「.........」"
+                                "\\n<Minato>\\FF[\\V[2]]\\F[\\V[4]]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -5907,7 +5907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well then, let's resume, shall we?♪"
+                                "\\n<Udo>\\FF[\\V[4]]Well then, shall we resume?♪"
                             ]
                         },
                         {
@@ -6907,7 +6907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Udo Takeru>\\FF[\\V[4]] Hehe... You're being so modest♪"
+                                "\\n<Udo>\\FF[\\V[4]]Hehe... You're being so reserved♪"
                             ]
                         },
                         {
@@ -7004,7 +7004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well then, let's resume, shall we?♪"
+                                "\\n<Udo>\\FF[\\V[4]]Well then, shall we resume?♪"
                             ]
                         },
                         {

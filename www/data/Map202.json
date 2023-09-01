@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "West Building 3F ~Udo's Room~",
+    "displayName": "West Building 3F ~ Udo's Room ~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3896,7 +3896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I can't go home naked, can I...)"
+                                "\\n<Minato>\\F[\\V[2]](I can't go home naked...)"
                             ]
                         },
                         {
@@ -4122,7 +4122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Takeru-san is waiting... Let's leave\nthe mansion)"
+                                "\\n<Minato>\\F[\\V[2]](Takeru is waiting... Let's leave the mansion)"
                             ]
                         },
                         {
@@ -4597,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Takeru-san is waiting... Let's leave\nthe mansion)"
+                                "\\n<Minato>\\F[\\V[2]](Takeru is waiting... Let's leave the mansion)"
                             ]
                         },
                         {
@@ -4844,7 +4844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (These are my belongings. It seems that\nTakeru-san has already packed them for me in\nadvance.)"
+                                "\\n<Minato>\\F[\\V[2]](These are my belongings. It seems Takeru-san has\nalready packed them for me.)"
                             ]
                         },
                         {
@@ -4860,7 +4860,7 @@
                             "parameters": [
                                 [
                                     "I'll change my clothes",
-                                    "I haven't changed yet"
+                                    "I'm not changing yet"
                                 ],
                                 1,
                                 0,
@@ -4907,7 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>(Something feels strange... I have a sense of\ndiscomfort when wearing clothes...)"
+                                "\\n<Minato>(Something feels strange... I have a sense of discomfort\nwhen wearing clothes...)"
                             ]
                         },
                         {
@@ -4924,7 +4924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I felt very uncomfortable with the underwear that\ntightens my chest and lower abdomen, as well as\nthe full-body rider suit. This is a sensation that\nI couldn't have imagined before coming to this\nmansion."
+                                "I felt very uncomfortable with underwear that\ntightens my chest and lower abdomen, as well as a\nfull-body rider suit. This is a sensation that I\ncouldn't have imagined before coming to this\nmansion."
                             ]
                         },
                         {
@@ -4955,7 +4955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -4972,7 +4972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>(Takeru-san... I wonder when will it be my turn to\nbe embraced next...)"
+                                "\\n<Minato>(I wonder when Takeru-san will embrace me next...)"
                             ]
                         },
                         {
@@ -5504,7 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>...Well then, let's go. I've packed up your\nbelongings, so hurry up and change."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]...Well then, hurry up and change. I've packed your\nbelongings for you."
                             ]
                         },
                         {
@@ -5528,7 +5528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Yes..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Yes..."
                             ]
                         },
                         {
@@ -5545,7 +5545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] ...I'll be waiting in\nthe car."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]...I'll be waiting in the car."
                             ]
                         },
                         {
@@ -5562,7 +5562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] I-I'll head there as\nsoon as I change..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]O-Once I change, I'll head there right away..."
                             ]
                         },
                         {
@@ -5579,7 +5579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hey, welcome back."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hey, good work."
                             ]
                         },
                         {
@@ -5764,7 +5764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] Thank you for your hard work..."
+                                "\\n<Minato>\\F[\\V[2]]Good work..."
                             ]
                         },
                         {
@@ -5814,7 +5814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Is it just my imagination...? It feels\nlike they're being distant...)"
+                                "\\n<Minato>\\F[\\V[2]](Is it just my imagination...? It felt like they were\nbeing distant...)"
                             ]
                         },
                         {
@@ -5843,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "{Minato Neon}......I feel a slight unease at the\nchange in {his} demeanor. But I can't do anything\nabout it, so at least to prevent the situation\nfrom worsening, I quickly change clothes and leave\n{his} room in a hurry---...."
+                                "\\#......I feel a slight unease at the change in the men.\nBut I can't do anything about it, so at least I\nquickly change clothes and hurriedly leave the\nmen's room---..."
                             ]
                         },
                         {
@@ -6037,7 +6037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Minato Neon] Type-Writer] Meeting [Minato Neon]\nType-Writer] Lodging [Minato Neon] Type-Writer]\nDay [Minato Neon] Type-Writer] Eye [Minato Neon]\nType-Writer] 1 [Minato Neon] Type-Writer] 0\n[\\N[5]] Type-Writer: 40"
+                                "\\.\\SE[タイプライタ] and \\.\\SE[タイプライタ] stay \\.\\SE[タイプライタ]\\C[27]\n1\\.\\SE[タイプライタ]\\C[27]0\\C[0]\\.\\SE[タイプライタ] days\n\\.\\SE[タイ プライタ] day\n\\.\\SE[タイプライタ]\\.\\SE[タイプライタ]1\\.\\SE[タイプライタ]\n2\\.\\SE[タイプライタ]:\\.\\SE[タイプライタ]4\\.\\SE[タイプライタ]0"
                             ]
                         },
                         {
@@ -6085,7 +6085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] Phew... That was a good bath..."
+                                "\\n<Minato>\\F[\\V[2]]Phew... The hot water was so good..."
                             ]
                         },
                         {
@@ -6102,7 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I feel refreshed after being covered in\neach other's bodily fluids♪)"
+                                "\\n<Minato>\\F[\\V[2]](I feel refreshed after being covered in each\nother's bodily fluids♪)"
                             ]
                         },
                         {
@@ -6325,7 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] Um... I'm back."
+                                "\\n<Minato>\\F[\\V[2]]Um... I'm back."
                             ]
                         },
                         {
@@ -6373,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Oh, so you're finally\nhere. Thanks to someone, our plans to leave in the\nmorning got delayed until the afternoon, you know?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hey, Takeru. I was planning to leave in the morning,\nbut thanks to someone, it's already past noon, you\nknow?"
                             ]
                         },
                         {
@@ -6404,7 +6404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ugh... E-even Takeru-\nsan was enjoying it..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Ugh... E-even Takeru was enjoying it..."
                             ]
                         },
                         {
@@ -6428,7 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hehe... Isn't it\nsomething to be proud of? Among all the bitches\nwho can keep up with my insatiable stamina and\nenjoy it, there are only a few."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hehe... Shouldn't I be proud? Among all the bitches who\ncan keep up with my insatiable stamina and enjoy\nit, there are only a few."
                             ]
                         },
                         {
@@ -6459,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ......Is that so?"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]......Is that so?"
                             ]
                         },
                         {
@@ -6483,7 +6483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] I see... Is that so...♪"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]I see... Is that so...♪"
                             ]
                         },
                         {
@@ -6500,7 +6500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hey hey... Even if you\nshow me such a cute reaction, I can't help but get\n\\r[aroused, you know?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hey hey... Even if you show me such a cute reaction,\nI won't get hard anymore."
                             ]
                         },
                         {
@@ -6531,7 +6531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Hehe, too bad \\I[12]"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Hehe, too bad \\I[12]."
                             ]
                         },
                         {
@@ -6609,7 +6609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] ......Well then, wait\nfor me in the car, okay?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]...Well then, I'll be waiting in the car, okay?"
                             ]
                         },
                         {
@@ -6626,7 +6626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Yes, as soon as I change\nclothes, I'll head over right away."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Yes, I'll head over as soon as I change."
                             ]
                         },
                         {
@@ -6643,7 +6643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Hey, for now, good job on the training camp,\n\\I[12]~"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hey, good job on the training camp, everyone~\\I[12]"
                             ]
                         },
                         {
@@ -6842,7 +6842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] Good job everyone!"
+                                "\\n<Minato>\\F[\\V[2]]Good job, everyone!"
                             ]
                         },
                         {
@@ -6923,7 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(It's not good to keep Takeru-san waiting again,\nso let's quickly change and leave the mansion)"
+                                "\\n<Minato>\\F[\\V[2]](It's not good to keep Takeru waiting again, so let's\nquickly change and leave the mansion)"
                             ]
                         },
                         {

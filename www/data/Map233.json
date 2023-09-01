@@ -5849,7 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Momo>You're so slow, geez! Well then, let's try the\nnon-stop three-hour slippery course, \\I[12]!"
+                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF]You're so slow! Well then, let's try the non-stop three-\nhour slippery course, \\I[12]!"
                             ]
                         },
                         {
@@ -5892,7 +5892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[92]\\AA[F]「.........」"
+                                "\\n<Sonoda>\\F[62]\\FF[92]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -5976,7 +5976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF] Huh? Didn't you hear? Momo\nand the others are going to have sex here for\nthree hours with Kino-chan~"
+                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF]Huh? Didn't you hear? From now on, Manechan is going\nto have sex with us here for three hours~"
                             ]
                         },
                         {
@@ -6000,7 +6000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[92]\\AA[F] (I don't really understand...\nbut anyway, it's probably just that guy's whim...\nEven if I refuse, I don't have the power to reject\nthem.)"
+                                "\\n<Sonoda>\\F[62]\\FF[92]\\AA[F](I don't really understand, but... anyway, he's just\na guy after all. Even if I refuse, I don't have\nthe power to reject them.)"
                             ]
                         },
                         {
@@ -6024,7 +6024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF] What's wrong?"
+                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF]What's wrong?"
                             ]
                         },
                         {
@@ -6122,7 +6122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Hey, you lazy bum! Do you\nhave any motivation, huh?!"
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]Hey! Are you motivated, you bastard?!"
                             ]
                         },
                         {
@@ -6139,7 +6139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[65]\\AA[F] W-What... You were hesitant,\nbut now you're all fired up..."
+                                "\\n<Sonoda>\\F[62]\\FF[65]\\AA[F]W-What... You're surprisingly enthusiastic despite\nhesitating earlier..."
                             ]
                         },
                         {
@@ -6156,7 +6156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Well, this feels like a\ndecisive battle! My old blood is... uhh!"
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]Well, it's a decisive battle! It's like the old blood\nis... uhh!"
                             ]
                         },
                         {
@@ -6173,7 +6173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[65]\\AA[F] Old blood?"
+                                "\\n<Sonoda>\\F[62]\\FF[65]\\AA[F]Old blood?"
                             ]
                         },
                         {
@@ -6190,7 +6190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Don't worry about me! Come\non, give me instructions already!"
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]You don't need to worry about me! Come on, give me\ninstructions already!"
                             ]
                         },
                         {
@@ -6439,7 +6439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (Rather than an instruction, it's more like\na confirmation...)"
+                                "\\n<Sonoda>\\F[62](Rather than giving instructions, it's more like a\nconfirmation...)"
                             ]
                         },
                         {
@@ -6448,7 +6448,7 @@
                             "parameters": [
                                 [
                                     "if(!s[299])Giving instructions to Sawa",
-                                    "if(!s[300])Give instructions to Momo",
+                                    "if(!s[300])Sonoda gives instructions to Momo",
                                     "if(!s[361])Giving instructions to Kino",
                                     "if(s[362])And I"
                                 ],
@@ -6480,7 +6480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[63]\\AA[F] Sawa and Kino, please\ncooperate and collect mine and Neon's belongings,\nand gather everyone's belongings and leave them at\nthe entrance on the first floor of the main\nbuilding."
+                                "\\n<Sonoda>\\F[62]\\FF[63]\\AA[F]Sawa, please cooperate with Kino to collect mine and\nMinato's belongings, and gather everyone's\nbelongings and leave them at the entrance on the\nfirst floor of the main building."
                             ]
                         },
                         {
@@ -6504,7 +6504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>So, we just need to come back here afterwards,\nright?"
+                                "\\n<Sawa>\\F[62]\\FF[63]\\AA[FF]So, we just need to come back here afterwards, right?"
                             ]
                         },
                         {
@@ -6521,7 +6521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[63]\\AA[F] Ah, I asked for this."
+                                "\\n<Sonoda>\\F[62]\\FF[63]\\AA[F]Ah, I asked for this."
                             ]
                         },
                         {
@@ -6577,7 +6577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>Momo, please continue with the remaining tasks.\nHow much longer will it take to finish the work?"
+                                "\\n<Sonoda>\\F[62]\\FF[64]\\AA[F]Momo, please continue with the remaining tasks. How\nlong will it take to finish the work?"
                             ]
                         },
                         {
@@ -6601,7 +6601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF] Hmm... After initializing the\nPCs and servers, and setting them up again after\nreboot... all that's left is to install the virus,\nso about 40 minutes? Hmm, but..."
+                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF]Hmm... After that, we just need to initialize and set up\nthe PCs and servers, and then install the virus.\nSo, about 40 minutes? Hmm, but..."
                             ]
                         },
                         {
@@ -6625,7 +6625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF] Since the PCs and servers are\na little old, maybe it's better to double the\ntime?"
+                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF]Since the PCs and servers are a bit old, maybe it's\nbetter to double that time?"
                             ]
                         },
                         {
@@ -6642,7 +6642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[64]\\AA[F] I see... It's going to take\nquite a while. In that case, it's fine to finish\nup and then join me."
+                                "\\n<Sonoda>\\F[62]\\FF[64]\\AA[F]I see... It will take quite a while. In that case,\nit's fine to finish and then join me."
                             ]
                         },
                         {
@@ -6666,7 +6666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF] Aiai sa~♪"
+                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF]Lovey-dovey~♪"
                             ]
                         },
                         {
@@ -6722,7 +6722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[65]\\AA[F] Kino, please support Sawa."
+                                "\\n<Sonoda>\\F[62]\\FF[65]\\AA[F]Kino, please support Sawa."
                             ]
                         },
                         {
@@ -6739,7 +6739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] So it's carrying luggage...\nwell, I'll do it if it's just that."
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]So it's carrying luggage... well, I'll do it if it's\njust that."
                             ]
                         },
                         {
@@ -6756,7 +6756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[65]\\AA[F] Ah, sorry about that. When\nyou're done, please come back here with Sawa."
+                                "\\n<Sonoda>\\F[62]\\FF[65]\\AA[F]Ah, I'm sorry. When you're done, please come back\nhere with Sawa."
                             ]
                         },
                         {
@@ -6780,7 +6780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Roger that"
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]Roger that."
                             ]
                         },
                         {
@@ -6960,7 +6960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (...Alright, let's begin)"
+                                "\\n<Sonoda>\\F[62](Alright, let's begin)"
                             ]
                         },
                         {
@@ -6970,7 +6970,7 @@
                                 [
                                     "if(!s[299])Give instructions to Sawa",
                                     "if(!s[300])Give instructions to Momo",
-                                    "if(!s[361])Giving instructions to Kino",
+                                    "if(!s[361])gives instructions to Kino",
                                     "if(s[362])And I"
                                 ],
                                 -1,
@@ -7001,7 +7001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[63]\\AA[F] Sawa and Kino, please\ncooperate and collect mine and Neon's belongings,\nand gather everyone's belongings and leave them at\nthe entrance on the first floor of the main\nbuilding."
+                                "\\n<Sonoda>\\F[62]\\FF[63]\\AA[F]Sawa, cooperate with Kino and help me and Neon collect\nour belongings. Please gather everyone's\nbelongings and leave them at the entrance on the\nfirst floor of the main building."
                             ]
                         },
                         {
@@ -7025,7 +7025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>So, we just need to come back here afterwards,\nright?"
+                                "\\n<Sawa>\\F[62]\\FF[63]\\AA[FF]So, we just need to come back here afterwards, right?"
                             ]
                         },
                         {
@@ -7042,7 +7042,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[63]\\AA[F] Ah, I asked for it."
+                                "\\n<Sonoda>\\F[62]\\FF[63]\\AA[F]Ah, I asked for this."
                             ]
                         },
                         {
@@ -7098,7 +7098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>Momo, please continue with the remaining tasks.\nHow much longer will it take to finish the work?"
+                                "\\n<Sonoda>\\F[62]\\FF[64]\\AA[F]Momo, please continue with the remaining tasks. How\nmuch longer will the work take?"
                             ]
                         },
                         {
@@ -7122,7 +7122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF] Hmm... After this, we just\nneed to initialize and restart the PCs and\nservers, then do the initial setup... and then\nplant the virus there, so it should take about 40\nminutes? Hmm, but..."
+                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF]Hmm... After this, we just need to initialize and set up\nthe PCs and servers, then inject the virus. So,\nit'll take about 40 minutes? Hmm, but..."
                             ]
                         },
                         {
@@ -7146,7 +7146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF] Since the PCs and servers are\na bit old, maybe it would be better to double that\ntime?"
+                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF]Since the PCs and servers are a bit old, maybe it would\nbe better to double that time?"
                             ]
                         },
                         {
@@ -7163,7 +7163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[64]\\AA[F] I see... It's going to take\nquite a while. In that case, it's fine to join me\nonce you're finished."
+                                "\\n<Sonoda>\\F[62]\\FF[64]\\AA[F]I see... It will take quite a while. In that case,\nit's fine to finish up and join me when you're\ndone."
                             ]
                         },
                         {
@@ -7187,7 +7187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF] Aiai sa~♪"
+                                "\\n<Momo>\\F[62]\\FF[64]\\AA[FF]La la la~♪"
                             ]
                         },
                         {
@@ -7243,7 +7243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[65]\\AA[F] Kino, please support Sawa."
+                                "\\n<Sonoda>\\F[62]\\FF[65]\\AA[F]Kino, please support Sawa."
                             ]
                         },
                         {
@@ -7260,7 +7260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Alright, leave it to me. It's\njust carrying the belongings."
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]Alright, leave it to me. It's about carrying the luggage,\nright?"
                             ]
                         },
                         {
@@ -7277,7 +7277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[65]\\AA[F] Ah, I'm sorry. So, what\nhappened with that issue we were discussing?"
+                                "\\n<Sonoda>\\F[62]\\FF[65]\\AA[F]Ah, I'm sorry. So, what happened with that issue we\nwere discussing?"
                             ]
                         },
                         {
@@ -7294,62 +7294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Yeah... It's a 50/50 chance\nwhether it will go well or not. If it doesn't\nwork, we'll go with the second plan."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "I opposed it, but... they stubbornly refused to\ngive in."
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[65]\\AA[F] ......I understand. Then, once\nyou're finished, please come back here with Sawa."
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]Yeah... It's a 50-50 chance whether it will go well or\nnot. If it doesn't work, we'll go with the second\nplan."
                             ]
                         },
                         {
@@ -7373,7 +7318,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF] Roger that."
+                                "\\F[62]\\FF[65]\\AA[FF]The second plan was a simple one where the three of\nthem would somehow seduce the men outside. I\nopposed it, but... they stubbornly refused to give\nin."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\n<Sonoda>\\F[62]\\FF[65]\\AA[F]......I understand. Then, when you're finished, please\ncome back here with Sawa."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\n<Kino>\\F[62]\\FF[65]\\AA[FF]Roger that."
                             ]
                         },
                         {
@@ -7590,7 +7590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(As a result of the discussion, it was unanimously\ndecided that I would be on standby... I feel\nreally sorry for making everyone else work...)"
+                                "\\n<Sonoda>\\F[62](As a result of our discussion, it was unanimously\ndecided that I would be on standby... I feel\nreally sorry for making everyone else work while I\ndo nothing...)"
                             ]
                         },
                         {
@@ -7614,7 +7614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Thanks to rehabilitation, I can walk normally even\nthough running is still difficult for me. Well,\nit's definitely better to leave it to them\n(referring to the girls)."
+                                "\\n<Sonoda>\\F[62](Thanks to rehabilitation, I can walk normally even\nthough running is still impossible. Well, it's\ndefinitely better to leave it to them.)"
                             ]
                         },
                         {
@@ -7647,7 +7647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (...Maybe I should do some stretches. I\nneed to make sure I can move in perfect\ncondition...)"
+                                "\\n<Sonoda>\\F[62](...Maybe I should do some stretching. I need to make sure\nI'm in perfect condition and able to move...)"
                             ]
                         },
                         {
@@ -7753,7 +7753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Momo>You're so slow, geez! Well then, let's try the\nnon-stop three-hour slippery course, \\I[12]!"
+                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF]You're so slow! Well then, let's try the non-stop three-\nhour slippery course, \\I[12]!"
                             ]
                         },
                         {
@@ -7777,7 +7777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[92]\\AA[F]「.........」"
+                                "\\n<Sonoda>\\F[62]\\FF[92]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -7794,7 +7794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF] Huh? Didn't you hear? From\nnow on, Momo and the others are going to have sex\nhere for three hours~"
+                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF]Huh? Didn't you hear? From now on, Manechan is going\nto have sex with us here for three hours~"
                             ]
                         },
                         {
@@ -7818,7 +7818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[92]\\AA[F] (I don't really understand...\nbut anyway, it's probably just that guy's whim...\nEven if I refuse, I don't have the power to reject\nthem.)"
+                                "\\n<Sonoda>\\F[62]\\FF[92]\\AA[F](I don't really understand... but anyway, he's just\na guy after all. Even if I refuse, I don't have\nthe power to reject them.)"
                             ]
                         },
                         {
@@ -7842,7 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF] What's wrong?"
+                                "\\n<Momo>\\F[62]\\FF[92]\\AA[FF]What's wrong?"
                             ]
                         },
                         {
@@ -7967,7 +7967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[91]\\AA[F](S...Scared... I can't make eye\ncontact... They're definitely glaring at me...)"
+                                "\\n<Sonoda>\\F[62]\\FF[91]\\AA[F](T-...Too scared to make eye contact... They're definitely\nglaring at me...)"
                             ]
                         },
                         {
@@ -8205,7 +8205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[91]\\AA[F](S-She... I'm too scared to\nmake eye contact... She's definitely glaring at\nme...)"
+                                "\\n<Sonoda>\\F[62]\\FF[91]\\AA[F](T-...Too scared to make eye contact... They're definitely\nglaring at me...)"
                             ]
                         },
                         {
@@ -9091,7 +9091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I... had some confidence in my appearance, to some\nextent."
+                                "\\#I... had some confidence in my appearance, to some\nextent."
                             ]
                         },
                         {
@@ -9140,7 +9140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I think my figure is decent, and even if you\nsubtract my somewhat stubborn personality, I pride\nmyself on being a good woman."
+                                "I think my figure is decent, and even if I subtract\nmy twisted personality, I take pride in being a \\#\nwoman."
                             ]
                         },
                         {
@@ -9178,7 +9178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maybe it's because of \\#... I have never been\ntreated roughly in my life. Of course, I\nunderstand that the biggest factor is being\nblessed with good friendships. But still...\nsomewhere deep down, maybe I was a bit conceited\nbecause I am me and \\r[."
+                                "Maybe it's because of that... I have never been treated\nroughly in my life. Of course, I understand that\nthe biggest factor is being blessed with good\nfriends. But still... I might have been a bit\nconceited because I am me."
                             ]
                         },
                         {
@@ -9329,7 +9329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Haaan \\I[12] Ahh \\I[12] Naaah \\I[12] Yaaan \\I[12]"
+                                "\\n<Minato>\\{ Haaan \\I[12] Ahh \\I[12] Naaah \\I[12] Yaaan \\I[12]"
                             ]
                         },
                         {
@@ -9353,7 +9353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The man's thing thrusts into me roughly, as if\npunishing me for being so conceited."
+                                "As if punishing me for being so conceited, a man's\nthing roughly thrusts into me."
                             ]
                         },
                         {
@@ -9384,7 +9384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nghh... it's so intense... ah, yesss..."
+                                "\\n<Minato>\\{Nghh... it's so intense... ah, \\I[12]!"
                             ]
                         },
                         {
@@ -9408,7 +9408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However... I didn't feel any discomfort at all. In\nfact, I even derived pleasure from being treated\nlike this."
+                                "However... I didn't feel any discomfort at all. Rather, I\neven derived pleasure from being treated like\nthis."
                             ]
                         },
                         {
@@ -9530,7 +9530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nghh... Ahh... Down there... Down there feels\nstrange... Ahh... Yaaan... My pussy feels like\nit's going to break..."
+                                "\\n<Minato>\\{Nn \\I[12] Ahh, my crotch... my crotch feels strange\n\\I[12] Ah, ahh \\I[12] Yaaan, my pussy is going to\nbreak \\I[12]"
                             ]
                         },
                         {
@@ -9561,7 +9561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Ahh, it's like I'm going to break♪ Becoming a\npussy made for this big dick, in a way, maybe\nthat's true♪"
+                                "\\n<Udo>Ahh, it's going to break, huh? Becoming a pussy for\nthis big dick, in a way, I guess that's true."
                             ]
                         },
                         {
@@ -9585,7 +9585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The man chooses words that men prefer and\nrepeatedly utters words that are \\r[ugly,\nrepulsive], and despicable, which he would never\nsay out loud in normal circumstances."
+                                "Choosing words that men prefer and speaking them.\nRepeating words that are so ugly and despicable\nthat I could never say them out loud."
                             ]
                         },
                         {
@@ -9688,7 +9688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nghh... Ahh... Yaaan... \\I[12]"
+                                "\\n<Minato>\\{Nii... Ahhh \\I[12]"
                             ]
                         },
                         {
@@ -9712,7 +9712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh my... you came again, huh? Neon's pussy is so\ntight and cute♪"
+                                "\\n<Udo>Oh my... you came again, huh? ♪ Minato's pussy is so\ntight and cute, isn't it?"
                             ]
                         },
                         {
@@ -9736,7 +9736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Without any shame, I repeatedly expose myself in\nthe act of climaxing. At first, I resisted being\nseen in such a state, but gradually, it changed\nfrom something I didn't want to be seen to\nsomething I didn't mind being seen... and\neventually, it transformed into something I wanted\nto be seen."
+                                "Without any shame, I repeatedly expose myself in the act\nof climaxing. At first, I resisted being seen in\nsuch a way, but gradually, it changed from\nsomething I didn't want to be seen to something I\ndidn't mind being seen... and eventually, it\ntransformed into something I wanted to be seen."
                             ]
                         },
                         {
@@ -9846,7 +9846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>By holding hands like this, it feels like we're\nhaving sex as lovers, doesn't it? How about we\njust start dating for real? Well, only on the\nsurface, of course♪"
+                                "\\n<Udo>By holding hands like this, it feels like we're\nhaving sex like lovers, doesn't it? How about we\njust start dating for real? Well, only on the\nsurface, of course ♪"
                             ]
                         },
                         {
@@ -9877,7 +9877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nghh... What are you doing back there... Ahh...\nAhh...\\I[12]"
+                                "\\n<Minato>\\{Nn, what are you doing... ah, ahh!"
                             ]
                         },
                         {
@@ -9901,7 +9901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Of course, my very own pussy dog♪ Oh? Is your\npussy getting all excited right now?"
+                                "\\n<Udo>Of course, my very own pussy dog♪ Oh? Is your pussy\ngetting all excited right now?"
                             ]
                         },
                         {
@@ -9932,7 +9932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nghh... Ahh... \\I[12], you idiot..."
+                                "\\n<Minato>\\{Nn... Ahh \\I[12], you idiot..."
                             ]
                         },
                         {
@@ -9956,7 +9956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Conversation is just a seasoning. In order to\nenhance the umami of pleasure, we exchange \\r[lewd\nand sensual words over and over again."
+                                "Conversation is just a seasoning. In order to enhance the\numami of pleasure, we exchange lewd and sensual\nwords over and over again."
                             ]
                         },
                         {
@@ -10066,7 +10066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nghh... Ahh... It's big after all... Nnghh..."
+                                "\\n<Minato>\\{Mmm \\I[12]... Ahh \\I[12] it's big after all... Mmm \\I[12]"
                             ]
                         },
                         {
@@ -10090,7 +10090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>It feels good... Is it okay? Let's continue just\nlike this♪"
+                                "\\n<Udo>It feels good... Is it okay? Let's continue just\nlike that♪"
                             ]
                         },
                         {
@@ -10107,7 +10107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When the man was in a difficult position to move,\nI actively moved my hips. It's not like... I did\nit because I was told to. I just felt that it was\nnatural to do so, that's all."
+                                "When the man was in a difficult position to move, I\nactively moved my hips. It's not like... I did it\nbecause I was told to. I just felt that it was\nnatural to do so, that's all."
                             ]
                         },
                         {
@@ -10243,7 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Mmm... *kiss*... *lick*... *suck*..."
+                                "\\n<Minato>\\{ Mmm... *kiss*... *lick*... *suck*..."
                             ]
                         },
                         {
@@ -10267,7 +10267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I like kissing... I like intense kisses while\nhaving sex. I also like kisses that show care for\neach other after climaxing, and nibbling kisses."
+                                "I like kisses... I like intense kisses while having\nsex. I also like kisses that gently cherish each\nother after climaxing, and nibble on each other's\nlips."
                             ]
                         },
                         {
@@ -10298,7 +10298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This man has changed me, even though I hated it so\nmuch..."
+                                "Even though I hated it so much... this man is changing\nthe person that I am."
                             ]
                         },
                         {
@@ -10439,7 +10439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nngh... Yaaan, I'm cumming again... It's no\ngood... Ahh... I'm cumming... My pussy is cumming~"
+                                "\\n<Minato>\\{Nn, ah \\I[12], I'm going to... Ahh, I can't... Ahh\n\\I[12], I'm coming... My pussy is cumming \\I[12]."
                             ]
                         },
                         {
@@ -10470,7 +10470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh, go ahead and cum as much as you want♪ You were\na virgin until that age... 'I won't let you catch\nup!'"
+                                "\\n<Udo>Oh, go ahead and cum as much as you want♪ You were a\nvirgin until that age... I won't let you fall\nbehind!"
                             ]
                         },
                         {
@@ -10501,7 +10501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Together... I want your cock inside me too...\nLet's cum together... Ahh \\I[12]!"
+                                "\\n<Minato>\\{ Let's... be together... I want your cock... Let's\ncum together... in my pussy... Ahh \\I[12]."
                             ]
                         },
                         {
@@ -10532,7 +10532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Nhihihihi♪ Here it comes! Receive it!!"
+                                "\\n<Udo>Nhehehe♪ Here it comes! Receive it!!"
                             ]
                         },
                         {
@@ -10818,7 +10818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The man released his seed into my \\r[ pussy as if\nit were natural."
+                                "The man released his seed into my vagina as if it\nwere natural."
                             ]
                         },
                         {
@@ -11522,7 +11522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......I think my senses were also numb. Once the\nnumber of ejaculations exceeded three, I began to\nfeel that it was only natural for \\r[ to ejaculate\ninside my vagina and I accepted it."
+                                "......I think my senses were also numb. From the point\nwhere the number of ejaculations exceeded three, I\nbegan to feel that being ejaculated inside the\nvagina was a natural act, and I accepted it."
                             ]
                         },
                         {
@@ -11560,7 +11560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Hii... Ahh \\I[12], it's still so big... Ahh \\I[12]"
+                                "\\n<Minato>\\{Hii... Ahh \\I[12] it's still so big... \\I[12]"
                             ]
                         },
                         {
@@ -11584,7 +11584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Are you taking some secret stamina enhancer for\ntonight? Nhihi, I'll make you stay with me until\nyour semen runs dry♪"
+                                "\\n<Udo>Are you taking some secret stamina enhancer for\ntonight? Nhehehe, I'll make you stay with me until\nyour semen runs dry♪"
                             ]
                         },
                         {
@@ -11608,7 +11608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I feel reassured by the penis that thrusts into me\nwithout weakening. And... towards the man who\ngives me such pleasure with this manly penis, I\neven begin to feel affection."
+                                "I feel a sense of reliability from the penis that\nthrusts into me without weakening. And... towards\nthe man who gives me such pleasure with this manly\npenis, I even begin to feel affection."
                             ]
                         },
                         {
@@ -11646,7 +11646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>I want you to use it a lot... I love \\I[12]... I\nlove this penis... \\I[12]"
+                                "\\n<Minato>\\{I want you to use it a lot... I love... this\npenis... \\I[12]"
                             ]
                         },
                         {
@@ -11677,7 +11677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......For the first time, I felt grateful for\nbeing born as a woman. And... for meeting this man\nand him showing interest in me. To top it off, I\nwas grateful for him giving me my first experience\nand teaching me about sex. I felt grateful for\nevery single thing that led up to this day."
+                                "......For the first time, I felt grateful for being born as\na woman. And... for meeting this man and him\nshowing interest in me. To top it off, I was\ngrateful for him giving me my first experience and\nteaching me about sex. I felt grateful for every\nevent that led up to this day."
                             ]
                         },
                         {
@@ -12388,7 +12388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Haaah... Ahhh \\I[12]"
+                                "\\n<Minato>\\{\\{Haaah... Ahhh \\I[12]"
                             ]
                         },
                         {
@@ -12532,7 +12532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Mmm, oh \\I[12]... ohhh..."
+                                "\\n<Udo>Mmm, your \\I[12] feels so good..."
                             ]
                         },
                         {
@@ -12669,7 +12669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I realize while feeling the surging \\r[ of a man\ndeep inside my belly. The position we were doing\nat the end was the same as the first time."
+                                "While feeling the surge of a man inside my abdomen, I\nrealize that the position we were in at the end\nwas the same as the first time."
                             ]
                         },
                         {
@@ -12765,7 +12765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Phew... I ejaculated, yeah♪ I ejaculated, yeah♪\nBecause you initially rejected me, it made me even\nmore fired up♪"
+                                "\\n<Udo>Phew... I ejaculated♪ I ejaculated♪ Because you rejected\nme right from the start, it made me even more\nfired up♪"
                             ]
                         },
                         {
@@ -12796,7 +12796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Ah... ah... aahh..."
+                                "\\n<Minato>\\{ Ah... ah... ahh..."
                             ]
                         },
                         {
@@ -12820,7 +12820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>I'm hungry... Let's take a break and grab some\nfood."
+                                "\\n<Udo>I'm hungry... Let's take a break and grab some\nfood..."
                             ]
                         },
                         {
@@ -12910,7 +12910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Nngh... Haaah, haaah..."
+                                "\\n<Minato>\\{Ngh... \\I[12]... hah, hah..."
                             ]
                         },
                         {
@@ -12934,7 +12934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Director pulled out what was buried in my\ncrotch carelessly and moved away from me. As for\nme, I had long exceeded my physical limits and\ncouldn't move as I wanted, so I could only follow\nUdo Director with my eyes."
+                                "Udo, the director, pulled out what was buried in my\ncrotch carelessly and moved away from me. As for\nme, I had long exceeded my physical limits and\ncouldn't move as I wanted, so I could only follow\nUdo with my eyes."
                             ]
                         },
                         {
@@ -12990,7 +12990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>...Well, before that, should we take a bath? Maybe\ntogether with Neon-chan... Oh, but it seems\nimpossible, huh?"
+                                "\\n<Udo>...Well, before that, should we take a bath? Maybe\ntogether with Minato-chan... Oh, but it seems\nimpossible, huh?"
                             ]
                         },
                         {
@@ -13021,7 +13021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Haaah... Haaah... Nngh... I'm done... with it..."
+                                "\\n<Minato>\\{Haaah... Haaah... Nngh... It's over... I..."
                             ]
                         },
                         {
@@ -13045,7 +13045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Hmm? Ah, for now..."
+                                "\\n<Udo>Hmm? Ah, for now..."
                             ]
                         },
                         {
@@ -13062,7 +13062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>You can use that bed, so take a little rest. If\nyou're hungry, feel free to eat whatever is in the\nfridge."
+                                "\\n<Udo>You can use that bed, so take a little rest. If\nyou're hungry, you can help yourself to whatever's\nin the fridge."
                             ]
                         },
                         {
@@ -13086,7 +13086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Director, who said that, picked something up\nand aimed it towards me."
+                                "Udo, the director, who said that, picked something up\nand aimed it at me."
                             ]
                         },
                         {
@@ -13136,7 +13136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Ah... ah... no..."
+                                "\\n<Minato>\\{Ah... Ahh... No..."
                             ]
                         },
                         {
@@ -13160,7 +13160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Guhuh, the songstress has fallen♪"
+                                "\\n<Udo>Guhuhu, the songstress has fallen♪"
                             ]
                         },
                         {
@@ -13227,7 +13227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Ah... right, right... We had a contract to delete\nany photos or evidence before leaving the mansion.\nWasn't that until yesterday's date change?"
+                                "\\n<Udo>Ah... right, right... We had a contract to delete any\nphotos or evidence before leaving the mansion.\nThat was until yesterday's date change, right?"
                             ]
                         },
                         {
@@ -13258,7 +13258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Eh... then... no... please... don't take it..."
+                                "\\n<Minato>\\{Eh... Then... No... Don't... take it..."
                             ]
                         },
                         {
@@ -13282,7 +13282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>I even recorded a video perfectly, you know♪ Do\nyou understand what this means?"
+                                "\\n<Udo>I got some great footage too, you know♪ Do you\nunderstand what this means?"
                             ]
                         },
                         {
@@ -13306,7 +13306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>If you were to run away or do something, it would\nbe regrettable for me, but it might cause trouble\nfor everyone, you know?"
+                                "\\n<Udo>If you were to run away or do something, it would be\nregrettable for me, but it might cause trouble for\neveryone, you know?"
                             ]
                         },
                         {
@@ -13337,7 +13337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Ah... ah... no... like that..."
+                                "\\n<Minato>\\{ Ah... Ahh... No..."
                             ]
                         },
                         {
@@ -13361,7 +13361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well, since you're going to be my pussy dog,\nthere's no way you'll run away, right? Well then,\nsee you later, \\I[12]."
+                                "\\n<Udo>Well, since you're going to be my pussy dog, there's no\nway you'll run away, right?♪ Well then, see you\nlater, \\I[12]."
                             ]
                         },
                         {
@@ -13397,7 +13397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Director left the room, leaving me alone on\nthe bed."
+                                "Udo, the director, left the room, leaving me alone on\nthe bed."
                             ]
                         },
                         {
@@ -13438,7 +13438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Ugh... no... don't cry..."
+                                "\\n<Minato>Ugh... No... Don't... Don't cry..."
                             ]
                         },
                         {
@@ -13498,7 +13498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Minato Neon: I'm sorry... I'm sorry... I'm\nsorry... I..."
+                                "Minato: I'm sorry... I'm sorry... I'm sorry... I..."
                             ]
                         },
                         {
@@ -13522,7 +13522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Minato Neon: I... I can't sing anymore..."
+                                "Minato: I... can't... sing anymore..."
                             ]
                         },
                         {
@@ -13546,7 +13546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In the quiet room, I covered my face with\ntrembling arms and tears wet my cheeks..."
+                                "In the quiet room, I covered my face with trembling\narms and tears wet my cheeks..."
                             ]
                         },
                         {

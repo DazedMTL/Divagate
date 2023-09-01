@@ -1510,7 +1510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Um... I'm okay with that kind of thing..."
+                                "\\# Um... I'm okay with that kind of thing..."
                             ]
                         },
                         {
@@ -1551,7 +1551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, in that case..."
+                                "\\n<Minato>Well, in that case..."
                             ]
                         },
                         {
@@ -1615,7 +1615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>「.........」"
+                                "\\n<Sonoda>「.........」"
                             ]
                         },
                         {
@@ -1662,7 +1662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「！？」"
+                                "\\n<Minato>「！？」"
                             ]
                         },
                         {
@@ -1696,7 +1696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>I'm definitely not a suspicious person... And it's\nnot like I'm trying to hit on you or anything..."
+                                "\\n<Sonoda>I'm definitely not a suspicious person... And it's\nnot like I'm trying to hit on you or anything..."
                             ]
                         },
                         {
@@ -1713,7 +1713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I start to panic as I fumble around with the\npockets of my jacket, desperately searching for my\nbusiness card holder, but it's nowhere to be\nfound."
+                                "I start to panic as I fumble with the pockets of my\njacket, searching for my business card holder, but\nI can't find it anywhere and I become flustered."
                             ]
                         },
                         {
@@ -1773,7 +1773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...A new performer?"
+                                "\\n<Minato>...A novice performer?"
                             ]
                         },
                         {
@@ -1790,31 +1790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>No, that's not it! Huh? That's strange... I always\nkeep it in my inner pocket, but... Ah!"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<\\N[5]>Damn it... Today was supposed to be my day off...\nI left my business card holder at the hotel..."
+                                "\\n<Sonoda>No, that's not it! Ah, huh? That's strange... I\nalways keep it in my inner pocket, but... ah!"
                             ]
                         },
                         {
@@ -1838,7 +1814,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I remember that it was my first day off since\ncoming on this business trip, and I was taking a\nleisurely solo trip around the station. It seems\nthat... I was getting excited by this unexpected\nreunion."
+                                "\\n<Sonoda>Damn it... Today was supposed to be my day off... I\nleft my business card holder at the hotel..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I remember that it was my first day off since\ncoming on a business trip, and I was taking a\nleisurely solo trip around the station. It seems\nthat... I was getting excited by this unexpected\nreunion."
                             ]
                         },
                         {
@@ -1876,7 +1876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...Well, you do your best too."
+                                "\\n<Minato>...Well, you do your best too."
                             ]
                         },
                         {
@@ -1923,7 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Ah..."
+                                "\\n<Sonoda>Ah..."
                             ]
                         },
                         {
@@ -1957,7 +1957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Well... Unlike last time when things were hectic,\nthis time I have plenty of time, so there should\nbe plenty of opportunities."
+                                "\\n<Sonoda>(Well... Unlike last time when things were hectic, this\ntime I have plenty of time, so there should be\nplenty of opportunities)"
                             ]
                         },
                         {
@@ -1981,7 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(Next, I'll follow the proper procedure... Huh?)"
+                                "\\n<Sonoda>(Next, I'll follow the proper procedure... Huh?)"
                             ]
                         },
                         {
@@ -1992,6 +1992,13 @@
                                 0,
                                 0,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I can feel the gazes from the people around me.\nWell, of course... from their perspective, it must\nlook like a failed attempt at picking up someone.\nStanding there alone, I must look quite\nridiculous."
                             ]
                         },
                         {
@@ -2009,10 +2016,20 @@
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I must look quite ridiculous standing here all\nalone."
+                                "\\n<Sonoda>(No, I'm not trying to pick someone up... Please don't\nlook at me like that...)"
                             ]
                         },
                         {
@@ -2029,7 +2046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(No, I don't do any pick-up lines... Please don't\nlook at me like that...)"
+                                "\\n<Sonoda>「.........」"
                             ]
                         },
                         {
@@ -2046,24 +2063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>「.........」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "And then... unable to bear it any longer, I fled\nfrom that place as if running away..."
+                                "And... unable to bear it any longer, I fled from that\nplace as if running away..."
                             ]
                         },
                         {
@@ -2106,7 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Four months ago... When I was staying at the\nbusiness trip destination for about three days for\nvarious procedures, I met her."
+                                "Four months ago... When I was staying at the business\ntrip destination for about three days for various\nprocedures, I met her."
                             ]
                         },
                         {
@@ -2144,7 +2144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#...It was truly love at first sight. I happened\nto see her playing the guitar in front of the\nstation, and I just stopped my feet for some\nreason because of my job. But...before I knew it,\nI was captivated."
+                                "\\#...I really fell in love at first sight. I happened to\nsee her playing the guitar in front of the\nstation, and I just stopped my feet for some\nreason because of my job. But... before I knew it,\nI was captivated."
                             ]
                         },
                         {
@@ -2189,7 +2189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "People who were touched by the same strings as me\nalso stopped in their tracks, in the cold sky\nwhere \\# snow began to fall... Everyone was\ncaptivated by her singing."
+                                "Just like me, the people who were touched by her music\nalso stopped in their tracks. In the cold sky\nwhere snow began to fall... everyone was\ncaptivated by her singing."
                             ]
                         },
                         {
@@ -2220,7 +2220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#...I closed my eyes. And then...your figure\nsinging in front of a large crowd became clear in\nmy mind's eye."
+                                "\\#... I closed my eyes. And then... I could clearly\npicture you singing in front of a large crowd."
                             ]
                         },
                         {
@@ -2251,7 +2251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was too embarrassed to say this to you in the\nend, \\#, but at that time... I had a premonition\nof your shining future."
+                                "I was so embarrassed that I couldn't tell you in\nthe end, but at that time... I had a premonition\nof your shining future, \\#."
                             ]
                         },
                         {

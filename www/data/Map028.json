@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Main Building ~Warehouse~",
+    "displayName": "Main Building ~ Warehouse ~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2697,7 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......I heard the sound of a key unlocking\nsomewhere."
+                                "......I heard the sound of a key unlocking somewhere."
                             ]
                         },
                         {
@@ -3917,7 +3917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]...... It feels empty."
+                                "\\n<Minato>\\F[\\V[2]](......It's empty)"
                             ]
                         },
                         {
@@ -4001,7 +4001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...The door is locked.)"
+                                "\\n<Minato>\\F[\\V[2]](......It's locked.)"
                             ]
                         },
                         {
@@ -4200,7 +4200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2] got a memo pad\\C[0] in hand."
+                                "\\C[2]I obtained a memo paper \\C[0]."
                             ]
                         },
                         {
@@ -4284,7 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
+                                "\\n<Minato>\\F[\\V[2]](...It's already empty.)"
                             ]
                         },
                         {
@@ -4608,7 +4608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Hm? Is this... a\nkeyhole?)"
+                                "\\n<Minato>\\F[\\V[2]](It won't open... Hm? Is this... a keyhole?)"
                             ]
                         },
                         {
@@ -4691,7 +4691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
+                                "\\n<Minato>\\F[\\V[2]](There's a small keyhole. It seems like a key is needed to\nopen it.)"
                             ]
                         },
                         {
@@ -4886,7 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the \\C[2] time-limited card key \\C[0]."
+                                "\\C[2]Obtained the time-limited card key \\C[0]."
                             ]
                         },
                         {
@@ -6208,7 +6208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Hm? Is this... a\nkeyhole?)"
+                                "\\n<Minato>\\F[\\V[2]](It won't open... Hm? Is this... a keyhole?)"
                             ]
                         },
                         {
@@ -6291,7 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
+                                "\\n<Minato>\\F[\\V[2]](There's a small keyhole. It seems like a key is needed to\nopen it.)"
                             ]
                         },
                         {
@@ -6486,7 +6486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the \\C[2] time-limited card key \\C[0]."
+                                "\\C[2]Obtained the timed card key \\C[0]."
                             ]
                         },
                         {
@@ -6519,7 +6519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Card key? Ah... come to think of it, I\nsaw something like a device on the third floor.)"
+                                "\\n<Minato>\\F[\\V[2]](Card key? Ah... come to think of it, I saw something\nlike a device on the third floor.)"
                             ]
                         },
                         {
@@ -6553,7 +6553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Card key? I wonder if there's a device\nsomewhere that this can be used on?)"
+                                "\\n<Minato>\\F[\\V[2]](Card key? Is there some kind of device somewhere that\nthis can be used on?)"
                             ]
                         },
                         {
@@ -6749,7 +6749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Hm? Is this... a\nkeyhole?)"
+                                "\\n<Minato>\\F[\\V[2]](It won't open... Hm? Is this... a keyhole?)"
                             ]
                         },
                         {
@@ -6832,7 +6832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
+                                "\\n<Minato>\\F[\\V[2]](There's a small keyhole. It seems like a key is needed to\nopen it.)"
                             ]
                         },
                         {
@@ -7027,7 +7027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the \\C[2] time-limited card key \\C[0]."
+                                "\\C[2]Obtained the time-limited card key \\C[0]."
                             ]
                         },
                         {
@@ -7059,7 +7059,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Have you got the card key and password\nready... I'm not really looking forward to it, but\nshould we head to the lesson room \\C[0] \\C[2]...)"
+                                "\\n<Minato>\\F[\\V[2]](Now that I have the card key and password... I'm not\nreally looking forward to it, but should I head to\nthe \\C[2]lesson room\\C[0]...)"
                             ]
                         },
                         {
@@ -7100,7 +7100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (And then the \\C[2] password \\C[0]...)"
+                                "\\n<Minato>\\F[\\V[2]](Now all that's left is the \\C[2]password\\C[0]...)"
                             ]
                         },
                         {
@@ -7296,7 +7296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It won't open... Hm? Is this... a\nkeyhole?)"
+                                "\\n<Minato>\\F[\\V[2]](It won't open... Hm? Is this... a keyhole?)"
                             ]
                         },
                         {
@@ -7379,7 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (There's a small keyhole. It seems like\na key is needed to open it.)"
+                                "\\n<Minato>\\F[\\V[2]](There's a small keyhole. It seems like a key is needed to\nopen it.)"
                             ]
                         },
                         {
@@ -7574,7 +7574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the \\C[2] time-limited card key \\C[0]."
+                                "\\C[2]Obtained the timed card key \\C[0]."
                             ]
                         },
                         {
@@ -7606,7 +7606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>So we're all here... I guess I can't avoid going\nnow. For now, let's head to the lesson room \\C[0]."
+                                "\\n<Minato>\\F[\\V[2]](Looks like everyone's gathered... We can't afford to\nwaste any more time... For now, let's head to the\n\\C[2] lesson room \\C[0]...)"
                             ]
                         },
                         {
@@ -7647,7 +7647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (After this, it's the \\C[2] password\n\\C[0]... I should be able to figure it out\nsomewhere in the \\C[2] underground passage \\C[0].\nWas there any place we haven't been to?)"
+                                "\\n<Minato>\\F[\\V[2]](The only thing left is the password... We should be\nable to figure it out somewhere in the underground\npassage. Did we miss any places we haven't been\nto?)"
                             ]
                         },
                         {

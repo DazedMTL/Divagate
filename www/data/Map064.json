@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "East Hall ~Room of Symmetry~",
+    "displayName": "East Hall ~ Chamber of Symmetry ~",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -1955,7 +1955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......It seems like the door is locked."
+                                "......It seems that the door is locked."
                             ]
                         },
                         {
@@ -2871,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Huh? Looks like the door is open, let's go ahead♪"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Huh? Looks like the door is open, let's go ahead♪"
                             ]
                         },
                         {
@@ -2888,7 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (...That's true.)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](......That's true.)"
                             ]
                         },
                         {
@@ -3078,7 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (This figurine is not something they\nhave over there. Um, this is...)"
+                                "\\n<Minato>\\F[\\V[2]](This figurine is something they don't have over there.\nUm, what is this...)"
                             ]
                         },
                         {
@@ -3166,7 +3166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[2] obtained a fruit figurine\\C[0] in their\nhands."
+                                "\\C[2]I obtained a fruit figurine \\C[0]."
                             ]
                         },
                         {
@@ -3435,7 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Ah, I see... this lighting...)"
+                                "\\n<Minato>\\F[\\V[2]](This lighting... Ah, I see)"
                             ]
                         },
                         {
@@ -3507,7 +3507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, this is symmetrical now)"
+                                "\\n<Minato>\\F[\\V[2]](Alright, this makes it symmetrical.)"
                             ]
                         },
                         {
@@ -3776,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (This is terrible...)"
+                                "\\n<Minato>\\F[\\V[2]](This is terrible...)"
                             ]
                         },
                         {
@@ -3900,7 +3900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Phew... Alright, the arrangement is\nperfect. It's symmetrical now.)"
+                                "\\n<Minato>\\F[\\V[2]](Phew... Alright, the placement is perfect. It's\nsymmetrical now.)"
                             ]
                         },
                         {
@@ -4098,7 +4098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (This is terrible...)"
+                                "\\n<Minato>\\F[\\V[2]](This is terrible...)"
                             ]
                         },
                         {
@@ -4222,7 +4222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Phew... Alright, the arrangement is\nperfect. It's symmetrical now.)"
+                                "\\n<Minato>\\F[\\V[2]](Phew... Alright, the placement is perfect. It's\nsymmetrical now.)"
                             ]
                         },
                         {
@@ -4531,7 +4531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (The placement of this potted plant is\nstrange. Um, what is this...)"
+                                "\\n<Minato>\\F[\\V[2]](The placement of this potted plant is strange. Um,\nlet's see...)"
                             ]
                         },
                         {
@@ -4558,7 +4558,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "to collect",
+                                    "collect it",
                                     "I won't do anything"
                                 ],
                                 1,
@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I obtained a \\C[2]potted plant\\C[0]."
+                                "\\C[2]I obtained a potted plant \\C[0]."
                             ]
                         },
                         {
@@ -4889,7 +4889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>This chair... it's facing the opposite direction."
+                                "\\n<Minato>\\F[\\V[2]](This chair... it's facing the opposite direction.)"
                             ]
                         },
                         {
@@ -4909,7 +4909,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "adjust its direction",
+                                    "adjust the direction",
                                     "I won't do anything"
                                 ],
                                 1,
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, now it's symmetrical.)"
+                                "\\n<Minato>\\F[\\V[2]](Alright, now it's symmetrical.)"
                             ]
                         },
                         {
@@ -5314,7 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] This place..."
+                                "\\n<Minato>\\F[\\V[2]]This place..."
                             ]
                         },
                         {
@@ -5331,7 +5331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The first thing that caught my eye was a huge\nglass wall. That wall divided the room in the\ncenter, creating two separate rooms."
+                                "\\F[\\V[2]]The first thing that caught my eye was a huge glass\nwall. That wall divided the room in the middle,\ncreating two separate rooms."
                             ]
                         },
                         {
@@ -5362,7 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...But why a glass wall? The neighbors\ncan see everything...)"
+                                "\\n<Minato>\\F[\\V[2]](......However, why a glass wall? The next room is completely\nvisible...)"
                             ]
                         },
                         {
@@ -5379,7 +5379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] As you can see, this\nplace has two rooms that are symmetrical on the\nleft and right. It's called... \\C[2] Symmetry Room\n\\C[0]!"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]As you can see, this place has two rooms that are\nsymmetrical on the left and right. It's called\nthe... \\C[2] Symmetrical Room!"
                             ]
                         },
                         {
@@ -5403,7 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (It's exactly the\nsame... but... despite being called symmetrical,\nit's not really...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](It's exactly the same... but... despite being called\nsymmetrical, it's not really...)"
                             ]
                         },
                         {
@@ -5427,7 +5427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Hehe, it seems like\nyou've noticed the discomfort. Then you understand\nwhat Neon-chan has to do, right?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Hehe, it seems you've noticed the discrepancy. So, you\nunderstand what Minato-chan needs to do, right?"
                             ]
                         },
                         {
@@ -5458,7 +5458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ah, I somehow sensed\nit..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Ah, I somehow sensed it..."
                             ]
                         },
                         {
@@ -5482,7 +5482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](...Are you just trying\nto make me clean the room? Sigh... Well, fine,\nlet's get started...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](......Do you just want me to clean the room? Sigh... Well,\nwhatever, let's get started right away...)"
                             ]
                         },
                         {
@@ -5728,7 +5728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (This is where the figurine goes.)"
+                                "\\n<Minato>\\F[\\V[2]](This is where the figurine should be placed.)"
                             ]
                         },
                         {
@@ -5736,7 +5736,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "to set up",
+                                    "to be placed",
                                     "I won't do anything"
                                 ],
                                 1,
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, now it's symmetrical.)"
+                                "\\n<Minato>\\F[\\V[2]](Alright, this is symmetrical now.)"
                             ]
                         },
                         {
@@ -5968,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (This is where the potted plants should\nbe placed.)"
+                                "\\n<Minato>\\F[\\V[2]](The placement of the potted plants should be here.)"
                             ]
                         },
                         {
@@ -5976,7 +5976,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "to be placed",
+                                    "place it",
                                     "I won't do anything"
                                 ],
                                 1,
@@ -6038,7 +6038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Alright, now it's symmetrical.)"
+                                "\\n<Minato>\\F[\\V[2]](Alright, this is symmetrical.)"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Good job, it's mostly cleaned up now)"
+                                "\\n<Minato>\\F[\\V[2]](Alright, with this, it's mostly cleaned up.)"
                             ]
                         },
                         {
@@ -6574,7 +6574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I heard a faint sound from the door in the back."
+                                "\\F[\\V[2]]I heard a faint sound from the door in the back."
                             ]
                         },
                         {
@@ -6622,7 +6622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Good job, Neon-chan♪ It\nseems like we can move forward now~♪"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Good job, Neon-chan♪ It seems like you can move\nforward now~♪"
                             ]
                         },
                         {
@@ -6653,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (This guy... didn't help\nat all...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](This guy... didn't help at all...)"
                             ]
                         },
                         {

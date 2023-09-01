@@ -3541,14 +3541,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(なるほど……。"
+                    "\\n<Minato>(I see... so this represents the arrangement of the\ncloset and the state of the door opening)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 1,
                 "parameters": [
-                    "これはクローゼットの配置と扉の開閉状態を現していたんだな)"
+                    ""
                 ]
             },
             {
@@ -3575,14 +3575,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(等間隔に○と×が並んでいる。"
+                    "\\n<Minato>(There are circles and crosses arranged at equal\nintervals. Is this some kind of puzzle-like code?)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 1,
                 "parameters": [
-                    "何かを解く暗号の様なモノだろうか？)"
+                    ""
                 ]
             },
             {
@@ -3692,7 +3692,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……既に解錠済だぞ？)"
+                    "\\n<Minato>\\F[\\V[2]](...It's already unlocked, you know?)"
                 ]
             },
             {
@@ -3738,14 +3738,14 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](おっ……開いたみたいだ。"
+                    "\\n<Minato>\\F[\\V[2]](Oh... It looks like it's open. So, this was indeed the\nkey for here♪)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 4,
                 "parameters": [
-                    "やはりココの鍵だったか♪)"
+                    ""
                 ]
             },
             {
@@ -3769,14 +3769,14 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](む……だが鍵が抜けないな。"
+                    "\\n<Minato>\\F[\\V[2]](Hmm... but the key won't come out. Is this some kind of\nmechanism?)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 4,
                 "parameters": [
-                    "そういった仕掛けなのだろうか…)"
+                    ""
                 ]
             },
             {
@@ -3805,7 +3805,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "\\C[2]小さな鍵\\C[0]がアイテム欄から削除されました。"
+                    "\\C[2]The small key \\C[0] has been removed from the item\ninventory."
                 ]
             },
             {
@@ -3868,7 +3868,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -3912,7 +3912,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -3994,7 +3994,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……既に解錠済だぞ？)"
+                    "\\n<Minato>\\F[\\V[2]](...It's already unlocked, you know?)"
                 ]
             },
             {
@@ -4040,14 +4040,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](おっ……開いたみたいだ。"
+                    "\\n<Minato>\\F[\\V[2]](Oh... It looks like it's open. So, this was indeed the\nkey for here♪)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "やはりココの鍵だったか♪)"
+                    ""
                 ]
             },
             {
@@ -4071,14 +4071,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……やはり鍵が抜けないな。"
+                    "\\n<Minato>\\F[\\V[2]](...The key still won't come out. Well... I guess it's no\nlonger needed anyway.)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "まぁ……もう必要のないものだろう)"
+                    ""
                 ]
             },
             {
@@ -4107,7 +4107,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "\\C[2]小さな鍵\\C[0]がアイテム欄から削除されました。"
+                    "\\C[2]The small key \\C[0] has been removed from the item\ninventory."
                 ]
             },
             {
@@ -4170,7 +4170,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -4214,7 +4214,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -4296,7 +4296,7 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……既に解錠済だぞ？)"
+                    "\\n<Minato>\\F[\\V[2]](...It's already unlocked, you know?)"
                 ]
             },
             {
@@ -4342,14 +4342,14 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開いた……か。"
+                    "\\n<Minato>\\F[\\V[2]](It's open... huh. Thinking about the lesson makes me a\nlittle gloomy...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 6,
                 "parameters": [
-                    "レッスンの事を思うと少し\\r[憂鬱,ゆううつ]だな…)"
+                    ""
                 ]
             },
             {
@@ -4366,14 +4366,14 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……やはり鍵が抜けないな。"
+                    "\\n<Minato>\\F[\\V[2]](...The key still won't come out. I wonder if it's\nsomething that can be discarded.)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 6,
                 "parameters": [
-                    "破棄して構わないモノなのだろう)"
+                    ""
                 ]
             },
             {
@@ -4402,7 +4402,7 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "\\C[2]小さな鍵\\C[0]がアイテム欄から削除されました。"
+                    "\\C[2]The small key \\C[0] has been removed from the item\ninventory."
                 ]
             },
             {
@@ -4465,7 +4465,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -4509,7 +4509,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -4591,7 +4591,7 @@
                 "code": 401,
                 "indent": 7,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……既に解錠済だぞ？)"
+                    "\\n<Minato>\\F[\\V[2]](...It's already unlocked, you know?)"
                 ]
             },
             {
@@ -4637,7 +4637,7 @@
                 "code": 401,
                 "indent": 7,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開いちゃった……。 鍵は……やはり抜けないか…)"
+                    "\\n<Minato>\\F[\\V[2]](It's open... The key... I guess it still won't come\nout...)"
                 ]
             },
             {
@@ -4666,7 +4666,7 @@
                 "code": 401,
                 "indent": 7,
                 "parameters": [
-                    "\\C[2]小さな鍵\\C[0]がアイテム欄から削除されました。"
+                    "\\C[2]The small key \\C[0] has been removed from the item\ninventory."
                 ]
             },
             {
@@ -4729,7 +4729,7 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -4773,7 +4773,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -4855,7 +4855,7 @@
                 "code": 401,
                 "indent": 8,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……既に解錠済だぞ？)"
+                    "\\n<Minato>\\F[\\V[2]](...It's already unlocked, you know?)"
                 ]
             },
             {
@@ -4901,7 +4901,7 @@
                 "code": 401,
                 "indent": 8,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](開いたけど鍵は……やはり抜けないか…)"
+                    "\\n<Minato>\\F[\\V[2]](It's open... but the key... I guess it still won't\ncome out...)"
                 ]
             },
             {
@@ -4930,7 +4930,7 @@
                 "code": 401,
                 "indent": 8,
                 "parameters": [
-                    "\\C[2]小さな鍵\\C[0]がアイテム欄から削除されました。"
+                    "\\C[2]The small key \\C[0] has been removed from the item\ninventory."
                 ]
             },
             {
@@ -4993,7 +4993,7 @@
                 "code": 401,
                 "indent": 7,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -5037,7 +5037,7 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](...It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -5351,7 +5351,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](もうカードキーは通してあるぞ？)"
+                    "\\n<Minato>\\F[\\V[2]](Did you already swipe the card key?)"
                 ]
             },
             {
@@ -5397,14 +5397,14 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "カードキーを認証致しました。"
+                    "I have authenticated the card key. Please enter the\npassword next."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 3,
                 "parameters": [
-                    "次にパスワードを入力して下さい。"
+                    ""
                 ]
             },
             {
@@ -5476,7 +5476,7 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……よし、開いたみたいだな)"
+                    "\\n<Minato>\\F[\\V[2]](...Alright, it looks like it's open.)"
                 ]
             },
             {
@@ -5524,14 +5524,14 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "…不正なアクセスを感知しました。"
+                    "...We have detected unauthorized access. Please start\nover from the beginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 6,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -5580,14 +5580,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "……パスワードが違います。"
+                    "The password is incorrect. Please start over from the\nbeginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -5679,7 +5679,7 @@
                 "code": 401,
                 "indent": 7,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、開いたみたいだな)"
+                    "\\n<Minato>\\F[\\V[2]](Alright, it looks like it's open.)"
                 ]
             },
             {
@@ -5727,14 +5727,14 @@
                 "code": 401,
                 "indent": 7,
                 "parameters": [
-                    "…不正なアクセスを感知しました。"
+                    "...We have detected unauthorized access. Please start\nover from the beginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 7,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -5783,14 +5783,14 @@
                 "code": 401,
                 "indent": 6,
                 "parameters": [
-                    "……パスワードが違います。"
+                    "The password is incorrect. Please start over from the\nbeginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 6,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -5882,7 +5882,7 @@
                 "code": 401,
                 "indent": 8,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、開いたみたいだな)"
+                    "\\n<Minato>\\F[\\V[2]](Alright, it looks like it's open.)"
                 ]
             },
             {
@@ -5930,14 +5930,14 @@
                 "code": 401,
                 "indent": 8,
                 "parameters": [
-                    "…不正なアクセスを感知しました。"
+                    "...We have detected unauthorized access. Please start\nover from the beginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 8,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -5986,14 +5986,14 @@
                 "code": 401,
                 "indent": 7,
                 "parameters": [
-                    "……パスワードが違います。"
+                    "The password is incorrect. Please start over from the\nbeginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 7,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -6085,7 +6085,7 @@
                 "code": 401,
                 "indent": 9,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、開いたみたいだな)"
+                    "\\n<Minato>\\F[\\V[2]](Alright, it looks like it's open.)"
                 ]
             },
             {
@@ -6133,14 +6133,14 @@
                 "code": 401,
                 "indent": 9,
                 "parameters": [
-                    "…不正なアクセスを感知しました。"
+                    "...We have detected unauthorized access. Please start\nover from the beginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 9,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -6189,14 +6189,14 @@
                 "code": 401,
                 "indent": 8,
                 "parameters": [
-                    "……パスワードが違います。"
+                    "...The password is incorrect. Please start over from the\nbeginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 8,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -6279,7 +6279,7 @@
                 "code": 401,
                 "indent": 9,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、開いたみたいだな)"
+                    "\\n<Minato>\\F[\\V[2]](Alright, it looks like it's open.)"
                 ]
             },
             {
@@ -6327,14 +6327,14 @@
                 "code": 401,
                 "indent": 9,
                 "parameters": [
-                    "…不正なアクセスを感知しました。"
+                    "...We have detected unauthorized access. Please start\nover from the beginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 9,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -6383,14 +6383,14 @@
                 "code": 401,
                 "indent": 8,
                 "parameters": [
-                    "……パスワードが違います。"
+                    "...The password is incorrect. Please start over from the\nbeginning."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 8,
                 "parameters": [
-                    "初めからやり直して下さい。"
+                    ""
                 ]
             },
             {
@@ -6484,7 +6484,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](......It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -6528,7 +6528,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](......It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -6602,7 +6602,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](もうカードキーは通してあるぞ？)"
+                    "\\n<Minato>\\F[\\V[2]](Have you already swiped the card key?)"
                 ]
             },
             {
@@ -6648,14 +6648,14 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "カードキーを認証致しました。"
+                    "I have authenticated the card key. Please enter the\npassword next."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 3,
                 "parameters": [
-                    "次にパスワードを入力して下さい。"
+                    ""
                 ]
             },
             {
@@ -6699,7 +6699,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](......It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -6743,7 +6743,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](……ここで使う鍵ではなさそうだ)"
+                    "\\n<Minato>\\F[\\V[2]](......It doesn't seem like the key to use here.)"
                 ]
             },
             {
@@ -6890,7 +6890,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「よし、今のが３つ目のスイッチだったよな」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Alright, that was the third switch, right?"
                 ]
             },
             {
@@ -6907,7 +6907,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おつかれちゃん♪ これで先に進めるようになったはずだよ～♪」"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Good job, everyone♪ We should be able to proceed\nnow~♪"
                 ]
             },
             {
@@ -6931,7 +6931,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                 ]
             },
             {
@@ -6955,7 +6955,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](ジっと見てたよな……気付いてないとでも思ってるのか？)"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I was watching you closely... Do you think I didn't\nnotice?)"
                 ]
             },
             {
@@ -6972,7 +6972,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「………？」"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「.........？」"
                 ]
             },
             {
@@ -6996,14 +6996,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](非難したところで無駄だろう……\\r[恍,とぼ]けられるのがオチだ。"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](It would be pointless to blame... The punchline is\nbeing ignored. There was no actual harm, so I have\nno choice but to overlook it...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 1,
                 "parameters": [
-                    "実害があった訳でもないし見逃すしかないか…)"
+                    ""
                 ]
             },
             {
@@ -7147,7 +7147,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「よし、次に行くぞ」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Alright, let's move on."
                 ]
             },
             {
@@ -7164,7 +7164,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「順調♪順調♪ そうだね、次いってみよォ♪」"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Going smoothly♪ Going smoothly♪ That's right, let's go\nto the next one♪"
                 ]
             },
             {
@@ -7188,7 +7188,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](宇堂監督の上機嫌っぷりが少し引っかかるが……まぁ、いい)"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Udo's cheerful mood is a little suspicious... well,\nwhatever)"
                 ]
             },
             {
@@ -7212,14 +7212,14 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「残るスイッチはあと\\C[2]１\\C[0]つだ。"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]There's only one switch left. Let's finish quickly and\nmove on to the next one."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "さっさと終わらして次に進むぞ」"
+                    ""
                 ]
             },
             {
@@ -7352,7 +7352,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「よし、スイッチは押したぞ。 これでいいんだな？」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Alright, I pressed the switch. Is this okay?"
                 ]
             },
             {
@@ -7369,38 +7369,14 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おぉぉ？ まさかこうもあっさりと見つかるとはねぇ…。"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Ohhh? I didn't expect to be found out so easily... As\nexpected of you, Minato-chan♪ Keep it up, okay~♪"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "流石、音々ちゃんだ♪ その調子で頼むよォ～♪」"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 2,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](思ったより大した事なかったな。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "少しばかり警戒しすぎたか…)"
+                    ""
                 ]
             },
             {
@@ -7417,7 +7393,31 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「次の部屋に向かうぞ。 残るスイッチはあと\\C[2]２\\C[0]つだ」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](It wasn't as big of a deal as I thought. Maybe I was\na little too cautious...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 2,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 2,
+                "parameters": [
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Let's head to the next room. There are only \\C[2]2\\C[0]\nswitches left."
                 ]
             },
             {
@@ -7549,7 +7549,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(よし……身を乗り出して手を伸ばせば何とか届くか？)"
+                    "\\n<Minato>(Alright... If I lean forward and reach out, can I somehow\nreach it?)"
                 ]
             },
             {
@@ -7602,7 +7602,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「ん……あれ？ 確かこの辺りに…」"
+                    "\\n<Minato>Hm... Wait, wasn't it around here..."
                 ]
             },
             {
@@ -7619,31 +7619,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ふひひっ……まるで触ってと言わんばかりに音々のデカ尻が"
+                    "\\n<Udo>(Fufufu... It's as if Minato's big butt is being thrust\ntowards me, almost as if asking me to touch it♪)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "オイラへと突き出されているぜぇ♪)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「んんんっ……くそ、届きそうで届かないぞ…」"
+                    ""
                 ]
             },
             {
@@ -7660,14 +7643,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "発見したスイッチへと意識が向いた音々は、その突き出した尻を"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "惜しみなく前後左右に揺らす。"
+                    "\\n<Minato>Hmm... Damn, it feels like I can reach it but I\ncan't..."
                 ]
             },
             {
@@ -7684,7 +7660,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(誘っとんのかコイツは……あぁ、鷲掴んでやりてぇな畜生が！)"
+                    "Neon, whose attention turned towards the discovered\nswitch, shamelessly shakes her protruding butt\nback and forth without hesitation."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -7701,21 +7684,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "溢れだす欲望を無理やり押さえつける。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "自分を主人公に見立てろと言った以上、下手な行動はとれない。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ヘソを曲げられ、部屋に立て\\r[籠,こも]られでもしたら面倒だ。"
+                    "\\n<Udo>(Is this person trying to seduce me... Ah, I really\nwant to grab that person by the collar!)"
                 ]
             },
             {
@@ -7732,7 +7701,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「もう少し……ぁ、触れた……よしココか…」"
+                    "I forcefully suppress my overflowing desires. Since\nI said to imagine myself as the protagonist, I\ncan't take any reckless actions. If I get upset or\nlock myself in the room, it will be troublesome."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -7749,14 +7732,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(フッ……“今は”我慢してやるさ。 時が来たらそのデカ尻を"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "握力が無くなるまで滅茶苦茶に揉みしだいてやっからよォ？)"
+                    "\\n<Minato>Just a little more... Ah, I touched it... Alright,\nhere it is..."
                 ]
             },
             {
@@ -7773,7 +7749,31 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "オイラは一人、そう決意するのだった――――…。"
+                    "\\n<Udo>(Hmph... I'll endure for now. But when the time comes,\nI'll grab that big butt and squeeze it until my\ngrip strength runs out, you know?)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "I, alone, had made up my mind----..."
                 ]
             },
             {
@@ -7870,7 +7870,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(何とか腕は入りそうだな……屈んで手を伸ばせば届くか？)"
+                    "\\n<Minato>(I think I can reach it somehow with my arm... If I\nbend down and stretch my hand, will it reach?)"
                 ]
             },
             {
@@ -7923,7 +7923,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「ぐっ……また、どうしてこう届きそうで届かぬ位置に…」"
+                    "\\n<Minato>Ugh... Why is it always just out of reach..."
                 ]
             },
             {
@@ -7940,7 +7940,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>「………」"
+                    "\\n<Udo>「.........」"
                 ]
             },
             {
@@ -7957,14 +7957,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(オイラの五感には、お前のおパンツがしっかりと刻まれている。"
+                    "\\n<Udo>(In my five senses, the memory of your panties is\nfirmly engraved. Relying on that memory...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "その記憶を頼りに…)"
+                    ""
                 ]
             },
             {
@@ -8025,7 +8025,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(うひっ♪ そうそう、たぶんこんな感じに…)"
+                    "\\n<Udo>(Uhii♪ Yeah, yeah, probably something like this...)"
                 ]
             },
             {
@@ -8042,7 +8042,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「くっ、指先に揺れてるのに……んんんっ！」"
+                    "\\n<Minato>Ugh, even though it's swaying right at my\nfingertips... mmm!"
                 ]
             },
             {
@@ -8059,21 +8059,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "腕をより奥へと届ける為に音々の上半身が更に深く沈み込む。"
+                    "Minato's upper body sinks even deeper to reach further\nwith her arm. And in response, her naughty and\nalluring butt is pushed out as if inviting me,\naccelerating my imagination."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "そしてそれに連動して、どうぞと言わんばかりにプリッとした"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "いやらしい尻が突き出され、オイラの妄想を加速させた。"
+                    ""
                 ]
             },
             {
@@ -8152,31 +8152,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(お前の尻はこうだな♪ ククッ、いやらしい尻をしやがって……。"
+                    "\\n<Udo>(Your butt looks like this♪ Hehe, such a naughty\nbutt... It makes me want to spank it hard without\nthinking!)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "思わずスパーンと引っ叩きたくなるわ！)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「んンっ……よしっ、触れ……もう少し…」"
+                    ""
                 ]
             },
             {
@@ -8193,14 +8176,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(あーやっべぇ……。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "あの谷間に顔を埋めて穴という穴をしゃぶり尽くしてぇぇっ！)"
+                    "\\n<Minato>Mmm... Alright, I can touch it... just a little more..."
                 ]
             },
             {
@@ -8217,7 +8193,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "自慢の息子がムクムクと膨張を始め布地を押し上げていく。"
+                    "\\n<Udo>(Ah... damn it... I want to bury my face in that\ncleavage and suck every inch of that hole!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -8234,21 +8217,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ククッ、どうせ処女なんだろ？ "
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "その歳まで男を知らずに溜まりに溜まってんだろ？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "んなチョロマンコなんぞオイラの舌で秒でイカせたるわっ！)"
+                    "My proud son starts to swell and pushes up the\nfabric."
                 ]
             },
             {
@@ -8265,7 +8234,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「ンっ……このまま押し込めば…」"
+                    "\\n<Udo>(Hehe, I bet you're still a virgin, right? You've been\nbuilding up all this desire without knowing a man\nuntil now, haven't you? I'll make that little\npussy of yours cum in seconds with my tongue!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -8282,14 +8265,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ふひっ、ふしし……おぅ、楽しみに待っとけよォ？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "オイラはやると言ったらやる男だからなァ？)"
+                    "\\n<Minato>Mmm... If I push it in like this..."
                 ]
             },
             {
@@ -8306,7 +8282,31 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "オイラは一人、そう再決意したのだった――――…。"
+                    "\\n<Udo>(Fufi, fushishi... Oh, look forward to it, okay? I'm a\nman who does what he says, you know?)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "I, alone, had made up my mind once again----..."
                 ]
             },
             {
@@ -8442,7 +8442,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(目いっぱい腕を伸ばせば何とか…)"
+                    "\\n<Minato>(If I stretch my arms as far as possible...)"
                 ]
             },
             {
@@ -8495,7 +8495,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「くっ……暗くてよく見えないぞ…」"
+                    "\\n<Minato>Ugh... It's so dark, I can't see well..."
                 ]
             },
             {
@@ -8512,7 +8512,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>「………」"
+                    "\\n<Udo>「.........」"
                 ]
             },
             {
@@ -8591,59 +8591,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ほんっと良い尻してやがんな……。"
+                    "\\n<Udo>(Damn, what a nice butt... So the guys who have been\naround Neon all this time just let this go? That's\nunbelievable...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "今まで音々の周りにいた男共はコレを放っておいたって事だろ？"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "ありえねぇだろ…)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "恋愛遍歴を調べさせ、異性との交際経験が無い事は調査済みだ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "だがそれは100％ではない。\\!"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "非処女という可能性も僅かにあるだろうし、触れられたぐらいの"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "事だってあるかもしれない。"
+                    ""
                 ]
             },
             {
@@ -8660,52 +8622,28 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "だが……オイラの本能が告げていた。"
+                    "I have investigated their romantic history and\nconfirmed that they have no experience dating the\nopposite sex. However, this is not 100% certain.\nThere is a slight possibility that they are not a\nvirgin, and there may have been some level of\nphysical contact."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "この女は奇跡のような巡り合わせで\\r[育,はぐく]まれオイラの元へ届けられた、"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "極上に成熟した雌の体を持つ……ど新品の生娘なのだと。"
+                    ""
                 ]
             },
             {
-                "code": 101,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(だったらコイツが出会った男共に感謝しねぇといけねぇなァ♪"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "くひっ\\I[12] ありがとよォ？ オイラが最っ高の状態の音々を"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ガッツリ頂いてやンぜぇ♪)"
+                    ""
                 ]
             },
             {
@@ -8722,7 +8660,69 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "独占欲に満たされたオイラの妄想力が加速する。"
+                    "However... my instincts were telling me. This woman was\nbrought to me through a miraculous encounter,\npossessing a supremely matured female body... and\nshe is a completely untouched virgin."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\n<Udo>(In that case, I gotta thank the guys who Neon has\nmet, right? Hehe, \\I[12], thanks a lot, huh? I'm\ngonna enjoy Minato in her best state to the\nfullest♪)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "My imagination, filled with possessiveness,\naccelerates."
                 ]
             },
             {
@@ -8783,14 +8783,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(お前の尻はきっとプリッとこう肉付きが良くて、瑞々しい弾力に"
+                    "\\n<Udo>(Your butt is surely firm and has a good amount of\nflesh, overflowing with a fresh elasticity, but it\ndoesn't have that childish hardness. It's in the\nbest state...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "溢れてはいるがガキ臭い硬さなどなく最っ高の状態の…)"
+                    ""
                 ]
             },
             {
@@ -8869,7 +8869,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(…――――これが音々の生尻だぁ♪ んひひひひっ♪)"
+                    "\\n<Udo>(...----This is Neon's bare butt♪ Hehehe♪)"
                 ]
             },
             {
@@ -8886,38 +8886,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "妄想の中の女の生尻に思わず目がクラクラする。"
+                    "I couldn't help but feel dizzy looking at the bare\nbutt of the woman in my imagination. I desperately\nheld back from falling on my butt, wiped the drool\nthat was dripping from my mouth with my arm,\ncorrected my posture... and once again stared\nintently at the illusionary butt."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "尻餅をつきそうになるのを必死で\\r[堪,こら]え、口元に垂れていた\\r[涎,よだれ]を"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "腕で拭い姿勢を正し……再び食い入るように幻想の尻を見つめた。"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(あーやっべぇ……今までに喰らってきた女共が霞むわこりゃ……)"
+                    ""
                 ]
             },
             {
@@ -8934,28 +8917,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "権力と財力をフル活用し、これまでにあらゆる女を喰ってきた。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "女優はもちろん、旬のグラビアアイドルやファッションモデル。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "アイドルグループの人気所に面の良い声優やそれらの候補生等々。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "果ては地方のご当地アイドルなんてモノにも手を付けてきた。"
+                    "\\n<Udo>(Ah, damn... This surpasses all the women I've had\nbefore...)"
                 ]
             },
             {
@@ -8972,69 +8934,28 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "だが……それらの女共は初めこそ楽しめたものの、そのほとんどが"
+                    "Using my power and wealth to the fullest, I have\ndevoured every woman. Actresses, of course, as\nwell as popular gravure idols and fashion models.\nEven the talented voice actors and trainees from\nidol groups. I have even laid my hands on local\nidols from various regions."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "オイラの期待を上回る女ではなかった。"
+                    ""
                 ]
             },
             {
-                "code": 101,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(この期待と興奮で地に足が付かない感じはアレだ…)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "例えるなら……今まで喰らって来た女共は、目を惹く表紙に釣られ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "衝動買いしてしまったエロ本のようなもの。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "いざ中身を見たら期待とは裏腹の内容で、ガッカリさせられた事は"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "健全な男なら誰しも一度はあるだろう。"
+                    ""
                 ]
             },
             {
@@ -9051,21 +8972,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "それに対し……音々は偶然見つけてしまった一生モノのAVだ。"
+                    "However... while I initially enjoyed those women, most of\nthem did not exceed my expectations."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "この先、何度も“使う”であろう事を確信させられる至高の一品。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "出会えた事への感謝……それが生み出す多幸感。"
+                    ""
                 ]
             },
             {
@@ -9082,21 +8996,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(この歳でこうもワクワクさせられるとは思わなかったぜ♪"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ククッ……これがもし２０代のオイラだったら、迷わずひん剥いて"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "即座にズドンだったろうなァ…)"
+                    "\\n<Udo>(This feeling of being unable to keep my feet on the\nground due to anticipation and excitement...)"
                 ]
             },
             {
@@ -9113,7 +9013,107 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "オイラは深く息を吐き高まった気分を落ち着かせる。"
+                    "If I were to compare it... the women I've devoured\nuntil now are like erotic books that I impulsively\nbought, lured by eye-catching covers. But once I\nlooked inside, the content was disappointing,\ncontrary to my expectations. It's something that\nany healthy man would experience at least once."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "On the other hand... Minato accidentally found a\nonce-in-a-lifetime AV. It is a supreme masterpiece\nthat convinces me that I will 'use' it many times\nin the future. The gratitude for encountering\nit... creates a great sense of happiness."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\n<Udo>(I never thought I would be this excited at my age♪\nHehehe... If I were in my twenties, I would have\ndefinitely stripped down without hesitation and\ngone straight for it...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "I take a deep breath to calm down my heightened\nmood."
                 ]
             },
             {
@@ -9166,14 +9166,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(なァに焦ることは無い……時間はたっぷりとあるからよォ？"
+                    "\\n<Udo>(There's no need to rush... We have plenty of time, you\nknow? I'll make sure to properly produce your\nfirst time, so leave it to me♪)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "お前の初めてはオイラがきっちりプロデュースしてやっからなァ♪)"
+                    ""
                 ]
             },
             {
@@ -9190,14 +9190,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "未だ悪戦苦闘を繰り返す音々を余所に、"
+                    "While Minato continues to struggle, I smirk to myself,\nstill in the midst of my own battle..."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "オイラは一人ほくそ笑むのだった――――…。"
+                    ""
                 ]
             },
             {
@@ -9299,31 +9299,14 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](このメモリーの中身を確認しろという事だよな？"
+                    "\\n<Minato>\\F[\\V[2]](So you're saying we need to check the contents of\nthis memory? Honestly, I have a bad feeling about\nit...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "正直、嫌な予感しかしない…)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 2,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](だが……手がかりはコレしか見当たらないし、見るしかないか…)"
+                    ""
                 ]
             },
             {
@@ -9340,7 +9323,24 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "…私は手にしたUSBメモリーをノートパソコンへとセットした。"
+                    "\\n<Minato>\\F[\\V[2]](But... this is the only clue we have, so we have no\nchoice but to look at it...)"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 2,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 2,
+                "parameters": [
+                    "I set the USB memory that I obtained into the\nnotebook computer."
                 ]
             },
             {
@@ -9503,31 +9503,14 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "予想通りというか…。"
+                    "As expected... Inside the found memory, there was\nindeed a video file."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "見つけたメモリーの中には、やはり動画ファイルが存在していた。"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 2,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    1
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「………」"
+                    ""
                 ]
             },
             {
@@ -9544,14 +9527,31 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "静寂が支配する部屋の中、生唾を飲み込む音が頭に響く。"
+                    "\\n<Minato>「.........」"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 2,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    1
                 ]
             },
             {
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "そして私は、その動画ファイルをダブルクリックした――――…。"
+                    "In the room dominated by silence, the sound of\nswallowing saliva echoes in my head. And then, I\ndouble-clicked on that video file..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 2,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -9599,21 +9599,21 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "身構えてはいたものの……やはり圧倒されてしまう。"
+                    "I was prepared... but I still couldn't help but be\noverwhelmed. The common sense within me, the\ncommon sense that I thought I knew, was shattered\none by one by the sight I had never seen before."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "その初めて見る光景に私の中にある常識という常識が、"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "片っ端から打ちのめされていく。"
+                    ""
                 ]
             },
             {
@@ -9742,14 +9742,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(ハートが書かれた壁から東西南北にそれぞれの数のぶん歩け"
+                    "\\n<Minato>(It seems like it meant to walk a certain number of\nsteps in each direction from the wall with hearts\nwritten on it.)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 1,
                 "parameters": [
-                    "という意味だったみたいだ)"
+                    ""
                 ]
             },
             {
@@ -9776,14 +9776,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(ハートの模様から矢印でS5、W3、N15、E2と続いている。"
+                    "\\n<Minato>(There are arrows leading from the heart pattern to S5,\nW3, N15, E2. I think this SWNE represents\nsomething...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 1,
                 "parameters": [
-                    "このSWNEが何かを表していると思うのだが…)"
+                    ""
                 ]
             },
             {
@@ -9866,7 +9866,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](ダメ元で試してみるか…)"
+                    "\\n<Minato>\\F[\\V[2]](Maybe I should give it a try...)"
                 ]
             },
             {
@@ -9972,7 +9972,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]](よし、開いたぞ)"
+                    "\\n<Minato>\\F[\\V[2]](Alright, it's open.)"
                 ]
             },
             {
@@ -10237,52 +10237,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<◆追加されるウィンドゥについて◆>セックス合宿開始後、画面右上に新たなウィンドゥが"
+                    "\\n<About the added window>After the start of the sex training camp, a new window\nwill be added to the upper right corner of the\nscreen."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "\\C[2]追加\\C[0]されます。"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<◆追加されるウィンドゥについて◆>残弾数：残りの射精回数となります。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　　　　\\C[27]Ｈイベント\\C[0]を行う際に、必ず１消費します。\\!"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　　　　値が０になると、その日のセックス合宿は終了となります。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　　　　日を跨ぐ事で値は上限(５)まで回復します。"
+                    ""
                 ]
             },
             {
@@ -10299,21 +10261,28 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<◆追加されるウィンドゥについて◆>審査率：Ｈイベントによって値が上昇します。"
+                    "\\n<About the added window>Ammo count: It will show the remaining number of\nejaculations. When performing an H event \\C[0], it\nwill always consume 1. When the value reaches 0,\nthe sex training camp for that day will end. The\nvalue will recover up to the maximum limit {5} by\ncrossing over to the next day."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "　　　　Ｈイベントや各種エンドの発生条件に関連してきます。"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "　　　　各種エンドの条件については回想ルームにてご確認下さい。"
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -10330,7 +10299,38 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<◆追加されるウィンドゥについて◆>時間帯：現在の時間帯です。"
+                    "\\n<About the added window>Approval Rate: The value will increase depending on H\nevents. It is related to the conditions for H\nevents and various endings. Please check the\nconditions for various endings in the reminiscence\nroom."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\n<About the added window>Time Zone: It displays the current time zone."
                 ]
             },
             {
@@ -10395,21 +10395,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<◆セックス合宿の探索について◆>Ｈイベントがあるマップに\\C[2]訪れる事で\\C[0]自動的に発見されます。\\!"
+                    "\\n<About the exploration of the sex training camp>By visiting the maps where there are H events, they\nwill be automatically discovered. The purpose of\nthe sex training camp is to explore each map, find\nH events, and execute them to increase the\napproval rate."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "各マップを巡りＨイベントを見つけ、それらを実行し審査率を"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "上昇させていく事が、セックス合宿の目的となります。"
+                    ""
                 ]
             },
             {
@@ -10474,21 +10474,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<◆色分けされたＨイベントについて◆>\\C[27]桃\\C[0]色：Ｈイベントが発生中の状態です。"
+                    "\\n<About the color-coded H events>\\C[27]Pink: Indicates that an H event is currently occurring.\nBlue: Indicates that the conditions are not met\nand the event cannot be executed. Gray: Indicates\nthat the event has already been completed."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "\\C[4]水\\C[0]色：条件が満たされておらず、実行出来ない状態です。"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "\\C[8]灰\\C[0]色：既に実行し終えた状態です。"
+                    ""
                 ]
             },
             {
@@ -10523,28 +10523,28 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<◆時間帯の変化について◆>Ｈイベントが\\C[2]二回行われる毎に\\C[0]時間帯が、昼→夕→夜→深夜と"
+                    "\\n<◆About the change in time zone◆> ◆About the change in time zone◆: The time zone\nwill change from daytime to evening to night to\nmidnight every time an H event occurs \\C[2] times.\nAlternatively, it is also possible to forcibly\ntransition to the next time zone from the event\nadded on Udo's room sofa \\C[0]."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "変化していきます。 "
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "または、\\C[2]宇堂の部屋のソファー上\\C[0]に追加されたイベントから"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "強制的に次の時間帯へと移行させる事も可能です。"
+                    ""
                 ]
             },
             {
@@ -10561,14 +10561,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<◆時間帯の変化について◆>更に\\C[2]残弾数が０になる事で\\C[0]強制的に時間帯が深夜へと移行します。"
+                    "\\n<About the change in time zones>Furthermore, when the remaining ammo count reaches 0, the time\nzone will forcibly transition to midnight. And by\ncompleting the events during midnight, it will\nprogress to the next day."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "そして、深夜のイベントを終える事で次の日へと進行します。"
+                    ""
                 ]
             },
             {
@@ -10726,7 +10726,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](おっと、危ねぇ！)"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](Oops, that was close!)"
                 ]
             },
             {
@@ -10743,7 +10743,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "残弾数が最大値の為、宇堂監督は飲むのを止めた。"
+                    "Since the bullet count is at its maximum, Director Udo\nstopped drinking."
                 ]
             },
             {
@@ -10800,7 +10800,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "残弾数が＋\\C[27]１\\C[0]された！"
+                    "Bullet count has been increased by +\\C[27]1\\C[0]!"
                 ]
             },
             {
@@ -11173,14 +11173,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\C[27]残弾数\\C[0]を\\C[2]1\\C[0]使用し、\\C[26]審査率\\C[0]が\\C[2]5\\C[0]上昇した！\\!"
+                    "\\C[27]The remaining bullets \\C[0] were used \\C[2]1\\C[0],\nand the approval rate \\C[0] of \\C[26] increased by\n\\C[2]5\\C[0]! The time has transitioned to\n\\C[30]late night\\C[0]."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 1,
                 "parameters": [
-                    "時間帯が\\C[30]深夜\\C[0]へと移行しました。"
+                    ""
                 ]
             },
             {
@@ -11225,14 +11225,14 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\C[27]残弾数\\C[0]を\\C[2]1\\C[0]使用し、\\C[26]審査率\\C[0]が\\C[2]5\\C[0]上昇した！\\!"
+                    "\\C[27]The remaining bullets \\C[0] were used \\C[2]1\\C[0],\nand the approval rate \\C[26] increased by\n\\C[2]5\\C[0]! The time has transitioned to\n\\C[22]late night\\C[0]."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "時間帯が\\C[22]夜\\C[0]へと移行しました。"
+                    ""
                 ]
             },
             {
@@ -11277,14 +11277,14 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\C[27]残弾数\\C[0]を\\C[2]1\\C[0]使用し、\\C[26]審査率\\C[0]が\\C[2]5\\C[0]上昇した！\\!"
+                    "\\C[27]The remaining bullets \\C[0] were used \\C[2]1\\C[0],\nand the approval rate \\C[26] increased by\n\\C[2]5\\C[0]! The time has transitioned to\n\\C[20]evening\\C[0]."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 3,
                 "parameters": [
-                    "時間帯が\\C[20]夕方\\C[0]へと移行しました。"
+                    ""
                 ]
             },
             {
@@ -11311,7 +11311,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "\\C[27]残弾数\\C[0]を\\C[2]1\\C[0]使用し、\\C[26]審査率\\C[0]が\\C[2]5\\C[0]上昇した！"
+                    "\\C[27]The remaining bullets \\C[0] were used \\C[2]1\\C[0],\nand the approval rate \\C[26] increased by\n\\C[2]5\\C[0]!"
                 ]
             },
             {
@@ -11398,7 +11398,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "時間帯が\\C[20]夕方\\C[0]へと移行しました。"
+                    "The time has transitioned to evening."
                 ]
             },
             {
@@ -11452,7 +11452,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "時間帯が\\C[22]夜\\C[0]へと移行しました。"
+                    "The time has transitioned to \\C[22] evening \\C[0]."
                 ]
             },
             {
@@ -11506,7 +11506,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "時間帯が\\C[30]深夜\\C[0]へと移行しました。"
+                    "The time has transitioned to \\C{22}late night\\C{0}."
                 ]
             },
             {
@@ -11914,7 +11914,7 @@
                 "code": 401,
                 "indent": 14,
                 "parameters": [
-                    "…まだ\\C[27]Hイベント\\C[0]を見つけていません。"
+                    "...I haven't found any H events for \\C[27]\\C[0] yet."
                 ]
             },
             {
@@ -12095,12 +12095,12 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "if(s[481])『とりあえずセックス』/場所：西館３Fベッドルーム/条件：無し",
-                        "if(s[482])『ポールオナニー』/場所：本館３F隠し部屋/条件：無し",
-                        "if(s[483])『四咥』/場所：本館２Fテラス/条件：無し",
-                        "if(s[484])『開拓』/場所：地下書庫/条件：審査率10以上",
-                        "if(s[485])『外からも内からも…』/場所：西館２F大浴場/条件：審査率20以上",
-                        "if(s[486])『初めての…』/場所：西館３F浴場施設/条件：審査率30以上"
+                        "if(s[481])For now, let's have sex / Location: West Building 3F Bedroom / Conditions: None",
+                        "if(s[482])Masturbation in the hallway on the 3rd floor of the main building No conditions required",
+                        "if(s[483])『Yotsuji』 / Location: Main Building 2F Terrace / Conditions: None",
+                        "if(s[484])Exploration / Location: Underground Library / Condition: Approval rate of 10 or higher",
+                        "if(s[485])From the outside and the inside / Location: West Building 2F Large Bath / Condition: Approval rate of 20 or higher",
+                        "if(s[486])First time / Location: West Building 3F Bathing Facility / Condition: Approval rate of 30 or higher"
                     ],
                     -1,
                     0,
@@ -12238,12 +12238,12 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "if(s[487])『好きな体位』/場所：東館２F客室/条件：審査率40以上",
-                        "if(s[488])『二人の様に…』/場所：西館３Fベッドルーム/条件：審査率50以上",
-                        "if(s[489])『青姦日和』/場所：本館１F/条件：審査率60以上",
-                        "if(s[490])『誓いと冒涜』/場所：地下教会/条件：審査率70以上",
-                        "if(s[491])『グラビア撮影会』/場所：西館１F食堂/条件：えっちな水着(上下)を持っている",
-                        "if(s[492])『星空の下で…』/場所：本館３F客室テラス/条件：時間帯が夜"
+                        "if(s[487])Favorite Position / Location: East Building 2F Guest Room / Condition: Approval Rate of 40 or higher",
+                        "if(s[488])Like the two of us / Location: West Wing 3F Bedroom / Condition: Approval rate of 50 or higher",
+                        "if(s[489])Outdoor Sex Weather / Location: Main Building 1F / Requirement: Approval rate of 60 or higher",
+                        "if(s[490])Oath and Blasphemy / Location: Underground Church / Condition: Approval rate of 70 or higher",
+                        "if(s[491])『グラビア撮影会』/場所：西館１F食堂/条件：えっちな水着(上下)has",
+                        "if(s[492])Under the Starry Sky / Location: Main Building 3F Guest Room Terrace / Condition: Nighttime"
                     ],
                     -1,
                     0,
@@ -12381,9 +12381,9 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "if(s[493])『救い』/場所：西館３Fコレクションルーム/条件：八日目限定",
-                        "if(s[494])『トラウマ』/場所：西館３Fコレクションルーム/条件：九日目限定",
-                        "閉じる。"
+                        "if(s[493])Rescue / Location: West Building 3F Collection Room / Condition: Limited to the eighth day",
+                        "if(s[494])Trauma / Location: West Building 3F Collection Room / Condition: Limited to the ninth day",
+                        "Close it"
                     ],
                     2,
                     0,
@@ -12519,7 +12519,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(よし……身を乗り出して手を伸ばせば何とか届くか？)"
+                    "\\n<Minato>(Alright... If I lean forward and reach out, can I somehow\nreach it?)"
                 ]
             },
             {
@@ -12572,7 +12572,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「ん……あれ？ 確かこの辺りに…」"
+                    "\\n<Minato>Hm... Wait, wasn't it around here..."
                 ]
             },
             {
@@ -12589,31 +12589,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ふひひっ……まるで触ってと言わんばかりに音々のデカ尻が"
+                    "\\n<Udo>(Fufufu... It's as if Minato's big butt is being thrust\ntowards me, almost as if asking me to touch it♪)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "オイラへと突き出されているぜぇ♪)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「んんんっ……くそ、届きそうで届かないぞ…」"
+                    ""
                 ]
             },
             {
@@ -12630,14 +12613,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "発見したスイッチへと意識が向いた音々は、その突き出した尻を"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "惜しみなく前後左右に揺らす。"
+                    "\\n<Minato>Hmm... Damn, it feels like I can reach it but I\ncan't..."
                 ]
             },
             {
@@ -12654,7 +12630,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(誘っとんのかコイツは……あぁ、鷲掴んでやりてぇな畜生が！)"
+                    "Neon, whose attention turned towards the discovered\nswitch, shamelessly shakes her protruding butt\nback and forth without hesitation."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -12671,21 +12654,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "溢れだす欲望を無理やり押さえつける。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "自分を主人公に見立てろと言った以上、下手な行動はとれない。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ヘソを曲げられ、部屋に立て\\r[籠,こも]られでもしたら面倒だ。"
+                    "\\n<Udo>(Is this person trying to seduce me... Ah, I really\nwant to grab that person by the collar!)"
                 ]
             },
             {
@@ -12702,7 +12671,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「もう少し……ぁ、触れた……よしココか…」"
+                    "I forcefully suppress my overflowing desires. Since\nI said to imagine myself as the protagonist, I\ncan't take any careless actions. If I get upset or\nlock myself in the room, it will be troublesome."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -12719,14 +12702,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(フッ……“今は”我慢してやるさ。 時が来たらそのデカ尻を"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "握力が無くなるまで滅茶苦茶に揉みしだいてやっからよォ？)"
+                    "\\n<Minato>Just a little more... Ah, I touched it... Alright,\nright here..."
                 ]
             },
             {
@@ -12743,7 +12719,31 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "オイラは一人、そう決意するのだった――――…。"
+                    "\\n<Udo>(Hmph... I'll endure for now. But when the time comes,\nI'll grab that big butt and squeeze it until my\ngrip strength runs out, you know?)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "I, alone, had made up my mind----..."
                 ]
             },
             {
@@ -12817,7 +12817,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「よし、スイッチは押したぞ。 これでいいんだな？」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Alright, I pressed the switch. Is this okay?"
                 ]
             },
             {
@@ -12834,38 +12834,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おぉぉ？ まさかこうもあっさりと見つかるとはねぇ…。"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Ohhh? I never expected it to be found so easily... As\nexpected of Minato-chan♪ Keep it up, okay~♪"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "流石、音々ちゃんだ♪ その調子で頼むよォ～♪」"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](思ったより大した事なかったな。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "少しばかり警戒しすぎたか…)"
+                    ""
                 ]
             },
             {
@@ -12882,7 +12858,31 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「次の部屋に向かうぞ。 残るスイッチはあと\\C[2]２\\C[0]つだ」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](It wasn't as big of a deal as I thought. Maybe I was\na little too cautious...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Let's head to the next room. There are only two\nswitches left."
                 ]
             },
             {
@@ -13011,7 +13011,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(何とか腕は入りそうだな……屈んで手を伸ばせば届くか？)"
+                    "\\n<Minato>(I think I can reach it somehow with my arm... If I\nbend down and stretch my hand, will it reach?)"
                 ]
             },
             {
@@ -13064,7 +13064,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「ぐっ……また、どうしてこう届きそうで届かぬ位置に…」"
+                    "\\n<Minato>Ugh... Why is it always just out of reach..."
                 ]
             },
             {
@@ -13081,7 +13081,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>「………」"
+                    "\\n<Udo>「.........」"
                 ]
             },
             {
@@ -13098,14 +13098,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(オイラの五感には、お前のおパンツがしっかりと刻まれている。"
+                    "\\n<Udo>(In my five senses, the memory of your panties is\nfirmly engraved. Relying on that memory...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "その記憶を頼りに…)"
+                    ""
                 ]
             },
             {
@@ -13166,7 +13166,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(うひっ♪ そうそう、たぶんこんな感じに…)"
+                    "\\n<Udo>(Uhii♪ Yeah, yeah, probably something like this...)"
                 ]
             },
             {
@@ -13183,7 +13183,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「くっ、指先に揺れてるのに……んんんっ！」"
+                    "\\n<Minato>Ugh, even though it's swaying right at my\nfingertips... mmm!"
                 ]
             },
             {
@@ -13200,21 +13200,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "腕をより奥へと届ける為に音々の上半身が更に深く沈み込む。"
+                    "Minato's upper body sinks even deeper to reach further\nwith her arm. And in response, her naughty and\nalluring butt is pushed out as if inviting me,\naccelerating my imagination."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "そしてそれに連動して、どうぞと言わんばかりにプリッとした"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "いやらしい尻が突き出され、オイラの妄想を加速させた。"
+                    ""
                 ]
             },
             {
@@ -13293,31 +13293,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(お前の尻はこうだな♪ ククッ、いやらしい尻をしやがって……。"
+                    "\\n<Udo>(Your butt looks like this♪ Hehe, such a naughty\nbutt... It makes me want to spank it hard without\nthinking!)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "思わずスパーンと引っ叩きたくなるわ！)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「んンっ……よしっ、触れ……もう少し…」"
+                    ""
                 ]
             },
             {
@@ -13334,14 +13317,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(あーやっべぇ……。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "あの谷間に顔を埋めて穴という穴をしゃぶり尽くしてぇぇっ！)"
+                    "\\n<Minato>Mmm... Alright, I can touch it... just a little more..."
                 ]
             },
             {
@@ -13358,7 +13334,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "自慢の息子がムクムクと膨張を始め布地を押し上げていく。"
+                    "\\n<Udo>(Ah... damn it... I want to bury my face in that\ncleavage and suck every inch of that hole!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -13375,21 +13358,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ククッ、どうせ処女なんだろ？ "
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "その歳まで男を知らずに溜まりに溜まってんだろ？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "んなチョロマンコなんぞオイラの舌で秒でイカせたるわっ！)"
+                    "My proud son starts to swell and pushes up the\nfabric."
                 ]
             },
             {
@@ -13406,7 +13375,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「ンっ……このまま押し込めば…」"
+                    "\\n<Udo>(Hehe, I bet you're still a virgin, right? You've been\nbuilding up all this desire without knowing a man\nuntil now, haven't you? I'll make that little\npussy of yours cum in seconds with my tongue!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -13423,14 +13406,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ふひっ、ふしし……おぅ、楽しみに待っとけよォ？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "オイラはやると言ったらやる男だからなァ？)"
+                    "\\n<Minato>Mmm... If I push it in like this..."
                 ]
             },
             {
@@ -13447,7 +13423,31 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "オイラは一人、そう再決意したのだった――――…。"
+                    "\\n<Udo>(Fufi, fushishi... Oh, look forward to it, okay? I'm a\nman who does what he says, you know?)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "I, alone, had made up my mind once again..."
                 ]
             },
             {
@@ -13528,7 +13528,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「よし、次に行くぞ」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Alright, let's move on to the next one."
                 ]
             },
             {
@@ -13545,7 +13545,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「順調♪順調♪ そうだね、次いってみよォ♪」"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Going smoothly♪ Going smoothly♪ Yeah, let's move on to\nthe next one♪"
                 ]
             },
             {
@@ -13569,7 +13569,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](宇堂監督の上機嫌っぷりが少し引っかかるが……まぁ、いい)"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](Udo's cheerful mood is a little concerning... well,\nwhatever)"
                 ]
             },
             {
@@ -13593,14 +13593,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「残るスイッチはあと\\C[2]１\\C[0]つだ。"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]There's only one switch left. Let's finish quickly and\nmove on to the next one."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "さっさと終わらして次に進むぞ」"
+                    ""
                 ]
             },
             {
@@ -13761,7 +13761,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>(目いっぱい腕を伸ばせば何とか…)"
+                    "\\n<Minato>(If I stretch my arms as far as possible...)"
                 ]
             },
             {
@@ -13814,7 +13814,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>「くっ……暗くてよく見えないぞ…」"
+                    "\\n<Minato>Ugh... It's so dark, I can't see well..."
                 ]
             },
             {
@@ -13831,7 +13831,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>「………」"
+                    "\\n<Udo>「.........」"
                 ]
             },
             {
@@ -13910,59 +13910,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(ほんっと良い尻してやがんな……。"
+                    "\\n<Udo>(Damn, what a nice butt... So the guys who have been\naround Neon all this time just let this go? That's\nunbelievable...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "今まで音々の周りにいた男共はコレを放っておいたって事だろ？"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "ありえねぇだろ…)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "恋愛遍歴を調べさせ、異性との交際経験が無い事は調査済みだ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "だがそれは100％ではない。\\!"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "非処女という可能性も僅かにあるだろうし、触れられたぐらいの"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "事だってあるかもしれない。"
+                    ""
                 ]
             },
             {
@@ -13979,52 +13941,28 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "だが……オイラの本能が告げていた。"
+                    "I have investigated their romantic history and\nconfirmed that they have no experience dating the\nopposite sex. However, this is not 100% certain.\nThere is a slight possibility that they are not a\nvirgin, and there may have been some level of\nphysical contact."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "この女は奇跡のような巡り合わせで\\r[育,はぐく]まれオイラの元へ届けられた、"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "極上に成熟した雌の体を持つ……ど新品の生娘なのだと。"
+                    ""
                 ]
             },
             {
-                "code": 101,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(だったらコイツが出会った男共に感謝しねぇといけねぇなァ♪"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "くひっ\\I[12] ありがとよォ？ オイラが最っ高の状態の音々を"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ガッツリ頂いてやンぜぇ♪)"
+                    ""
                 ]
             },
             {
@@ -14041,7 +13979,69 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "独占欲に満たされたオイラの妄想力が加速する。"
+                    "However... my instincts were telling me. This woman was\nbrought to me through a miraculous encounter,\npossessing a supremely matured female body... and\nshe is a completely untouched virgin."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\n<Udo>(In that case, I gotta thank the guys who Neon has\nmet, right? Hehe, \\I[12], thanks a lot, huh? I'm\ngonna enjoy Minato in her best state to the\nfullest♪)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "My imagination, filled with possessiveness,\naccelerates."
                 ]
             },
             {
@@ -14102,14 +14102,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(お前の尻はきっとプリッとこう肉付きが良くて、瑞々しい弾力に"
+                    "\\n<Udo>(Your butt is surely firm and has a good amount of\nflesh, overflowing with a fresh elasticity, but it\ndoesn't have that childish hardness. It's in the\nbest state...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "溢れてはいるがガキ臭い硬さなどなく最っ高の状態の…)"
+                    ""
                 ]
             },
             {
@@ -14188,7 +14188,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(…――――これが音々の生尻だぁ♪ んひひひひっ♪)"
+                    "\\n<Udo>(...----This is Minato's bare butt♪ Hehehe♪)"
                 ]
             },
             {
@@ -14205,38 +14205,21 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "妄想の中の女の生尻に思わず目がクラクラする。"
+                    "I couldn't help but feel dizzy looking at the bare\nbutt of the woman in my imagination. I desperately\nheld back from falling on my butt, wiped the drool\nthat was dripping from my mouth with my arm,\ncorrected my posture... and once again stared\nintently at the illusionary butt."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "尻餅をつきそうになるのを必死で\\r[堪,こら]え、口元に垂れていた\\r[涎,よだれ]を"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "腕で拭い姿勢を正し……再び食い入るように幻想の尻を見つめた。"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(あーやっべぇ……今までに喰らってきた女共が霞むわこりゃ……)"
+                    ""
                 ]
             },
             {
@@ -14253,28 +14236,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "権力と財力をフル活用し、これまでにあらゆる女を喰ってきた。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "女優はもちろん、旬のグラビアアイドルやファッションモデル。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "アイドルグループの人気所に面の良い声優やそれらの候補生等々。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "果ては地方のご当地アイドルなんてモノにも手を付けてきた。"
+                    "\\n<Udo>(Ah, damn... This surpasses all the women I've had\nbefore...)"
                 ]
             },
             {
@@ -14291,69 +14253,28 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "だが……それらの女共は初めこそ楽しめたものの、そのほとんどが"
+                    "Using my power and wealth to the fullest, I have\ndevoured every woman. Actresses, of course, as\nwell as popular gravure idols and fashion models.\nEven the talented voice actresses and trainees\nfrom idol groups. I have even laid my hands on\nlocal idols from various regions."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "オイラの期待を上回る女ではなかった。"
+                    ""
                 ]
             },
             {
-                "code": 101,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(この期待と興奮で地に足が付かない感じはアレだ…)"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 0,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "例えるなら……今まで喰らって来た女共は、目を惹く表紙に釣られ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "衝動買いしてしまったエロ本のようなもの。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "いざ中身を見たら期待とは裏腹の内容で、ガッカリさせられた事は"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "健全な男なら誰しも一度はあるだろう。"
+                    ""
                 ]
             },
             {
@@ -14370,21 +14291,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "それに対し……音々は偶然見つけてしまった一生モノのAVだ。"
+                    "However... while I initially enjoyed those women, the\nmajority of them did not exceed my expectations."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "この先、何度も“使う”であろう事を確信させられる至高の一品。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "出会えた事への感謝……それが生み出す多幸感。"
+                    ""
                 ]
             },
             {
@@ -14401,21 +14315,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(この歳でこうもワクワクさせられるとは思わなかったぜ♪"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ククッ……これがもし２０代のオイラだったら、迷わずひん剥いて"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "即座にズドンだったろうなァ…)"
+                    "\\n<Udo>(This feeling of being unable to keep my feet on the\nground due to anticipation and excitement...)"
                 ]
             },
             {
@@ -14432,7 +14332,107 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "オイラは深く息を吐き高まった気分を落ち着かせる。"
+                    "If I were to compare it... the women I've devoured\nuntil now are like erotic books that I impulsively\nbought, lured by eye-catching covers. But once I\nlooked inside, the content was disappointing,\ncontrary to my expectations. It's something that\nany healthy man would experience at least once."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "On the other hand... Minato found a once-in-a-\nlifetime AV by chance. It is a supreme masterpiece\nthat convinces me that I will 'use' it many times\nin the future. The gratitude for encountering\nit... creates a great sense of happiness."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "\\n<Udo>(I never thought I would be this excited at my age♪\nHehehe... If I were in my twenties, I would have\nstripped down without hesitation and gone straight\nfor it...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 0,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 0,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 0,
+                "parameters": [
+                    "I take a deep breath to calm down my heightened\nmood."
                 ]
             },
             {
@@ -14485,14 +14485,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>(なァに焦ることは無い……時間はたっぷりとあるからよォ？"
+                    "\\n<Udo>(There's no need to rush... We have plenty of time, you\nknow? I'll make sure to produce your first time\nproperly, so don't worry♪)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "お前の初めてはオイラがきっちりプロデュースしてやっからなァ♪)"
+                    ""
                 ]
             },
             {
@@ -14509,14 +14509,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "未だ悪戦苦闘を繰り返す音々を余所に、"
+                    "While Minato continues to struggle, I smirk to\nmyself..."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "オイラは一人ほくそ笑むのだった――――…。"
+                    ""
                 ]
             },
             {
@@ -14611,7 +14611,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「よし、今のが３つ目のスイッチだったよな」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Alright, that was the third switch, right?"
                 ]
             },
             {
@@ -14628,7 +14628,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「おつかれちゃん♪ これで先に進めるようになったはずだよ～♪」"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Good job♪ You should be able to move forward now~♪"
                 ]
             },
             {
@@ -14652,7 +14652,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「………」"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                 ]
             },
             {
@@ -14676,7 +14676,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](ジっと見てたよな……気付いてないとでも思ってるのか？)"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I saw you staring... Do you think I didn't notice?)"
                 ]
             },
             {
@@ -14693,7 +14693,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[27]宇堂\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「………？」"
+                    "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「.........？」"
                 ]
             },
             {
@@ -14717,14 +14717,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\n<\\C[31]音々\\C[0]>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](非難したところで無駄だろう……\\r[恍,とぼ]けられるのがオチだ。"
+                    "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](It would be pointless to criticize... The punchline\nis being ignored. There's no actual harm done, so\nI guess I'll just let it slide...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 0,
                 "parameters": [
-                    "実害があった訳でもないし見逃すしかないか…)"
+                    ""
                 ]
             },
             {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Bathing facility",
+    "displayName": "Bathhouse facility",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1666,7 +1666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (If it was Sawa, she might forgive me even\nif I entered... but that would definitely be\nconsidered inappropriate...)"
+                                "\\n<Sonoda>\\F[62](If it were Sawa, she might forgive me even if I\nentered... but that would definitely be crossing\nthe line in terms of common sense...)"
                             ]
                         },
                         {
@@ -2738,7 +2738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (If it was Sawa, she might forgive me even\nif I entered, but... that would definitely be\nconsidered inappropriate in terms of common\nsense...)"
+                                "\\n<Sonoda>\\F[62](If it were Sawa, she might forgive me even if I\nentered... but that would definitely be crossing\nthe line in terms of common sense...)"
                             ]
                         },
                         {
@@ -3043,7 +3043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (Medicine...? No, it's probably alcohol.\nSince there's no label, I'm not sure.)"
+                                "\\n<Sonoda>\\F[62](Medicine...? No, it's probably alcohol. Since there's no\nlabel, I'm not sure.)"
                             ]
                         },
                         {
@@ -3127,7 +3127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
+                                "\\n<Sonoda>\\F[62](There's a high step... It seems impossible to go up in a\nwheelchair.)"
                             ]
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
+                                "\\n<Sonoda>\\F[62](There's a high step... It seems impossible to go up in a\nwheelchair.)"
                             ]
                         },
                         {
@@ -3281,7 +3281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
+                                "\\n<Sonoda>\\F[62](There's a high step... It seems impossible to go up in a\nwheelchair.)"
                             ]
                         },
                         {
@@ -3358,7 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
+                                "\\n<Sonoda>\\F[62](There's a high step... It seems impossible to go up in a\nwheelchair.)"
                             ]
                         },
                         {
@@ -3435,7 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (There's a high step... It seems like I\ncan't go up in my wheelchair.)"
+                                "\\n<Sonoda>\\F[62](There's a high step... It seems impossible to go up in a\nwheelchair.)"
                             ]
                         },
                         {
@@ -3538,7 +3538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>Alright... Since we've made some progress, let's\ngo back to the monitoring room \\C[2] and check the\nsituation."
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F](Alright... Since we've made some progress, let's go back to\nthe monitoring room \\C[0] and check the situation\nonce)"
                             ]
                         },
                         {
@@ -3572,7 +3572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F] (...Although we didn't have\nany significant findings, let's go back to the\nmonitoring room \\C[2]\\C[0] and check the situation\nonce.)"
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F](...Although there wasn't any particular harvest, should we go\nback to the monitoring room \\C[2] and check the\nsituation once \\C[0]?)"
                             ]
                         },
                         {
@@ -3735,7 +3735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Huh... something fell under the shelf..."
+                                "\\n<Sonoda>\\F[62](Huh... something fell under the shelf...)"
                             ]
                         },
                         {
@@ -3752,7 +3752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (I can't reach it... I'll ask Sawa to get\nit when she comes back)"
+                                "\\n<Sonoda>\\F[62](I wonder if I can't reach it... I'll ask Sawa to\nget it when she comes back)"
                             ]
                         },
                         {
@@ -3880,7 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>This is... an empty bottle,\n\\F[62]\\FF[93]\\AA[FF]\\C[2]\\C[0]."
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF]This is... an empty bottle of \\C[2]\\C[0], isn't it?"
                             ]
                         },
                         {
@@ -3897,7 +3897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] These label characters... are\nthey in Hindi? I can't read them... Oh, here you\ngo."
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF]These characters on the label... are they in Hindi? I\ncan't read them... Oh, here you go."
                             ]
                         },
                         {
@@ -3974,7 +3974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[62]\\FF[93]\\AA[FF]\\C[2] obtained an empty\nbottle\\C[0]."
+                                "\\F[62]\\FF[93]\\AA[FF]\\C[2]I obtained an empty bottle \\C[0]."
                             ]
                         },
                         {
@@ -3991,7 +3991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F] Thank you. I see... it was\njust an empty bottle..."
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F]Thank you. I see... it was just an empty bottle..."
                             ]
                         },
                         {
@@ -4008,7 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I thought about putting it back in its original\nplace, but just to be sure... I check the label\nattached to the bottle I received."
+                                "\\F[62]\\FF[93]\\AA[F]I thought about putting it back in its original\nplace, but just to be sure... I will check the\nlabel attached to the bottle I received."
                             ]
                         },
                         {
@@ -4032,7 +4032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F](...I can't read it at all. I\nwonder what kind of bottle it is?)"
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F](......I can't read it at all. I wonder what kind of\nbottle it is?)"
                             ]
                         },
                         {
@@ -4049,7 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F] ...Huh? This bottle... I feel\nlike I've seen it somewhere before..."
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F]...Huh? This bottle... I've seen it somewhere before..."
                             ]
                         },
                         {
@@ -4066,7 +4066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F](............\\!Oh yeah, I\nremember now. I saw it at a friend's place. Was it\nback in college? It was a suspicious foreign\nbottle, so it left an impression on me.)"
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F](............\\!Oh, I remember now. I saw it at a friend's house. Was\nit back in college? It was a suspicious foreign-\nmade bottle, so it left an impression on me.)"
                             ]
                         },
                         {
@@ -4090,7 +4090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F] ...Hehe, I see. There has been\na sense of unease since our first meeting."
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F]...Haha, so that's what it is. I've felt a sense of unease\nsince our first meeting."
                             ]
                         },
                         {
@@ -4107,7 +4107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F] (Who would have thought that\nbeing in a wheelchair and having a lower\nperspective would actually work in my favor... If\nI could walk normally, I wouldn't have been able\nto find it.)"
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F](It's a good thing that being in a wheelchair and\nhaving a lower perspective worked out... If I\ncould walk normally, I wouldn't have been able to\nfind it.)"
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF] \\N[5]-san? Did you figure\nout what kind of bottle it is?"
+                                "\\n<Sawa>\\F[62]\\FF[93]\\AA[FF]Sonoda-san? Did you figure out what kind of bottle it is?"
                             ]
                         },
                         {
@@ -4148,7 +4148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62]\\FF[93]\\AA[F] Ah... this bottle..."
+                                "\\n<Sonoda>\\F[62]\\FF[93]\\AA[F]Ah... this bottle..."
                             ]
                         },
                         {
@@ -4531,7 +4531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Well, what should I do... Should I do a quick\nexploration? Or should I just wait patiently\nwithout doing anything unnecessary..."
+                                "\\n<Sonoda>\\F[62](Well, what should we do... Should we explore a bit or\njust wait patiently without doing anything?)"
                             ]
                         },
                         {
@@ -4547,8 +4547,8 @@
                             "parameters": [
                                 [
                                     "en(s[569])…探索する。(選択条件：END01クリア)",
-                                    "I'll wait patiently",
-                                    "Save",
+                                    "Wait patiently",
+                                    "Save the game",
                                     "Load"
                                 ],
                                 -1,
@@ -4579,7 +4579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (...Yeah, you're right. Time is already\nlimited. I need to make the most of this precious\ntime.)"
+                                "\\n<Sonoda>\\F[62](......Yeah, you're right. We only have limited time. We need\nto make the most of this precious time.)"
                             ]
                         },
                         {
@@ -4674,7 +4674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[62] (Hmm... Since my range of movement is\nlimited, should I just patiently wait for Sawa to\ncome back...)"
+                                "\\n<Sonoda>\\F[62](Hmm... Since our range of movement is limited, should we\njust patiently wait for Sawa to come back...)"
                             ]
                         },
                         {
@@ -4752,7 +4752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] It was really great... hehe,\nI really want to go to the hot springs with\neveryone♪"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF]It was really great... hehe, I really want to go to\nthe hot springs with everyone♪"
                             ]
                         },
                         {
@@ -4776,7 +4776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[61]\\FF[98]\\AA[F] I-I see... When I come back,\nI'll seriously consider making a plan..."
+                                "\\n<Sonoda>\\F[61]\\FF[98]\\AA[F]I-I see... When we get back, let's seriously plan\nit..."
                             ]
                         },
                         {
@@ -4793,7 +4793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[61]\\FF[98]\\AA[F] (...Sawa smells really\ngood...)"
+                                "\\n<Sonoda>\\F[61]\\FF[98]\\AA[F](.........Sawa smells really good...)"
                             ]
                         },
                         {
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] ...\\N[5]-san? Is something\nwrong?"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF]...Sonoda-san? Is something wrong?"
                             ]
                         },
                         {
@@ -4827,7 +4827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[61]\\FF[98]\\AA[F] ......It's nothing. Well then,\nshall we go..."
+                                "\\n<Sonoda>\\F[61]\\FF[98]\\AA[F]...It's nothing. Well then, shall we go..."
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] was really great... hehe, it\nmakes me want to go to a hot spring with everyone♪"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF]It was really great... hehe, I really want to go to\nthe hot springs with everyone♪"
                             ]
                         },
                         {
@@ -5334,7 +5334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[61]\\FF[98]\\AA[F] I-I see... When we get back,\nmaybe I'll seriously consider making a plan..."
+                                "\\n<Sonoda>\\F[61]\\FF[98]\\AA[F]I-I see... When we get back, I'll seriously consider\nmaking a plan..."
                             ]
                         },
                         {
@@ -5351,7 +5351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[61]\\FF[98]\\AA[F] (...Sawa smells really\ngood...)"
+                                "\\n<Sonoda>\\F[61]\\FF[98]\\AA[F](.........Sawa smells really good...)"
                             ]
                         },
                         {
@@ -5368,7 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF] ...\\N[5]-san? Is something\nwrong?"
+                                "\\n<Sawa>\\F[61]\\FF[98]\\AA[FF]...Sonoda-san? Is something wrong?"
                             ]
                         },
                         {
@@ -5385,7 +5385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>\\F[61]\\FF[98]\\AA[F] ...It's nothing. Well then,\nshall we go..."
+                                "\\n<Sonoda>\\F[61]\\FF[98]\\AA[F]...It's nothing. Well then, shall we go..."
                             ]
                         },
                         {
@@ -5678,7 +5678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>Well..."
+                                "\\n<Sonoda>\\F[62](Well...)"
                             ]
                         },
                         {
@@ -5686,7 +5686,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I'll wait quietly without doing anything until Sawa comes back",
+                                    "I'll wait quietly without doing anything until Sawa returns",
                                     "I'll go back to exploring"
                                 ],
                                 1,
@@ -5869,7 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\N[5]>(......It's just an ordinary basket, isn't it?)"
+                                "\\n<Sonoda>\\F[62](......Just an ordinary cage, nothing special.)"
                             ]
                         },
                         {

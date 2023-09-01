@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Bathing facility",
+    "displayName": "Bathhouse facility",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6997,7 +6997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Neon, I found you~ There's no need to run away,\nright?"
+                                "\\n<Udo>\\FF[\\V[4]]Minato, did you find it? There's no need to run away,\nright?"
                             ]
                         },
                         {
@@ -7059,7 +7059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Well, it's not like\nthat... I just came to take a bath..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Well, it's not like that... I just came to take a\nbath..."
                             ]
                         },
                         {
@@ -7076,7 +7076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Oh, what a coincidence♪\nShall we take a bath together then?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh, what a coincidence♪ Shall we take a bath together\nthen?"
                             ]
                         },
                         {
@@ -7100,7 +7100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ngh...!"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Ngh...!"
                             ]
                         },
                         {
@@ -7117,7 +7117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (You're such a blatant\nliar... I was thinking of enduring until tomorrow,\nbut I've changed my mind.)"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](You're such a blatant liar... I was thinking of holding\nback until tomorrow, but I've changed my mind.)"
                             ]
                         },
                         {
@@ -7253,7 +7253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] How about this view?\nIt's quite something, isn't it?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]How about this view? It's quite something, isn't it?"
                             ]
                         },
                         {
@@ -7270,7 +7270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] I know... I just took a\nbath earlier..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]I know... I just entered a little while ago..."
                             ]
                         },
                         {
@@ -7294,7 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「.........」"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -7311,7 +7311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -7335,7 +7335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] ......Suck it."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]...Suck it."
                             ]
                         },
                         {
@@ -7359,7 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Huh... but today is free\ntime, right?"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Eh... but today is supposed to be free time..."
                             ]
                         },
                         {
@@ -7376,7 +7376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Shut up, just suck it\nalready."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Shut up and suck it."
                             ]
                         },
                         {
@@ -7393,7 +7393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Huh..."
                             ]
                         },
                         {
@@ -7417,7 +7417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ah, I understand..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Ah, I understand..."
                             ]
                         },
                         {
@@ -7528,7 +7528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Neon, I found you~ There's no need to run away,\nright?"
+                                "\\n<Udo>\\FF[\\V[4]]Minato, did you find it? There's no need to run away,\nright?"
                             ]
                         },
                         {
@@ -7590,7 +7590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Well, it's not like\nthat... I just came to take a bath..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Well, it's not like that... I just came to take a\nbath..."
                             ]
                         },
                         {
@@ -7607,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Oh, what a coincidence♪\nShall we take a bath together then?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh, what a coincidence♪ Shall we take a bath together\nthen?"
                             ]
                         },
                         {
@@ -7631,7 +7631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ngh...!"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Ngh...!"
                             ]
                         },
                         {
@@ -7648,7 +7648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] (You're such a blatant\nliar... I was thinking of enduring until tomorrow,\nbut I've changed my mind.)"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF](You're such a blatant liar... I was thinking of enduring\nit until tomorrow, but I've changed my mind.)"
                             ]
                         },
                         {
@@ -7808,7 +7808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] How about this view?\nIt's quite something, isn't it?"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]How about this view? It's quite something, isn't it?"
                             ]
                         },
                         {
@@ -7825,7 +7825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] I know... I just took a\nbath earlier..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]I know... I just entered a little while ago..."
                             ]
                         },
                         {
@@ -7849,7 +7849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「.........」"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]「.........」"
                             ]
                         },
                         {
@@ -7866,7 +7866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]「.........」"
                             ]
                         },
                         {
@@ -7890,7 +7890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] ......Suck it."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]...Suck it."
                             ]
                         },
                         {
@@ -7914,7 +7914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Huh... but today is\nsupposed to be free time..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Eh... but today is supposed to be free time..."
                             ]
                         },
                         {
@@ -7931,7 +7931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF] Shut up, just suck it\nalready."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Shut up and suck it."
                             ]
                         },
                         {
@@ -7948,7 +7948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] ..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Huh..."
                             ]
                         },
                         {
@@ -7972,7 +7972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] Ah, I understand..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F]Ah, I understand..."
                             ]
                         },
                         {

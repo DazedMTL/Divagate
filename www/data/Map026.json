@@ -1778,7 +1778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Huh... it won't open?)"
+                                "\\n<Minato>\\F[\\V[2]](Hmm... huh? It won't open?)"
                             ]
                         },
                         {
@@ -1865,7 +1865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Hmm... Upon closer inspection, there are letters\nand numbers engraved on the front, it says\nPassword 0721.)"
+                                "\\n<Minato>\\F[\\V[2]](Hmm... If you look closely, there are letters and\nnumbers carved in front of us. The password seems\nto be \\C[2]0721\\C[0].)"
                             ]
                         },
                         {
@@ -1920,7 +1920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obtained the memory of \\C[2] password: Day 1\\C[0]."
+                                "\\C[2]Password Memory: Obtained Day 1 \\C[0]."
                             ]
                         },
                         {
@@ -1995,7 +1995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (In front of us, there's a password\n\\C[2]0721\\C[0] engraved.)"
+                                "\\n<Minato>\\F[\\V[2]](In front of me, there's a password engraved with\n\\C[2]０７２１\\C[0])"
                             ]
                         },
                         {
@@ -2130,7 +2130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Huh... it won't open?)"
+                                "\\n<Minato>\\F[\\V[2]](Hmm... huh? It won't open?)"
                             ]
                         },
                         {
@@ -2316,7 +2316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (The door is left open... I can't help\nbut be concerned about things like this.)"
+                                "\\n<Minato>\\F[\\V[2]](The door is left open... I can't help but be\nconcerned about things like this.)"
                             ]
                         },
                         {
@@ -2345,7 +2345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should I close \\F[\\V[2]]?"
+                                "\\F[\\V[2]]Shall I close it?"
                             ]
                         },
                         {
@@ -2514,7 +2514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Hm? Did I just hear a faint sound\ncoming from the next room?)"
+                                "\\n<Minato>\\F[\\V[2]](Hm? Did I just faintly hear a sound from the next\nroom...)"
                             ]
                         },
                         {
@@ -2723,7 +2723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (The door is left open... I can't help\nbut be concerned about things like this.)"
+                                "\\n<Minato>\\F[\\V[2]](The door is left open... I can't help but be\nconcerned about things like this.)"
                             ]
                         },
                         {
@@ -2752,7 +2752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should I close \\F[\\V[2]]?"
+                                "\\F[\\V[2]]Shall I close it?"
                             ]
                         },
                         {
@@ -2921,7 +2921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Huh? Did I just faintly hear a sound\ncoming from the next room?)"
+                                "\\n<Minato>\\F[\\V[2]](Hm? Did I just faintly hear a sound from the next\nroom...)"
                             ]
                         },
                         {
@@ -3561,7 +3561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (There are expensive perfumes and...\ncosmetics that I don't know how to use.)"
+                                "\\n<Minato>\\F[\\V[2]](There are expensive perfumes and... cosmetics that I\ndon't know how to use.)"
                             ]
                         },
                         {
@@ -3645,7 +3645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's a landscape painting. I'm not sure\nif this is a good thing...)"
+                                "\\n<Minato>\\F[\\V[2]](It's a landscape painting. I'm not sure if this is a\ngood one...)"
                             ]
                         },
                         {
@@ -3729,7 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (A portrait of a person... It's the kind\nof thing that's a little creepy and I don't want\nto keep it in my room.)"
+                                "\\n<Minato>\\F[\\V[2]](A portrait... It's the kind of thing that's a\nlittle creepy and I don't want to keep it in my\nroom.)"
                             ]
                         },
                         {
@@ -3820,7 +3820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's an antique table lamp. It probably\ndoesn't match the current room, but I like this\nkind of thing too.)"
+                                "\\n<Minato>\\F[\\V[2]](It's an antique table lamp. It might not fit in the\ncurrent room, but I like this kind of thing.)"
                             ]
                         },
                         {
@@ -3929,7 +3929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Is this... a pool of blood? No way...)"
+                                "\\n<Minato>\\F[\\V[2]](Is this... a pool of blood? N-No way...)"
                             ]
                         },
                         {
@@ -3953,7 +3953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (No, but this... it's unnatural. The\nwalls are still clean, it's almost like... it's\nseeping through from the other side of the\nwall...)"
+                                "\\n<Minato>\\F[\\V[2]](No, but this... it's unnatural. The walls are still\nclean, and it's almost like... it seeped through\nfrom the other side of the wall...)"
                             ]
                         },
                         {
@@ -4081,7 +4081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There is a puddle of blood that seems to have\nseeped out from behind the wall."
+                                "......There is a puddle of blood that seems to have seeped\nout from behind the wall."
                             ]
                         },
                         {

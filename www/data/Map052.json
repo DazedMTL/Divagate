@@ -2426,7 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Ah... now that I look closely,\n\\F[\\V[2]] is here...)"
+                                "\\n<Minato>\\F[\\V[2]](Ah... Now that I look closely, it's here...)"
                             ]
                         },
                         {
@@ -2455,7 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I found something that looks like a switch between\nthe wall and the bed."
+                                "\\F[\\V[2]]Minato: (I found something that looks like a switch in\nthe gap between the wall and the bed.)"
                             ]
                         },
                         {
@@ -2464,7 +2464,7 @@
                             "parameters": [
                                 [
                                     "Press the switch",
-                                    "Let's separate for now"
+                                    "Let's step back for now"
                                 ],
                                 1,
                                 0,
@@ -2595,7 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The switch between the wall and the bed has\nalready been pressed."
+                                "The switch between the wall and the bed has already\nbeen pressed."
                             ]
                         },
                         {
@@ -2679,7 +2679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Ah... now that I look closely, \\F[\\V[2]] is\nhere..."
+                                "\\n<Minato>\\F[\\V[2]](Ah... Now that I look closely, it's here...)"
                             ]
                         },
                         {
@@ -2696,7 +2696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I found something that looks like a switch between\nthe wall and the bed."
+                                "\\F[\\V[2]]Minato: (I found something that looks like a switch in\nthe gap between the wall and the bed.)"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "Melancholy",
+    "displayName": "♪ Melancholy",
     "encounterList": [],
     "encounterStep": 30,
     "height": 18,
@@ -2073,7 +2073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...It's not me. I can't go out dressed\nlike this.)"
+                                "\\n<Minato>\\F[\\V[2]](Tch... It's not me. I can't go out dressed like this.)"
                             ]
                         },
                         {
@@ -2198,7 +2198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (To prepare for tomorrow... I'll take a\nshower and rest for today.)"
+                                "\\n<Minato>\\F[\\V[2]](To prepare for tomorrow... I'll take a shower and\nrest for today)"
                             ]
                         },
                         {
@@ -2263,7 +2263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (To prepare for tomorrow... I'll take a\nshower and rest for today.)"
+                                "\\n<Minato>\\F[\\V[2]](To prepare for tomorrow... I'll take a shower and\nrest for today)"
                             ]
                         },
                         {
@@ -2287,7 +2287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (W-What kind of outfit should I wear...)"
+                                "\\n<Minato>\\F[\\V[2]](W-What kind of outfit should I wear...)"
                             ]
                         },
                         {
@@ -3802,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should I change my clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -3811,9 +3811,9 @@
                             "parameters": [
                                 [
                                     "my pajamas",
-                                    "in my underwear",
+                                    "in underwear",
                                     "naked",
-                                    "I won't change my clothes"
+                                    "won't change"
                                 ],
                                 3,
                                 0,
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should I change my clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -4438,10 +4438,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "a rider suit",
-                                    "in my underwear",
+                                    "rider suit",
+                                    "in underwear",
                                     "naked",
-                                    "I won't change my clothes"
+                                    "won't change"
                                 ],
                                 3,
                                 0,
@@ -5058,7 +5058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should \\F[\\V[2]] change clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -5067,9 +5067,9 @@
                             "parameters": [
                                 [
                                     "rider suit",
-                                    "pajamas",
+                                    "my pajamas",
                                     "naked",
-                                    "won't change clothes"
+                                    "won't change"
                                 ],
                                 3,
                                 0,
@@ -5686,7 +5686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Well, should \\F[\\V[2]] change clothes..."
+                                "\\n<Minato>\\F[\\V[2]](Well, time to change...)"
                             ]
                         },
                         {
@@ -5695,9 +5695,9 @@
                             "parameters": [
                                 [
                                     "rider suit",
-                                    "pajamas",
+                                    "my pajamas",
                                     "in underwear",
-                                    "won't change clothes"
+                                    "won't change"
                                 ],
                                 3,
                                 0,
@@ -6983,7 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[2] obtained a flashlight\\C[0] in their hand."
+                                "\\C[2]I obtained a flashlight \\C[0] in my hand."
                             ]
                         },
                         {
@@ -7343,7 +7343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Even though it's just disgusting when I look at\nit calmly, why am I...)"
+                                "\\n<Minato>\\F[\\V[2]](Even though it's just disgusting when I look at it\ncalmly, why am I...)"
                             ]
                         },
                         {
@@ -7418,7 +7418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Even though it's just disgusting when I look at\nit calmly, why am I...)"
+                                "\\n<Minato>\\F[\\V[2]](Even though it's just disgusting when I look at it\ncalmly, why am I...)"
                             ]
                         },
                         {
@@ -7493,7 +7493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Even though it's just disgusting when I look at\nit calmly, why am I...)"
+                                "\\n<Minato>\\F[\\V[2]](Even though it's just disgusting when I look at it\ncalmly, why am I...)"
                             ]
                         },
                         {
@@ -7952,7 +7952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's dazzling... It can't possibly be\nmade of pure gold, right?)"
+                                "\\n<Minato>\\F[\\V[2]](Dazzling... It can't possibly be made of pure gold, right?)"
                             ]
                         },
                         {
@@ -8056,7 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It smells nice... I'm looking forward\nto tonight.)"
+                                "\\n<Minato>\\F[\\V[2]](It smells good... I'm looking forward to tonight.)"
                             ]
                         },
                         {
@@ -8140,7 +8140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]... It's a figurine made of wax. My teeth\nmarks are on it."
+                                "\\F[\\V[2]]......It's a wax figurine. My teeth marks are on it."
                             ]
                         },
                         {
@@ -8224,7 +8224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer...\nbut saying that would be selfish of me, wouldn't\nit, \\N[5]?"
+                                "\\n<Minato>\\F[\\V[2]](This bed is so soft. I prefer it a bit firmer\nthough... but saying that would be selfish,\nwouldn't it?)"
                             ]
                         },
                         {
@@ -8315,7 +8315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>This bed is so soft. I prefer it a bit firmer...\nbut saying that would be selfish of me, wouldn't\nit, \\N[5]?"
+                                "\\n<Minato>\\F[\\V[2]](This bed is so soft. I prefer it a bit firmer\nthough... but saying that would be selfish,\nwouldn't it?)"
                             ]
                         },
                         {
@@ -8406,7 +8406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (It's an antique-style chest. But...\nthere's nothing special to put in it.)"
+                                "\\n<Minato>\\F[\\V[2]](It's an antique-style chest. But... there's nothing\nspecial to put in it.)"
                             ]
                         },
                         {
@@ -8511,7 +8511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the quiet room, an old clock ticks away the\ntime."
+                                "In the quiet room, an old clock ticks away the time."
                             ]
                         },
                         {
@@ -8629,7 +8629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the quiet room, an old clock is ticking away\nthe time."
+                                "In the quiet room, an old clock ticks away the time."
                             ]
                         },
                         {
@@ -8978,7 +8978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained a small key \\C[0] in my hand."
+                                "\\C[2]I obtained a small key \\C[0] in my hand."
                             ]
                         },
                         {
@@ -9002,7 +9002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...Hm? Is this the usual key? I somehow\nobtained it so easily...)"
+                                "\\n<Minato>\\F[\\V[2]](......Hm? This is the usual key, right? I somehow obtained\nit quite easily...)"
                             ]
                         },
                         {
@@ -9084,7 +9084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]...(It's already empty.)"
+                                "\\n<Minato>\\F[\\V[2]](...It's already empty.)"
                             ]
                         },
                         {
@@ -9179,7 +9179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Mmm..."
+                                "\\n<Minato>Mmm..."
                             ]
                         },
                         {
@@ -9213,7 +9213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(The intensive training camp starts tomorrow...)"
+                                "\\n<Minato>(The intensive training camp starts tomorrow...)"
                             ]
                         },
                         {
@@ -9230,45 +9230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru mentally reviews the contents of the\ntraining camp that Coach Udo talked about. It\nseems that here, roughly speaking, two lessons\nwill be conducted."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "The first lesson is to mimic the actions of the\ncharacter Reiko for role preparation. Just like\nReiko did in the story, I will be exploring the\nmansion. It seems that the dimmed lighting in some\nareas is part of the production."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Udo, the coach, is going over the details of the\ntraining camp in his head. It seems that there\nwill be two main lessons conducted here, roughly\nspeaking."
                             ]
                         },
                         {
@@ -9292,7 +9254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And there's one more thing... It's a one-on-one\n\\C[2] personal lesson \\C[0] with Coach Udo. It\nseems that here, it will be simply a time for\nacting lessons. It seems that the coach himself\nwill be giving acting guidance..."
+                                "The first lesson is to mimic the actions of the\ncharacter named Reiko for role-playing purposes.\nJust like Reiko did in the story, I will be\nexploring the mansion. It seems that the dimmed\nlighting in certain areas is part of the\nproduction."
                             ]
                         },
                         {
@@ -9330,7 +9292,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And as for the crucial scenario... in order to\nreaffirm the story that was written in the script,\nI quickly recall it in a concise manner..."
+                                "And the other one is... the one-on-one personal\nlessons with Coach Udo. It seems that here, we\nwill simply have a lesson on acting. It seems that\nthe coach himself will be giving acting\nguidance..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And as for the crucial scenario...! In order to\nreaffirm the story that was written in the script,\nI quickly recall it in my mind----..."
                             ]
                         },
                         {
@@ -9375,7 +9375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At the summer training camp of \\# circle,\nincluding the protagonist Takashi, five men and\nwomen headed to a summer resort. However... on the\nway, a landslide caused by heavy rain occurred,\ncausing them to be stranded."
+                                "At the summer training camp of \\# circle, including\nthe protagonist 'Takashi', five men and women\nheaded to a summer resort. However... on the way,\na landslide caused by heavy rain occurred, causing\nthem to be stranded."
                             ]
                         },
                         {
@@ -9406,7 +9406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "While discussing whether to go back, the circle\nleader 'Hiroki' showed everyone the map he had in\nhis hand and suggested heading to a nearby\naccommodation facility."
+                                "While discussing whether to go back or not, the circle\nleader 'Hiroki' showed everyone the map he had in\nhis hand and suggested heading to a nearby\naccommodation facility."
                             ]
                         },
                         {
@@ -9437,7 +9437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Due to no one particularly opposing it, \\# and the\ngroup decided to head towards the location on the\nmap, even in the midst of a raging storm."
+                                "\\#Since there was no one particularly opposed, \\#amidst\nthe raging storm... the group decided to head\ntowards the location on the map."
                             ]
                         },
                         {
@@ -9465,24 +9465,24 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was a creepy, dilapidated Western-style mansion\nstanding eerily among the dense and lush trees..."
+                                "However, what awaited them at their destination was not a\nlodging facility, but a decrepit Western-style\nmansion standing eerily among dense trees, like a\nruin----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9506,7 +9506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And so, for the time being, the five of them\nentered inside until the rain stopped, but soon\nafter... one of the five disappeared."
+                                "And so, for the time being, the five of them entered\ninside until the rain stopped, but shortly\nafter... one of the five disappeared."
                             ]
                         },
                         {
@@ -9530,7 +9530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Should I organize the characters here...)"
+                                "\\n<Minato>(Should I organize the characters here...)"
                             ]
                         },
                         {
@@ -9547,7 +9547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Takashi... the protagonist of the story. A\nfreshman in college. Hiroki... the leader of the\ncircle that the protagonist belongs to. A third-\nyear student. Minoru... a member who disappeared.\nA second-year student. Akari... the protagonist's\nchildhood friend who they reunited with in\ncollege. A freshman."
+                                " Takashi... the protagonist of the story. A freshman in\ncollege. Hiroki... the leader of the circle that\nthe protagonist belongs to. A third- year student.\nMinoru... a member who disappeared. A second-year\nstudent. Akari... the protagonist's childhood\nfriend who they reunited with in college. A\nfreshman."
                             ]
                         },
                         {
@@ -9616,7 +9616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Reiko, the character I will be playing, was a\nperson who resembled me in some ways, for better\nor for worse. From her appearance and way of\nspeaking that can be inferred from the text, it\nmakes me wonder if she was modeled after me, as it\nwas so similar."
+                                "Reiko: (Should I organize the characters here...)\nTakashi... the protagonist of the story. A\nfreshman in college. Hiroki... the leader of the\ncircle that the protagonist belongs to. A third-\nyear student. Minoru... a member who disappeared.\nA second-year student. Akari... the protagonist's\nchildhood friend who they reunited with in\ncollege. A freshman.  And the character I will be\nplaying, 'Reiko', is a third-year student and a\nsenior. She is like the Madonna of the circle, and\noften playfully engages in sexual mischief with\nthe protagonist, Takashi.  Fortunately or\nunfortunately, the character named Reiko was very\nsimilar to me. From her appearance and way of\nspeaking that I can gather from the text, it's\npossible that she was modeled after me. She\nresembled me to the point where I started to doubt\nit..."
                             ]
                         },
                         {
@@ -9647,7 +9647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(If it's okay for me to be my true self, I think I\ncan manage somehow...)"
+                                "\\n<Minato>(If I can just be myself, I think I can manage\nsomehow...)"
                             ]
                         },
                         {
@@ -9664,7 +9664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Somehow... I was bothered by this mischievous\nprank. Pressing my chest against him, showing him\nprovocative parts, and even letting him touch\nme... Those actions confused and toyed with my\njunior, Takashi."
+                                "Somehow... I was bothered by this mischievous behavior.\nPressing my chest against him, showing him\nprovocative parts, and even letting him touch\nme... These actions confuse and manipulate\nTakashi, who is my junior."
                             ]
                         },
                         {
@@ -9695,7 +9695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I wonder if I can really act like that... Even\nthough I've always been someone who focused solely\non music, while everyone else was enjoying their\nyouth...)"
+                                "\\n<Minato>(I wonder if I can really act like that... Even\nthough I've always been someone who focused solely\non music activities since the time when everyone\nelse was enjoying their youth... I feel like such\nan unbalanced person...)"
                             ]
                         },
                         {
@@ -9726,7 +9726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -9743,7 +9743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(But... Takashi, the protagonist...)"
+                                "\\n<Minato>(But... Takashi, the protagonist...)"
                             ]
                         },
                         {
@@ -9760,7 +9760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In my head, I replace the protagonist with \\N[5]-\nsan. And... I imagine myself seducing \\N[5]-san\nin a lewd manner."
+                                "In my mind, I replace the protagonist with Sonoda-\nsan. And... I imagine myself seducing Sonoda-san\nin a lewd manner."
                             ]
                         },
                         {
@@ -9820,7 +9820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Pressing my chest against him...)"
+                                "\\n<Minato>(Pressing my chest against him...)"
                             ]
                         },
                         {
@@ -9868,7 +9868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Exposing myself in my underwear...)"
+                                "\\n<Minato>(Exposing myself in my underwear...)"
                             ]
                         },
                         {
@@ -9885,7 +9885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Will he see me as a woman? Will he... get excited\nby me...)"
+                                "\\n<Minato>(Will they see me as a woman? Will they... get excited\nby me...)"
                             ]
                         },
                         {
@@ -9909,7 +9909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(And then, his hand on top of my breasts...)"
+                                "\\n<Minato>(And then, his hand on top of my breasts...)"
                             ]
                         },
                         {
@@ -9926,7 +9926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Mmm... No... Even though..."
+                                "\\n<Minato>Mmm... No... Even though..."
                             ]
                         },
                         {
@@ -9943,7 +9943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I embrace my trembling body with my own arms. As\nif trying to suppress the heat I feel deep in my\nstomach..."
+                                "I embrace my trembling body with my own arms. As if\ntrying to suppress the heat I feel deep in my\nabdomen..."
                             ]
                         },
                         {
@@ -9967,7 +9967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\N[5]...san..."
+                                "\\n<Minato>Sonoda-san..."
                             ]
                         },
                         {
@@ -10098,7 +10098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Minato Neon]NEXT DAY..."
+                                " \\.\\SE[タイプライタ]Ｎ\\.\\SE[タイプライタ]Ｅ\\.\\SE[タイプライタ]Ｘ\\.\\SE[タイプライタ]Ｔ\\. \\SE[タイプライタ]Ｄ\\.\\SE[タイプライタ]Ａ\\.\\SE[タイプライタ]Ｙ\\.\\SE[\nタイプライタ]..."
                             ]
                         },
                         {
@@ -10275,7 +10275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -10292,7 +10292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Minato Neon gently strokes their own body with\ntheir palm, as if confirming that the dirt has\nbeen washed away."
+                                "Minato: Stroking their own body with their palm as if\nconfirming that the dirt has been washed away."
                             ]
                         },
                         {
@@ -10309,7 +10309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Slowly starting from the face... passing through\nthe neck, shoulders, and arms, their palm glides\nover the chest and down to the abdomen."
+                                "Slowly starting from the face... passing through the\nneck, shoulders, and arms, the palm slides down to\nthe abdomen via the chest."
                             ]
                         },
                         {
@@ -10333,7 +10333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...huh..."
+                                "\\n<Minato>...huh..."
                             ]
                         },
                         {
@@ -10367,7 +10367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I was touched on the butt by a guy... and in that\nway...)"
+                                "\\n<Minato>(I was touched on the butt by a guy... and in that\nway...)"
                             ]
                         },
                         {
@@ -10384,7 +10384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I remember the sensation of the man's palm\nstroking my butt."
+                                "Remembering the sensation of the man's palm stroking my butt."
                             ]
                         },
                         {
@@ -10401,7 +10401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Being touched all over like this...)"
+                                "\\n<Minato>(Being touched and massaged all over like this...)"
                             ]
                         },
                         {
@@ -10418,7 +10418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...ah...no..."
+                                "\\n<Minato>...ah...no..."
                             ]
                         },
                         {
@@ -10435,7 +10435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tracing the path left by the man's palm as if to\nrecreate it..."
+                                "As if reproducing it... tracing the traces left by\nthe man's palm."
                             ]
                         },
                         {
@@ -10452,7 +10452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Like this... with that big, powerful hand... over\nand over again...)"
+                                "\\n<Minato>(Like this... with that big hand, forcefully and\nrepeatedly...)"
                             ]
                         },
                         {
@@ -10505,7 +10505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...Nngh...!"
+                                "\\n<Minato>...Nngh...!"
                             ]
                         },
                         {
@@ -10558,7 +10558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(W-What am I thinking...)"
+                                "\\n<Minato>(W-What am I thinking...)"
                             ]
                         },
                         {
@@ -10592,7 +10592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(It's because he does such weird things during\nlessons... honestly...)"
+                                "\\n<Minato>(It's because they do such weird things during\nlessons... honestly...)"
                             ]
                         },
                         {
@@ -10625,24 +10625,24 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And then, after quickly taking a shower, I left\nthe bathroom..."
+                                "I quickly washed away the sweet throbbing that had\njust arisen, as if trying to hide it. And then,\nafter quickly finishing my shower, I left the\nbathroom..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10678,7 +10678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Minato Neon]NEXT DAY..."
+                                " \\.\\SE[タイプライタ]Ｎ\\.\\SE[タイプライタ]Ｅ\\.\\SE[タイプライタ]Ｘ\\.\\SE[タイプライタ]Ｔ\\. \\SE[タイプライタ]Ｄ\\.\\SE[タイプライタ]Ａ\\.\\SE[タイプライタ]Ｙ\\.\\SE[\nタイプライタ]..."
                             ]
                         },
                         {
@@ -10996,7 +10996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -11013,7 +11013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The feeling as if something important had been\ndefiled... The frustration outweighed the\nembarrassment. That's why, even if only\ntemporarily, I wanted to wash away the unpleasant\nmemories."
+                                "I had a feeling as if something important had been\ndefiled... The feeling of frustration overwhelmed\nthe feeling of embarrassment. That's why, even if\nonly temporarily, I wanted to wash away the\nunpleasant memories."
                             ]
                         },
                         {
@@ -11044,7 +11044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However... that feeling of sorrow vanished the\nmoment I stepped into the bathroom."
+                                "However... as soon as I stepped into the bathroom, those\nmelancholic feelings vanished."
                             ]
                         },
                         {
@@ -11068,7 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(When exactly... It shouldn't have been there\nbefore the lesson. If that's the case, it means it\nhappened during the lesson...)"
+                                "\\n<Minato>(When... did this happen? It shouldn't have been there\nbefore the lesson. If that's the case, it must\nhave happened during the lesson...)"
                             ]
                         },
                         {
@@ -11092,7 +11092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Minato Neon: I send glances to the side, as if\ntrying to confirm it over and over again."
+                                "Minato: (I send glances to the side, as if trying to\nconfirm it over and over again.)"
                             ]
                         },
                         {
@@ -11109,7 +11109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(There's no way \\N[5]-san is involved... If not\nhim, then who? Besides Director Udo and us, is\nthere someone else in this mansion?)"
+                                "\\n<Minato>(Sonoda-san has no reason to be involved... If not him, then\nwho? Besides Director Udo and us, is there someone\nelse in this mansion?)"
                             ]
                         },
                         {
@@ -11133,7 +11133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've seen it so many times... That's why I thought\nmaybe it's burned into my eyes and I'm seeing\nhallucinations. With such faint hope in my heart,\nI turn towards that thing."
+                                "I've seen it so many times... That's why I thought it\nwas burned into my eyes and I was seeing\nhallucinations. With such faint hope in my heart,\nI turn towards that thing."
                             ]
                         },
                         {
@@ -11248,7 +11248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(The person who brought that in is a mystery, but\neither way... the one who gave the order was\nDirector Udo, right?)"
+                                "\\n<Minato>(The person who brought that in is a mystery, but\neither way... the one who gave the order must be\nDirector Udo...)"
                             ]
                         },
                         {
@@ -11272,7 +11272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(If that's the case, then what exactly is their\nintention... ah...)"
+                                "\\n<Minato>(If that's the case, what on earth is their\nintention... ah...)"
                             ]
                         },
                         {
@@ -11283,6 +11283,13 @@
                                 0,
                                 0,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Suddenly... the words that Director Udo said to me just\nbefore leaving the lesson room come to mind."
                             ]
                         },
                         {
@@ -11293,13 +11300,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Words come to mind."
-                            ]
-                        },
-                        {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
@@ -11313,7 +11313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Tch... So this is what they mean by review...\nThey're giving me this doll? How ridiculous...\nThere's a limit to bad taste...)"
+                                "\\n<Minato>(Tch... So this is what you meant by review... You're\ngiving me this doll? How ridiculous... There's a\nlimit to bad taste...)"
                             ]
                         },
                         {
@@ -11404,7 +11404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(There's no way someone would do something like\nthat... Who would...)"
+                                "\\n<Minato>(There's no way someone would do something like that...\nWho would...)"
                             ]
                         },
                         {
@@ -11517,7 +11517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(D-Don't think about it... That's exactly what\nthat man wants...)"
+                                "\\n<Minato>(D-Don't think about it... That's exactly what that guy\nwants...)"
                             ]
                         },
                         {
@@ -11582,7 +11582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(......But, it's just a doll... It's not real...)"
+                                "\\n<Minato>(......But, it's just a doll... It's not real...)"
                             ]
                         },
                         {
@@ -11599,7 +11599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(What!? What am I doing right now... No, this is\nno good! In the first place, there's no way I\ncould do something like that...)"
+                                "\\n<Minato>(What!? What am I... No, this is no good! In the first\nplace, there's no way I could do something like\nthat...)"
                             ]
                         },
                         {
@@ -11671,7 +11671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(It looks so delicious... What does it taste\nlike...? Is it something that can captivate me\nlike that?)"
+                                "\\n<Minato>(It looks so delicious... What does it taste like? Is\nit something that can make you so obsessed?)"
                             ]
                         },
                         {
@@ -11695,7 +11695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(----...Huh!? I-I told you not to think about\nit...)"
+                                "\\n<Minato>(----...Huh!? D-Don't think about it...)"
                             ]
                         },
                         {
@@ -11712,7 +11712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......That is a childlike pure and innocent\ncuriosity. However, because it is pure, it easily\nerodes reason."
+                                "......That is a childlike pure and innocent curiosity.\nHowever, because it is pure, it easily erodes\nreason."
                             ]
                         },
                         {
@@ -11736,7 +11736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(What was it again in times like this... R-Right,\nsomeone said it before! I think... prime numbers?\nI should count prime numbers...)"
+                                "\\n<Minato>(What was it again in times like this... R-Right,\nsomeone said it before! I think... prime numbers?\nI should count prime numbers...)"
                             ]
                         },
                         {
@@ -11760,7 +11760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(２...３...５...)"
+                                "\\n<Minato>(２...３...５...)"
                             ]
                         },
                         {
@@ -11825,7 +11825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(......7......8...)"
+                                "\\n<Minato>(......7......is......8...)"
                             ]
                         },
                         {
@@ -11861,7 +11861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(No... Even though I shouldn't... I can't help but\nthink...)"
+                                "\\n<Minato>(No... Even though I know it's no good to think about\nit...)"
                             ]
                         },
                         {
@@ -11897,7 +11897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Minato Neon]NEXT[Minato Neon]EX[Minato\nNeon]T[Minato Neon]D[\\N[5]] A[Minato\nNeon]Y[Minato Neon]..."
+                                " \\.\\SE[タイプライタ]Ｎ\\.\\SE[タイプライタ]Ｅ\\.\\SE[タイプライタ]Ｘ\\.\\SE[タイプライタ]Ｔ\\. \\SE[タイプライタ]Ｄ\\.\\SE[タイプライタ]Ａ\\.\\SE[タイプライタ]Ｙ\\.\\SE[\nタイプライタ]..."
                             ]
                         },
                         {
@@ -12220,7 +12220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -12237,7 +12237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even though I try to act like I don't think about\nit, it keeps popping into my head."
+                                "Even though I try to act like I don't think about it,\nit keeps popping into my head."
                             ]
                         },
                         {
@@ -12302,7 +12302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The overwhelming presence of the real thing seen\nup close..."
+                                "...The overwhelming feeling of seeing the real thing up\nclose."
                             ]
                         },
                         {
@@ -12367,7 +12367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The sensation that lingers on my lips and\ntongue, that animal-like scent... And..."
+                                "...The sensation that lingers on my lips and tongue,\nthat beast-like smell... and..."
                             ]
                         },
                         {
@@ -12432,7 +12432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The indescribable joy I felt when I bit into\nit. It was hard to believe, and I didn't want to\nadmit it, but it definitely existed."
+                                "...The indescribable joy I felt when I bit into it. It\nwas hard to believe, and I didn't want to admit\nit, but it definitely existed."
                             ]
                         },
                         {
@@ -12456,7 +12456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Hm... How should I interpret this?)"
+                                "\\n<Minato>(Hm... How should I interpret this?)"
                             ]
                         },
                         {
@@ -12473,7 +12473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should I see it as growth, being able to fully\nembrace my role, or should I see it as simply\nsuccumbing to sexual desire and falling into\ndepravity..."
+                                "Should I see it as growth, being able to fully immerse\nmyself in the role? Or should I see it as simply\nsuccumbing to sexual desire, a mere decadence..."
                             ]
                         },
                         {
@@ -12497,7 +12497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want my heart to desire the former. However,\nthis burning body immediately denies it."
+                                "I want my heart to believe it's the former.\nHowever, this burning body immediately denies it."
                             ]
                         },
                         {
@@ -12521,7 +12521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」ﾁﾗｯ"
+                                "\\n<Minato>「.........」ﾁﾗｯ"
                             ]
                         },
                         {
@@ -12556,7 +12556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I send my gaze towards the wax doll with an\nunpleasant expression."
+                                "Minato's gaze is directed towards the wax doll with an\nunpleasant expression."
                             ]
                         },
                         {
@@ -12573,7 +12573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(...Come to think of it, they said they removed\nthe device in question along with the camera. I'm\nnot sure when they did it... but I've already\nconfirmed it with my own eyes)"
+                                "\\n<Minato>(Come to think of it, they said they removed the device\nin question along with the camera. I'm not sure\nwhen they did it... but I've already confirmed it\nwith my own eyes.)"
                             ]
                         },
                         {
@@ -12615,7 +12615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I wonder why I had to confirm it... It's a story\nthat could have been avoided if I didn't touch\nit...)"
+                                "\\n<Minato>(I wonder why I had to confirm it... It's a story\nthat could have been avoided if I didn't touch\nit...)"
                             ]
                         },
                         {
@@ -12632,7 +12632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The answer should be clear, but my rationality\ndenies it."
+                                "The answer should be clear, but my rationality denies\nit."
                             ]
                         },
                         {
@@ -12668,7 +12668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After denying it over and over again... in the\nend, I succumbed to my desires. As soon as I\ntouched their sensitive area, I couldn't think\nanymore..."
+                                "After denying it over and over again... in the end, I\nsuccumbed to the act. As soon as I touched their\n\\#, I couldn't think anymore..."
                             ]
                         },
                         {
@@ -12722,17 +12722,17 @@
                             ]
                         },
                         {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                " \\.\\SE[タイプライタ]Ｎ\\.\\SE[タイプライタ]Ｅ\\.\\SE[タイプライタ]Ｘ\\.\\SE[タイプライタ]Ｔ\\. \\SE[タイプライタ]Ｄ\\.\\SE[タイプライタ]Ａ\\.\\SE[タイプライタ]Ｙ\\.\\SE[\nタイプライタ]..."
+                            ]
+                        },
+                        {
                             "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "[Minato Neon]NEXT DAY..."
                             ]
                         },
                         {
@@ -12978,7 +12978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -12995,7 +12995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I feel my heart warming up with the thought that I\nmight see him later... But... no matter how much I\ntry to overwrite those thoughts and disturb them,\nwhat comes to mind is inevitably 'that man...'"
+                                "I feel my heart warming up with the thought that I\nmight be able to meet him later... But... no\nmatter how much I try to overwrite and disturb\nthose thoughts, what comes to mind is inevitably\n'that man...'"
                             ]
                         },
                         {
@@ -13074,7 +13074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I exposed such an embarrassing side of myself...\nand also...)"
+                                "\\n<Minato>(I exposed such an embarrassing side of myself...\nand also...)"
                             ]
                         },
                         {
@@ -13139,7 +13139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(He saw everything... my crotch... even the moment\nI came...)"
+                                "\\n<Minato>(They saw everything... my crotch... even the moment I\ncame...)"
                             ]
                         },
                         {
@@ -13174,7 +13174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...In the end, I..."
+                                "\\n<Minato>...In the end, I..."
                             ]
                         },
                         {
@@ -13297,7 +13297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Mmm..."
+                                "\\n<Minato>Mmm..."
                             ]
                         },
                         {
@@ -13331,7 +13331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(The intensive training camp starts tomorrow...)"
+                                "\\n<Minato>(The intensive training camp starts tomorrow...)"
                             ]
                         },
                         {
@@ -13348,45 +13348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru is mentally digesting the contents of\nthe training camp that Coach Udo talked about. It\nseems that there will be two lessons conducted\nhere, roughly divided."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "The first lesson is to mimic the actions of the\ncharacter Reiko for role preparation. Just like\nReiko did in the story, I will be exploring the\nmansion. It seems that the dimmed lighting in some\nareas is part of the production."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Udo, the coach, is going over the details of the\ntraining camp in his head. It seems that there\nwill be two main lessons conducted here, roughly\nspeaking."
                             ]
                         },
                         {
@@ -13410,7 +13372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And then, there's another... a one-on-one \\C[2]\npersonal lesson \\C[0] conducted by Coach Udo. It\nseems that this is simply a time for acting\nlessons. It appears that the coach himself will be\nproviding acting guidance, but..."
+                                "The first lesson is to mimic the actions of the\ncharacter named Reiko for role-playing purposes.\nJust like Reiko did in the story, I will be\nexploring the mansion. It seems that the dimmed\nlighting in certain areas is part of the\nproduction."
                             ]
                         },
                         {
@@ -13448,7 +13410,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And as for the crucial scenario... in order to\nreaffirm the story that was written in the script,\nI briefly imagine it----..."
+                                "And the other one is... the one-on-one personal\nlessons with Coach Udo. It seems that here, we\nwill simply have a lesson on acting. It seems that\nthe coach himself will be giving acting\nguidance..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "And as for the crucial scenario...! In order to\nreaffirm the story that was written in the script,\nI quickly recall it in my mind----..."
                             ]
                         },
                         {
@@ -13493,7 +13493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At the summer training camp of \\# circle,\nincluding the protagonist Takashi, five men and\nwomen headed to a summer resort. However... on the\nway, a landslide caused by heavy rain occurred,\ncausing them to be stranded."
+                                "At the summer training camp of \\# circle, including\nthe protagonist 'Takashi', five men and women\nheaded to a summer resort. However... on the way,\na landslide caused by heavy rain occurred, causing\nthem to be stranded."
                             ]
                         },
                         {
@@ -13524,7 +13524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Circle leader Hiroki showed everyone a map he had\nin his hand while they were discussing whether to\ngo back, and suggested heading to a nearby\naccommodation facility."
+                                "While discussing whether to go back or not, the circle\nleader 'Hiroki' showed everyone the map he had in\nhis hand and suggested heading to a nearby\naccommodation facility."
                             ]
                         },
                         {
@@ -13555,7 +13555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Due to no one particularly opposing it, \\# in the\nmidst of a raging storm... the group decided to\nhead towards the location on the map."
+                                "\\#Since there was no one particularly opposed, \\#amidst\nthe raging storm... the group decided to head\ntowards the location on the map."
                             ]
                         },
                         {
@@ -13583,24 +13583,24 @@
                             ]
                         },
                         {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was a creepy, dilapidated Western-style mansion\nstanding eerily among the dense and lush trees..."
+                                "However, what awaited them at their destination was not a\nlodging facility, but a creepy, dilapidated\nWestern-style mansion standing eerily among dense\ntrees. It had turned into a ruin----..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13624,7 +13624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And so, for the time being, the five of them\nentered inside until the rain stopped, but soon\nafter... one of the five disappeared."
+                                "And so, for the time being, the five of them entered\ninside until the rain stopped, but shortly\nafter... one of the five disappeared."
                             ]
                         },
                         {
@@ -13648,7 +13648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Should we organize the characters here...)"
+                                "\\n<Minato>(Should I organize the characters here...)"
                             ]
                         },
                         {
@@ -13665,7 +13665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " Takashi... the protagonist of the story. A first-\nyear university student. Hiroki... the leader of\nthe circle that the protagonist belongs to. A\nthird-year student. Minoru... a member who\ndisappeared. A second-year student. Akari... the\nchildhood friend of the protagonist who they\nreunited with in college. A first-year student."
+                                " Takashi... the protagonist of the story. A freshman in\ncollege. Hiroki... the leader of the circle that\nthe protagonist belongs to. A third- year student.\nMinoru... a member who disappeared without a\ntrace. A second-year student. Akari... the\nchildhood friend of the protagonist, reunited in\ncollege. A freshman."
                             ]
                         },
                         {
@@ -13673,37 +13673,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "And the character I will be playing, 'Reiko,' is a\nthird-year student and a senior. She is like the\nMadonna of the circle, and she has a mischievous\nside where she playfully engages in sexual pranks\nwith Takashi, the protagonist, whenever the\nopportunity arises."
                             ]
                         },
                         {
@@ -13734,7 +13703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For better or worse, the character named Reiko was\na person who resembled me. From her appearance and\nway of speaking that I could gather from the text,\nit made me wonder if she was modeled after me...\nShe resembled me to the point where I doubted it."
+                                "And the character I will be playing, 'Reiko', is a\nthird-year student and holds a senior position.\nShe is like the Madonna of the circle, and has a\nmischievous side (?) where she often engages in\nsexual pranks with the protagonist, Takashi."
                             ]
                         },
                         {
@@ -13765,24 +13734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(If it's okay for me to be my true self, I think I\ncan manage somehow...)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " Somehow... I was bothered by this mischievous\nprank. Pressing my chest against him, showing him\nprovocative parts, and even letting him touch\nme... These actions confuse and toy with my\njunior, Takashi."
+                                "Fortunately or unfortunately, the character named Reiko was a\nperson who resembled me. From her appearance and\nway of speaking that can be inferred from the\ntext, it may be an overactive self-consciousness,\nbut could it be that she was modeled after me? She\nresembled me to the point where I doubted it..."
                             ]
                         },
                         {
@@ -13813,7 +13765,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Can I really perform such acts...? Even though I\nhave always been someone who solely focused on\nmusic activities since the time when everyone else\nwas enjoying their youth...)"
+                                "\\n<Minato>(If it's okay for me to be my true self, I think I\ncan manage somehow...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Somehow... I was bothered by this 'mischievous prank'.\nPressing my chest against him, showing him\nprovocative parts, and even letting him touch\nme... These actions confuse and manipulate\nTakashi, who is my junior."
                             ]
                         },
                         {
@@ -13844,7 +13813,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>(Can I really perform such acts...? Even though I have\nalways been an unbalanced person who focused\nsolely on music activities since the time when\neveryone was enjoying their youth...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13861,7 +13844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(But... Takashi, the protagonist...)"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -13878,7 +13861,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In my mind, I replace the protagonist with \\N[5]-\nsan. And... I imagine myself seducing \\N[5]-san\nin a lewd manner."
+                                "\\n<Minato>(But... Takashi, the protagonist...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "In my head, I replace the protagonist with Sonoda-\nsan. And... I imagine myself seducing Sonoda-san\nin a lewd manner."
                             ]
                         },
                         {
@@ -13938,7 +13938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Pressing my chest against him like this...)"
+                                "\\n<Minato>(Pressing my chest against him...)"
                             ]
                         },
                         {
@@ -13955,7 +13955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I press my fully developed breasts against him. I\nwonder how he will react? Will he calmly push me\naway? Or..."
+                                "I press my fully grown breasts against him. I\nwonder how he will react? Will he calmly push me\naway? Or..."
                             ]
                         },
                         {
@@ -13986,7 +13986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Exposing myself in my underwear...)"
+                                "\\n<Minato>(Exposing myself in my underwear...)"
                             ]
                         },
                         {
@@ -14003,7 +14003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Will he see me as a woman? Will he... get excited\nby me...)"
+                                "\\n<Minato>(Will they see me as a woman? Will they... get excited\nby me...)"
                             ]
                         },
                         {
@@ -14027,7 +14027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(And then, his hand on top of my breasts...)"
+                                "\\n<Minato>(And then, his hand on top of my breasts...)"
                             ]
                         },
                         {
@@ -14044,7 +14044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Mmm... No... Even though..."
+                                "\\n<Minato>Mmm... No... Even though..."
                             ]
                         },
                         {
@@ -14055,6 +14055,13 @@
                                 0,
                                 0,
                                 2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I embrace my trembling body with my own arms. As if\ntrying to suppress the heat I feel deep in my\nabdomen..."
                             ]
                         },
                         {
@@ -14065,13 +14072,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "To suppress the heat I felt deep in my stomach..."
-                            ]
-                        },
-                        {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
@@ -14085,7 +14085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\N[5]...san..."
+                                "\\n<Minato>Sonoda-san..."
                             ]
                         },
                         {
@@ -14128,7 +14128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My hand naturally reaches towards the source of my\nheat. This is to calm my mind and body... I tell\nmyself that it's to face the upcoming lessons\nstarting tomorrow in the best possible\ncondition..."
+                                "My hand naturally reaches towards the source of my\nheat. I do this to calm my mind and body... I tell\nmyself that it's to face the upcoming lessons\nstarting tomorrow in the best possible\ncondition..."
                             ]
                         },
                         {
@@ -14314,7 +14314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -14331,7 +14331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Minato Neon gently caresses their own body with\ntheir palm, as if confirming that the dirt has\nbeen washed away."
+                                "Minato: Stroking their own body with their palm as if\nconfirming that the dirt has been washed away."
                             ]
                         },
                         {
@@ -14348,7 +14348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Slowly starting from the face... passing through\nthe neck, shoulders, and arms, their palm glides\nover the chest and down to the abdomen."
+                                "Slowly starting from the face... passing through the\nneck, shoulders, and arms, the palm slides down to\nthe abdomen via the chest."
                             ]
                         },
                         {
@@ -14372,7 +14372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...huh..."
+                                "\\n<Minato>...huh..."
                             ]
                         },
                         {
@@ -14406,7 +14406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I was touched on the butt by a guy... and in that\nway...)"
+                                "\\n<Minato>(I was touched on the butt by a guy... and in that\nway...)"
                             ]
                         },
                         {
@@ -14423,7 +14423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I remember the sensation of the man's palm\ntouching my butt."
+                                "Remembering the sensation of the man's palm stroking my butt."
                             ]
                         },
                         {
@@ -14440,7 +14440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Being touched all over like this...)"
+                                "\\n<Minato>(Being touched and massaged all over like this...)"
                             ]
                         },
                         {
@@ -14457,7 +14457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...ah...no..."
+                                "\\n<Minato>...ah...no..."
                             ]
                         },
                         {
@@ -14474,7 +14474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tracing the path left by the man's palm as if to\nrecreate it..."
+                                "As if reproducing it... tracing the traces left by\nthe man's palm."
                             ]
                         },
                         {
@@ -14491,7 +14491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Like this... with that big, powerful hand... over\nand over again...)"
+                                "\\n<Minato>(Like this... with that big hand, forcefully and\nrepeatedly...)"
                             ]
                         },
                         {
@@ -14544,7 +14544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...Nngh...!"
+                                "\\n<Minato>...Nngh...!"
                             ]
                         },
                         {
@@ -14597,7 +14597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(W-What am I thinking...)"
+                                "\\n<Minato>(W-What am I thinking...)"
                             ]
                         },
                         {
@@ -14631,7 +14631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(It's because he does such weird things during\nlessons... honestly...)"
+                                "\\n<Minato>(It's because they do such weird things during\nlessons... honestly...)"
                             ]
                         },
                         {
@@ -14667,7 +14667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I quickly washed away the sweet throbbing that had\njust arisen with hot water. And after quickly\nfinishing my shower, I left the bathroom..."
+                                "I quickly washed away the sweet throbbing that had\njust arisen, as if trying to hide it. And then,\nafter quickly finishing my shower, I left the\nbathroom..."
                             ]
                         },
                         {
@@ -14949,7 +14949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -14966,7 +14966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The feeling as if something important had been\ndefiled... The frustration outweighed the\nembarrassment. That's why, even if only\ntemporarily, I wanted to wash away the unpleasant\nmemories."
+                                "I had a feeling as if something important had been\ndefiled... The feeling of frustration overwhelmed\nthe feeling of embarrassment. That's why, even if\nonly temporarily, I wanted to wash away the\nunpleasant memories."
                             ]
                         },
                         {
@@ -14997,7 +14997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However... that feeling of sadness vanished the\nmoment I stepped into the bathroom."
+                                "However... as soon as I stepped into the bathroom, those\nmelancholic feelings vanished."
                             ]
                         },
                         {
@@ -15021,7 +15021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(When exactly... It shouldn't have been there\nbefore the lesson. If that's the case, it means it\nhappened during the lesson...)"
+                                "\\n<Minato>(When... did this happen? It shouldn't have been there\nbefore the lesson. If that's the case, it must\nhave happened during the lesson...)"
                             ]
                         },
                         {
@@ -15045,7 +15045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Minato Neon: Sending glances to the side, as if\nconfirming it over and over again."
+                                "Minato: (I send glances to the side, as if trying to\nconfirm it over and over again.)"
                             ]
                         },
                         {
@@ -15062,7 +15062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(\\N[5]-san has no reason to be involved... If not\nhim, then who? Besides Director Udo and us, is\nthere someone else in this mansion?)"
+                                "\\n<Minato>(Sonoda-san has no reason to be involved... If not him, then\nwho? Besides Director Udo and us, is there someone\nelse in this mansion?)"
                             ]
                         },
                         {
@@ -15086,7 +15086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've seen it so many times... That's why I thought\nit might be burned into my eyes and I'm seeing\nhallucinations. With such faint hope in my heart,\nI turn towards that thing."
+                                "I've seen it so many times... That's why I thought it\nwas burned into my eyes and I was seeing\nhallucinations. With such faint hope in my heart,\nI turn towards that thing."
                             ]
                         },
                         {
@@ -15201,7 +15201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(The person who brought that in is a mystery, but\neither way... the one who gave the instructions\nmust have been Director Udo...)"
+                                "\\n<Minato>(The person who brought that in is a mystery, but\neither way... the one who gave the order must be\nDirector Udo...)"
                             ]
                         },
                         {
@@ -15225,7 +15225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(If that's the case, then what exactly is their\nintention... ah...)"
+                                "\\n<Minato>(If that's the case, what on earth is their\nintention... ah...)"
                             ]
                         },
                         {
@@ -15242,7 +15242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Suddenly... the words that Director Udo said to me\njust before leaving the lesson room come to mind."
+                                "Suddenly... the words that Director Udo said to me just\nbefore leaving the lesson room come to mind."
                             ]
                         },
                         {
@@ -15266,7 +15266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Tch... So this is what you meant by review...\nYou're giving me this doll? How ridiculous...\nThere's a limit to bad taste...)"
+                                "\\n<Minato>(Tch... So this is what you meant by review... You're\ngiving me this doll? How ridiculous... There's a\nlimit to bad taste...)"
                             ]
                         },
                         {
@@ -15357,7 +15357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(There's no way I would do something like that...\nWho would...)"
+                                "\\n<Minato>(There's no way someone would do something like that...\nWho would...)"
                             ]
                         },
                         {
@@ -15470,7 +15470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(D-Don't think about it... That's exactly what\nthat man wants...)"
+                                "\\n<Minato>(D-Don't think about it... That's exactly what that guy\nwants...)"
                             ]
                         },
                         {
@@ -15535,7 +15535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(......But, it's just a doll... It's not real...)"
+                                "\\n<Minato>(......But, it's just a doll... It's not real...)"
                             ]
                         },
                         {
@@ -15552,7 +15552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(What!? What am I doing right now... No, this is\nno good! In the first place, there's no way I\ncould do something like that...)"
+                                "\\n<Minato>(What!? What am I... No, this is no good! In the first\nplace, there's no way I could do something like\nthat...)"
                             ]
                         },
                         {
@@ -15624,7 +15624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(It looks so delicious... What does it taste like?\nIs it something that can captivate me like that?)"
+                                "\\n<Minato>(It looks so delicious... What does it taste like? Is\nit something that can make you so obsessed?)"
                             ]
                         },
                         {
@@ -15648,7 +15648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(----...Huh!? D-Don't think about it...)"
+                                "\\n<Minato>(----...Huh!? D-Don't think about it...)"
                             ]
                         },
                         {
@@ -15665,7 +15665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......That is a childlike, pure and innocent\ncuriosity. However, because it is pure, it easily\nerodes reason."
+                                "......That is a childlike pure and innocent curiosity.\nHowever, because it is pure, it easily erodes\nreason."
                             ]
                         },
                         {
@@ -15689,7 +15689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(What do I do in a situation like this... R-Right,\nsomeone said something about it! I think...\ncounting prime numbers? I should count prime\nnumbers...)"
+                                "\\n<Minato>(What was it again in times like this... R-Right,\nsomeone said it before! I think... prime numbers?\nI should count prime numbers...)"
                             ]
                         },
                         {
@@ -15713,7 +15713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(２...３...５...)"
+                                "\\n<Minato>(２...３...５...)"
                             ]
                         },
                         {
@@ -15778,7 +15778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(......7......8...)"
+                                "\\n<Minato>(......7......is......eight...)"
                             ]
                         },
                         {
@@ -15814,7 +15814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(No... Even if I think about it... No...)"
+                                "\\n<Minato>(No... Even though I know it's no good to think about\nit...)"
                             ]
                         },
                         {
@@ -16082,7 +16082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -16099,7 +16099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even though I try to act like I don't think about\nit, it keeps popping into my head."
+                                "Even though I try to act like I don't think about it,\nit keeps popping into my head."
                             ]
                         },
                         {
@@ -16164,7 +16164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The overwhelming presence of the real thing seen\nup close..."
+                                "...The overwhelming feeling of seeing the real thing up\nclose."
                             ]
                         },
                         {
@@ -16229,7 +16229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The sensation that lingers on my lips and\ntongue, that animal-like smell... And..."
+                                "...The sensation that lingers on my lips and tongue,\nthat beast-like smell... and..."
                             ]
                         },
                         {
@@ -16294,7 +16294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The indescribable joy I felt when I bit into\nit. It was hard to believe, and I didn't want to\nadmit it, but it definitely existed."
+                                "...The indescribable joy I felt when I bit into it. It\nwas hard to believe, and I didn't want to admit\nit, but it definitely existed."
                             ]
                         },
                         {
@@ -16318,31 +16318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Hm... How should I interpret this?)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Should I just see myself as someone who has fallen\ninto the depths of lust...?"
+                                "\\n<Minato>(Hm... How should I interpret this?)"
                             ]
                         },
                         {
@@ -16359,7 +16335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My heart wishes for it to be the former. However,\nthis burning body immediately denies it."
+                                "Should I see it as growth, being able to fully embrace\nmy role, or should I see it as simply succumbing\nto sexual desire, a mere decadence..."
                             ]
                         },
                         {
@@ -16383,7 +16359,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」ﾁﾗｯ"
+                                "I want my heart to desire the former. However, this\nburning body immediately denies it."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato>「.........」ﾁﾗｯ"
                             ]
                         },
                         {
@@ -16418,7 +16418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I send my gaze towards the wax doll with an\nunpleasant expression."
+                                "Minato sent their gaze towards the wax doll with an\nunpleasant expression."
                             ]
                         },
                         {
@@ -16435,7 +16435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(Come to think of it, he said he removed the\ndevice in question along with the camera. I'm not\nsure when he did it... but I've already confirmed\nit with my own eyes.)"
+                                "\\n<Minato>(Come to think of it, they said they removed the device\nalong with the camera. I'm not sure when they did\nit... but I've already confirmed it with my own\neyes.)"
                             ]
                         },
                         {
@@ -16477,7 +16477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I wonder why I had to confirm it... It's a story\nthat could have been avoided if I didn't touch\nit...)"
+                                "\\n<Minato>(I wonder why I had to confirm it... It's a story\nthat could have been avoided if I didn't touch\nit...)"
                             ]
                         },
                         {
@@ -16494,7 +16494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The answer should be clear, but my rationality\ndenies it."
+                                "The answer should be clear, but my reason denies it."
                             ]
                         },
                         {
@@ -16530,7 +16530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After denying it over and over again... in the\nend, I ended up engaging in the act. As soon as I\ntouched their \\# crotch, I couldn't stop myself\nfrom thinking anymore..."
+                                "After denying it over and over again... in the end, I\nended up engaging in the act. As soon as I touched\ntheir \\#, I couldn't think anymore..."
                             ]
                         },
                         {
@@ -16756,7 +16756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>「.........」"
+                                "\\n<Minato>「.........」"
                             ]
                         },
                         {
@@ -16773,7 +16773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I feel my heart warming up with the thought that I\nmight see him later... But... no matter how much I\ntry to overwrite and disturb those thoughts, what\ncomes to mind is inevitably 'that man...'"
+                                "I feel my heart warming up with the thought that I\nmight be able to meet him later... But... no\nmatter how much I try to overwrite and disturb\nthose thoughts, what comes to mind is inevitably\n'that man...'"
                             ]
                         },
                         {
@@ -16852,7 +16852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(I exposed such an embarrassing side of myself...\nand also...)"
+                                "\\n<Minato>(I exposed such an embarrassing side of myself...\nand also...)"
                             ]
                         },
                         {
@@ -16917,7 +16917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>(He saw everything... my crotch... even the moment\nI came...)"
+                                "\\n<Minato>(They saw everything... my crotch... even the moment I\ncame...)"
                             ]
                         },
                         {
@@ -16952,7 +16952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>...In the end, I..."
+                                "\\n<Minato>...In the end, I..."
                             ]
                         },
                         {

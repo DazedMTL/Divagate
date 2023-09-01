@@ -2757,7 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (No, let's not touch... If I get locked\nup again, it'll be a problem...)"
+                                "\\n<Minato>\\F[\\V[2]](No, let's not touch... If I get locked up again,\nit'll be a problem...)"
                             ]
                         },
                         {
@@ -2848,7 +2848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (The pressed state is being maintained.\nCould it be linked to the switch in the hidden\nroom?)"
+                                "\\n<Minato>\\F[\\V[2]](The pressure is being maintained. Could it be linked\nto the switch in the hidden room?)"
                             ]
                         },
                         {
@@ -3088,7 +3088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
+                                "In this mansion, there is an out-of-place laptop."
                             ]
                         },
                         {
@@ -3180,7 +3180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (If we're connected to the internet, we\ncan look it up right away...)"
+                                "\\n<Minato>\\F[\\V[2]](If we're connected to the internet, I can look it up\nright away...)"
                             ]
                         },
                         {
@@ -3216,7 +3216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (So we're still not connected... then\nwhy is that?)"
+                                "\\n<Minato>\\F[\\V[2]](I guess we're not connected after all... If that's\nthe case, then why...)"
                             ]
                         },
                         {
@@ -3233,7 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...Huh? What is this text file...)"
+                                "\\n<Minato>\\F[\\V[2]](......Hm? What is this text file...)"
                             ]
                         },
                         {
@@ -3250,7 +3250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I found a text file named Udo on the desktop, so I\ndecided to open it for now."
+                                "\\F[\\V[2]]I found a text file named Udo on the desktop, so I\ndecided to open it for now."
                             ]
                         },
                         {
@@ -3293,7 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There, Udo's director profile was written."
+                                "\\F[\\V[2]]There, Udo's profile was written."
                             ]
                         },
                         {
@@ -3310,7 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (Let's see... \\C[2]Born in 1977\\C[0].\nSo, the password must be \\C[2]1977\\C[0], right?)"
+                                "\\n<Minato>\\F[\\V[2]](Let's see... \\C[2]Born in 1977\\C[0]. So, the password must be\n\\C[2]1977\\C[0], right?)"
                             ]
                         },
                         {
@@ -3365,7 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obtained the password memory: Day 3."
+                                "\\C[2]Password Memory: Obtained \\C[0] on the third day."
                             ]
                         },
                         {
@@ -3389,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (However, looking at it like this...)"
+                                "\\n<Minato>\\F[\\V[2]](However, looking at it like this...)"
                             ]
                         },
                         {
@@ -3406,38 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]... Let's quickly read through the\nsection about his career. I looked it up once when\nI received the offer, but Udo's directorial\nbackground now seems unbelievably questionable\nwhen I look back at it."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\F[\\V[2]]There, it was written about award records\nthat even someone like me, who leads a biased\nlifestyle, knows about. From what I saw, it made\nme think that he is an amazing director."
+                                "\\F[\\V[2]]I'll quickly read through the section about his\ncareer. I looked it up once when I received the\noffer, but now that I'm looking back at Udo's\ndirectorial history, it seems hard to believe."
                             ]
                         },
                         {
@@ -3468,7 +3437,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (But in reality... I can't honestly\nrespect him as a person, or rather, what should I\nsay...)"
+                                "\\F[\\V[2]]There, it was written about the award records, even I,\nwho leads a biased way of life, know about. From\nwhat I saw, it made me think that he is an amazing\ndirector."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\n<Minato>\\F[\\V[2]](But in reality... I can't honestly respect him as a\nperson, or rather, what should I say...)"
                             ]
                         },
                         {
@@ -3563,7 +3563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]](...Should I head to the lesson room\n\\C[2]\\C[0]...)"
+                                "\\n<Minato>\\F[\\V[2]](......\\C[2](Should I head to the Lesson Room \\C[0]...)"
                             ]
                         },
                         {
@@ -3590,7 +3590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I obtained the password... now I just\nneed the keycard.)"
+                                "\\n<Minato>\\F[\\V[2]](I obtained the password... now I just need the\nkeycard.)"
                             ]
                         },
                         {
@@ -3616,7 +3616,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (If it's the same as before, the keycard\nshould be hidden in \\C[2] secret passage \\C[0])."
+                                "\\n<Minato>\\F[\\V[2]](If it's the same as before, the keycard should be in\nthe hidden passage \\C[2]\\C[0].)"
                             ]
                         },
                         {
@@ -3643,7 +3643,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (I remember \\C[2] saying that the clue\nis on the 1st floor of the East Building. Let's go\nback and check to make sure we didn't miss\nanything.)"
+                                "\\n<Minato>\\F[\\V[2]](I remember them saying that there's a clue in \\C[2]\nEast Building 1F. Let's go back and check to make\nsure I didn't miss anything.)"
                             ]
                         },
                         {
@@ -3755,7 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this Western-style mansion, there is an out-of-\nplace laptop placed."
+                                "...There is an out-of-place laptop placed in this Western-\nstyle mansion."
                             ]
                         },
                         {
@@ -3842,7 +3842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>Last night, I also wanted to be like Sawa..."
+                                "\\n<Minato>\\F[\\V[2]](Last night, I also wanted to be like Sawa...)"
                             ]
                         },
                         {
@@ -3850,7 +3850,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "collecting the USB",
+                                    "Collecting the USB",
                                     "I won't do anything"
                                 ],
                                 1,
@@ -3893,7 +3893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I collected the USB (cunnilingus video)."
+                                "\\F[\\V[2]]\\C[2]I collected the USB (cunnilingus video) \\C[0]."
                             ]
                         },
                         {
@@ -4020,7 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]] (...The USB in question has already been\ncollected)"
+                                "\\n<Minato>\\F[\\V[2]](...The USB in question has been collected.)"
                             ]
                         },
                         {
@@ -4147,7 +4147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
@@ -4171,7 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must have been your scheme...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](What a shameless person... It must have been your\nscheme...)"
                             ]
                         },
                         {
@@ -4188,7 +4188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Well then, let's regroup and move on~♪ It seems like\nthe door on the east side has also opened, huh~"
                             ]
                         },
                         {
@@ -4212,7 +4212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I wonder if they're aware of what happened in the\nhidden room... No, that's unlikely... They seemed\nto be waiting from a distance...)"
                             ]
                         },
                         {
@@ -4236,7 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no proof, but...\nIt's convenient that they haven't heard about what\nhappened inside. Let's move forward before the\ndirector changes their mind.)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I have no proof, but... It's convenient that they\nhaven't heard what happened inside. Let's move\nforward before the director changes their mind.)"
                             ]
                         },
                         {
@@ -4265,7 +4265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
+                                "Udo... Director Udo has joined us as a companion once\nagain."
                             ]
                         },
                         {
@@ -4645,7 +4645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
@@ -4669,7 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must be your scheme...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](What a shameless person... It must have been your\nscheme...)"
                             ]
                         },
                         {
@@ -4686,7 +4686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Well then, let's regroup and move on~♪ It seems like\nthe door on the east side has also opened, huh~"
                             ]
                         },
                         {
@@ -4710,7 +4710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I wonder if they're aware of what happened in the\nhidden room... No, that's unlikely... They seemed\nto be waiting from a distance...)"
                             ]
                         },
                         {
@@ -4734,7 +4734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no proof, but...\nIt's convenient that they haven't heard what\nhappened inside. Let's move forward before the\ndirector changes their mind.)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I have no proof, but... It's convenient that they\nhaven't heard what happened inside. Let's move\nforward before the director changes their mind.)"
                             ]
                         },
                         {
@@ -4763,7 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
+                                "Udo... Director Udo has joined us as a companion once\nagain."
                             ]
                         },
                         {
@@ -5032,7 +5032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
@@ -5056,7 +5056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must be your scheme...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](What a shameless person... It must have been your\nscheme...)"
                             ]
                         },
                         {
@@ -5073,7 +5073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Well then, let's regroup and move on~♪ It seems like\nthe door on the east side has also opened, huh~"
                             ]
                         },
                         {
@@ -5097,7 +5097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I wonder if they're aware of what happened in the\nhidden room... No, that's unlikely... They seemed\nto be waiting from a distance...)"
                             ]
                         },
                         {
@@ -5121,7 +5121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no confirmation,\nbut... It's convenient that they haven't heard\nwhat happened inside. Let's move forward before\nthe director changes their mind.)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I have no proof, but... It's convenient that they\nhaven't heard what happened inside. Let's move\nforward before the director changes their mind.)"
                             ]
                         },
                         {
@@ -5150,7 +5150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
+                                "Udo... Director Udo has joined us as a companion once\nagain."
                             ]
                         },
                         {
@@ -5419,7 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
@@ -5443,7 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must be your scheme...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](What a shameless person... It must be your scheme...)"
                             ]
                         },
                         {
@@ -5460,7 +5460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Well then, let's regroup and move on~♪ It seems like\nthe door on the east side has also opened, huh~"
                             ]
                         },
                         {
@@ -5484,7 +5484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I wonder if they know\nabout what happened in the hidden room... No,\nthat's unlikely... They seemed to be waiting from\na distance...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I wonder if they're aware of what happened in the\nhidden room... No, that's unlikely... They seemed\nto be waiting from a distance...)"
                             ]
                         },
                         {
@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no confirmation,\nbut... It's convenient that they haven't heard\nwhat happened inside. Let's move forward before\nthe director changes their mind.)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I have no proof, but... It's convenient that they\nhaven't heard what happened inside. Let's move\nforward before the director changes their mind.)"
                             ]
                         },
                         {
@@ -5537,7 +5537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
+                                "Udo... Director Udo has joined us as a companion once\nagain."
                             ]
                         },
                         {
@@ -5806,7 +5806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Oh~ I'm glad you made it out safely♪ I was really\nworried about what would happen for a moment..."
                             ]
                         },
                         {
@@ -5830,7 +5830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (What a shameless\nperson... It must have been your scheme...)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](What a shameless person... It must be your scheme...)"
                             ]
                         },
                         {
@@ -5847,7 +5847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo Takeru>Well then, let's regroup and move on~♪ It seems\nlike the door on the east side has also opened,\nhuh~"
+                                "\\n<Udo>\\F[\\V[2]]\\FF[\\V[4]]\\AA[FF]Well then, let's regroup and move on~♪ It seems like\nthe door on the east side has also opened, huh~"
                             ]
                         },
                         {
@@ -5871,7 +5871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>I wonder if \\F[\\V[2]]\\FF[\\V[4]]\\AA[F] knows about\nwhat happened in the hidden room... No, that's\nunlikely... They seemed to be waiting from a\ndistance..."
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I wonder if they're aware of what happened in the\nhidden room... No, that's unlikely... They seemed\nto be waiting from a distance...)"
                             ]
                         },
                         {
@@ -5895,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato Neon>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F] (I have no proof, but...\nIt's convenient that they haven't heard about what\nhappened inside. Let's move forward before the\ndirector changes their mind.)"
+                                "\\n<Minato>\\F[\\V[2]]\\FF[\\V[4]]\\AA[F](I have no proof, but... It's convenient that they\nhaven't heard what happened inside. Let's move\nforward before the director changes their mind.)"
                             ]
                         },
                         {
@@ -5924,7 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Udo Takeru... Once again, Director Udo has joined\nus as a companion."
+                                "Udo... Director Udo has joined us as a companion once\nagain."
                             ]
                         },
                         {
