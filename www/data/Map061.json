@@ -2750,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There is a painting hanging on the wall... I couldn't\nfind any particularly suspicious points."
+                                "There is a painting hanging on the wall... I\ncouldn't find any particularly\nsuspicious points."
                             ]
                         },
                         {
@@ -2950,7 +2950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Alright, it seems the path is open... Does this mean we\ncan proceed forward now?)"
+                                "\\n<Minato>\\F[\\V[2]](Alright, it seems the path is open... Does this\nmean we can proceed forward now?)"
                             ]
                         },
                         {
@@ -2974,7 +2974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Ah... That USB memory... I guess it's fine. I don't\nwant to keep something like that...)"
+                                "\\n<Minato>\\F[\\V[2]](Ah... That USB memory... I guess it's fine. I\ndon't want to keep something like\nthat...)"
                             ]
                         },
                         {
@@ -3348,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo>\\FF[\\V[4]]Hehe♪ Everything went according to plan, and it's a bit\nscary, isn't it?"
+                                "\\n<Udo>\\FF[\\V[4]]Hehe♪ Everything went according to plan, and\nit's a bit scary, isn't it?"
                             ]
                         },
                         {
@@ -3365,7 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Udo>\\FF[\\V[4]]Well then, Minato-chan, take your time~\\I[12]"
+                                "\\n<Udo>\\FF[\\V[4]]Well then, Minato-chan, take your\ntime~\\I[12]"
                             ]
                         },
                         {
@@ -3685,7 +3685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Wait... Could it be that this is some kind of mechanism?\nIf that's the case... Is there some kind of\nsolution hidden in this secret room?)"
+                                "\\n<Minato>\\F[\\V[2]](Wait... Could it be that this is some kind of\nmechanism? If that's the case... Is\nthere some kind of solution hidden in\nthis secret room?)"
                             ]
                         },
                         {
@@ -3749,7 +3749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](I have no choice... I'll try investigating. No,\nit's because there's nothing else I can do...)"
+                                "\\n<Minato>\\F[\\V[2]](I have no choice... I'll try\ninvestigating. No, it's because there's\nnothing else I can do...)"
                             ]
                         },
                         {
@@ -3951,7 +3951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\F[\\V[2]]As soon as I touched it, an inorganic screen\nappeared. It seems like it was in standby mode."
+                                "\\F[\\V[2]]As soon as I touched it, an inorganic\nscreen appeared. It seems like it was in\nstandby mode."
                             ]
                         },
                         {
@@ -3982,7 +3982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](...It's a password input screen. It's asking for seven\ncharacters in hiragana...)"
+                                "\\n<Minato>\\F[\\V[2]](...It's a password input screen. It's asking\nfor seven characters in hiragana...)"
                             ]
                         },
                         {
@@ -4006,7 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](No... I don't know. What should I do about this...)"
+                                "\\n<Minato>\\F[\\V[2]](No... I don't know. What should I do about\nthis...)"
                             ]
                         },
                         {
@@ -4089,7 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](...The password input screen is being displayed)"
+                                "\\n<Minato>\\F[\\V[2]](...The password input screen is being\ndisplayed)"
                             ]
                         },
                         {
@@ -4223,7 +4223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please enter a 7-character password in hiragana."
+                                "Please enter a 7-character password in\nhiragana."
                             ]
                         },
                         {
@@ -4436,7 +4436,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The painting opened like a door, and I discovered a\nhidden switch inside the hollow."
+                                "The painting opened like a door, and I\ndiscovered a hidden switch inside the\nhollow."
                             ]
                         },
                         {
@@ -4475,7 +4475,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Hmm... It seems different. Let's check the password...\nWas it 7 characters in hiragana?)"
+                                "\\n<Minato>\\F[\\V[2]](Hmm... It seems different. Let's check the\npassword... Was it 7 characters in\nhiragana?)"
                             ]
                         },
                         {
@@ -4499,7 +4499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Hmm... If I look closely, it seems that inputting more\nthan 7 characters is also possible. In that case,\nit seems that the first 7 characters \\C[0] will be\njudged as the password.)"
+                                "\\n<Minato>\\F[\\V[2]](Hmm... If I look closely, it seems that\ninputting more than 7 characters is also\npossible. In that case, it seems that\nthe first 7 characters \\C[0] will be\njudged as the password.)"
                             ]
                         },
                         {
@@ -4565,7 +4565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I open the video file again and move the seek bar\nto the part where the text that seems to be the\npassword appears."
+                                "I open the video file again and move the\nseek bar to the part where the text that\nseems to be the password appears."
                             ]
                         },
                         {
@@ -4634,7 +4634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Female>\\{ I want a penis... Ahh, I want \\I[12]'s penis. I\nwant a penis \\I[12]."
+                                "\\n<Female>\\{ I want a penis... Ahh, I want \\I[12]'s\npenis. I want a penis \\I[12]."
                             ]
                         },
                         {
@@ -4700,7 +4700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Probably... is it these 7 characters? Geez... such a terrible\npassword...)"
+                                "\\n<Minato>\\F[\\V[2]](Probably... is it these 7 characters? Geez... such\na terrible password...)"
                             ]
                         },
                         {
@@ -4805,7 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this mansion, there is an out-of-place laptop."
+                                "In this mansion, there is an out-of-place\nlaptop."
                             ]
                         },
                         {
@@ -4901,7 +4901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Huh...? There's something in the corner of the drawer...)"
+                                "\\n<Minato>\\F[\\V[2]](Huh...? There's something in the corner of the\ndrawer...)"
                             ]
                         },
                         {
@@ -5198,7 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The path I came through is blocked by a wall."
+                                "...The path I came through is blocked by a\nwall."
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There is a wooden shelf placed here. However... there\nis nothing in particular placed on it and it is\ncovered in dust."
+                                "There is a wooden shelf placed here.\nHowever... there is nothing in\nparticular placed on it and it is\ncovered in dust."
                             ]
                         },
                         {
@@ -5702,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](The password was also 7 characters... Most likely,\nthe password is that word she mentioned \\C[0]...)"
+                                "\\n<Minato>\\F[\\V[2]](The password was also 7 characters... Most\nlikely, the password is that word she\nmentioned \\C[0]...)"
                             ]
                         },
                         {
@@ -6073,7 +6073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](So you're saying we need to check the contents of\nthis memory? Honestly, I have a bad feeling about\nit...)"
+                                "\\n<Minato>\\F[\\V[2]](So you're saying we need to check the\ncontents of this memory? Honestly, I\nhave a bad feeling about it...)"
                             ]
                         },
                         {
@@ -6097,7 +6097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](But... this is the only clue we have, so we have no\nchoice but to look at it...)"
+                                "\\n<Minato>\\F[\\V[2]](But... this is the only clue we have, so we\nhave no choice but to look at it...)"
                             ]
                         },
                         {
@@ -6114,7 +6114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I set the USB memory that I obtained into the\nnotebook computer."
+                                "I set the USB memory that I obtained into\nthe notebook computer."
                             ]
                         },
                         {
@@ -6277,7 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As expected... Inside the found memory, there was\nindeed a video file."
+                                "As expected... Inside the found memory,\nthere was indeed a video file."
                             ]
                         },
                         {
@@ -6318,7 +6318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In the room dominated by silence, the sound of\nswallowing saliva echoes in my head. And then, I\ndouble-clicked on that video file..."
+                                "In the room dominated by silence, the\nsound of swallowing saliva echoes in my\nhead. And then, I double-clicked on that\nvideo file..."
                             ]
                         },
                         {
@@ -6373,7 +6373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was prepared... but I still ended up being\noverwhelmed. The common sense within me, which I\nthought was common sense, is being shattered one\nafter another by the sight I'm seeing for the\nfirst time."
+                                "I was prepared... but I still ended up\nbeing overwhelmed. The common sense\nwithin me, which I thought was common\nsense, is being shattered one after\nanother by the sight I'm seeing for the\nfirst time."
                             ]
                         },
                         {
