@@ -36,7 +36,7 @@ var $plugins =
 {"name":"KMS_AccelerateFileScene","status":true,"description":"[v0.1.0] セーブ/ロード画面の描画を高速化します。","parameters":{}},
 {"name":"KMS_SaveWithSnap","status":true,"description":"[v0.1.0] セーブ/ロード画面にスクリーンショットを追加します。","parameters":{"Image scale":"0.15","Enable JPEG":"1"}},
 {"name":"CustomizeMaxSaveFile","status":true,"description":"最大セーブファイル数変更プラグイン","parameters":{"セーブファイル数":"50"}},
-{"name":"LoadComSim","status":true,"description":"ver1.00 メニューコマンドにロードを追加します。","parameters":{"loadtext":"ロード"}},
+{"name":"LoadComSim","status":true,"description":"ver1.00 メニューコマンドにロードを追加します。","parameters":{"loadtext":"Load"}},
 {"name":"UTA_CommonSave","status":true,"description":"共有のセーブデータを作成し、指定したスイッチ・変数の状態をセーブデータ間で共有します。","parameters":{"Target Switches":"501-600","Target Variables":"49,50,70","Is Auto":"true","Auto on Gameover":"false","Show Trace":"false"}},
 {"name":"-マップ関連-","status":true,"description":"----------------------------------------------------------------","parameters":{}},
 {"name":"MPP_MapLight","status":true,"description":"マップの明るさを設定できるようにします。","parameters":{"Light Colors":"[\"255,255,255\",\"192,128,64\",\"32,32,32\",\"200,50,200\",\"200,80,200\"]","Front Light":"{\"Radius\":\"6\",\"Angle\":\"90\",\"Oy\":\"4\",\"Turn Duration\":\"24\"}","Darkness Size":"3"}},
