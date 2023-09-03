@@ -3982,7 +3982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](...It's a password input screen. It's asking\nfor seven characters in hiragana...)"
+                                "\\n<Minato>\\F[\\V[2]](...It's a password input screen. It's asking\nfor seven characters in English...)"
                             ]
                         },
                         {
@@ -4223,14 +4223,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please enter a 7-character password in\nhiragana."
+                                "Please enter a 11-character password in\nEnglish."
                             ]
                         },
                         {
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "InputForm v=22;max=7;"
+                                "InputForm v=22;max=11;"
                             ]
                         },
                         {
@@ -4238,7 +4238,7 @@
                             "indent": 1,
                             "parameters": [
                                 12,
-                                "$gameVariables.value(22)=='おちんぽほしい'"
+                                "$gameVariables.value(22)=='iwantapenis'"
                             ]
                         },
                         {
@@ -4475,7 +4475,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Hmm... It seems different. Let's check the\npassword... Was it 7 characters in\nhiragana?)"
+                                "\\n<Minato>\\F[\\V[2]](Hmm... It seems different. Let's check the\npassword... Was it 11 characters in\nEnglish?)"
                             ]
                         },
                         {
@@ -4499,7 +4499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Hmm... If I look closely, it seems that\ninputting more than 7 characters is also\npossible. In that case, it seems that\nthe first 7 characters \\C[0] will be\njudged as the password.)"
+                                "\\n<Minato>\\F[\\V[2]](Hmm... If I look closely, it seems that\ninputting more than 11 characters is also\npossible. In that case, it seems that\nthe first 11 characters \\C[0] will be\njudged as the password.)"
                             ]
                         },
                         {
@@ -4700,7 +4700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](Probably... is it these 7 characters? Geez... such\na terrible password...)"
+                                "\\n<Minato>\\F[\\V[2]](Probably... is it these 11 characters? Geez... such\na terrible password...)"
                             ]
                         },
                         {
@@ -5702,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Minato>\\F[\\V[2]](The password was also 7 characters... Most\nlikely, the password is that word she\nmentioned \\C[0]...)"
+                                "\\n<Minato>\\F[\\V[2]](The password was also 11 characters... Most\nlikely, the password is that word she\nmentioned \\C[0]...)"
                             ]
                         },
                         {
